@@ -48,17 +48,26 @@ const filter = {sport:"all", date:"all", q:""};
 const PAGE_DAYS = 7;
 
 /* ---------- theme ---------- */
+function setLogo(){
+  const dark = document.documentElement.dataset.theme === "dark";
+  const bn = document.getElementById("brandName");
+  if (bn && bn.style.display === "flex") return; // text fallback active
+  const l = document.getElementById("logoLight"), d = document.getElementById("logoDark");
+  if (l && d) { l.style.display = dark ? "none" : ""; d.style.display = dark ? "" : "none"; }
+}
 function initTheme(){
   let t = localStorage.getItem("hks_theme");
   if (!t) t = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
   document.documentElement.dataset.theme = t;
   $("#themeBtn").textContent = t === "dark" ? "☀️" : "🌙";
+  setLogo();
 }
 $("#themeBtn").addEventListener("click", () => {
   const t = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
   document.documentElement.dataset.theme = t;
   localStorage.setItem("hks_theme", t);
   $("#themeBtn").textContent = t === "dark" ? "☀️" : "🌙";
+  setLogo();
 });
 
 /* ---------- i18n ---------- */
