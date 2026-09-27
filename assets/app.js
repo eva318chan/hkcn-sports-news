@@ -151,7 +151,7 @@ function filtered(){
 function cardHTML(a){
   const url = articleUrl(a);
   const img = a.image_url
-    ? `<img src="${esc(a.image_url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`
+    ? `<img src="${esc(a.image_url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>🏅</div>'">`
     : `<div class="noimg">🏅</div>`;
   const tags = (a.tags[LANG] || a.tags.zh_hant || []).map(g => `<button class="tag" data-tag="${esc(g)}">#${esc(g)}</button>`).join("");
   return `<article class="card" id="a-${esc(a.id)}">
