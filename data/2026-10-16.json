@@ -1,5 +1,180 @@
 [
   {
+    "id": "20261016-hebei-provincial-games",
+    "sport": "others",
+    "published_at": "2026-10-16T07:52:00+08:00",
+    "source": "長城網",
+    "source_url": "https://heb.hebccw.cn/system/2026/10/16/102233478.shtml",
+    "image_url": null,
+    "title": {
+      "en": "Hebei Provincial Games Open Tonight in Tangshan at Record Scale",
+      "zh_hant": "河北省第十七屆運動會今晚唐山開幕　規模創紀錄",
+      "zh_hans": "河北省第十七届运动会今晚唐山开幕　规模创纪录"
+    },
+    "summary": {
+      "en": "The 17th Hebei Provincial Games open tonight in Tangshan, gathering more than 30,000 participants from 24 delegations, a record scale. A total of 11,271 youth athletes have reached the finals. The organising committee says the Games have already seen 1,266 first-class athlete performances and 36 people breaking 20 provincial records, as the event doubles as a talent pipeline for Chinese sport.",
+      "zh_hant": "河北省第十七屆運動會今晚在唐山開幕，匯集24個參賽單位逾3萬名參與者，規模創歷史新高。其中青少年組11271名運動員挺進決賽。本屆省運會至今已1266人次達一級運動員標準，36人次打破20項省運會紀錄，成為體育後備人才的練兵場。",
+      "zh_hans": "河北省第十七届运动会今晚在唐山开幕，汇集24个参赛单位逾3万名参与者，规模创历史新高。其中青少年组11271名运动员挺进决赛。本届省运会至今已1266人次达一级运动员标准，36人次打破20项省运会纪录，成为体育后备人才的练兵场。"
+    },
+    "tags": {
+      "en": [
+        "Hebei Provincial Games",
+        "Tangshan",
+        "China sports"
+      ],
+      "zh_hant": [
+        "河北省運會",
+        "唐山",
+        "中國體育"
+      ],
+      "zh_hans": [
+        "河北省运会",
+        "唐山",
+        "中国体育"
+      ]
+    }
+  },
+  {
+    "id": "20261016-aichi-para-early-events",
+    "sport": "others",
+    "published_at": "2026-10-16T16:00:00+08:00",
+    "source": "Daily Sports",
+    "source_url": "https://www.daily.co.jp/general/2026/10/16/0020935082.shtml",
+    "image_url": null,
+    "title": {
+      "en": "Aichi-Nagoya Para Games Competitions Begin Ahead of Opening Ceremony",
+      "zh_hant": "愛知・名古屋亞殘運提前開賽　78歲日本老將首戰落敗",
+      "zh_hans": "爱知・名古屋亚残运提前开赛　78岁日本老将首战落败"
+    },
+    "summary": {
+      "en": "Competitions at the Aichi-Nagoya Asian Para Games began on Friday, two days before the opening ceremony. Japan's oldest athlete, 78-year-old table tennis player Kimie Bessho, lost her opening wheelchair singles group match 0-3 to a Chinese opponent. In team events, Japan's wheelchair basketball side thrashed China 76-38, while Japan's blind football team fell 0-1 to China.",
+      "zh_hant": "愛知・名古屋亞洲殘疾人運動會開幕前兩日，部分項目16日已提前開賽。日本代表團最年長選手、78歲的乒乓球女將別所，在輪椅單打小組首戰以0比3不敵中國選手。輪椅籃球日本隊以76比38大勝中國，盲人足球日本隊則0比1負於中國。",
+      "zh_hans": "爱知・名古屋亚洲残疾人运动会开幕前两日，部分项目16日已提前开赛。日本代表团最年长选手、78岁的乒乓球女将别所，在轮椅单打小组首战以0比3不敌中国选手。轮椅篮球日本队以76比38大胜中国，盲人足球日本队则0比1负于中国。"
+    },
+    "tags": {
+      "en": [
+        "Asian Para Games",
+        "Aichi-Nagoya",
+        "para sports"
+      ],
+      "zh_hant": [
+        "亞殘運",
+        "愛知名古屋",
+        "殘疾人運動"
+      ],
+      "zh_hans": [
+        "亚残运",
+        "爱知名古屋",
+        "残疾人运动"
+      ]
+    }
+  },
+  {
+    "id": "20261016-nba-gm-survey",
+    "sport": "basketball",
+    "published_at": "2026-10-16T13:27:00+08:00",
+    "source": "RG.org",
+    "source_url": "https://rg.org/news/basketball/nba-gm-survey-2026-27-spurs-wembanyama",
+    "image_url": null,
+    "title": {
+      "en": "NBA GM Survey: Spurs Picked to Win Title, Wembanyama for MVP",
+      "zh_hant": "NBA總經理調查：馬刺奪冠大熱、雲班耶馬膺MVP",
+      "zh_hans": "NBA总经理调查：马刺夺冠大热、文班亚马膺MVP"
+    },
+    "summary": {
+      "en": "NBA general managers have picked the San Antonio Spurs to win the 2027 title and Victor Wembanyama for MVP in NBA.com's 25th annual GM Survey, released on Thursday. The results reflect growing belief that the young Spurs, built around their French superstar, are ready to contend for the championship.",
+      "zh_hant": "NBA官網周四公布第25屆總經理年度調查，聯盟各隊總經理預測馬刺將奪得2027年總冠軍，雲班耶馬則膺選最有價值球員。結果反映聯盟普遍看好以這位法國球星為核心的年輕馬刺，已經具備爭冠實力。",
+      "zh_hans": "NBA官网周四公布第25届总经理年度调查，联盟各队总经理预测马刺将夺得2027年总冠军，文班亚马则膺选最有价值球员。结果反映联盟普遍看好以这位法国球星为核心的年轻马刺，已经具备争冠实力。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "Spurs",
+        "Wembanyama"
+      ],
+      "zh_hant": [
+        "NBA",
+        "馬刺",
+        "雲班耶馬"
+      ],
+      "zh_hans": [
+        "NBA",
+        "马刺",
+        "文班亚马"
+      ]
+    }
+  },
+  {
+    "id": "20261016-nba-preseason-roundup",
+    "sport": "basketball",
+    "published_at": "2026-10-16T15:00:00+08:00",
+    "source": "Game Day Tourist",
+    "source_url": "https://gamedaytourist.com/en/league-news/todays-nba-news-roundup-october-16/",
+    "image_url": null,
+    "title": {
+      "en": "NBA Preseason: Rockets Rout Thunder, Knicks Edge Raptors",
+      "zh_hant": "NBA季前賽：火箭大勝雷霆　紐約險勝速龍",
+      "zh_hans": "NBA季前赛：火箭大胜雷霆　纽约险胜速龙"
+    },
+    "summary": {
+      "en": "The Houston Rockets thrashed the Oklahoma City Thunder 116-89 in Thursday's NBA preseason action, with Alperen Sengun posting 14 points, 7 rebounds and 5 assists. The New York Knicks edged the Toronto Raptors 122-120 at Madison Square Garden, Jalen Brunson scoring 20 points and Karl-Anthony Towns nearly recording a triple-double.",
+      "zh_hant": "NBA季前賽周四戰況，火箭在主場以116比89大勝雷霆，辛古恩交出14分7籃板5助攻。紐約人在麥迪遜廣場花園以122比120險勝速龍，布朗臣攻入20分，唐斯接近錄得大三元。",
+      "zh_hans": "NBA季前赛周四战况，火箭在主场以116比89大胜雷霆，申京交出14分7篮板5助攻。纽约人在麦迪逊广场花园以122比120险胜速龙，布伦森攻入20分，唐斯接近录得大三元。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "preseason",
+        "Rockets"
+      ],
+      "zh_hant": [
+        "NBA",
+        "季前賽",
+        "火箭"
+      ],
+      "zh_hans": [
+        "NBA",
+        "季前赛",
+        "火箭"
+      ]
+    }
+  },
+  {
+    "id": "20261016-simeone-romero",
+    "sport": "football",
+    "published_at": "2026-10-16T01:55:00+08:00",
+    "source": "Football London",
+    "source_url": "https://www.football.london/tottenham-hotspur-fc/news/la-liga-manager-admits-came-34771885",
+    "image_url": null,
+    "title": {
+      "en": "Simeone Reveals He Almost Signed Romero Two Years Ago",
+      "zh_hant": "施蒙尼自爆兩年前差啲簽下羅美路",
+      "zh_hans": "西蒙尼自爆两年前差点签下罗梅罗"
+    },
+    "summary": {
+      "en": "Atletico Madrid boss Diego Simeone has revealed he came close to signing Cristian Romero two years ago, before finally landing the former Tottenham captain this summer. The Argentina defender joined in a deal that could eventually be worth £34.2 million, and has already impressed, scoring the winner at Alaves and starring in the 2-0 Champions League win over Manchester United.",
+      "zh_hant": "馬德里體育會主帥施蒙尼自爆，兩年前已差點簽下羅美路，今夏終於得償所願。這位阿根廷後衛以最高達3420萬英鎊的轉會費由熱刺加盟，至今表現出色：對艾拉維斯射入致勝球，又在歐聯2比0擊敗曼聯一戰中大放異彩。",
+      "zh_hans": "马德里竞技主帅西蒙尼自爆，两年前已差点签下罗梅罗，今夏终于得偿所愿。这位阿根廷后卫以最高达3420万英镑的转会费由热刺加盟，至今表现出色：对阿拉维斯射入致胜球，又在欧冠2比0击败曼联一战中大放异彩。"
+    },
+    "tags": {
+      "en": [
+        "Atletico Madrid",
+        "Simeone",
+        "Romero"
+      ],
+      "zh_hant": [
+        "馬體會",
+        "施蒙尼",
+        "羅美路"
+      ],
+      "zh_hans": [
+        "马竞",
+        "西蒙尼",
+        "罗梅罗"
+      ]
+    }
+  },
+  {
     "id": "20261016-afc-nations-league-plan",
     "sport": "football",
     "published_at": "2026-10-16T08:00:00+08:00",
