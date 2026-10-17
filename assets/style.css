@@ -91,3 +91,12 @@ footer{border-top:1px solid var(--border);margin-top:24px;padding:20px 16px;text
 .article-wrap .alt-titles{margin:14px 0;padding:12px;border-left:3px solid var(--accent);background:var(--card);border-radius:0 8px 8px 0}
 .article-wrap .alt-titles p{font-size:13px;color:var(--muted);margin:4px 0}
 .backlink{display:inline-block;margin:16px; font-size:14px;color:var(--accent);text-decoration:none;font-weight:600}
+
+/* official social embed */
+.embed-wrap{margin:20px 0;padding:16px;background:var(--card);border:1px solid var(--border);border-radius:var(--radius)}
+.embed-label{font-size:14px;font-weight:700;margin-bottom:10px}
+.embed-video{position:relative;aspect-ratio:16/9;overflow:hidden;border-radius:8px;background:#000}
+.embed-video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.embed-caption{font-size:12px;color:var(--muted);margin-top:8px}
+.embed-social{display:flex;justify-content:center}
+.embed-social .twitter-tweet,.embed-social .instagram-media{margin:0 auto !important;max-width:100%}
