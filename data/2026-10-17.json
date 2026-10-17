@@ -267,43 +267,37 @@
     "id": "20261017-dortmund-beat-union-berlin",
     "sport": "football",
     "published_at": "2026-10-17T23:20:00+08:00",
-    "source": "Flashscore",
-    "source_url": "http://m.flashscore.co.za/match/bgclWj0K/?d=5&t=live-commentary",
+    "source": "Bundesliga.com",
+    "source_url": "https://www.bundesliga.com/en/bundesliga/news/union-berlin-0-0-borussia-dortmund-match-report-highlights-matchday-6-39604",
     "image_url": null,
     "title": {
-      "en": "Dortmund cruise past Union Berlin 3-0 to stay top of the Bundesliga",
-      "zh_hant": "多蒙特作客 3-0 輕取柏林聯 繼續領跑德甲",
-      "zh_hans": "多蒙特客场 3-0 轻取柏林联 继续领跑德甲"
+      "en": "Dortmund held to goalless draw at Union Berlin (corrected)",
+      "zh_hant": "多蒙特作客 0-0 悶和柏林聯（更正）",
+      "zh_hans": "多特蒙德作客 0-0 闷和柏林联（更正）"
     },
     "summary": {
-      "en": "Borussia Dortmund beat Union Berlin 3-0 away to stay top of the Bundesliga. Emre Can opened the scoring from the penalty spot in the 10th minute after Serhou Guirassy was fouled, Nico Schlotterbeck headed in a second eight minutes after the break, and Maximilian Beier sealed it in the 84th minute from Jobe Bellingham's lay-off. Union thought they had a late penalty, but VAR overturned the decision. The win moves Niko Kovac's side five points clear of Bayern Munich, who play RB Leipzig later.",
-      "zh_hant": "多蒙特作客 3-0 輕取柏林聯，繼續領跑德甲。安利簡 10 分鐘博到十二碼親自操刀開紀錄，舒洛達碧克換邊後頭槌頂入第二球，巴爾 84 分鐘接應比寧咸二傳埋齋。柏林聯完場前曾經博到十二碼，但 VAR 推翻判決。多蒙特贏波之後拋離未踢嘅拜仁 5 分，繼續排榜首。",
-      "zh_hans": "多蒙特客场 3-0 轻取柏林联，继续领跑德甲。埃姆雷·詹 10 分钟博到十二码亲自操刀开纪录，施洛特贝克换边后头槌顶入第二球，拜尔 84 分钟接应贝林厄姆二传收尾。柏林联完场前曾经博到十二码，但 VAR 推翻判决。多蒙特赢球之后抛离未踢的拜仁 5 分，继续排榜首。"
+      "en": "Borussia Dortmund were held to a goalless draw at Union Berlin, dropping points for the second Bundesliga game in a row. Ethan Nwaneri's first-minute sliding challenge was initially and mistakenly shown a red card before being downgraded to yellow; the two sides managed just two shots on target between them. Dortmund briefly went top on 14 points before Bayern's 6-1 win over RB Leipzig. [Correction: an earlier version of this article wrongly reported a 3-0 Dortmund win; the correct score was 0-0.]",
+      "zh_hant": "多蒙特作客 0-0 悶和柏林聯，連續第二場聯賽失分。開波首分鐘紐拿利嘅飛剷一度被球證誤出紅牌，經覆核改判黃牌；兩隊全場只有兩次中目標射門，入球欠奉。多蒙特 14 分一度短暫排榜首，但拜仁稍後 6-1 大勝萊比錫後爬頭登頂。",
+      "zh_hans": "多特蒙德作客 0-0 闷和柏林联，连续第二场联赛失分。开波首分钟纽拿利的飞铲一度被球证误出红牌，经覆核改判黄牌；两队全场只有两次中目标射门，入球欠奉。多特蒙德 14 分一度短暂排榜首，但拜仁稍后 6-1 大胜莱比锡后爬头登顶。"
     },
     "tags": {
       "en": [
         "Borussia Dortmund",
         "Union Berlin",
         "Bundesliga",
-        "Emre Can",
-        "football",
-        "Germany"
+        "correction"
       ],
       "zh_hant": [
         "多蒙特",
         "柏林聯",
         "德甲",
-        "安利簡",
-        "足球",
-        "德國"
+        "更正"
       ],
       "zh_hans": [
-        "多蒙特",
+        "多特蒙德",
         "柏林联",
         "德甲",
-        "埃姆雷詹",
-        "足球",
-        "德国"
+        "更正"
       ]
     }
   },
