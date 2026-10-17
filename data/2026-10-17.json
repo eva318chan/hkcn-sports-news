@@ -1,5 +1,42 @@
 [
  {
+  "id": "20261017-kai-tak-sports-park-universal-design-award",
+  "sport": "others",
+  "published_at": "2026-10-17T13:35:00+08:00",
+  "source": "啟德體育園",
+  "source_url": "",
+  "image_url": null,
+  "title": {
+   "en": "Kai Tak Sports Park Wins EOC Universal Design Gold Award for Accessible World-Class Experience",
+   "zh_hant": "啟德體育園奪平機會通用設計金獎 無障礙盛事體驗獲肯定",
+   "zh_hans": "启德体育园夺平机会通用设计金奖 无障碍盛事体验获肯定"
+  },
+  "summary": {
+   "en": "Kai Tak Sports Park has won the Gold Award and Special Commendation in the EOC's Universal Design Award Scheme 2026/27, recognising its inclusive, barrier-free world-class event experience. Since opening in March 2025, the park has hosted over 170 international and local sports, cultural and entertainment events. Facilities include wheelchair seats with charging points, braille maps, tactile guide paths and hearing loop systems.",
+   "zh_hant": "啟德體育園榮獲平機會「通用設計嘉許計劃2026/27」金獎及特別嘉許大獎，肯定佢喺規劃、設計同營運上全面實踐通用設計理念。體育園自2025年3月開幕以嚟搞咗超過170項盛事，場內設輪椅座位連充電電源、點字地圖、觸覺引路徑、感應環路系統等，照顧唔同需要嘅訪客。",
+   "zh_hans": "启德体育园荣获平机会「通用设计嘉许计划2026/27」金奖及特别嘉许大奖，肯定其在规划、设计和营运上全面实践通用设计理念。体育园自2025年3月开幕以来举办了超过170项盛事，场内设轮椅座位连充电电源、点字地图、触觉引路径、感应环路系统等，照顾不同需要的访客。"
+  },
+  "tags": {
+   "en": [
+    "Kai Tak Sports Park",
+    "universal design",
+    "accessibility"
+   ],
+   "zh_hant": [
+    "啟德體育園",
+    "通用設計",
+    "無障礙",
+    "平機會"
+   ],
+   "zh_hans": [
+    "启德体育园",
+    "通用设计",
+    "无障碍",
+    "平机会"
+   ]
+  }
+ },
+ {
   "id": "20261017-hk-women-handball-vietnam-semifinal",
   "sport": "handball",
   "published_at": "2026-10-17T13:20:00+08:00",
