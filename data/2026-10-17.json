@@ -1,539 +1,662 @@
 [
- {
-  "id": "20261017-kai-tak-sports-park-universal-design-award",
-  "sport": "others",
-  "published_at": "2026-10-17T13:35:00+08:00",
-  "source": "啟德體育園",
-  "source_url": "",
-  "image_url": "https://hksports.hk/assets/img/20261017-kaitak-seating.jpg",
-  "title": {
-   "en": "Kai Tak Sports Park Wins EOC Universal Design Gold Award for Accessible World-Class Experience",
-   "zh_hant": "啟德體育園奪平機會通用設計金獎 無障礙盛事體驗獲肯定",
-   "zh_hans": "启德体育园夺平机会通用设计金奖 无障碍盛事体验获肯定"
+  {
+    "id": "20261017-nuggets-lakers-preseason-finale",
+    "sport": "basketball",
+    "published_at": "2026-10-17T15:04:39+08:00",
+    "source": "Eurohoops",
+    "source_url": "https://www.eurohoops.net/en/nba-news/2022107/nikola-jokic-versus-luka-doncic-nba-preseason-european-recap/",
+    "image_url": null,
+    "title": {
+      "en": "Jokic outshines Doncic as Nuggets beat Lakers 121-106 in preseason finale",
+      "zh_hant": "祖基治壓到當錫　金塊季前賽收官戰 121-106 大炒湖人",
+      "zh_hans": "约基奇力压东契奇　掘金季前赛收官战 121-106 大胜湖人"
+    },
+    "summary": {
+      "en": "Nikola Jokic posted 17 points, eight assists, six rebounds and two steals as the Denver Nuggets beat the Los Angeles Lakers 121-106 at Crypto.com Arena to close out the NBA preseason. Luka Doncic countered with 15 points, four assists, two rebounds, a block and a steal for the Lakers, with Sandro Mamukelashvili adding 15 more. The 12-game Friday-night slate brought the 2026 preseason to an end, with teams now turning their attention to the regular season.",
+      "zh_hant": "金塊季前賽收官戰毫不留情，121 比 106 喺洛杉磯大炒湖人。祖基治交出 17 分、8 助攻、6 籃板、2 偷波；當錫為湖人攻入 15 分，另有 4 助攻、2 籃板、1 封阻、1 偷波，隊友馬姆基拉舒維利亦得 15 分。周五晚十二場賽事打完，2026 季前賽正式落幕，各隊轉戰常規賽。",
+      "zh_hans": "掘金季前赛收官战毫不留情，121 比 106 在洛杉矶大胜湖人。约基奇交出 17 分、8 助攻、6 篮板、2 抢断；东契奇为湖人攻入 15 分，另有 4 助攻、2 篮板、1 封盖、1 抢断，队友马穆凯拉什维利亦得 15 分。周五晚十二场比赛打完，2026 季前赛正式落幕，各队转战常规赛。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "Denver Nuggets",
+        "Los Angeles Lakers",
+        "Nikola Jokic",
+        "Luka Doncic"
+      ],
+      "zh_hant": [
+        "NBA",
+        "丹佛金塊",
+        "洛杉磯湖人",
+        "祖基治",
+        "當錫"
+      ],
+      "zh_hans": [
+        "NBA",
+        "丹佛掘金",
+        "洛杉矶湖人",
+        "约基奇",
+        "东契奇"
+      ]
+    }
   },
-  "summary": {
-   "en": "Kai Tak Sports Park has won the Gold Award and Special Commendation in the EOC's Universal Design Award Scheme 2026/27, recognising its inclusive, barrier-free world-class event experience. Since opening in March 2025, the park has hosted over 170 international and local sports, cultural and entertainment events. Facilities include wheelchair seats with charging points, braille maps, tactile guide paths and hearing loop systems.",
-   "zh_hant": "啟德體育園榮獲平機會「通用設計嘉許計劃2026/27」金獎及特別嘉許大獎，肯定佢喺規劃、設計同營運上全面實踐通用設計理念。體育園自2025年3月開幕以嚟搞咗超過170項盛事，場內設輪椅座位連充電電源、點字地圖、觸覺引路徑、感應環路系統等，照顧唔同需要嘅訪客。",
-   "zh_hans": "启德体育园荣获平机会「通用设计嘉许计划2026/27」金奖及特别嘉许大奖，肯定其在规划、设计和营运上全面实践通用设计理念。体育园自2025年3月开幕以来举办了超过170项盛事，场内设轮椅座位连充电电源、点字地图、触觉引路径、感应环路系统等，照顾不同需要的访客。"
+  {
+    "id": "20261017-magic-waive-three-preseason",
+    "sport": "basketball",
+    "published_at": "2026-10-17T11:52:59+08:00",
+    "source": "ClutchPoints",
+    "source_url": "https://clutchpoints.com/nba/orlando-magic/magic-news-orlando-waives-3-players-preseason-win-heat",
+    "image_url": null,
+    "title": {
+      "en": "Magic waive Branham, Davison and Knox II after 136-115 preseason win over Heat",
+      "zh_hant": "魔術 136-115 撻熱火之後即炒三人：班咸、戴維森、諾斯被裁",
+      "zh_hans": "魔术 136-115 大胜热火后裁掉三人：布兰姆、戴维森、诺克斯离队"
+    },
+    "summary": {
+      "en": "The Orlando Magic finished their preseason 3-1 with a 136-115 win over the Miami Heat, led by Paolo Banchero's 24 points and Desmond Bane's 23. Less than a day later, they waived Malaki Branham, JD Davison and Kevin Knox II, three camp invitees fighting for roster spots. The victory came at a cost, with Franz Wagner, Noah Penda and Jase Richardson all leaving early with injuries ahead of opening night.",
+      "zh_hant": "魔術季前賽 3 勝 1 負收官，班查路 24 分、班尼 23 分帶隊 136 比 115 大勝熱火。場波打完唔夠一日，球隊即刻裁咗班咸、戴維森同諾斯三個訓練營邀請球員。贏波都有代價：華格拿、彭達同李察遜先後受傷離場，開季在即，傷兵問題令人擔心。",
+      "zh_hans": "魔术季前赛 3 胜 1 负收官，班凯罗 24 分、贝恩 23 分带领球队 136 比 115 大胜热火。比赛结束不到一天，球队立即裁掉了布兰姆、戴维森和诺克斯三名训练营邀请球员。赢球也有代价：瓦格纳、彭达和理查森先后受伤离场，开季在即，伤病问题令人担忧。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "Orlando Magic",
+        "Miami Heat",
+        "Paolo Banchero",
+        "roster cuts"
+      ],
+      "zh_hant": [
+        "NBA",
+        "奧蘭多魔術",
+        "邁亞密熱火",
+        "班查路",
+        "裁員"
+      ],
+      "zh_hans": [
+        "NBA",
+        "奥兰多魔术",
+        "迈阿密热火",
+        "班凯罗",
+        "裁员"
+      ]
+    }
   },
-  "tags": {
-   "en": [
-    "Kai Tak Sports Park",
-    "universal design",
-    "accessibility"
-   ],
-   "zh_hant": [
-    "啟德體育園",
-    "通用設計",
-    "無障礙",
-    "平機會"
-   ],
-   "zh_hans": [
-    "启德体育园",
-    "通用设计",
-    "无障碍",
-    "平机会"
-   ]
+  {
+    "id": "20261017-krunal-pandya-hong-kong-sixes-captain",
+    "sport": "others",
+    "published_at": "2026-10-17T14:15:00+08:00",
+    "source": "LatestLY",
+    "source_url": "https://www.latestly.com/sports/cricket/krunal-pandya-named-india-captain-for-hong-kong-sixes-2026-as-bhuvneshwar-kumar-earns-national-call-up-7647856.html",
+    "image_url": null,
+    "title": {
+      "en": "Krunal Pandya named India captain for Hong Kong Sixes 2026",
+      "zh_hant": "印度隊臨陣換帥！古倫拿爾潘迪亞接掌香港國際六人木球賽隊長臂章",
+      "zh_hans": "印度队临阵换帅！克鲁纳尔·潘迪亚接任香港国际六人板球赛队长"
+    },
+    "summary": {
+      "en": "Krunal Pandya will captain India at the Hong Kong Sixes 2026 after original skipper Bhuvneshwar Kumar was recalled to the national squad for the New Zealand tour starting October 22. Pandya leads a squad including Shashank Singh, Rahul Tewatia, Nitish Rana, Rahul Tripathi, T Natarajan and Kulwant Khejroliya. The 22nd edition of the rapid-fire tournament runs from October 30 to November 1 at Tin Kwong Road Recreation Ground in Kowloon.",
+      "zh_hant": "香港國際六人木球賽臨近開打，印度隊要臨陣換帥：原隊長古雲拿施獲國家隊徵召打紐西蘭巡迴賽，隊長臂章轉交俾古倫拿爾潘迪亞。印度陣容仲有沙尚克、提華迪亞、拿達拉贊等好手，目標衝擊隊史首個錦標。今屆賽事 10 月 30 日至 11 月 1 日喺九龍天光道遊樂場上演，衛冕嘅巴基斯坦、澳洲、英格蘭等 12 隊都會嚟。",
+      "zh_hans": "香港国际六人板球赛临近开打，印度队临阵换帅：原队长库玛尔获国家队征召出战新西兰巡回赛，队长袖标转交给克鲁纳尔·潘迪亚。印度阵容还包括沙尚克、蒂瓦蒂亚、纳达拉詹等好手，目标冲击队史首个冠军。今届赛事 10 月 30 日至 11 月 1 日在九龙天光道游乐场举行，卫冕的巴基斯坦、澳洲、英格兰等 12 队参赛。"
+    },
+    "tags": {
+      "en": [
+        "cricket",
+        "Hong Kong Sixes",
+        "India",
+        "Krunal Pandya",
+        "Bhuvneshwar Kumar"
+      ],
+      "zh_hant": [
+        "木球",
+        "香港國際六人賽",
+        "印度",
+        "潘迪亞",
+        "古雲拿施"
+      ],
+      "zh_hans": [
+        "板球",
+        "香港国际六人赛",
+        "印度",
+        "潘迪亚",
+        "库玛尔"
+      ]
+    }
+  },
+  {
+    "id": "20261017-kai-tak-sports-park-universal-design-award",
+    "sport": "others",
+    "published_at": "2026-10-17T13:35:00+08:00",
+    "source": "啟德體育園",
+    "source_url": "",
+    "image_url": "https://hksports.hk/assets/img/20261017-kaitak-seating.jpg",
+    "title": {
+      "en": "Kai Tak Sports Park Wins EOC Universal Design Gold Award for Accessible World-Class Experience",
+      "zh_hant": "啟德體育園奪平機會通用設計金獎 無障礙盛事體驗獲肯定",
+      "zh_hans": "启德体育园夺平机会通用设计金奖 无障碍盛事体验获肯定"
+    },
+    "summary": {
+      "en": "Kai Tak Sports Park has won the Gold Award and Special Commendation in the EOC's Universal Design Award Scheme 2026/27, recognising its inclusive, barrier-free world-class event experience. Since opening in March 2025, the park has hosted over 170 international and local sports, cultural and entertainment events. Facilities include wheelchair seats with charging points, braille maps, tactile guide paths and hearing loop systems.",
+      "zh_hant": "啟德體育園榮獲平機會「通用設計嘉許計劃2026/27」金獎及特別嘉許大獎，肯定佢喺規劃、設計同營運上全面實踐通用設計理念。體育園自2025年3月開幕以嚟搞咗超過170項盛事，場內設輪椅座位連充電電源、點字地圖、觸覺引路徑、感應環路系統等，照顧唔同需要嘅訪客。",
+      "zh_hans": "启德体育园荣获平机会「通用设计嘉许计划2026/27」金奖及特别嘉许大奖，肯定其在规划、设计和营运上全面实践通用设计理念。体育园自2025年3月开幕以来举办了超过170项盛事，场内设轮椅座位连充电电源、点字地图、触觉引路径、感应环路系统等，照顾不同需要的访客。"
+    },
+    "tags": {
+      "en": [
+        "Kai Tak Sports Park",
+        "universal design",
+        "accessibility"
+      ],
+      "zh_hant": [
+        "啟德體育園",
+        "通用設計",
+        "無障礙",
+        "平機會"
+      ],
+      "zh_hans": [
+        "启德体育园",
+        "通用设计",
+        "无障碍",
+        "平机会"
+      ]
+    }
+  },
+  {
+    "id": "20261017-hk-women-handball-vietnam-semifinal",
+    "sport": "handball",
+    "published_at": "2026-10-17T13:20:00+08:00",
+    "source": "中國香港手球總會",
+    "source_url": "",
+    "image_url": "https://hksports.hk/assets/img/20261017-handball-hk-action.jpg",
+    "title": {
+      "en": "Hong Kong Women's Handball Team Face Vietnam in Challenge Cup Semi-Final Tonight",
+      "zh_hant": "港女手今晚六點撼越南爭入挑戰盃決賽 馬鞍山免費入場",
+      "zh_hans": "港女手今晚六点撼越南争入挑战杯决赛 马鞍山免费入场"
+    },
+    "summary": {
+      "en": "Hong Kong's women's handball team face Vietnam in the IHF Challenge Cup semi-final at Ma On Shan Sports Centre at 6pm today, with free admission for spectators. Hong Kong beat Vietnam 26-23 at the Asian Games last month; the hosts' first professional player Wu Lai-ling vowed to beat them again. Earlier today: Macau vs Mongolia at 1pm, North Korea vs Chinese Taipei at 3:30pm.",
+      "zh_hant": "IHF 國際手球聯會挑戰盃今日上演四強賽事，主場出擊嘅香港女子手球隊將於今晚六點喺馬鞍山體育館迎戰越南，爭入決賽，市民可免費入場打氣。港隊上月先喺名古屋亞運以 26:23 擊敗過越南；本港首位手球職業球員鄔梨鈴揚言要再贏一場。今日另兩場：下晝一點澳門對蒙古，三點半朝鮮對中華台北。",
+      "zh_hans": "IHF 国际手球联会挑战杯今日上演四强赛事，主场出击的香港女子手球队将于今晚六点在马鞍山体育馆迎战越南，争入决赛，市民可免费入场打气。港队上月先在名古屋亚运以 26:23 击败过越南；本港首位手球职业球员邬梨铃扬言要再赢一场。今日另两场：下午一点澳门对蒙古，三点半朝鲜对中华台北。"
+    },
+    "tags": {
+      "en": [
+        "handball",
+        "Hong Kong",
+        "Vietnam",
+        "IHF Challenge Cup"
+      ],
+      "zh_hant": [
+        "手球",
+        "香港女子手球隊",
+        "IHF挑戰盃",
+        "鄔梨鈴"
+      ],
+      "zh_hans": [
+        "手球",
+        "香港女子手球队",
+        "IHF挑战杯",
+        "邬梨铃"
+      ]
+    }
+  },
+  {
+    "id": "20261017-furia-eliminates-cloud9-playin",
+    "sport": "esports",
+    "published_at": "2026-10-17T09:30:00+08:00",
+    "source": "Inven Global",
+    "source_url": "https://www.invenglobal.com/articles/27312/furia-survives-by-defeating-c9-cloud9-suffers-humiliation-as-first-team-eliminated",
+    "image_url": null,
+    "title": {
+      "en": "FURIA rally past Cloud9 3-1 to stay alive in Worlds 2026 Play-Ins",
+      "zh_hant": "世界賽入圍賽：FURIA 讓一追三淘汰 Cloud9 續命",
+      "zh_hans": "世界赛入围赛：FURIA 让一追三淘汰 Cloud9 续命"
+    },
+    "summary": {
+      "en": "Brazil's FURIA dropped the opening game but won three straight to eliminate Cloud9 3-1 in the Worlds 2026 Play-In lower bracket on October 17. Cloud9 took Game 1, yet a disastrous Game 2 teamfight at the dragon pit swung the series and FURIA never looked back, with Tutsz and Ayu leading the late-game surges. The North American side is the first team knocked out of the tournament, while FURIA advance to face MVK Esports in the lower-bracket final for the last Swiss Stage spot.",
+      "zh_hant": "巴西戰隊 FURIA 喺 10 月 17 日世界賽入圍賽敗部生死戰，先輸一局後連追三局，以 3:1 淘汰 Cloud9。C9 先拔頭籌，但第二局小龍坑一波關鍵團戰失利後形勢逆轉，FURIA 憑 Tutsz 同 Ayu 後期嘅穩定輸出鎖定勝局。C9 成為今屆賽事首支出局隊伍，FURIA 晉級敗部決賽對 MVK Esports，爭最後一個瑞士輪名額。",
+      "zh_hans": "巴西战队 FURIA 在 10 月 17 日世界赛入围赛败部生死战，先输一局后连追三局，以 3:1 淘汰 Cloud9。C9 先拔头筹，但第二局小龙坑一波关键团战失利后形势逆转，FURIA 凭 Tutsz 和 Ayu 后期的稳定输出锁定胜局。C9 成为本届赛事首支出局队伍，FURIA 晋级败部决赛对 MVK Esports，争最后一个瑞士轮名额。"
+    },
+    "tags": {
+      "en": [
+        "League of Legends",
+        "Worlds 2026",
+        "FURIA",
+        "Cloud9",
+        "Play-Ins"
+      ],
+      "zh_hant": [
+        "英雄聯盟",
+        "世界賽2026",
+        "FURIA",
+        "Cloud9",
+        "入圍賽"
+      ],
+      "zh_hans": [
+        "英雄联盟",
+        "世界赛2026",
+        "FURIA",
+        "Cloud9",
+        "入围赛"
+      ]
+    }
+  },
+  {
+    "id": "20261017-celtics-ot-76ers-preseason-finale",
+    "sport": "basketball",
+    "published_at": "2026-10-17T10:47:21+08:00",
+    "source": "NBC Sports Philadelphia",
+    "source_url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-vs-celtics-preseason-analysis-lebron-james-jaylen-brown/759160/",
+    "image_url": null,
+    "title": {
+      "en": "Celtics edge 76ers 125-120 in OT to close preseason 4-0; LeBron makes home Sixers debut",
+      "zh_hant": "NBA 季前賽：綠軍加時 125:120 險勝 76 人完美收官；LeBron 主場披甲首演",
+      "zh_hans": "NBA 季前赛：绿军加时 125:120 险胜 76 人完美收官；LeBron 主场披甲首演"
+    },
+    "summary": {
+      "en": "Boston's deep bench outlasted Philadelphia 125-120 in overtime to finish the preseason unbeaten at 4-0, despite the 76ers fielding their star-studded lineup. LeBron James made his home debut for the Sixers with 8 points, 8 rebounds and 7 assists, while Joel Embiid led the hosts with 27 points; ex-Celtic Jaylen Brown added 20 against his former club. Hugo Gonzalez paced the shorthanded Celtics with 21 points, and Sam Cassell coached the game in Joe Mazzulla's place.",
+      "zh_hant": "波士頓以殘陣應戰，主力 76 人加時後 125:120 落敗，綠軍季前賽四戰全勝。LeBron James 首次主場披上 76 人戰衣，交出 8 分 8 籃板 7 助攻；祖爾·艾比迪攻入 27 分領銜主隊，前綠軍球星積倫·布朗倒戈轟下 20 分。綠軍方面，後備悍將曉高·干沙利斯轟入 21 分領軍，今場由薩姆·卡素爾代掌帥印。",
+      "zh_hans": "波士顿以残阵应战，主力 76 人加时后 125:120 落败，绿军季前赛四战全胜。LeBron James 首次主场披上 76 人战衣，交出 8 分 8 篮板 7 助攻；祖尔·艾比迪攻入 27 分领衔主队，前绿军球星积伦·布朗倒戈轰下 20 分。绿军方面，后备悍将晓高·干沙利斯轰入 21 分领军，今场由萨姆·卡素尔代掌帅印。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "preseason",
+        "Boston Celtics",
+        "Philadelphia 76ers",
+        "LeBron James"
+      ],
+      "zh_hant": [
+        "NBA",
+        "季前賽",
+        "波士頓塞爾特人",
+        "費城76人",
+        "勒邦占士"
+      ],
+      "zh_hans": [
+        "NBA",
+        "季前赛",
+        "波士顿凯尔特人",
+        "费城76人",
+        "勒布朗·詹姆斯"
+      ]
+    }
+  },
+  {
+    "id": "20261017-pistons-raptors-preseason",
+    "sport": "basketball",
+    "published_at": "2026-10-17T09:30:00+08:00",
+    "source": "Detroit Bad Boys",
+    "source_url": "https://www.detroitbadboys.com/detroit-pistons-game-day/51254/pistons-vs-raptors-final-score-detroit-ends-the-preseason-with-a-win",
+    "image_url": null,
+    "title": {
+      "en": "Pistons hold off Raptors 129-125 to end preseason on a win",
+      "zh_hant": "NBA 季前賽：活塞 129:125 力拒速龍完美收官",
+      "zh_hans": "NBA 季前赛：活塞 129:125 力拒速龙完美收官"
+    },
+    "summary": {
+      "en": "Detroit closed out its preseason with a 129-125 win over Toronto at Little Caesars Arena, finishing the exhibition slate at 3-1. Cade Cunningham led the Pistons with 18 points and seven assists, while rookie Ebuka Okorie delivered 14 points in just nine minutes with late-game heroics. The Raptors, on the second night of a preseason back-to-back, sat most of their rotation; Malachi Smith led all scorers with 24 points and Trayce Jackson-Davis added 23.",
+      "zh_hant": "活塞喺主場以 129:125 險勝速龍，季前賽三勝一負收官。基迪·簡寧咸攻入 18 分並送出 7 次助攻領軍，新秀伊布卡·奧科里僅上陣九分鐘就交出 14 分，末節立功。速龍處於季前賽背靠背第二晚，大部分輪換球員休戰；馬拉奇·史密斯轟入全場最高 24 分，泰斯·積遜戴維斯亦添 23 分。",
+      "zh_hans": "活塞在主场以 129:125 险胜速龙，季前赛三胜一负收官。基迪·简宁咸攻入 18 分并送出 7 次助攻领军，新秀伊布卡·奥科里仅上阵九分钟就交出 14 分，末节立功。速龙处于季前赛背靠背第二晚，大部分轮换球员休战；马拉奇·史密斯轰入全场最高 24 分，泰斯·积逊戴维斯亦添 23 分。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "preseason",
+        "Detroit Pistons",
+        "Toronto Raptors",
+        "Cade Cunningham"
+      ],
+      "zh_hant": [
+        "NBA",
+        "季前賽",
+        "底特律活塞",
+        "多倫多速龍",
+        "簡寧咸"
+      ],
+      "zh_hans": [
+        "NBA",
+        "季前赛",
+        "底特律活塞",
+        "多伦多猛龙",
+        "简宁咸"
+      ]
+    }
+  },
+  {
+    "id": "20261017-grizzlies-hornets-preseason",
+    "sport": "basketball",
+    "published_at": "2026-10-17T10:30:00+08:00",
+    "source": "Sports Illustrated (Grizzlies OnSI)",
+    "source_url": "https://www.si.com/nba/grizzlies/onsi/point-guard-progress-boozer-impresses-and-more-takeaways-from-grizzlies-win-against-hornets-01m53m77he0f",
+    "image_url": null,
+    "title": {
+      "en": "Grizzlies cruise past Hornets 116-98 to finish preseason 3-1",
+      "zh_hant": "NBA 季前賽：灰熊 116:98 輕取黃蜂三勝一負收官",
+      "zh_hans": "NBA 季前赛：灰熊 116:98 轻取黄蜂三胜一负收官"
+    },
+    "summary": {
+      "en": "Memphis wrapped up its preseason with a 116-98 win over Charlotte at FedExForum, finishing 3-1. The Grizzlies pulled away through the second and third quarters, building a lead as large as 29 points. Ty Jerome scored 17 points with four assists as he continues adjusting to the starting point-guard role, rookie Cam Boozer impressed, and Scotty Pippen Jr. brought defensive energy off the bench.",
+      "zh_hant": "灰熊喺主場以 116:98 大勝黃蜂，季前賽三勝一負收官。灰熊喺第二、三節拉開分差，最多領先 29 分。泰·謝路美攻入 17 分並送出 4 次助攻，繼續適應正選控衛角色；新秀甘姆·布查表現亮眼，史葛·皮本二世後備上陣貢獻防守能量。",
+      "zh_hans": "灰熊在主场以 116:98 大胜黄蜂，季前赛三胜一负收官。灰熊在第二、三节拉开分差，最多领先 29 分。泰·谢路美攻入 17 分并送出 4 次助攻，继续适应正选控卫角色；新秀甘姆·布查表现亮眼，史葛·皮本二世后备上阵贡献防守能量。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "preseason",
+        "Memphis Grizzlies",
+        "Charlotte Hornets"
+      ],
+      "zh_hant": [
+        "NBA",
+        "季前賽",
+        "孟菲斯灰熊",
+        "夏洛特黃蜂"
+      ],
+      "zh_hans": [
+        "NBA",
+        "季前赛",
+        "孟菲斯灰熊",
+        "夏洛特黄蜂"
+      ]
+    }
+  },
+  {
+    "id": "20261017-karmine-corp-sweep-mvk-playin-final",
+    "sport": "esports",
+    "published_at": "2026-10-17T05:30:00+08:00",
+    "source": "Insider Gaming",
+    "source_url": "https://insider-gaming.com/karmine-corp-sweep-mvk-lol-worlds-play-ins/",
+    "image_url": null,
+    "title": {
+      "en": "Karmine Corp sweep MVK to reach Worlds 2026 Play-In final",
+      "zh_hant": "Karmine Corp 橫掃 MVK 晉級世界賽入圍賽決賽",
+      "zh_hans": "Karmine Corp 横扫 MVK 晋级世界赛入围赛决赛"
+    },
+    "summary": {
+      "en": "Karmine Corp swept Vietnam's MVK Esports 3-0 in the upper-bracket final of the League of Legends World Championship 2026 Play-In Stage in Los Angeles, a far more comfortable series than their five-game thriller against Cloud9 a day earlier. The European side is now one series win away from the Swiss Stage. MVK drop into the lower bracket and will face the winner of Cloud9 versus FURIA for the remaining place in the Play-In final, with the loser of that match becoming the first team eliminated from Worlds 2026.",
+      "zh_hant": "歐洲戰隊 Karmine Corp 喺洛杉磯舉行嘅《英雄聯盟》2026 世界賽入圍賽勝部決賽，以 3 比 0 橫掃越南代表 MVK Esports，表現遠較前一日對 Cloud9 嘅五局大戰輕鬆。Karmine Corp 距離瑞士輪只差一場勝利。MVK 跌入敗部，將對陣 Cloud9 對 FURIA 嘅勝方爭奪決賽席位，該仗敗方會成為今屆世界賽首支出局隊伍。",
+      "zh_hans": "欧洲战队 Karmine Corp 在洛杉矶举行的《英雄联盟》2026 世界赛入围赛胜部决赛，以 3 比 0 横扫越南代表 MVK Esports，表现远较前一日对 Cloud9 的五局大战轻松。Karmine Corp 距离瑞士轮只差一场胜利。MVK 跌入败部，将对阵 Cloud9 对 FURIA 的胜方争夺决赛席位，该仗败方会成为本届世界赛首支出局队伍。"
+    },
+    "tags": {
+      "en": [
+        "League of Legends",
+        "Worlds 2026",
+        "Karmine Corp",
+        "MVK Esports",
+        "Play-In"
+      ],
+      "zh_hant": [
+        "英雄聯盟",
+        "世界賽2026",
+        "Karmine Corp",
+        "MVK Esports",
+        "入圍賽"
+      ],
+      "zh_hans": [
+        "英雄联盟",
+        "世界赛2026",
+        "Karmine Corp",
+        "MVK Esports",
+        "入围赛"
+      ]
+    }
+  },
+  {
+    "id": "20261017-frosinone-raimondo-hat-trick-sassuolo",
+    "sport": "football",
+    "published_at": "2026-10-17T04:40:00+08:00",
+    "source": "The Cult of Calcio",
+    "source_url": "https://cultofcalcio.com/serie-a-results/?season=",
+    "image_url": null,
+    "title": {
+      "en": "Raimondo hat-trick fires Frosinone past Sassuolo 4-2 in Serie A opener of round 7",
+      "zh_hant": "意甲：拉蒙度戴帽 弗羅西諾內 4 比 2 挫薩斯索羅",
+      "zh_hans": "意甲：拉蒙度戴帽 弗罗西诺内 4 比 2 挫萨索罗"
+    },
+    "summary": {
+      "en": "Antonio Raimondo scored a hat-trick as Frosinone beat Sassuolo 4-2 at the Stadio Benito Stirpe to open round seven of Serie A. Giacomo Calo gave the hosts a ninth-minute lead before Raimondo struck in the 26th, 30th and 57th minutes, while Sassuolo replied through Domenico Berardi and Kristian Thorstvedt in a frantic five-goal first half. The result lifts Frosinone to 13 points and keeps them in the upper half of the table.",
+      "zh_hant": "意甲第七輪率先上演，弗羅西諾內主場 4 比 2 擊敗薩斯索羅，Antonio Raimondo 大演帽子戲法。Giacomo Calò 開賽 9 分鐘先開紀錄，Raimondo 喺 26、30 同 57 分鐘連入三球；薩斯索羅由 Domenico Berardi 同 Kristian Thorstvedt 喺上半場追返兩球，上半場已經出現五個入球。弗羅西諾內全取三分後升上 13 分，穩守上半版。",
+      "zh_hans": "意甲第七轮率先上演，弗罗西诺内主场 4 比 2 击败萨索罗，Antonio Raimondo 大演帽子戏法。Giacomo Calò 开赛 9 分钟先开纪录，Raimondo 在 26、30 和 57 分钟连入三球；萨索罗由 Domenico Berardi 和 Kristian Thorstvedt 在上半场追回两球，上半场已经出现五个进球。弗罗西诺内全取三分后升上 13 分，稳守上半区。"
+    },
+    "tags": {
+      "en": [
+        "Serie A",
+        "Frosinone",
+        "Sassuolo",
+        "Antonio Raimondo",
+        "hat-trick"
+      ],
+      "zh_hant": [
+        "意甲",
+        "弗羅西諾內",
+        "薩斯索羅",
+        "拉蒙度",
+        "帽子戲法"
+      ],
+      "zh_hans": [
+        "意甲",
+        "弗罗西诺内",
+        "萨索罗",
+        "拉蒙度",
+        "帽子戏法"
+      ]
+    }
+  },
+  {
+    "id": "20261017-denmark-open-semifinal-lineup",
+    "sport": "badminton",
+    "published_at": "2026-10-17T03:00:00+08:00",
+    "source": "Badminton Planet",
+    "source_url": "https://www.badmintonplanet.com/badminton-news/hoo-lai-pearly-thinaah-denmark-open-2026-semifinals.html",
+    "image_url": null,
+    "title": {
+      "en": "Denmark Open 2026 semifinal lineup set: Antonsen faces Popov, Lai meets Lanier in rematch",
+      "zh_hant": "丹麥公開賽四強出爐：安賽龍鬥樸普夫、賴浩俊再撼拿尼亞",
+      "zh_hans": "丹麦公开赛四强出炉：安赛龙斗朴普夫、赖浩俊再撼拿尼亚"
+    },
+    "summary": {
+      "en": "The semifinal lineup for the Denmark Open 2026, a BWF World Tour Super 750 event in Odense, is now confirmed. In men's singles, home favourite Anders Antonsen meets second seed Christo Popov of France, while Canada's Victor Lai takes on France's Alex Lanier in a rematch of their World Championship semifinal in New Delhi, which Lanier won. Women's singles sees An Se-young face Nozomi Okuhara and Akane Yamaguchi meet Wang Zhi Yi, while Malaysia are guaranteed a mixed doubles finalist as one semifinal is an all-Malaysian affair.",
+      "zh_hant": "世界羽聯超級 750 系列丹麥公開賽四強對陣塵埃落定。男單方面，主場作戰嘅安賽龍將對法國二號種子 Christo Popov；加拿大嘅賴浩俊則硬撼法國 Alex Lanier，係兩人喺新德里世錦賽四強之後再相遇，當時由 Lanier 勝出。女單由安洗瑩對奧原希望、山口茜對王祉怡；混雙有一場四強係大馬內訌，大馬穩奪一個決賽席位。",
+      "zh_hans": "世界羽联超级 750 系列丹麦公开赛四强对阵尘埃落定。男单方面，主场作战的安赛龙将对法国二号种子 Christo Popov；加拿大的赖浩俊则硬撼法国 Alex Lanier，是两人在新德里世锦赛四强之后再相遇，当时由 Lanier 胜出。女单由安洗莹对奥原希望、山口茜对王祉怡；混双有一场四强是大马内讧，大马稳夺一个决赛席位。"
+    },
+    "tags": {
+      "en": [
+        "Denmark Open",
+        "badminton",
+        "Anders Antonsen",
+        "Victor Lai",
+        "Alex Lanier",
+        "semifinal"
+      ],
+      "zh_hant": [
+        "丹麥公開賽",
+        "羽毛球",
+        "安賽龍",
+        "賴浩俊",
+        "拿尼亞",
+        "四強"
+      ],
+      "zh_hans": [
+        "丹麦公开赛",
+        "羽毛球",
+        "安赛龙",
+        "赖浩俊",
+        "拿尼亚",
+        "四强"
+      ]
+    }
+  },
+  {
+    "id": "20261017-brewers-nlcs-sweep-dodgers",
+    "sport": "others",
+    "published_at": "2026-10-16T14:12:04+08:00",
+    "source": "KVCR Public Media（NPR）",
+    "source_url": "https://kvcr.org/news/npr-top-stories/2026-10-15/brewers-sweep-dodgers-mlb",
+    "image_url": null,
+    "title": {
+      "en": "Brewers Sweep Dodgers to Reach First World Series Since 1982",
+      "zh_hant": "釀酒人橫掃道奇　44 年來首闖世界大賽",
+      "zh_hans": "酿酒人横扫道奇　44 年来首闯世界大赛"
+    },
+    "summary": {
+      "en": "Milwaukee beat Los Angeles 6-4 in Game 4 on Thursday to complete a four-game NLCS sweep and reach the World Series for the first time since 1982. After falling 4-0 behind on Shohei Ohtani's three-run homer, the Brewers rallied behind Garrett Mitchell's go-ahead sixth-inning home run and three scoreless relief innings from Aaron Ashby. The Brewers, with a major-league-best 103 regular-season wins, open the World Series on Oct 23 against the Cleveland-Tampa Bay winner; the Dodgers' bid for a third straight title is over.",
+      "zh_hant": "密爾瓦基釀酒人在國聯冠軍賽第四戰以 6 比 4 擊敗洛杉磯道奇，完成四場橫掃，相隔 44 年再闖世界大賽。道奇一度憑大谷翔平的三分全壘打領先 4 比 0，但釀酒人憑加勒特·米切爾第六局的超前轟及牛棚鎖局完成逆轉。今季 103 勝全大聯盟最佳的釀酒人，將於 10 月 23 日迎戰克里夫蘭與坦帕灣的勝方；道奇三連霸夢碎。",
+      "zh_hans": "密尔沃基酿酒人在国联冠军赛第四战以 6 比 4 击败洛杉矶道奇，完成四场横扫，相隔 44 年再闯世界大赛。道奇一度凭大谷翔平的三分本垒打领先 4 比 0，但酿酒人凭加勒特·米切尔第六局的超前轰及牛棚锁局完成逆转。今季 103 胜全大联盟最佳的酿酒人，将于 10 月 23 日迎战克利夫兰与坦帕湾的胜方；道奇三连霸梦碎。"
+    },
+    "tags": {
+      "en": [
+        "Milwaukee Brewers",
+        "NLCS",
+        "World Series"
+      ],
+      "zh_hant": [
+        "釀酒人",
+        "國聯冠軍賽",
+        "世界大賽"
+      ],
+      "zh_hans": [
+        "酿酒人",
+        "国联冠军赛",
+        "世界大赛"
+      ]
+    }
+  },
+  {
+    "id": "20261017-flick-raphinha-de-jong-betis",
+    "sport": "football",
+    "published_at": "2026-10-16T21:32:00+08:00",
+    "source": "Sportsmole",
+    "source_url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/raphinha-de-jong-fitness-status-revealed-ahead-of-real-betis-battle_607056.html",
+    "image_url": null,
+    "title": {
+      "en": "Flick Confirms Raphinha and De Jong Fit for Betis Clash",
+      "zh_hant": "費歷克證實拉芬夏迪莊傷癒　可戰貝迪斯",
+      "zh_hans": "弗里克证实拉菲尼亚德容伤愈　可战贝蒂斯"
+    },
+    "summary": {
+      "en": "Barcelona coach Hansi Flick confirmed Raphinha and Frenkie de Jong are available for Saturday's La Liga trip to Real Betis. Raphinha missed the last two matches with a thigh injury picked up on Brazil duty, while De Jong has yet to play this season after a knee injury at the World Cup. Flick said both have trained fully but will have their minutes managed. League leaders Barcelona have won all 10 matches this season, with Raphinha scoring 14 goals in eight appearances.",
+      "zh_hant": "巴塞隆拿主帥費歷克證實，拉芬夏與法蘭基·迪莊已經傷癒，周六作客貝迪斯的西甲大戰可以候命。拉芬夏因巴西國家隊賽期大腿受傷缺陣近兩仗；迪莊則因世界盃膝傷今季尚未上陣。費歷克表示兩人已隨隊操練，但會控制上陣時間。今季十戰全勝領跑西甲的巴塞，拉芬夏八場已入十四球。",
+      "zh_hans": "巴塞罗那主帅弗里克证实，拉菲尼亚与弗伦基·德容已经伤愈，周六作客贝蒂斯的西甲大战可以候命。拉菲尼亚因巴西国家队赛期大腿受伤缺阵近两仗；德容则因世界杯膝伤今季尚未上阵。弗里克表示两人已随队操练，但会控制上阵时间。今季十战全胜领跑西甲的巴萨，拉菲尼亚八场已入十四球。"
+    },
+    "tags": {
+      "en": [
+        "Barcelona",
+        "La Liga",
+        "Injury return"
+      ],
+      "zh_hant": [
+        "巴塞隆拿",
+        "西甲",
+        "傷癒復出"
+      ],
+      "zh_hans": [
+        "巴塞罗那",
+        "西甲",
+        "伤愈复出"
+      ]
+    }
+  },
+  {
+    "id": "20261017-malaysia-three-pairs-denmark-open-semis",
+    "sport": "badminton",
+    "published_at": "2026-10-16T23:04:50+08:00",
+    "source": "Media Selangor",
+    "source_url": "https://mediaselangor.com/en/2026/10/401579",
+    "image_url": null,
+    "title": {
+      "en": "Three Malaysian Pairs Power Into Denmark Open Semi-Finals",
+      "zh_hant": "三組大馬組合齊闖丹麥公開賽四強",
+      "zh_hans": "三组大马组合齐闯丹麦公开赛四强"
+    },
+    "summary": {
+      "en": "Three Malaysian pairs won their quarter-finals at the Denmark Open in Odense. Pearly Tan and Thinaah Muralitharan came from a game down to beat India's Treesa Jolly and Gayatri Gopichand 14-21, 21-17, 21-11 and now face China's Bao Lijing and Cao Zihan. Aaron Chia and Soh Wooi Yik defeated Japan's Hiroki Okamura and Kyohei Yamashita 21-16, 21-18 to set up a clash with world No. 1 Koreans Kim Won-ho and Seo Seung-jae, while Hoo Pang Ron and Lai Pei Jing beat Japan's Akira Koga and Natsu Saito 21-15, 24-22 and meet world No. 1 Chinese pair Feng Yanzhe and Huang Dongping. Malaysia's Goh Sze Fei and Nur Izzuddin fell to China's Liang Weikeng and Wang Chang 21-18, 18-21, 15-21.",
+      "zh_hant": "三組馬來西亞組合在奧登斯舉行的丹麥公開賽齊齊晉級四強。女雙陳康樂／蒂娜先輸一局下以 14 比 21、21 比 17、21 比 11 逆轉擊敗印度組合，四強將對中國組合。男雙謝定峰／蘇偉譯以 21 比 16、21 比 18 力挫日本對手，四強硬撼韓國世界第一；混雙許邦榮／賴沛君以 21 比 15、24 比 22 過關，四強迎戰中國世界第一組合。另一男雙吳世飛／伊祖丁則以 21 比 18、18 比 21、15 比 21 不敵中國的梁偉鏗／王昶出局。",
+      "zh_hans": "三组马来西亚组合在欧登塞举行的丹麦公开赛齐齐晋级四强。女双陈康乐／蒂娜先输一局下以 14 比 21、21 比 17、21 比 11 逆转击败印度组合，四强将对中国组合。男双谢定峰／苏伟译以 21 比 16、21 比 18 力挫日本对手，四强硬撼韩国世界第一；混双许邦荣／赖沛君以 21 比 15、24 比 22 过关，四强迎战中国世界第一组合。另一男双吴世飞／伊祖丁则以 21 比 18、18 比 21、15 比 21 不敌中国的梁伟铿／王昶出局。"
+    },
+    "tags": {
+      "en": [
+        "Denmark Open",
+        "Malaysian badminton",
+        "BWF World Tour"
+      ],
+      "zh_hant": [
+        "丹麥公開賽",
+        "馬來西亞羽毛球",
+        "世界巡迴賽"
+      ],
+      "zh_hans": [
+        "丹麦公开赛",
+        "马来西亚羽毛球",
+        "世界巡回赛"
+      ]
+    }
+  },
+  {
+    "id": "20261017-antonsen-denmark-open-qf",
+    "sport": "badminton",
+    "published_at": "2026-10-16T22:45:00+08:00",
+    "source": "Flashscore",
+    "source_url": "https://www.flashscore.com.au/news/badminton-denmark-open-superseries-men-antonsen-surge-past-indonesian-star-to-set-up-popov-clash-in-denmark-open-semi-final/QH8JWM8C/",
+    "image_url": null,
+    "title": {
+      "en": "Antonsen Beats Alwi Farhan to Reach Denmark Open Semi-Final",
+      "zh_hant": "安賽龍直落兩局挫阿爾維　晉級丹麥公開賽四強",
+      "zh_hans": "安赛龙直落两局挫阿尔维　晋级丹麦公开赛四强"
+    },
+    "summary": {
+      "en": "Anders Antonsen defeated Indonesia's Alwi Farhan 21-17, 21-16 in Friday's quarter-final in Odense to keep alive his bid for a third Denmark Open title. The fifth seed regrouped after Farhan closed to 17-20 in the opener and sealed victory when the Indonesian hit long on match point. Antonsen, who avenged his China Masters defeat by Hong Kong's Jason Gunawan on Thursday, faces second seed Christo Popov in Saturday's semi-final.",
+      "zh_hant": "丹麥名將安賽龍在丹麥公開賽男單八強以 21 比 17、21 比 16 直落兩局擊敗印尼的阿爾維·法罕，繼續向第三度捧盃邁進。首局尾段一度被追至 17 比 20，安賽龍頂住壓力拿下；決勝分憑對手回球出界兌現。四強將迎戰法國二號種子基斯圖·普波夫。安賽龍周四才剛報卻中國大師賽不敵香港陳延澤（Jason Gunawan）之仇。",
+      "zh_hans": "丹麦名将安赛龙在丹麦公开赛男单八强以 21 比 17、21 比 16 直落两局击败印尼的阿尔维·法罕，继续向第三度捧杯迈进。首局尾段一度被追至 17 比 20，安赛龙顶住压力拿下；决胜分凭对手回球出界兑现。四强将迎战法国二号种子基斯图·普波夫。安赛龙周四才刚报却中国大师赛不敌香港陈延泽（Jason Gunawan）之仇。"
+    },
+    "tags": {
+      "en": [
+        "Anders Antonsen",
+        "Denmark Open",
+        "Men's singles"
+      ],
+      "zh_hant": [
+        "安賽龍",
+        "丹麥公開賽",
+        "男單"
+      ],
+      "zh_hans": [
+        "安赛龙",
+        "丹麦公开赛",
+        "男单"
+      ]
+    }
+  },
+  {
+    "id": "20261017-victor-lai-denmark-open-qf",
+    "sport": "badminton",
+    "published_at": "2026-10-17T01:00:00+08:00",
+    "source": "Flashscore",
+    "source_url": "https://www.flashscore.co.za/news/badminton-denmark-open-superseries-men-victor-lai-silence-danish-crowd-as-gemke-s-fairytale-comes-to-an-end-at-denmark-open/EZK4v8vm/",
+    "image_url": null,
+    "title": {
+      "en": "Victor Lai Ends Gemke's Run to Reach Denmark Open Semi-Final",
+      "zh_hant": "賴浩俊逆轉格姆克　闖丹麥公開賽四強",
+      "zh_hans": "赖浩俊逆转格姆克　闯丹麦公开赛四强"
+    },
+    "summary": {
+      "en": "Canada's eighth seed Victor Lai came from a game down to beat Denmark's Rasmus Gemke 19-21, 21-16, 21-14 in Friday evening's quarter-final. Gemke, who stunned world No. 1 Kunlavut Vitidsarn in round one, led by four points in the second game before running out of energy. Lai faces France's Alex Lanier in Saturday's semi-final.",
+      "zh_hant": "加拿大八號種子賴浩俊在丹麥公開賽男單八強，先輸一局下以 19 比 21、21 比 16、21 比 14 逆轉擊敗地主丹麥的格姆克，晉級四強。首圈爆冷淘汰世界第一的格姆克，第二局一度領先四分，惜後勁不繼。賴浩俊周六四強將對法國的拉尼亞。",
+      "zh_hans": "加拿大八号种子赖浩俊在丹麦公开赛男单八强，先输一局下以 19 比 21、21 比 16、21 比 14 逆转击败地主丹麦的格姆克，晋级四强。首圈爆冷淘汰世界第一的格姆克，第二局一度领先四分，惜后劲不继。赖浩俊周六四强将对法国的拉尼尔。"
+    },
+    "tags": {
+      "en": [
+        "Victor Lai",
+        "Denmark Open",
+        "Men's singles"
+      ],
+      "zh_hant": [
+        "賴浩俊",
+        "丹麥公開賽",
+        "男單"
+      ],
+      "zh_hans": [
+        "赖浩俊",
+        "丹麦公开赛",
+        "男单"
+      ]
+    }
   }
- },
- {
-  "id": "20261017-hk-women-handball-vietnam-semifinal",
-  "sport": "handball",
-  "published_at": "2026-10-17T13:20:00+08:00",
-  "source": "中國香港手球總會",
-  "source_url": "",
-  "image_url": "https://hksports.hk/assets/img/20261017-handball-hk-action.jpg",
-  "title": {
-   "en": "Hong Kong Women's Handball Team Face Vietnam in Challenge Cup Semi-Final Tonight",
-   "zh_hant": "港女手今晚六點撼越南爭入挑戰盃決賽 馬鞍山免費入場",
-   "zh_hans": "港女手今晚六点撼越南争入挑战杯决赛 马鞍山免费入场"
-  },
-  "summary": {
-   "en": "Hong Kong's women's handball team face Vietnam in the IHF Challenge Cup semi-final at Ma On Shan Sports Centre at 6pm today, with free admission for spectators. Hong Kong beat Vietnam 26-23 at the Asian Games last month; the hosts' first professional player Wu Lai-ling vowed to beat them again. Earlier today: Macau vs Mongolia at 1pm, North Korea vs Chinese Taipei at 3:30pm.",
-   "zh_hant": "IHF 國際手球聯會挑戰盃今日上演四強賽事，主場出擊嘅香港女子手球隊將於今晚六點喺馬鞍山體育館迎戰越南，爭入決賽，市民可免費入場打氣。港隊上月先喺名古屋亞運以 26:23 擊敗過越南；本港首位手球職業球員鄔梨鈴揚言要再贏一場。今日另兩場：下晝一點澳門對蒙古，三點半朝鮮對中華台北。",
-   "zh_hans": "IHF 国际手球联会挑战杯今日上演四强赛事，主场出击的香港女子手球队将于今晚六点在马鞍山体育馆迎战越南，争入决赛，市民可免费入场打气。港队上月先在名古屋亚运以 26:23 击败过越南；本港首位手球职业球员邬梨铃扬言要再赢一场。今日另两场：下午一点澳门对蒙古，三点半朝鲜对中华台北。"
-  },
-  "tags": {
-   "en": [
-    "handball",
-    "Hong Kong",
-    "Vietnam",
-    "IHF Challenge Cup"
-   ],
-   "zh_hant": [
-    "手球",
-    "香港女子手球隊",
-    "IHF挑戰盃",
-    "鄔梨鈴"
-   ],
-   "zh_hans": [
-    "手球",
-    "香港女子手球队",
-    "IHF挑战杯",
-    "邬梨铃"
-   ]
-  }
- },
- {
-  "id": "20261017-furia-eliminates-cloud9-playin",
-  "sport": "esports",
-  "published_at": "2026-10-17T09:30:00+08:00",
-  "source": "Inven Global",
-  "source_url": "https://www.invenglobal.com/articles/27312/furia-survives-by-defeating-c9-cloud9-suffers-humiliation-as-first-team-eliminated",
-  "image_url": null,
-  "title": {
-   "en": "FURIA rally past Cloud9 3-1 to stay alive in Worlds 2026 Play-Ins",
-   "zh_hant": "世界賽入圍賽：FURIA 讓一追三淘汰 Cloud9 續命",
-   "zh_hans": "世界赛入围赛：FURIA 让一追三淘汰 Cloud9 续命"
-  },
-  "summary": {
-   "en": "Brazil's FURIA dropped the opening game but won three straight to eliminate Cloud9 3-1 in the Worlds 2026 Play-In lower bracket on October 17. Cloud9 took Game 1, yet a disastrous Game 2 teamfight at the dragon pit swung the series and FURIA never looked back, with Tutsz and Ayu leading the late-game surges. The North American side is the first team knocked out of the tournament, while FURIA advance to face MVK Esports in the lower-bracket final for the last Swiss Stage spot.",
-   "zh_hant": "巴西戰隊 FURIA 喺 10 月 17 日世界賽入圍賽敗部生死戰，先輸一局後連追三局，以 3:1 淘汰 Cloud9。C9 先拔頭籌，但第二局小龍坑一波關鍵團戰失利後形勢逆轉，FURIA 憑 Tutsz 同 Ayu 後期嘅穩定輸出鎖定勝局。C9 成為今屆賽事首支出局隊伍，FURIA 晉級敗部決賽對 MVK Esports，爭最後一個瑞士輪名額。",
-   "zh_hans": "巴西战队 FURIA 在 10 月 17 日世界赛入围赛败部生死战，先输一局后连追三局，以 3:1 淘汰 Cloud9。C9 先拔头筹，但第二局小龙坑一波关键团战失利后形势逆转，FURIA 凭 Tutsz 和 Ayu 后期的稳定输出锁定胜局。C9 成为本届赛事首支出局队伍，FURIA 晋级败部决赛对 MVK Esports，争最后一个瑞士轮名额。"
-  },
-  "tags": {
-   "en": [
-    "League of Legends",
-    "Worlds 2026",
-    "FURIA",
-    "Cloud9",
-    "Play-Ins"
-   ],
-   "zh_hant": [
-    "英雄聯盟",
-    "世界賽2026",
-    "FURIA",
-    "Cloud9",
-    "入圍賽"
-   ],
-   "zh_hans": [
-    "英雄联盟",
-    "世界赛2026",
-    "FURIA",
-    "Cloud9",
-    "入围赛"
-   ]
-  }
- },
- {
-  "id": "20261017-celtics-ot-76ers-preseason-finale",
-  "sport": "basketball",
-  "published_at": "2026-10-17T10:47:21+08:00",
-  "source": "NBC Sports Philadelphia",
-  "source_url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-vs-celtics-preseason-analysis-lebron-james-jaylen-brown/759160/",
-  "image_url": null,
-  "title": {
-   "en": "Celtics edge 76ers 125-120 in OT to close preseason 4-0; LeBron makes home Sixers debut",
-   "zh_hant": "NBA 季前賽：綠軍加時 125:120 險勝 76 人完美收官；LeBron 主場披甲首演",
-   "zh_hans": "NBA 季前赛：绿军加时 125:120 险胜 76 人完美收官；LeBron 主场披甲首演"
-  },
-  "summary": {
-   "en": "Boston's deep bench outlasted Philadelphia 125-120 in overtime to finish the preseason unbeaten at 4-0, despite the 76ers fielding their star-studded lineup. LeBron James made his home debut for the Sixers with 8 points, 8 rebounds and 7 assists, while Joel Embiid led the hosts with 27 points; ex-Celtic Jaylen Brown added 20 against his former club. Hugo Gonzalez paced the shorthanded Celtics with 21 points, and Sam Cassell coached the game in Joe Mazzulla's place.",
-   "zh_hant": "波士頓以殘陣應戰，主力 76 人加時後 125:120 落敗，綠軍季前賽四戰全勝。LeBron James 首次主場披上 76 人戰衣，交出 8 分 8 籃板 7 助攻；祖爾·艾比迪攻入 27 分領銜主隊，前綠軍球星積倫·布朗倒戈轟下 20 分。綠軍方面，後備悍將曉高·干沙利斯轟入 21 分領軍，今場由薩姆·卡素爾代掌帥印。",
-   "zh_hans": "波士顿以残阵应战，主力 76 人加时后 125:120 落败，绿军季前赛四战全胜。LeBron James 首次主场披上 76 人战衣，交出 8 分 8 篮板 7 助攻；祖尔·艾比迪攻入 27 分领衔主队，前绿军球星积伦·布朗倒戈轰下 20 分。绿军方面，后备悍将晓高·干沙利斯轰入 21 分领军，今场由萨姆·卡素尔代掌帅印。"
-  },
-  "tags": {
-   "en": [
-    "NBA",
-    "preseason",
-    "Boston Celtics",
-    "Philadelphia 76ers",
-    "LeBron James"
-   ],
-   "zh_hant": [
-    "NBA",
-    "季前賽",
-    "波士頓塞爾特人",
-    "費城76人",
-    "勒邦占士"
-   ],
-   "zh_hans": [
-    "NBA",
-    "季前赛",
-    "波士顿凯尔特人",
-    "费城76人",
-    "勒布朗·詹姆斯"
-   ]
-  }
- },
- {
-  "id": "20261017-pistons-raptors-preseason",
-  "sport": "basketball",
-  "published_at": "2026-10-17T09:30:00+08:00",
-  "source": "Detroit Bad Boys",
-  "source_url": "https://www.detroitbadboys.com/detroit-pistons-game-day/51254/pistons-vs-raptors-final-score-detroit-ends-the-preseason-with-a-win",
-  "image_url": null,
-  "title": {
-   "en": "Pistons hold off Raptors 129-125 to end preseason on a win",
-   "zh_hant": "NBA 季前賽：活塞 129:125 力拒速龍完美收官",
-   "zh_hans": "NBA 季前赛：活塞 129:125 力拒速龙完美收官"
-  },
-  "summary": {
-   "en": "Detroit closed out its preseason with a 129-125 win over Toronto at Little Caesars Arena, finishing the exhibition slate at 3-1. Cade Cunningham led the Pistons with 18 points and seven assists, while rookie Ebuka Okorie delivered 14 points in just nine minutes with late-game heroics. The Raptors, on the second night of a preseason back-to-back, sat most of their rotation; Malachi Smith led all scorers with 24 points and Trayce Jackson-Davis added 23.",
-   "zh_hant": "活塞喺主場以 129:125 險勝速龍，季前賽三勝一負收官。基迪·簡寧咸攻入 18 分並送出 7 次助攻領軍，新秀伊布卡·奧科里僅上陣九分鐘就交出 14 分，末節立功。速龍處於季前賽背靠背第二晚，大部分輪換球員休戰；馬拉奇·史密斯轟入全場最高 24 分，泰斯·積遜戴維斯亦添 23 分。",
-   "zh_hans": "活塞在主场以 129:125 险胜速龙，季前赛三胜一负收官。基迪·简宁咸攻入 18 分并送出 7 次助攻领军，新秀伊布卡·奥科里仅上阵九分钟就交出 14 分，末节立功。速龙处于季前赛背靠背第二晚，大部分轮换球员休战；马拉奇·史密斯轰入全场最高 24 分，泰斯·积逊戴维斯亦添 23 分。"
-  },
-  "tags": {
-   "en": [
-    "NBA",
-    "preseason",
-    "Detroit Pistons",
-    "Toronto Raptors",
-    "Cade Cunningham"
-   ],
-   "zh_hant": [
-    "NBA",
-    "季前賽",
-    "底特律活塞",
-    "多倫多速龍",
-    "簡寧咸"
-   ],
-   "zh_hans": [
-    "NBA",
-    "季前赛",
-    "底特律活塞",
-    "多伦多猛龙",
-    "简宁咸"
-   ]
-  }
- },
- {
-  "id": "20261017-grizzlies-hornets-preseason",
-  "sport": "basketball",
-  "published_at": "2026-10-17T10:30:00+08:00",
-  "source": "Sports Illustrated (Grizzlies OnSI)",
-  "source_url": "https://www.si.com/nba/grizzlies/onsi/point-guard-progress-boozer-impresses-and-more-takeaways-from-grizzlies-win-against-hornets-01m53m77he0f",
-  "image_url": null,
-  "title": {
-   "en": "Grizzlies cruise past Hornets 116-98 to finish preseason 3-1",
-   "zh_hant": "NBA 季前賽：灰熊 116:98 輕取黃蜂三勝一負收官",
-   "zh_hans": "NBA 季前赛：灰熊 116:98 轻取黄蜂三胜一负收官"
-  },
-  "summary": {
-   "en": "Memphis wrapped up its preseason with a 116-98 win over Charlotte at FedExForum, finishing 3-1. The Grizzlies pulled away through the second and third quarters, building a lead as large as 29 points. Ty Jerome scored 17 points with four assists as he continues adjusting to the starting point-guard role, rookie Cam Boozer impressed, and Scotty Pippen Jr. brought defensive energy off the bench.",
-   "zh_hant": "灰熊喺主場以 116:98 大勝黃蜂，季前賽三勝一負收官。灰熊喺第二、三節拉開分差，最多領先 29 分。泰·謝路美攻入 17 分並送出 4 次助攻，繼續適應正選控衛角色；新秀甘姆·布查表現亮眼，史葛·皮本二世後備上陣貢獻防守能量。",
-   "zh_hans": "灰熊在主场以 116:98 大胜黄蜂，季前赛三胜一负收官。灰熊在第二、三节拉开分差，最多领先 29 分。泰·谢路美攻入 17 分并送出 4 次助攻，继续适应正选控卫角色；新秀甘姆·布查表现亮眼，史葛·皮本二世后备上阵贡献防守能量。"
-  },
-  "tags": {
-   "en": [
-    "NBA",
-    "preseason",
-    "Memphis Grizzlies",
-    "Charlotte Hornets"
-   ],
-   "zh_hant": [
-    "NBA",
-    "季前賽",
-    "孟菲斯灰熊",
-    "夏洛特黃蜂"
-   ],
-   "zh_hans": [
-    "NBA",
-    "季前赛",
-    "孟菲斯灰熊",
-    "夏洛特黄蜂"
-   ]
-  }
- },
- {
-  "id": "20261017-karmine-corp-sweep-mvk-playin-final",
-  "sport": "esports",
-  "published_at": "2026-10-17T05:30:00+08:00",
-  "source": "Insider Gaming",
-  "source_url": "https://insider-gaming.com/karmine-corp-sweep-mvk-lol-worlds-play-ins/",
-  "image_url": null,
-  "title": {
-   "en": "Karmine Corp sweep MVK to reach Worlds 2026 Play-In final",
-   "zh_hant": "Karmine Corp 橫掃 MVK 晉級世界賽入圍賽決賽",
-   "zh_hans": "Karmine Corp 横扫 MVK 晋级世界赛入围赛决赛"
-  },
-  "summary": {
-   "en": "Karmine Corp swept Vietnam's MVK Esports 3-0 in the upper-bracket final of the League of Legends World Championship 2026 Play-In Stage in Los Angeles, a far more comfortable series than their five-game thriller against Cloud9 a day earlier. The European side is now one series win away from the Swiss Stage. MVK drop into the lower bracket and will face the winner of Cloud9 versus FURIA for the remaining place in the Play-In final, with the loser of that match becoming the first team eliminated from Worlds 2026.",
-   "zh_hant": "歐洲戰隊 Karmine Corp 喺洛杉磯舉行嘅《英雄聯盟》2026 世界賽入圍賽勝部決賽，以 3 比 0 橫掃越南代表 MVK Esports，表現遠較前一日對 Cloud9 嘅五局大戰輕鬆。Karmine Corp 距離瑞士輪只差一場勝利。MVK 跌入敗部，將對陣 Cloud9 對 FURIA 嘅勝方爭奪決賽席位，該仗敗方會成為今屆世界賽首支出局隊伍。",
-   "zh_hans": "欧洲战队 Karmine Corp 在洛杉矶举行的《英雄联盟》2026 世界赛入围赛胜部决赛，以 3 比 0 横扫越南代表 MVK Esports，表现远较前一日对 Cloud9 的五局大战轻松。Karmine Corp 距离瑞士轮只差一场胜利。MVK 跌入败部，将对阵 Cloud9 对 FURIA 的胜方争夺决赛席位，该仗败方会成为本届世界赛首支出局队伍。"
-  },
-  "tags": {
-   "en": [
-    "League of Legends",
-    "Worlds 2026",
-    "Karmine Corp",
-    "MVK Esports",
-    "Play-In"
-   ],
-   "zh_hant": [
-    "英雄聯盟",
-    "世界賽2026",
-    "Karmine Corp",
-    "MVK Esports",
-    "入圍賽"
-   ],
-   "zh_hans": [
-    "英雄联盟",
-    "世界赛2026",
-    "Karmine Corp",
-    "MVK Esports",
-    "入围赛"
-   ]
-  }
- },
- {
-  "id": "20261017-frosinone-raimondo-hat-trick-sassuolo",
-  "sport": "football",
-  "published_at": "2026-10-17T04:40:00+08:00",
-  "source": "The Cult of Calcio",
-  "source_url": "https://cultofcalcio.com/serie-a-results/?season=",
-  "image_url": null,
-  "title": {
-   "en": "Raimondo hat-trick fires Frosinone past Sassuolo 4-2 in Serie A opener of round 7",
-   "zh_hant": "意甲：拉蒙度戴帽 弗羅西諾內 4 比 2 挫薩斯索羅",
-   "zh_hans": "意甲：拉蒙度戴帽 弗罗西诺内 4 比 2 挫萨索罗"
-  },
-  "summary": {
-   "en": "Antonio Raimondo scored a hat-trick as Frosinone beat Sassuolo 4-2 at the Stadio Benito Stirpe to open round seven of Serie A. Giacomo Calo gave the hosts a ninth-minute lead before Raimondo struck in the 26th, 30th and 57th minutes, while Sassuolo replied through Domenico Berardi and Kristian Thorstvedt in a frantic five-goal first half. The result lifts Frosinone to 13 points and keeps them in the upper half of the table.",
-   "zh_hant": "意甲第七輪率先上演，弗羅西諾內主場 4 比 2 擊敗薩斯索羅，Antonio Raimondo 大演帽子戲法。Giacomo Calò 開賽 9 分鐘先開紀錄，Raimondo 喺 26、30 同 57 分鐘連入三球；薩斯索羅由 Domenico Berardi 同 Kristian Thorstvedt 喺上半場追返兩球，上半場已經出現五個入球。弗羅西諾內全取三分後升上 13 分，穩守上半版。",
-   "zh_hans": "意甲第七轮率先上演，弗罗西诺内主场 4 比 2 击败萨索罗，Antonio Raimondo 大演帽子戏法。Giacomo Calò 开赛 9 分钟先开纪录，Raimondo 在 26、30 和 57 分钟连入三球；萨索罗由 Domenico Berardi 和 Kristian Thorstvedt 在上半场追回两球，上半场已经出现五个进球。弗罗西诺内全取三分后升上 13 分，稳守上半区。"
-  },
-  "tags": {
-   "en": [
-    "Serie A",
-    "Frosinone",
-    "Sassuolo",
-    "Antonio Raimondo",
-    "hat-trick"
-   ],
-   "zh_hant": [
-    "意甲",
-    "弗羅西諾內",
-    "薩斯索羅",
-    "拉蒙度",
-    "帽子戲法"
-   ],
-   "zh_hans": [
-    "意甲",
-    "弗罗西诺内",
-    "萨索罗",
-    "拉蒙度",
-    "帽子戏法"
-   ]
-  }
- },
- {
-  "id": "20261017-denmark-open-semifinal-lineup",
-  "sport": "badminton",
-  "published_at": "2026-10-17T03:00:00+08:00",
-  "source": "Badminton Planet",
-  "source_url": "https://www.badmintonplanet.com/badminton-news/hoo-lai-pearly-thinaah-denmark-open-2026-semifinals.html",
-  "image_url": null,
-  "title": {
-   "en": "Denmark Open 2026 semifinal lineup set: Antonsen faces Popov, Lai meets Lanier in rematch",
-   "zh_hant": "丹麥公開賽四強出爐：安賽龍鬥樸普夫、賴浩俊再撼拿尼亞",
-   "zh_hans": "丹麦公开赛四强出炉：安赛龙斗朴普夫、赖浩俊再撼拿尼亚"
-  },
-  "summary": {
-   "en": "The semifinal lineup for the Denmark Open 2026, a BWF World Tour Super 750 event in Odense, is now confirmed. In men's singles, home favourite Anders Antonsen meets second seed Christo Popov of France, while Canada's Victor Lai takes on France's Alex Lanier in a rematch of their World Championship semifinal in New Delhi, which Lanier won. Women's singles sees An Se-young face Nozomi Okuhara and Akane Yamaguchi meet Wang Zhi Yi, while Malaysia are guaranteed a mixed doubles finalist as one semifinal is an all-Malaysian affair.",
-   "zh_hant": "世界羽聯超級 750 系列丹麥公開賽四強對陣塵埃落定。男單方面，主場作戰嘅安賽龍將對法國二號種子 Christo Popov；加拿大嘅賴浩俊則硬撼法國 Alex Lanier，係兩人喺新德里世錦賽四強之後再相遇，當時由 Lanier 勝出。女單由安洗瑩對奧原希望、山口茜對王祉怡；混雙有一場四強係大馬內訌，大馬穩奪一個決賽席位。",
-   "zh_hans": "世界羽联超级 750 系列丹麦公开赛四强对阵尘埃落定。男单方面，主场作战的安赛龙将对法国二号种子 Christo Popov；加拿大的赖浩俊则硬撼法国 Alex Lanier，是两人在新德里世锦赛四强之后再相遇，当时由 Lanier 胜出。女单由安洗莹对奥原希望、山口茜对王祉怡；混双有一场四强是大马内讧，大马稳夺一个决赛席位。"
-  },
-  "tags": {
-   "en": [
-    "Denmark Open",
-    "badminton",
-    "Anders Antonsen",
-    "Victor Lai",
-    "Alex Lanier",
-    "semifinal"
-   ],
-   "zh_hant": [
-    "丹麥公開賽",
-    "羽毛球",
-    "安賽龍",
-    "賴浩俊",
-    "拿尼亞",
-    "四強"
-   ],
-   "zh_hans": [
-    "丹麦公开赛",
-    "羽毛球",
-    "安赛龙",
-    "赖浩俊",
-    "拿尼亚",
-    "四强"
-   ]
-  }
- },
- {
-  "id": "20261017-brewers-nlcs-sweep-dodgers",
-  "sport": "others",
-  "published_at": "2026-10-16T14:12:04+08:00",
-  "source": "KVCR Public Media（NPR）",
-  "source_url": "https://kvcr.org/news/npr-top-stories/2026-10-15/brewers-sweep-dodgers-mlb",
-  "image_url": null,
-  "title": {
-   "en": "Brewers Sweep Dodgers to Reach First World Series Since 1982",
-   "zh_hant": "釀酒人橫掃道奇　44 年來首闖世界大賽",
-   "zh_hans": "酿酒人横扫道奇　44 年来首闯世界大赛"
-  },
-  "summary": {
-   "en": "Milwaukee beat Los Angeles 6-4 in Game 4 on Thursday to complete a four-game NLCS sweep and reach the World Series for the first time since 1982. After falling 4-0 behind on Shohei Ohtani's three-run homer, the Brewers rallied behind Garrett Mitchell's go-ahead sixth-inning home run and three scoreless relief innings from Aaron Ashby. The Brewers, with a major-league-best 103 regular-season wins, open the World Series on Oct 23 against the Cleveland-Tampa Bay winner; the Dodgers' bid for a third straight title is over.",
-   "zh_hant": "密爾瓦基釀酒人在國聯冠軍賽第四戰以 6 比 4 擊敗洛杉磯道奇，完成四場橫掃，相隔 44 年再闖世界大賽。道奇一度憑大谷翔平的三分全壘打領先 4 比 0，但釀酒人憑加勒特·米切爾第六局的超前轟及牛棚鎖局完成逆轉。今季 103 勝全大聯盟最佳的釀酒人，將於 10 月 23 日迎戰克里夫蘭與坦帕灣的勝方；道奇三連霸夢碎。",
-   "zh_hans": "密尔沃基酿酒人在国联冠军赛第四战以 6 比 4 击败洛杉矶道奇，完成四场横扫，相隔 44 年再闯世界大赛。道奇一度凭大谷翔平的三分本垒打领先 4 比 0，但酿酒人凭加勒特·米切尔第六局的超前轰及牛棚锁局完成逆转。今季 103 胜全大联盟最佳的酿酒人，将于 10 月 23 日迎战克利夫兰与坦帕湾的胜方；道奇三连霸梦碎。"
-  },
-  "tags": {
-   "en": [
-    "Milwaukee Brewers",
-    "NLCS",
-    "World Series"
-   ],
-   "zh_hant": [
-    "釀酒人",
-    "國聯冠軍賽",
-    "世界大賽"
-   ],
-   "zh_hans": [
-    "酿酒人",
-    "国联冠军赛",
-    "世界大赛"
-   ]
-  }
- },
- {
-  "id": "20261017-flick-raphinha-de-jong-betis",
-  "sport": "football",
-  "published_at": "2026-10-16T21:32:00+08:00",
-  "source": "Sportsmole",
-  "source_url": "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/raphinha-de-jong-fitness-status-revealed-ahead-of-real-betis-battle_607056.html",
-  "image_url": null,
-  "title": {
-   "en": "Flick Confirms Raphinha and De Jong Fit for Betis Clash",
-   "zh_hant": "費歷克證實拉芬夏迪莊傷癒　可戰貝迪斯",
-   "zh_hans": "弗里克证实拉菲尼亚德容伤愈　可战贝蒂斯"
-  },
-  "summary": {
-   "en": "Barcelona coach Hansi Flick confirmed Raphinha and Frenkie de Jong are available for Saturday's La Liga trip to Real Betis. Raphinha missed the last two matches with a thigh injury picked up on Brazil duty, while De Jong has yet to play this season after a knee injury at the World Cup. Flick said both have trained fully but will have their minutes managed. League leaders Barcelona have won all 10 matches this season, with Raphinha scoring 14 goals in eight appearances.",
-   "zh_hant": "巴塞隆拿主帥費歷克證實，拉芬夏與法蘭基·迪莊已經傷癒，周六作客貝迪斯的西甲大戰可以候命。拉芬夏因巴西國家隊賽期大腿受傷缺陣近兩仗；迪莊則因世界盃膝傷今季尚未上陣。費歷克表示兩人已隨隊操練，但會控制上陣時間。今季十戰全勝領跑西甲的巴塞，拉芬夏八場已入十四球。",
-   "zh_hans": "巴塞罗那主帅弗里克证实，拉菲尼亚与弗伦基·德容已经伤愈，周六作客贝蒂斯的西甲大战可以候命。拉菲尼亚因巴西国家队赛期大腿受伤缺阵近两仗；德容则因世界杯膝伤今季尚未上阵。弗里克表示两人已随队操练，但会控制上阵时间。今季十战全胜领跑西甲的巴萨，拉菲尼亚八场已入十四球。"
-  },
-  "tags": {
-   "en": [
-    "Barcelona",
-    "La Liga",
-    "Injury return"
-   ],
-   "zh_hant": [
-    "巴塞隆拿",
-    "西甲",
-    "傷癒復出"
-   ],
-   "zh_hans": [
-    "巴塞罗那",
-    "西甲",
-    "伤愈复出"
-   ]
-  }
- },
- {
-  "id": "20261017-malaysia-three-pairs-denmark-open-semis",
-  "sport": "badminton",
-  "published_at": "2026-10-16T23:04:50+08:00",
-  "source": "Media Selangor",
-  "source_url": "https://mediaselangor.com/en/2026/10/401579",
-  "image_url": null,
-  "title": {
-   "en": "Three Malaysian Pairs Power Into Denmark Open Semi-Finals",
-   "zh_hant": "三組大馬組合齊闖丹麥公開賽四強",
-   "zh_hans": "三组大马组合齐闯丹麦公开赛四强"
-  },
-  "summary": {
-   "en": "Three Malaysian pairs won their quarter-finals at the Denmark Open in Odense. Pearly Tan and Thinaah Muralitharan came from a game down to beat India's Treesa Jolly and Gayatri Gopichand 14-21, 21-17, 21-11 and now face China's Bao Lijing and Cao Zihan. Aaron Chia and Soh Wooi Yik defeated Japan's Hiroki Okamura and Kyohei Yamashita 21-16, 21-18 to set up a clash with world No. 1 Koreans Kim Won-ho and Seo Seung-jae, while Hoo Pang Ron and Lai Pei Jing beat Japan's Akira Koga and Natsu Saito 21-15, 24-22 and meet world No. 1 Chinese pair Feng Yanzhe and Huang Dongping. Malaysia's Goh Sze Fei and Nur Izzuddin fell to China's Liang Weikeng and Wang Chang 21-18, 18-21, 15-21.",
-   "zh_hant": "三組馬來西亞組合在奧登斯舉行的丹麥公開賽齊齊晉級四強。女雙陳康樂／蒂娜先輸一局下以 14 比 21、21 比 17、21 比 11 逆轉擊敗印度組合，四強將對中國組合。男雙謝定峰／蘇偉譯以 21 比 16、21 比 18 力挫日本對手，四強硬撼韓國世界第一；混雙許邦榮／賴沛君以 21 比 15、24 比 22 過關，四強迎戰中國世界第一組合。另一男雙吳世飛／伊祖丁則以 21 比 18、18 比 21、15 比 21 不敵中國的梁偉鏗／王昶出局。",
-   "zh_hans": "三组马来西亚组合在欧登塞举行的丹麦公开赛齐齐晋级四强。女双陈康乐／蒂娜先输一局下以 14 比 21、21 比 17、21 比 11 逆转击败印度组合，四强将对中国组合。男双谢定峰／苏伟译以 21 比 16、21 比 18 力挫日本对手，四强硬撼韩国世界第一；混双许邦荣／赖沛君以 21 比 15、24 比 22 过关，四强迎战中国世界第一组合。另一男双吴世飞／伊祖丁则以 21 比 18、18 比 21、15 比 21 不敌中国的梁伟铿／王昶出局。"
-  },
-  "tags": {
-   "en": [
-    "Denmark Open",
-    "Malaysian badminton",
-    "BWF World Tour"
-   ],
-   "zh_hant": [
-    "丹麥公開賽",
-    "馬來西亞羽毛球",
-    "世界巡迴賽"
-   ],
-   "zh_hans": [
-    "丹麦公开赛",
-    "马来西亚羽毛球",
-    "世界巡回赛"
-   ]
-  }
- },
- {
-  "id": "20261017-antonsen-denmark-open-qf",
-  "sport": "badminton",
-  "published_at": "2026-10-16T22:45:00+08:00",
-  "source": "Flashscore",
-  "source_url": "https://www.flashscore.com.au/news/badminton-denmark-open-superseries-men-antonsen-surge-past-indonesian-star-to-set-up-popov-clash-in-denmark-open-semi-final/QH8JWM8C/",
-  "image_url": null,
-  "title": {
-   "en": "Antonsen Beats Alwi Farhan to Reach Denmark Open Semi-Final",
-   "zh_hant": "安賽龍直落兩局挫阿爾維　晉級丹麥公開賽四強",
-   "zh_hans": "安赛龙直落两局挫阿尔维　晋级丹麦公开赛四强"
-  },
-  "summary": {
-   "en": "Anders Antonsen defeated Indonesia's Alwi Farhan 21-17, 21-16 in Friday's quarter-final in Odense to keep alive his bid for a third Denmark Open title. The fifth seed regrouped after Farhan closed to 17-20 in the opener and sealed victory when the Indonesian hit long on match point. Antonsen, who avenged his China Masters defeat by Hong Kong's Jason Gunawan on Thursday, faces second seed Christo Popov in Saturday's semi-final.",
-   "zh_hant": "丹麥名將安賽龍在丹麥公開賽男單八強以 21 比 17、21 比 16 直落兩局擊敗印尼的阿爾維·法罕，繼續向第三度捧盃邁進。首局尾段一度被追至 17 比 20，安賽龍頂住壓力拿下；決勝分憑對手回球出界兌現。四強將迎戰法國二號種子基斯圖·普波夫。安賽龍周四才剛報卻中國大師賽不敵香港陳延澤（Jason Gunawan）之仇。",
-   "zh_hans": "丹麦名将安赛龙在丹麦公开赛男单八强以 21 比 17、21 比 16 直落两局击败印尼的阿尔维·法罕，继续向第三度捧杯迈进。首局尾段一度被追至 17 比 20，安赛龙顶住压力拿下；决胜分凭对手回球出界兑现。四强将迎战法国二号种子基斯图·普波夫。安赛龙周四才刚报却中国大师赛不敌香港陈延泽（Jason Gunawan）之仇。"
-  },
-  "tags": {
-   "en": [
-    "Anders Antonsen",
-    "Denmark Open",
-    "Men's singles"
-   ],
-   "zh_hant": [
-    "安賽龍",
-    "丹麥公開賽",
-    "男單"
-   ],
-   "zh_hans": [
-    "安赛龙",
-    "丹麦公开赛",
-    "男单"
-   ]
-  }
- },
- {
-  "id": "20261017-victor-lai-denmark-open-qf",
-  "sport": "badminton",
-  "published_at": "2026-10-17T01:00:00+08:00",
-  "source": "Flashscore",
-  "source_url": "https://www.flashscore.co.za/news/badminton-denmark-open-superseries-men-victor-lai-silence-danish-crowd-as-gemke-s-fairytale-comes-to-an-end-at-denmark-open/EZK4v8vm/",
-  "image_url": null,
-  "title": {
-   "en": "Victor Lai Ends Gemke's Run to Reach Denmark Open Semi-Final",
-   "zh_hant": "賴浩俊逆轉格姆克　闖丹麥公開賽四強",
-   "zh_hans": "赖浩俊逆转格姆克　闯丹麦公开赛四强"
-  },
-  "summary": {
-   "en": "Canada's eighth seed Victor Lai came from a game down to beat Denmark's Rasmus Gemke 19-21, 21-16, 21-14 in Friday evening's quarter-final. Gemke, who stunned world No. 1 Kunlavut Vitidsarn in round one, led by four points in the second game before running out of energy. Lai faces France's Alex Lanier in Saturday's semi-final.",
-   "zh_hant": "加拿大八號種子賴浩俊在丹麥公開賽男單八強，先輸一局下以 19 比 21、21 比 16、21 比 14 逆轉擊敗地主丹麥的格姆克，晉級四強。首圈爆冷淘汰世界第一的格姆克，第二局一度領先四分，惜後勁不繼。賴浩俊周六四強將對法國的拉尼亞。",
-   "zh_hans": "加拿大八号种子赖浩俊在丹麦公开赛男单八强，先输一局下以 19 比 21、21 比 16、21 比 14 逆转击败地主丹麦的格姆克，晋级四强。首圈爆冷淘汰世界第一的格姆克，第二局一度领先四分，惜后劲不继。赖浩俊周六四强将对法国的拉尼尔。"
-  },
-  "tags": {
-   "en": [
-    "Victor Lai",
-    "Denmark Open",
-    "Men's singles"
-   ],
-   "zh_hant": [
-    "賴浩俊",
-    "丹麥公開賽",
-    "男單"
-   ],
-   "zh_hans": [
-    "赖浩俊",
-    "丹麦公开赛",
-    "男单"
-   ]
-  }
- }
 ]
