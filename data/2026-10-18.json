@@ -1,5 +1,186 @@
 [
   {
+    "id": "20261018-dortmund-held-union-berlin",
+    "sport": "football",
+    "published_at": "2026-10-18T13:52:58+08:00",
+    "source": "新華社",
+    "source_url": "https://finance.sina.cn/2026-10-18/detail-inivrkxq1121882.d.html",
+    "image_url": null,
+    "title": {
+      "en": "Dortmund held 0-0 at Union Berlin, extend league winless run to two",
+      "zh_hant": "德甲｜多特蒙德作客0:0悶和柏林聯合 錄聯賽兩連平",
+      "zh_hans": "德甲｜多特蒙德客场0:0闷和柏林联合 录联赛两连平"
+    },
+    "summary": {
+      "en": "Borussia Dortmund were held to a 0-0 draw away at Union Berlin in the sixth round of the Bundesliga on Saturday. Goalkeeper Kobel saved a first-half free kick, while Beier and Guirassy squandered chances after the break, leaving Dortmund with two straight league draws. In the same round, Bayern Munich beat RB Leipzig 6-1 with a Luis Diaz hat-trick; Bayern and Dortmund both sit on 14 points, with Bayern leading on goal difference.",
+      "zh_hant": "據新華社報道，德甲第 6 輪於 17 日進行，多特蒙德作客 0:0 悶和柏林聯合。多特門將科貝爾上半場撲出對方一記任意球射門，易邊後拜爾和吉拉西先後錯失機會，多特錄得聯賽兩連平。同輪拜仁慕尼黑憑迪亞斯「帽子戲法」6:1 大勝萊比錫；拜仁與多特同積 14 分，拜仁憑淨勝球優勢領跑積分榜。",
+      "zh_hans": "据新华社报道，德甲第 6 轮于 17 日进行，多特蒙德客场 0:0 闷和柏林联合。多特门将科贝尔上半场扑出对方一记任意球射门，易边后拜尔和吉拉西先后错失机会，多特录得联赛两连平。同轮拜仁慕尼黑凭迪亚斯「帽子戏法」6:1 大胜莱比锡；拜仁与多特同积 14 分，拜仁凭净胜球优势领跑积分榜。"
+    },
+    "tags": {
+      "en": [
+        "Bundesliga",
+        "Borussia Dortmund",
+        "Union Berlin"
+      ],
+      "zh_hant": [
+        "德甲",
+        "多特蒙德",
+        "柏林聯合"
+      ],
+      "zh_hans": [
+        "德甲",
+        "多特蒙德",
+        "柏林联合"
+      ]
+    }
+  },
+  {
+    "id": "20261018-warriors-blazers-yang-hansen",
+    "sport": "basketball",
+    "published_at": "2026-10-18T12:31:19+08:00",
+    "source": "24直播網",
+    "source_url": "https://www.jstgjg.com/49654.html",
+    "image_url": null,
+    "title": {
+      "en": "Warriors beat Blazers 128-118 in preseason finale; Yang Hansen posts 6 points, 7 rebounds",
+      "zh_hant": "NBA季前賽｜勇士128:118勝開拓者 楊瀚森6分7板2助",
+      "zh_hans": "NBA季前赛｜勇士128:118胜开拓者 杨瀚森6分7板2助"
+    },
+    "summary": {
+      "en": "The Golden State Warriors closed their preseason with a 128-118 home win over the Portland Trail Blazers. Stephen Curry scored 20 points with 4 rebounds and 5 assists, while Draymond Green added 7 points, 8 rebounds and 10 assists; Damian Lillard led Portland with 23 points and Ja Morant had 19. Chinese centre Yang Hansen chipped in 6 points, 7 rebounds and 2 assists for the Blazers.",
+      "zh_hant": "NBA 季前賽收官戰，勇士主場 128:118 擊敗開拓者。庫里攻入 20 分另有 4 籃板 5 助攻，格林貢獻 7 分 8 籃板 10 助攻；開拓者方面利拉德得 23 分、莫蘭特 19 分。中國球員楊瀚森上陣交出 6 分 7 籃板 2 助攻。",
+      "zh_hans": "NBA 季前赛收官战，勇士主场 128:118 击败开拓者。库里攻入 20 分另有 4 篮板 5 助攻，格林贡献 7 分 8 篮板 10 助攻；开拓者方面利拉德得 23 分、莫兰特 19 分。中国球员杨瀚森上阵交出 6 分 7 篮板 2 助攻。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "preseason",
+        "Golden State Warriors",
+        "Portland Trail Blazers",
+        "Yang Hansen"
+      ],
+      "zh_hant": [
+        "NBA",
+        "季前賽",
+        "勇士",
+        "開拓者",
+        "楊瀚森"
+      ],
+      "zh_hans": [
+        "NBA",
+        "季前赛",
+        "勇士",
+        "开拓者",
+        "杨瀚森"
+      ]
+    }
+  },
+  {
+    "id": "20261018-yuechao-guangzhou-meizhou",
+    "sport": "football",
+    "published_at": "2026-10-18T12:58:00+08:00",
+    "source": "中國廣州發布",
+    "source_url": "https://www.21jingji.com/article/20261018/herald/6f4992236da038e341e4a7558e782074.html",
+    "image_url": null,
+    "title": {
+      "en": "Meizhou beat Guangzhou 3-1 away in Guangdong Super League third-place playoff first leg",
+      "zh_hant": "粵超｜季軍戰首回合廣州主場1:3不敵梅州 次回合下周六再戰",
+      "zh_hans": "粤超｜季军战首回合广州主场1:3不敌梅州 次回合下周六再战"
+    },
+    "summary": {
+      "en": "In the first leg of the Guangdong Super League third-place playoff at Yuexiushan Stadium last night, Guangzhou fell 1-3 at home to Meizhou. The first half ended goalless before Ke Junjie's 50th-minute rebound and Liao Binduo's 74th-minute strike put Meizhou in command; a Guangzhou counter-attack goal in the 64th minute was ruled out for offside, and Wang Zixuan's stoppage-time header pulled one back for the hosts. The second leg moves to Meizhou on 24 October, with the aggregate winners taking the bronze.",
+      "zh_hant": "粵超三四名決賽首回合昨晚在越秀山體育場上演，廣州隊主場 1:3 不敵梅州隊。上半場雙方互交白卷，梅州隊下半場憑柯俊杰 50 分鐘補射及廖彬鐸 74 分鐘勁射奠定勝局；廣州隊 64 分鐘一次反擊破門被判越位無效，補時階段由王梓軒頭球追回一球。雙方次回合將於 10 月 24 日移師梅州，兩回合總比分定季軍誰屬。",
+      "zh_hans": "粤超三四名决赛首回合昨晚在越秀山体育场上演，广州队主场 1:3 不敌梅州队。上半场双方互交白卷，梅州队下半场凭柯俊杰 50 分钟补射及廖彬铎 74 分钟劲射奠定胜局；广州队 64 分钟一次反击破门被判越位无效，补时阶段由王梓轩头球追回一球。双方次回合将于 10 月 24 日移师梅州，两回合总比分定季军谁属。"
+    },
+    "tags": {
+      "en": [
+        "Guangdong Super League",
+        "Guangzhou",
+        "Meizhou"
+      ],
+      "zh_hant": [
+        "粵超",
+        "廣州隊",
+        "梅州隊"
+      ],
+      "zh_hans": [
+        "粤超",
+        "广州队",
+        "梅州队"
+      ]
+    }
+  },
+  {
+    "id": "20261018-beijing-marathon-tola",
+    "sport": "athletics",
+    "published_at": "2026-10-18T09:50:51+08:00",
+    "source": "央視新聞",
+    "source_url": "https://news.sina.cn/2026-10-18/detail-inivrert7840872.d.html",
+    "image_url": "https://k.sinaimg.cn/n/news/crawl/59/w550h309/20261018/a518-67580ec8d87c95ab114b86f817a2e06c.jpg/w700d1q75cms.jpg?by=cms_fixed_width",
+    "title": {
+      "en": "Tamirat Tola sets course record of 2:03:10 to win 2026 Beijing Marathon",
+      "zh_hant": "北京馬拉松｜托拉2小時03分10秒破賽會紀錄奪男子組冠軍",
+      "zh_hans": "北京马拉松｜托拉2小时03分10秒破赛会纪录夺男子组冠军"
+    },
+    "summary": {
+      "en": "The 2026 Beijing Marathon started this morning, with 32,000 runners setting off from Tiananmen Square and finishing on the Olympic Park central boulevard. Ethiopia's Tamirat Tola won the men's title in 2 hours 3 minutes 10 seconds, breaking the course record. First held in 1981, the Beijing Marathon has grown into one of the sport's premier racing stages.",
+      "zh_hant": "2026 北京馬拉松今晨開跑，32,000 名選手由天安門廣場起步，終點設於奧林匹克公園中心區景觀大道。埃塞俄比亞選手塔米拉特·托拉以 2 小時 03 分 10 秒奪得男子組冠軍，打破賽會紀錄。北京馬拉松自 1981 年首次舉辦，現已成為頂尖馬拉松選手的競技殿堂。",
+      "zh_hans": "2026 北京马拉松今晨开跑，32,000 名选手由天安门广场起步，终点设于奥林匹克公园中心区景观大道。埃塞俄比亚选手塔米拉特·托拉以 2 小时 03 分 10 秒夺得男子组冠军，打破赛会纪录。北京马拉松自 1981 年首次举办，现已成为顶尖马拉松选手的竞技殿堂。"
+    },
+    "tags": {
+      "en": [
+        "Beijing Marathon",
+        "marathon",
+        "Tamirat Tola"
+      ],
+      "zh_hant": [
+        "北京馬拉松",
+        "馬拉松",
+        "塔米拉特·托拉"
+      ],
+      "zh_hans": [
+        "北京马拉松",
+        "马拉松",
+        "塔米拉特·托拉"
+      ]
+    }
+  },
+  {
+    "id": "20261018-asian-para-games-opening",
+    "sport": "others",
+    "published_at": "2026-10-18T13:47:55+08:00",
+    "source": "TSNA體育新聞團隊",
+    "source_url": "https://tsna.com/article/204438",
+    "image_url": null,
+    "title": {
+      "en": "Asian Para Games open tonight in Aichi-Nagoya; Hong Kong sends 80 athletes to 10 sports",
+      "zh_hant": "亞帕運｜今晚名古屋開幕 港隊80健兒分途出戰10項目",
+      "zh_hans": "亚帕运｜今晚名古屋开幕 港队80健儿分途出战10项目"
+    },
+    "summary": {
+      "en": "The fifth Aichi-Nagoya Asian Para Games open tonight, with competition running through 24 October. The Chinese Taipei delegation completed its village welcome ceremony yesterday afternoon at the Garden Pier athletes' village, sending 71 athletes to compete in 12 sports. According to Sportsroad, Hong Kong has sent a 150-plus-strong delegation with 80 athletes contesting 10 sports; para-taekwondo athlete Yeung Siu-kei and athletics sprinter Wong Wing-hei will share flag-bearing duties at the opening ceremony.",
+      "zh_hant": "第五屆愛知·名古屋亞洲帕拉運動會今晚舉行開幕典禮，賽期至 10 月 24 日。中華代表團昨日下午在花園碼頭選手村完成入村儀式，派出 71 名選手角逐 12 個運動種類。據體路報道，港隊逾 150 人出征，80 位運動員分途出戰 10 個項目，殘疾人跆拳道運動員楊肇麒與田徑選手王穎晞共同擔任開幕禮持旗手。",
+      "zh_hans": "第五届爱知·名古屋亚洲帕拉运动会今晚举行开幕典礼，赛期至 10 月 24 日。中华代表团昨日下午在花园码头选手村完成入村仪式，派出 71 名选手角逐 12 个运动种类。据体路报道，港队逾 150 人出征，80 位运动员分途出战 10 个项目，残疾人跆拳道运动员杨肇麒与田径选手王颖晞共同担任开幕礼持旗手。"
+    },
+    "tags": {
+      "en": [
+        "Asian Para Games",
+        "Aichi-Nagoya",
+        "Hong Kong team"
+      ],
+      "zh_hant": [
+        "亞帕運",
+        "名古屋",
+        "港隊"
+      ],
+      "zh_hans": [
+        "亚帕运",
+        "名古屋",
+        "港队"
+      ]
+    }
+  },
+  {
     "id": "20261018-malott-ko-buckley-ufc-edmonton",
     "sport": "boxing_mma",
     "published_at": "2026-10-18T10:44:00+08:00",
