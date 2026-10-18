@@ -1,5 +1,110 @@
 [
   {
+    "id": "20261018-malott-ko-buckley-ufc-edmonton",
+    "sport": "boxing_mma",
+    "published_at": "2026-10-18T10:44:00+08:00",
+    "source": "MMA Mania",
+    "source_url": "https://www.mmamania.com/ufc-results/480175/ufc-edmonton-results-mike-malott-obliterates-joaquin-buckley-with-monster-head-kick-ko",
+    "image_url": "https://platform.mmamania.com/wp-content/uploads/sites/110/2026/10/gettyimages-2271987020.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "title": {
+      "en": "Mike Malott knocks out Joaquin Buckley with head kick at UFC Edmonton",
+      "zh_hant": "麥洛特第二回合KO巴克利 主場稱雄UFC艾蒙頓",
+      "zh_hans": "麦洛特第二回合KO巴克利 主场称雄UFC艾蒙顿"
+    },
+    "summary": {
+      "en": "Canada's Mike Malott produced a stunning home-country finish, knocking out Joaquin Buckley with a perfectly timed head kick in the second round of the UFC Edmonton main event at Rogers Place. Malott caught Buckley with the head kick to the jawline in round two; Buckley hit the canvas face-first and one follow-up punch ended it. The win moves Malott into the welterweight top 10 on a four-fight win streak.",
+      "zh_hant": "加拿大選手麥洛特在UFC艾蒙頓站頭條主賽交出驚人表現，第二回合以一記恰到好處的頭踢擊倒巴克利。麥洛特在次回合以頭踢正中巴克利下巴，巴克利面部朝下倒地，再補一拳後裁判終止比賽。麥洛特豪取四連勝，成功闖入次中量級前十。",
+      "zh_hans": "加拿大选手麦洛特在UFC艾蒙顿站头条主赛交出惊人表现，第二回合以一记恰到好处的头踢击倒巴克利。麦洛特在次回合以头踢正中巴克利下巴，巴克里面部朝下倒地，再补一拳后裁判终止比赛。麦洛特豪取四连胜，成功闯入次中量级前十。"
+    },
+    "tags": {
+      "en": [
+        "UFC",
+        "MMA",
+        "Malott"
+      ],
+      "zh_hant": [
+        "UFC",
+        "綜合格鬥",
+        "麥洛特"
+      ],
+      "zh_hans": [
+        "UFC",
+        "综合格斗",
+        "麦洛特"
+      ]
+    }
+  },
+  {
+    "id": "20261018-jasudavicius-beats-blanchfield-ufc-edmonton",
+    "sport": "boxing_mma",
+    "published_at": "2026-10-18T10:14:00+08:00",
+    "source": "MMA Mania",
+    "source_url": "https://www.mmamania.com/ufc-results/480173/ufc-edmonton-results-canadas-own-jasmine-jasudavicius-takes-down-erin-blanchfield-in-major-upset-win",
+    "image_url": null,
+    "title": {
+      "en": "Jasmine Jasudavicius upsets Erin Blanchfield by unanimous decision at UFC Edmonton",
+      "zh_hant": "賈蘇達維丘斯爆冷擊敗布蘭奇菲爾德 叫陣冠軍賽",
+      "zh_hans": "贾苏达维丘斯爆冷击败布兰奇菲尔德 叫阵冠军赛"
+    },
+    "summary": {
+      "en": "Jasmine Jasudavicius earned the biggest win of her career, out-grappling third-ranked Erin Blanchfield to a unanimous decision (29-28, 29-28, 29-28) in the UFC Edmonton co-main event. The Canadian dominated the grappling exchanges over three rounds, derailing Blanchfield's hopes of a title shot, and afterwards called for a rematch with newly crowned flyweight champion Natalia Silva.",
+      "zh_hant": "加拿大女子選手賈蘇達維丘斯在UFC艾蒙頓站聯合主賽爆冷，以29比28、29比28、29比28一致判定擊敗排名第三的布蘭奇菲爾德。她全場以纏鬥壓制對手，粉碎對方爭奪冠軍挑戰權的希望，賽後更公開叫陣新科蠅量級冠軍席爾瓦。這是她職業生涯最大的一場勝利。",
+      "zh_hans": "加拿大女子选手贾苏达维丘斯在UFC艾蒙顿站联合主赛爆冷，以29比28、29比28、29比28一致判定击败排名第三的布兰奇菲尔德。她全场以缠斗压制对手，粉碎对方争夺冠军挑战权的希望，赛后更公开叫阵新科蝇量级冠军席尔瓦。这是她职业生涯最大的一场胜利。"
+    },
+    "tags": {
+      "en": [
+        "UFC",
+        "MMA",
+        "women's flyweight"
+      ],
+      "zh_hant": [
+        "UFC",
+        "綜合格鬥",
+        "女子蠅量級"
+      ],
+      "zh_hans": [
+        "UFC",
+        "综合格斗",
+        "女子蝇量级"
+      ]
+    }
+  },
+  {
+    "id": "20261018-messi-brace-inter-miami-atlanta",
+    "sport": "football",
+    "published_at": "2026-10-18T09:58:00+08:00",
+    "source": "TSN (AP)",
+    "source_url": "https://www.tsn.ca/soccer/article/messi-scores-twice-adds-assist-to-propel-inter-miami-to-victory-over-atlanta-united/",
+    "image_url": null,
+    "title": {
+      "en": "Messi's brace leads Inter Miami past Atlanta 3-1, makes MLS assist history",
+      "zh_hant": "美斯梅開二度助邁阿密3-1勝阿特蘭大 創美職三季15助攻歷史",
+      "zh_hans": "梅西梅开二度助迈阿密3-1胜亚特兰大 创美职三季15助攻历史"
+    },
+    "summary": {
+      "en": "Lionel Messi scored two second-half goals four minutes apart and assisted the opener as Inter Miami cruised to a 3-1 win at Atlanta United. Germán Berterame opened the scoring just before half-time before Messi struck in the 56th and 60th minutes, taking his league-leading tally to 25. Messi also recorded his 15th assist of the season, becoming the first player in MLS history with at least 15 assists in three consecutive seasons.",
+      "zh_hant": "美斯再獻精彩演出，在國際邁阿密作客3比1擊敗阿特蘭大聯的美職賽事中梅開二度。貝特拉梅在上半場補時揭開紀錄，美斯在第56及60分鐘連入兩球，單季累計25球領跑神射榜。他今季同時錄得第15次助攻，與孫興慜並列聯盟第一，成為美職史上首位連續三季錄得至少15次助攻的球員。",
+      "zh_hans": "梅西再献精彩演出，在国际迈阿密作客3比1击败亚特兰大联的美职赛事中梅开二度。贝特拉梅在上半场补时揭开纪录，梅西在第56及60分钟连入两球，单季累计25球领跑射手榜。他今季同时录得第15次助攻，与孙兴慜并列联盟第一，成为美职史上首位连续三季录得至少15次助攻的球员。"
+    },
+    "tags": {
+      "en": [
+        "Messi",
+        "MLS",
+        "Inter Miami"
+      ],
+      "zh_hant": [
+        "美斯",
+        "美職",
+        "國際邁阿密"
+      ],
+      "zh_hans": [
+        "梅西",
+        "美职",
+        "国际迈阿密"
+      ]
+    }
+  },
+  {
     "id": "20261018-roma-2-0-genoa",
     "sport": "football",
     "published_at": "2026-10-18T04:45:00+08:00",
