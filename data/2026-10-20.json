@@ -1,5 +1,119 @@
 [
  {
+  "id": "20261020-monza-4-0-cagliari-serie-a",
+  "sport": "football",
+  "published_at": "2026-10-20T02:23:00+08:00",
+  "source": "Football Italia",
+  "source_url": "https://football-italia.net/serie-a-monza-4-0-cagliari-varela-double/",
+  "image_url": "https://icdn.football-italia.net/wp-content/uploads/2026/10/ac-monza-v-cagliari-calcio-serie-a-2026-27-1.jpg",
+  "title": {
+   "en": "Monza thrash Cagliari 4-0 for first clean sheet of the Serie A season",
+   "zh_hant": "蒙沙4：0大勝卡利亞里　意甲今季首度零封對手",
+   "zh_hans": "蒙沙4：0大胜卡利亚里　意甲今季首度零封对手"
+  },
+  "summary": {
+   "en": "Monza ended Cagliari's four-match unbeaten run with a thumping 4-0 win in Serie A Round 7 at the U-Power Stadium. Eddy Kouadio opened the scoring in the 39th minute, Gustavo Varela struck twice (47', 79') either side of Jay Robinson's 66th-minute goal. It was Monza's first clean sheet of the season, with goalkeeper Noel Törnqvist unbeaten, lifting Ivan Juric's side to seven points while Cagliari stay seventh on 13.",
+   "zh_hant": "意甲第7輪，蒙沙在主場U-Power球場4比0大勝卡利亞里，終止對方4場不敗走勢。艾迪·高亞迪奧39分鐘先開紀錄，古斯達禾·華利拿梅開二度（47及79分鐘），謝·羅賓遜66分鐘亦建一功。蒙沙今季首次零封對手，門將洛爾·托恩基斯力保不失；主帥祖歷的球隊累積7分，卡利亞里則以13分續排第7。",
+   "zh_hans": "意甲第7轮，蒙沙在主场U-Power球场4比0大胜卡利亚里，终止对方4场不败走势。艾迪·高亚迪奥39分钟先开纪录，古斯达禾·华利拿梅开二度（47及79分钟），谢·罗宾逊66分钟亦建一功。蒙沙今季首次零封对手，门将洛尔·托恩基斯力保不失；主帅祖历的球队累积7分，卡利亚里则以13分续排第7。"
+  },
+  "tags": {
+   "en": [
+    "Monza",
+    "Cagliari",
+    "Serie A",
+    "Gustavo Varela"
+   ],
+   "zh_hant": [
+    "蒙沙",
+    "卡利亞里",
+    "意甲",
+    "華利拿"
+   ],
+   "zh_hans": [
+    "蒙沙",
+    "卡利亚里",
+    "意甲",
+    "华利拿"
+   ]
+  }
+ },
+ {
+  "id": "20261020-ma-ka-yin-bowling-world-cup-gold",
+  "sport": "bowling",
+  "published_at": "2026-10-20T01:10:00+08:00",
+  "source": "中國香港保齡球總會",
+  "source_url": "",
+  "image_url": "https://hksports.hk/assets/img/20261020-bowl-ma-podium.jpg",
+  "title": {
+   "en": "Hong Kong's 18-year-old Jovi Ma Wins IBF Bowling World Cup Men's Singles Gold in Munich",
+   "zh_hant": "18歲馬嘉言勇奪IBF保齡球世界盃金牌　港將事隔11年再封王",
+   "zh_hans": "18岁马嘉言勇夺IBF保龄球世界杯金牌　港将事隔11年再封王"
+  },
+  "summary": {
+   "en": "Hong Kong's 18-year-old Jovi Ma won the men's singles gold at the 2026 IBF Bowling World Cup in Munich, beating France's Gregory Rius 2-0 in the final (202:201, 203:198). He is the second Hong Kong bowler to win the World Cup after Wu Siu-hong in 2015.",
+   "zh_hant": "18歲港將馬嘉言在德國慕尼黑舉行的2026 IBF保齡球世界盃男子個人賽決賽，以局數2:0擊敗法國球手Gregory Rius，勇奪金牌。繼胡兆康2015年在美國拉斯維加斯封王后，事隔11年再有香港球手在世界盃男子個人賽奪冠，馬嘉言成為史上第二位世界盃封王的香港球手。",
+   "zh_hans": "18岁港将马嘉言在德国慕尼黑举行的2026 IBF保龄球世界杯男子个人赛决赛，以局数2:0击败法国球手Gregory Rius，勇夺金牌。继胡兆康2015年在美国拉斯维加斯封王后，事隔11年再有香港球手在世界杯男子个人赛夺冠。"
+  },
+  "tags": {
+   "en": [
+    "Bowling",
+    "Jovi Ma",
+    "IBF World Cup",
+    "Hong Kong"
+   ],
+   "zh_hant": [
+    "保齡球",
+    "馬嘉言",
+    "IBF世界盃",
+    "世界冠軍"
+   ],
+   "zh_hans": [
+    "保龄球",
+    "马嘉言",
+    "IBF世界杯",
+    "世界冠军"
+   ]
+  }
+ },
+ {
+  "id": "20261020-shakur-stevenson-zuffa-boxing-release",
+  "sport": "boxing_mma",
+  "published_at": "2026-10-20T00:56:00+08:00",
+  "source": "The Ring",
+  "source_url": "https://www.ringmagazine.com/news/shakur-stevenson-announces-departure-from-zuffa-boxing-5YM2IUd1WVMVss5J3MfaMJ",
+  "image_url": "https://images.ctfassets.net/lg76kxmf55ue/5RGAZ8OK5l9CCKHAA6SV0E/7aa1576f6ef3da4bf480b19fce2e2719/0X8A2297.jpg?w=1200&q=85&fm=jpg",
+  "title": {
+   "en": "Shakur Stevenson granted release from Zuffa Boxing, now a free agent",
+   "zh_hant": "沙古亞·史蒂文森與Zuffa拳擊解約　回復自由身自組推廣公司",
+   "zh_hans": "沙古亚·史蒂文森与Zuffa拳击解约　回复自由身自组推广公司"
+  },
+  "summary": {
+   "en": "Shakur Stevenson (25-0, 11 KOs) has been granted his release from Zuffa Boxing, the Dana White-led promotion he signed with in July, without ever fighting under its banner. The 29-year-old said on YouTube he spent eight weeks in camp for bouts that never materialised; talks with Devin Haney collapsed over a weight and rehydration clause, and negotiations with Gary Antuanne Russell also fell through. Now a free agent, Stevenson plans to start his own promotional company and target fights at 135 and 140 pounds, where he holds The Ring and WBO junior welterweight titles. He last fought on January 31, beating Teofimo Lopez at Madison Square Garden. Zuffa declined to comment.",
+   "zh_hant": "沙古亞·史蒂文森（25勝0負，11次KO）宣布已獲Zuffa拳擊批准解約，結束7月才簽下的合約，期間從未代表該推廣公司上陣。這位29歲拳手在YouTube表示，曾為兩場最終告吹的比賽備戰8星期；與戴文·漢尼的談判因體重及賽後回磅條款破裂，與加利·安東尼·羅素的洽商亦無疾而終。回復自由身的史蒂文森計劃自組推廣公司，目標在135及140磅級別出戰——他在這兩個級別持有《拳擊》雜誌及WBO超輕量級冠軍頭銜。他上一次比賽是1月31日在麥迪遜廣場花園擊敗提奧菲莫·洛佩斯。Zuffa拒絕評論。",
+   "zh_hans": "沙古亚·史蒂文森（25胜0负，11次KO）宣布已获Zuffa拳击批准解约，结束7月才签下的合约，期间从未代表该推广公司上阵。这位29岁拳手在YouTube表示，曾为两场最终告吹的比赛备战8星期；与戴文·汉尼的谈判因体重及赛后回磅条款破裂，与加利·安东尼·罗素的洽商亦无疾而终。回复自由身的史蒂文森计划自组推广公司，目标在135及140磅级别出战——他在这些级别持有《拳击》杂志及WBO超轻量级冠军头衔。他上一次比赛是1月31日在麦迪逊广场花园击败提奥菲莫·洛佩斯。Zuffa拒绝评论。"
+  },
+  "tags": {
+   "en": [
+    "Shakur Stevenson",
+    "Zuffa Boxing",
+    "boxing",
+    "free agent"
+   ],
+   "zh_hant": [
+    "沙古亞·史蒂文森",
+    "Zuffa拳擊",
+    "拳擊",
+    "自由身"
+   ],
+   "zh_hans": [
+    "沙古亚·史蒂文森",
+    "Zuffa拳击",
+    "拳击",
+    "自由身"
+   ]
+  }
+ },
+ {
   "id": "20261020-asian-para-games-hk-3-medals",
   "sport": "others",
   "published_at": "2026-10-20T00:30:00+08:00",
@@ -42,40 +156,163 @@
   }
  },
  {
-  "id": "20261020-ma-ka-yin-bowling-world-cup-gold",
-  "sport": "bowling",
-  "published_at": "2026-10-20T01:10:00+08:00",
-  "source": "中國香港保齡球總會",
-  "source_url": "",
-  "image_url": "https://hksports.hk/assets/img/20261020-bowl-ma-podium.jpg",
+  "id": "20261020-nba-simmons-achilles-out-season",
+  "sport": "basketball",
+  "published_at": "2026-10-19T20:42:00+08:00",
+  "source": "NBC Sports",
+  "source_url": "https://www.nbcsports.com/nba/news/2026-27-nba-news-injury-updates-oct-19-ben-simmons-tears-achilles-stephen-curry-tweaks-ankle",
+  "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/5fa7db9/2147483647/strip/true/crop/6929x3898+0+361/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2F84%2F32deed414bcf8b19853e11d5d7c9%2F2299203831.jpg",
   "title": {
-   "en": "Hong Kong's 18-year-old Jovi Ma Wins IBF Bowling World Cup Men's Singles Gold in Munich",
-   "zh_hant": "18歲馬嘉言勇奪IBF保齡球世界盃金牌　港將事隔11年再封王",
-   "zh_hans": "18岁马嘉言勇夺IBF保龄球世界杯金牌　港将事隔11年再封王"
+   "en": "Ben Simmons tears Achilles in practice, out for entire NBA season; Curry tweaks ankle",
+   "zh_hant": "施蒙斯操練斷跟腱整季報銷　居里足踝輕傷料無大礙",
+   "zh_hans": "施蒙斯操练断跟腱整季报销　居里足踝轻伤料无大碍"
   },
   "summary": {
-   "en": "Hong Kong's 18-year-old Jovi Ma won the men's singles gold at the 2026 IBF Bowling World Cup in Munich, beating France's Gregory Rius 2-0 in the final (202:201, 203:198). He is the second Hong Kong bowler to win the World Cup after Wu Siu-hong in 2015.",
-   "zh_hant": "18歲港將馬嘉言在德國慕尼黑舉行的2026 IBF保齡球世界盃男子個人賽決賽，以局數2:0擊敗法國球手Gregory Rius，勇奪金牌。繼胡兆康2015年在美國拉斯維加斯封王后，事隔11年再有香港球手在世界盃男子個人賽奪冠，馬嘉言成為史上第二位世界盃封王的香港球手。",
-   "zh_hans": "18岁港将马嘉言在德国慕尼黑举行的2026 IBF保龄球世界杯男子个人赛决赛，以局数2:0击败法国球手Gregory Rius，勇夺金牌。继胡兆康2015年在美国拉斯维加斯封王后，事隔11年再有香港球手在世界杯男子个人赛夺冠。"
+   "en": "Sacramento's Ben Simmons, 30, tore his right Achilles tendon in Sunday's practice and will miss the entire 2026-27 season after surgery. The expected starter had averaged 10.5 points, 4 rebounds and 4 assists in 17.4 minutes across preseason games. Stephen Curry tweaked his ankle in open practice but coach Steve Kerr said he is fine, with the Warriors opening Wednesday against the Lakers. Elsewhere, Cason Wallace agreed a five-year, $139 million extension with the Thunder, Denver's Julian Strawther is out about six weeks with a sprained left knee, and Thunder rookie Otega Oweh also tore his Achilles and is out for the season. Opening Night on Tuesday (NBC): Celtics-Pistons, 76ers-Knicks and Thunder-Spurs.",
+   "zh_hant": "帝王球員賓·施蒙斯（30歲）在周日操練中右跟腱斷裂，接受手術後將缺席整個2026-27球季。這位預定正選在季前賽平均上陣17.4分鐘，交出10.5分、4籃板、4助攻。史提芬·居里在公開操練輕微扭傷足踝，但教練卡爾表示並無大礙，勇士周三將對湖人揭開新球季。其他消息：卡臣·禾利士與雷霆達成5年1.39億美元續約；金塊的朱利安·史卓達左膝扭傷缺陣約6星期；雷霆新秀奧迪加·奧維亦斷跟腱整季報銷。周二開幕夜（NBC直播）：塞爾特人對活塞、76人對尼克斯、雷霆對馬刺。",
+   "zh_hans": "帝王球员宾·施蒙斯（30岁）在周日操练中右跟腱断裂，接受手术后将缺席整个2026-27球季。这位预定正选在季前赛平均上阵17.4分钟，交出10.5分、4篮板、4助攻。史提芬·居里在公开操练轻微扭伤足踝，但教练卡尔表示并无大碍，勇士周三将对湖人揭开新球季。其他消息：卡臣·禾利士与雷霆达成5年1.39亿美元续约；金块的朱利安·史卓达左膝扭伤缺阵约6星期；雷霆新秀奥迪加·奥维亦断跟腱整季报销。周二开幕夜（NBC直播）：塞尔特人对活塞、76人对尼克斯、雷霆对马刺。"
   },
   "tags": {
    "en": [
-    "Bowling",
-    "Jovi Ma",
-    "IBF World Cup",
+    "Ben Simmons",
+    "NBA",
+    "Stephen Curry",
+    "injuries",
+    "Sacramento Kings"
+   ],
+   "zh_hant": [
+    "賓·施蒙斯",
+    "NBA",
+    "史提芬·居里",
+    "傷患",
+    "帝王"
+   ],
+   "zh_hans": [
+    "宾·施蒙斯",
+    "NBA",
+    "史提芬·居里",
+    "伤患",
+    "帝王"
+   ]
+  }
+ },
+ {
+  "id": "20261020-cheung-ka-wai-stuns-osullivan-ni-open",
+  "sport": "snooker",
+  "published_at": "2026-10-19T19:25:00+08:00",
+  "source": "TNT Sports",
+  "source_url": "https://www.tntsports.co.uk/snooker/betvictor-northern-ireland-open/2026/northern-ireland-open-2006-wu-yize-barry-hawkins-and-luca-brecel-in-action-ronnie-osullivan-and-kyren-wilson-to-follow_lci50030607/liveevent.shtml",
+  "image_url": null,
+  "title": {
+   "en": "Hong Kong's Cheung Ka Wai stuns Ronnie O'Sullivan 4-3 at Northern Ireland Open",
+   "zh_hant": "港將張家瑋4：3爆冷淘汰奧蘇利雲　北愛爾蘭公開賽晉級",
+   "zh_hans": "港将张家玮4：3爆冷淘汰奥苏利云　北爱尔兰公开赛晋级"
+  },
+  "summary": {
+   "en": "Hong Kong qualifier Cheung Ka Wai, the world No.110, stunned Ronnie O'Sullivan 4-3 in the first round of the Northern Ireland Open at Belfast's Waterfront Hall, coming from 1-3 down for his first main-draw knockout win at a ranking event. The 27-year-old made breaks of 88, 77 and 60, while O'Sullivan responded with 56, a 138 total clearance and 72. Elsewhere on the day, Kyren Wilson beat Ben Mertens 4-0, Luca Brecel saw off Lei Peifan 4-1, and Barry Hawkins lost 2-4 to Daniel Wells.",
+   "zh_hant": "世界排名110位的香港球手張家瑋，在貝爾法斯特Waterfront Hall舉行的北愛爾蘭公開賽首圈，在落後1比3下反勝4比3爆冷淘汰「火箭」奧蘇利雲，取得個人在排名賽正賽的首場淘汰賽勝利。這位27歲港將打出88、77及60度，奧蘇利雲則有56度、138度一桿清枱及72度。同日其他賽果：基倫·威爾遜4比0勝賓·梅爾滕斯，盧卡·佈雷切爾4比1勝雷佩凡，巴里·霍金斯2比4不敵丹尼爾·韋爾斯。",
+   "zh_hans": "世界排名110位的香港球手张家玮，在贝尔法斯特Waterfront Hall举行的北爱尔兰公开赛首圈，在落后1比3下反胜4比3爆冷淘汰「火箭」奥苏利云，取得个人在排名赛正赛的首场淘汰赛胜利。这位27岁港将打出88、77及60度，奥苏利云则有56度、138度一杆清枱及72度。同日其他赛果：基伦·威尔逊4比0胜宾·梅尔滕斯，卢卡·布雷切尔4比1胜雷佩凡，巴里·霍金斯2比4不敌丹尼尔·韦尔斯。"
+  },
+  "tags": {
+   "en": [
+    "Cheung Ka Wai",
+    "Ronnie O'Sullivan",
+    "snooker",
+    "Northern Ireland Open",
     "Hong Kong"
    ],
    "zh_hant": [
-    "保齡球",
-    "馬嘉言",
-    "IBF世界盃",
-    "世界冠軍"
+    "張家瑋",
+    "奧蘇利雲",
+    "桌球",
+    "北愛爾蘭公開賽",
+    "香港"
    ],
    "zh_hans": [
-    "保龄球",
-    "马嘉言",
-    "IBF世界杯",
-    "世界冠军"
+    "张家玮",
+    "奥苏利云",
+    "台球",
+    "北爱尔兰公开赛",
+    "香港"
+   ]
+  }
+ },
+ {
+  "id": "20261020-hk-underwater-hockey-tournament",
+  "sport": "others",
+  "published_at": "2026-10-19T16:05:00+08:00",
+  "source": "tob.news（轉載 AFP）",
+  "source_url": "https://tob.news/underwater-hockey-draws-players-from-across-asia-to-hong-kong/",
+  "image_url": "https://tob.news/wp-content/uploads/2026/10/Underwater-hockey-Hong-Kong.jpg",
+  "title": {
+   "en": "Underwater hockey draws players from across Asia to Hong Kong",
+   "zh_hant": "水下曲棍球賽一連三日香港上演　吸引亞洲多國選手參加",
+   "zh_hans": "水下曲棍球赛一连三日香港上演　吸引亚洲多国选手参加"
+  },
+  "summary": {
+   "en": "Hong Kong hosted its annual underwater hockey tournament from October 17 to 19, drawing players from across Asia to what participants call 'physical hell'. Among them were Japan-New Zealand's Leo Lines of Hokkaido, Hong Kong-based Polish scholar Rita Frieske, Malaysia's Hui Chin Teoh and coach-tournament director Nowie Ignacio. Played six-a-side with no goalkeeper over 30 minutes, underwater hockey was invented in Britain in 1954 as 'octopush' to keep divers fit through winter; it is IOC-recognised and debuted at the 2019 Southeast Asian Games. Players are now targeting the Elite world championships in France next April, with about 20 nations expected, and dream of Olympic inclusion.",
+   "zh_hant": "香港一連三日（10月17至19日）舉行年度水下曲棍球賽，吸引亞洲多國選手來港，被參賽者形容為「physical hell」。參賽者包括居於北海道的日新混血球手Leo Lines、旅港波蘭學者Rita Frieske、馬來西亞球手Hui Chin Teoh，以及身兼主教練及賽事總監的Nowie Ignacio。水下曲棍球每隊6人、沒有龍門，比賽30分鐘；1954年在英國發明，原名「octopush」，初衷是讓潛水員在冬天維持體能；現獲國際奧委會認可，2019年首次登上東南亞運動會。選手現以明年4月在法國舉行的Elite世界錦標賽為目標，預計約20國參加，終極夢想是打入奧運。",
+   "zh_hans": "香港一连三日（10月17至19日）举行年度水下曲棍球赛，吸引亚洲多国选手来港，被参赛者形容为「physical hell」。参赛者包括居于北海道的日新混血球手Leo Lines、旅港波兰学者Rita Frieske、马来西亚球手Hui Chin Teoh，以及身兼主教练及赛事总监的Nowie Ignacio。水下曲棍球每队6人、没有龙门，比赛30分钟；1954年在英国发明，原名「octopush」，初衷是让潜水员在冬天维持体能；现获国际奥委会认可，2019年首次登上东南亚运动会。选手现以明年4月在法国举行的Elite世界锦标赛为目标，预计约20国参加，终极梦想是打入奥运。"
+  },
+  "tags": {
+   "en": [
+    "underwater hockey",
+    "Hong Kong",
+    "AFP",
+    "octopush"
+   ],
+   "zh_hant": [
+    "水下曲棍球",
+    "香港",
+    "法新社",
+    "octopush"
+   ],
+   "zh_hans": [
+    "水下曲棍球",
+    "香港",
+    "法新社",
+    "octopush"
+   ]
+  }
+ },
+ {
+  "id": "20261020-jodar-chwalinska-world-no-11",
+  "sport": "tennis",
+  "published_at": "2026-10-19T14:30:00+08:00",
+  "source": "TennisUpToDate",
+  "source_url": "https://tennisuptodate.com/tennis-news/two-careers-one-number-how-rafael-jodar-and-maja-chwalinska-climbed-from-outside-the-top-140-to-no-11",
+  "image_url": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Ftennisuptodate.com%2Fimages%2F2026-10%2Fcollage-chwalinskajodar-6ad568163ba0d.png",
+  "title": {
+   "en": "Jodar and Chwalinska both climb to career-high world No. 11",
+   "zh_hant": "祖達與赫瓦林斯卡齊創新高　同登世界排名第11位",
+   "zh_hans": "祖达与赫瓦林斯卡齐创新高　同登世界排名第11位"
+  },
+  "summary": {
+   "en": "Spain's Rafael Jodar, 20, and Poland's Maja Chwalinska, 25, have both reached a career-high world No. 11 in this week's rankings. Jodar soared from No. 165 after losing the Shanghai final to Alejandro Davidovich Fokina 1-6, 7-6(5), 6-4. Chwalinska jumped from No. 146 into the top 20 for the first time after winning Wuhan 2-6, 6-4, 6-2 over Sonay Kartal for her maiden WTA 1000 title. Davidovich Fokina hit a career-high No. 13, Medvedev rose to No. 5 and Djokovic slipped four places to No. 12, while Kartal leapt from No. 170 to No. 49. Chwalinska has withdrawn from Ningbo with a left thigh injury and Kartal from Osaka with a knee problem.",
+   "zh_hant": "20歲西班牙球手拉菲爾·祖達與25歲波蘭球手瑪雅·赫瓦林斯卡，在今周公布的世界排名同創新高並列第11位。祖達在上海決賽以1比6、7比6（5）、4比6不敵阿歷贊度·達維多域治·科傑拿後，從165位急升至11位。赫瓦林斯卡則在武漢決賽以2比6、6比4、6比2擊敗索奈·卡達爾，贏得個人首個WTA 1000冠軍，從146位躍升至11位，首次打入世界前20。達維多域治·科傑拿升上生涯新高13位，梅德韋傑夫升至第5，祖高域跌4位至第12，卡達爾則由170位升上49位。赫瓦林斯卡因左大腿傷退出寧波站，卡達爾因膝傷退出大阪站。",
+   "zh_hans": "20岁西班牙球手拉菲尔·祖达与25岁波兰球手玛雅·赫瓦林斯卡，在今周公布的世界排名同创新高并列第11位。祖达在上海决赛以1比6、7比6（5）、4比6不敌阿历赞度·达维多域治·科杰拿后，从165位急升至11位。赫瓦林斯卡则在武汉决赛以2比6、6比4、6比2击败索奈·卡达尔，赢得个人首个WTA 1000冠军，从146位跃升至11位，首次打入世界前20。达维多域治·科杰拿升上生涯新高13位，梅德韦杰夫升至第5，祖高域跌4位至第12，卡达尔则由170位升上49位。赫瓦林斯卡因左大腿伤退出宁波站，卡达尔因膝伤退出大阪站。"
+  },
+  "tags": {
+   "en": [
+    "Rafael Jodar",
+    "Maja Chwalinska",
+    "tennis rankings",
+    "WTA",
+    "ATP"
+   ],
+   "zh_hant": [
+    "祖達",
+    "赫瓦林斯卡",
+    "網球排名",
+    "WTA",
+    "ATP"
+   ],
+   "zh_hans": [
+    "祖达",
+    "赫瓦林斯卡",
+    "网球排名",
+    "WTA",
+    "ATP"
    ]
   }
  }
