@@ -40,5 +40,43 @@
     "残疾人运动会"
    ]
   }
+ },
+ {
+  "id": "20261020-ma-ka-yin-bowling-world-cup-gold",
+  "sport": "bowling",
+  "published_at": "2026-10-20T01:10:00+08:00",
+  "source": "中國香港保齡球總會",
+  "source_url": "",
+  "image_url": "https://hksports.hk/assets/img/20261020-bowl-ma-podium.jpg",
+  "title": {
+   "en": "Hong Kong's 18-year-old Jovi Ma Wins IBF Bowling World Cup Men's Singles Gold in Munich",
+   "zh_hant": "18歲馬嘉言勇奪IBF保齡球世界盃金牌　港將事隔11年再封王",
+   "zh_hans": "18岁马嘉言勇夺IBF保龄球世界杯金牌　港将事隔11年再封王"
+  },
+  "summary": {
+   "en": "Hong Kong's 18-year-old Jovi Ma won the men's singles gold at the 2026 IBF Bowling World Cup in Munich, beating France's Gregory Rius 2-0 in the final (202:201, 203:198). He is the second Hong Kong bowler to win the World Cup after Wu Siu-hong in 2015.",
+   "zh_hant": "18歲港將馬嘉言在德國慕尼黑舉行的2026 IBF保齡球世界盃男子個人賽決賽，以局數2:0擊敗法國球手Gregory Rius，勇奪金牌。繼胡兆康2015年在美國拉斯維加斯封王后，事隔11年再有香港球手在世界盃男子個人賽奪冠，馬嘉言成為史上第二位世界盃封王的香港球手。",
+   "zh_hans": "18岁港将马嘉言在德国慕尼黑举行的2026 IBF保龄球世界杯男子个人赛决赛，以局数2:0击败法国球手Gregory Rius，勇夺金牌。继胡兆康2015年在美国拉斯维加斯封王后，事隔11年再有香港球手在世界杯男子个人赛夺冠。"
+  },
+  "tags": {
+   "en": [
+    "Bowling",
+    "Jovi Ma",
+    "IBF World Cup",
+    "Hong Kong"
+   ],
+   "zh_hant": [
+    "保齡球",
+    "馬嘉言",
+    "IBF世界盃",
+    "世界冠軍"
+   ],
+   "zh_hans": [
+    "保龄球",
+    "马嘉言",
+    "IBF世界杯",
+    "世界冠军"
+   ]
+  }
  }
 ]
