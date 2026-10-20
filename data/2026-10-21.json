@@ -74,5 +74,40 @@
     "门票"
    ]
   }
+ },
+ {
+  "id": "20261020-hk-youth-women-basketball-65-61-guangxi",
+  "sport": "basketball",
+  "published_at": "2026-10-20T21:54:00+08:00",
+  "source": "新浪體育",
+  "source_url": "https://sports.sina.cn/nba/other/2026-10-20/detail-inivwuif5747081.d.html",
+  "image_url": null,
+  "title": {
+   "en": "HK youth women's basketball beats Guangxi 65-61 in National Youth Ball Games qualifiers",
+   "zh_hant": "全國青少年三大球運動會　香港青年女籃65：61險勝廣西",
+   "zh_hans": "全国青少年三大球运动会　香港青年女篮65：61险胜广西"
+  },
+  "summary": {
+   "en": "Hong Kong's youth women's basketball team edged Guangxi 65-61 in Group A action in Jingdezhen, Jiangxi on day three of the women's basketball qualifiers for the 3rd National Youth Three-Ball Games. Law Cheuk-wing led all scorers with 22 points and 8 rebounds, with Leung Sui-yan adding 13 and Wong Tsz-ling 11; Guangxi's Meng Yanfeng scored 20 and Zeng Xiaohuan 19. Qualifiers are under way across four zones.",
+   "zh_hant": "第三屆全國青少年三大球運動會女籃資格賽第三比賽日，香港青年女籃在江西景德鎮賽區A組以65：61險勝廣西。羅卓穎攻入全場最高22分兼搶8個籃板，梁瑞昕得13分、黃子玲添11分；廣西的蒙燕鳳得20分、曾小桓19分。四個賽區的資格賽正在火熱進行中，各組爭取晉級席位。",
+   "zh_hans": "第三届全国青少年三大球运动会女篮资格赛第三比赛日，香港青年女篮在江西景德镇赛区A组以65：61险胜广西。罗卓颖攻入全场最高22分兼抢8个篮板，梁瑞昕得13分、黄子玲添11分；广西的蒙燕凤得20分、曾小桓19分。四个赛区的资格赛正在火热进行中，各组争取晋级席位。"
+  },
+  "tags": {
+   "en": [
+    "basketball",
+    "HK youth team",
+    "National Youth Ball Games"
+   ],
+   "zh_hant": [
+    "籃球",
+    "香港青年隊",
+    "三大球運動會"
+   ],
+   "zh_hans": [
+    "篮球",
+    "香港青年队",
+    "三大球运动会"
+   ]
+  }
  }
 ]
