@@ -1,5 +1,81 @@
 [
  {
+  "id": "20261020-tottenham-3-1-coventry-first-pl-win",
+  "sport": "football",
+  "published_at": "2026-10-20T05:03:00+08:00",
+  "source": "VAVEL",
+  "source_url": "https://www.vavel.com/en-us/soccer/2026/10/19/1275751-tottenham-vs-coventry-city-live-score-premier-league.html",
+  "image_url": null,
+  "title": {
+   "en": "Tottenham beat Coventry 3-1 for first Premier League win of the season",
+   "zh_hant": "熱刺3：1擊敗高雲地利　取得今季英超首勝",
+   "zh_hans": "热刺3：1击败高云地利　取得今季英超首胜"
+  },
+  "summary": {
+   "en": "Tottenham Hotspur beat Coventry City 3-1 at home in Premier League Round 7 for their first league win of the season. James Maddison curled in a superb opener in the 13th minute, but Jack Rudoni equalised for the visitors four minutes after the restart. Omar Marmoush restored the lead in the 58th minute with another fine curling effort — his first goal in Tottenham colours — and Ben Davies sealed the win in the 95th. Roberto De Zerbi's side climb to 16th with six points; Coventry stay 17th on the same tally. Swedish midfielder Dejan Kulusevski came off the bench for his first appearance in 526 days after a long injury layoff.",
+   "zh_hant": "英超第7輪，熱刺主場3比1擊敗高雲地利，取得今季聯賽首勝。麥迪臣13分鐘以一記弧線球世界波先開紀錄，高雲地利換邊後4分鐘由魯當尼扳平；馬莫殊58分鐘再以漂亮弧線球為主隊領先，取得加盟熱刺後首個入球，賓·戴維斯補時95分鐘鎖定勝局。迪斯比麾下的熱刺以6分升上第16位，高雲地利同得6分排第17。瑞典中場古路施夫斯基後備上陣，是他因傷缺陣526日後首次亮相。",
+   "zh_hans": "英超第7轮，热刺主场3比1击败高云地利，取得今季联赛首胜。麦迪臣13分钟以一记弧线球世界波先开纪录，高云地利换边后4分钟由鲁当尼扳平；马莫殊58分钟再以漂亮弧线球为主队领先，取得加盟热刺后首个入球，宾·戴维斯补时95分钟锁定胜局。迪斯比麾下的热刺以6分升上第16位，高云地利同得6分排第17。瑞典中场古路施夫斯基后备上阵，是他因伤缺阵526日后首次亮相。"
+  },
+  "tags": {
+   "en": [
+    "Tottenham",
+    "Premier League",
+    "Maddison",
+    "Coventry"
+   ],
+   "zh_hant": [
+    "熱刺",
+    "英超",
+    "麥迪臣",
+    "高雲地利"
+   ],
+   "zh_hans": [
+    "热刺",
+    "英超",
+    "麦迪臣",
+    "高云地利"
+   ]
+  }
+ },
+ {
+  "id": "20261020-parma-0-3-torino-serie-a",
+  "sport": "football",
+  "published_at": "2026-10-20T03:45:00+08:00",
+  "source": "Sports Mole",
+  "source_url": "https://www.sportsmole.co.uk/football/serie-a/parma-vs-torino_game_260402.html",
+  "image_url": null,
+  "title": {
+   "en": "Torino cruise to 3-0 win at Parma as Simeone scores twice",
+   "zh_hant": "拖連奴作客3：0大勝帕爾馬　施蒙尼梅開二度",
+   "zh_hans": "拖连奴作客3：0大胜帕尔马　施蒙尼梅开二度"
+  },
+  "summary": {
+   "en": "Torino cruised to a 3-0 win at Parma in Monday's Serie A Round 7 finale. Giovanni Simeone struck after just four minutes, Ché Adams doubled the lead in the 24th, and Simeone completed his brace in the 69th minute. Torino led 2-0 at half-time at the Stadio Ennio Tardini. Parma have scored only four goals in seven rounds and remain mired near the relegation zone.",
+   "zh_hant": "意甲第7輪周一尾場，拖連奴作客3比0大勝帕爾馬。施蒙尼開賽僅4分鐘先拔頭籌，車·阿當斯24分鐘擴大比數，施蒙尼69分鐘梅開二度鎖定勝局。拖連奴半場已領先2比0。帕爾馬7輪僅入4球，繼續在降班區邊緣掙扎。",
+   "zh_hans": "意甲第7轮周一尾场，拖连奴作客3比0大胜帕尔马。施蒙尼开赛仅4分钟先拔头筹，车·阿当斯24分钟扩大比分，施蒙尼69分钟梅开二度锁定胜局。拖连奴半场已领先2比0。帕尔马7轮仅入4球，继续在降班区边缘挣扎。"
+  },
+  "tags": {
+   "en": [
+    "Torino",
+    "Parma",
+    "Serie A",
+    "Simeone"
+   ],
+   "zh_hant": [
+    "拖連奴",
+    "帕爾馬",
+    "意甲",
+    "施蒙尼"
+   ],
+   "zh_hans": [
+    "拖连奴",
+    "帕尔马",
+    "意甲",
+    "施蒙尼"
+   ]
+  }
+ },
+ {
   "id": "20261020-monza-4-0-cagliari-serie-a",
   "sport": "football",
   "published_at": "2026-10-20T02:23:00+08:00",
