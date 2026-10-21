@@ -311,5 +311,46 @@
     "福登"
    ]
   }
+ },
+ {
+  "id": "20261021-para-fencing-swimming-4-medals",
+  "sport": "others",
+  "published_at": "2026-10-21T23:18:00+08:00",
+  "source": "政府新聞處",
+  "source_url": "https://www.info.gov.hk/gia/general/202610/21/P2026102100915.htm",
+  "image_url": null,
+  "title": {
+   "en": "Hong Kong adds four Asian Para Games medals in fencing and swimming, taking single-day haul to nine",
+   "zh_hant": "亞殘運劍擊游泳再添4獎牌　余翠怡湯雅婷奪銅　吳卓恩破紀錄摘銀",
+   "zh_hans": "亚残运剑击游泳再添4奖牌　余翠怡汤雅婷夺铜　吴卓恩破纪录摘银"
+  },
+  "summary": {
+   "en": "Hong Kong's athletes added four more medals at the Aichi-Nagoya Asian Para Games on Wednesday in fencing and swimming. In wheelchair fencing, Yu Chui-yee took bronze in the women's epee individual Category A and Tong Nga-ting claimed bronze in Category B. In the pool, Ng Cheuk-yan broke her personal record to win silver in the women's 50m butterfly S7, while Hung Wing-long swam his best to take bronze in the men's 100m breaststroke SB14. Together with the five boccia medals won earlier in the day, including Vivian Lau's gold, the Hong Kong, China delegation collected nine medals in a single day, bringing its Games total to 21 — one gold, eight silver and 12 bronze.",
+   "zh_hant": "愛知名古屋亞殘運港隊今日在劍擊及游泳項目再添四面獎牌。輪椅劍擊方面，「劍后」余翠怡在女子A級重劍個人賽奪得銅牌，湯雅婷在女子B級重劍個人賽同獲銅牌。游泳方面，吳卓恩打破個人紀錄，在女子50米蝶泳S7級摘得銀牌；洪詠龍在男子100米蛙泳SB14級游出最佳表現奪得銅牌。連同硬地滾球項目早前奪得的五面獎牌（包括劉慧茵的金牌），中國香港代表團單日合共收穫九面獎牌，累計獎牌增至21面（1金8銀12銅）。",
+   "zh_hans": "爱知名古屋亚残运港队今日在剑击及游泳项目再添四面奖牌。轮椅剑击方面，「剑后」余翠怡在女子A级重剑个人赛夺得铜牌，汤雅婷在女子B级重剑个人赛同获铜牌。游泳方面，吴卓恩打破个人纪录，在女子50米蝶泳S7级摘得银牌；洪咏龙在男子100米蛙泳SB14级游出最佳表现夺得铜牌。连同硬地滚球项目早前夺得的五面奖牌（包括刘慧茵的金牌），中国香港代表团单日合共收获九面奖牌，累计奖牌增至21面（1金8银12铜）。"
+  },
+  "tags": {
+   "en": [
+    "Asian Para Games",
+    "fencing",
+    "swimming",
+    "Yu Chui-yee",
+    "Ng Cheuk-yan"
+   ],
+   "zh_hant": [
+    "亞殘運",
+    "劍擊",
+    "游泳",
+    "余翠怡",
+    "吳卓恩"
+   ],
+   "zh_hans": [
+    "亚残运",
+    "剑击",
+    "游泳",
+    "余翠怡",
+    "吴卓恩"
+   ]
+  }
  }
 ]
