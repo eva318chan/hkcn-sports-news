@@ -858,5 +858,81 @@
     "冠军"
    ]
   }
+ },
+ {
+  "id": "20261023-scst-para-games-six-medals",
+  "sport": "others",
+  "published_at": "2026-10-23T22:07:00+08:00",
+  "source": "政府新聞處新聞公報",
+  "source_url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300807.htm",
+  "image_url": null,
+  "title": {
+   "en": "Hong Kong adds six more medals at Asian Para Games; tally hits 36",
+   "zh_hant": "港隊亞殘運再添六獎牌　陳睿琳奪銀　獎牌累計36面",
+   "zh_hans": "港队亚残运再添六奖牌　陈睿琳夺银　奖牌累计36面"
+  },
+  "summary": {
+   "en": "The Secretary for Culture, Sports and Tourism, Rosanna Law, tonight congratulated the Hong Kong, China delegation on winning six more medals at the 5th Asian Para Games in Nagoya. Swimmer Chan Yui-lam won silver in the women's 200m individual medley SM14, adding to her earlier butterfly, backstroke and relay medals. The table tennis team took two silvers and two bronzes across four doubles events, while fencer Yu Chui-yee added bronze in the women's sabre category A individual. The delegation's tally now stands at 36 medals — two gold, 13 silver and 21 bronze — with the Games closing on October 24.",
+   "zh_hant": "文化體育及旅遊局局長羅淑佩今晚祝賀中國香港代表團，在名古屋第五屆亞殘運單日再添六面獎牌。泳手陳睿琳在女子200米個人四式SM14級奪銀，連同早前的蝶泳、背泳及接力獎牌，展現全能實力。乒乓球隊在四個雙打項目贏得兩銀兩銅；輪椅劍擊手余翠怡在女子佩劍A級個人賽再添銅牌。港隊累計獎牌達36面：兩金13銀21銅，賽事明日（10月24日）煞科，劍擊及硬地滾球港將將繼續作賽。",
+   "zh_hans": "文化体育及旅游局局长罗淑佩今晚祝贺中国香港代表团，在名古屋第五届亚残运单日再添六面奖牌。泳手陈睿琳在女子200米个人四式SM14级夺银，连同早前的蝶泳、背泳及接力奖牌，展现全能实力。乒乓球队在四个双打项目赢得两银两铜；轮椅击剑手余翠怡在女子佩剑A级个人赛再添铜牌。港队累计奖牌达36面：两金13银21铜，赛事明日（10月24日）煞科，击剑及硬地滚球港将将继续作赛。"
+  },
+  "tags": {
+   "en": [
+    "Asian Para Games",
+    "Hong Kong China",
+    "Chan Yui-lam",
+    "medals"
+   ],
+   "zh_hant": [
+    "亞殘運",
+    "中國香港",
+    "陳睿琳",
+    "獎牌"
+   ],
+   "zh_hans": [
+    "亚残运",
+    "中国香港",
+    "陈睿琳",
+    "奖牌"
+   ]
+  }
+ },
+ {
+  "id": "20261023-tong-nga-ting-flagbearer-closing",
+  "sport": "others",
+  "published_at": "2026-10-23T23:02:00+08:00",
+  "source": "HK Businesswire",
+  "source_url": "https://hkbusinesswire.com/fencer-tong-named-flagbearer-at-para-games-closing/",
+  "image_url": null,
+  "title": {
+   "en": "Para fencer Tong Nga-ting named Hong Kong flagbearer for Asian Para Games closing ceremony",
+   "zh_hant": "輪椅劍擊手湯雅婷膺亞殘運閉幕禮港隊持旗手",
+   "zh_hans": "轮椅击剑手汤雅婷膺亚残运闭幕礼港队持旗手"
+  },
+  "summary": {
+   "en": "Wheelchair fencer Tong Nga-ting has been named Hong Kong, China's flagbearer for the closing ceremony of the Asian Para Games on Saturday, the China Hong Kong Paralympic Committee announced on social media. Tong has been outstanding in Nagoya, capturing three medals: silver in the women's foil team and women's épée team events, and bronze in the women's épée individual category B. The Hong Kong, China delegation has won two gold, 13 silver and 21 bronze medals so far.",
+   "zh_hant": "輪椅劍擊手湯雅婷獲選為周六（10月24日）亞殘運閉幕禮中國香港代表團持旗手，中國香港殘疾人奧委會在社交媒體公布。湯雅婷今屆表現出色，共奪三面獎牌：女子花劍團體及女子重劍團體銀牌，以及女子重劍個人B級銅牌。中國香港代表團至今累計兩金13銀21銅。",
+   "zh_hans": "轮椅击剑手汤雅婷获选为周六（10月24日）亚残运闭幕礼中国香港代表团持旗手，中国香港残疾人奥委会社交媒体公布。汤雅婷今届表现出色，共夺三面奖牌：女子花剑团体及女子重剑团体银牌，以及女子重剑个人B级铜牌。中国香港代表团至今累计两金13银21铜。"
+  },
+  "tags": {
+   "en": [
+    "Tong Nga-ting",
+    "flagbearer",
+    "Asian Para Games",
+    "fencing"
+   ],
+   "zh_hant": [
+    "湯雅婷",
+    "持旗手",
+    "亞殘運",
+    "輪椅劍擊"
+   ],
+   "zh_hans": [
+    "汤雅婷",
+    "持旗手",
+    "亚残运",
+    "轮椅击剑"
+   ]
+  }
  }
 ]
