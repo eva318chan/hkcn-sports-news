@@ -577,5 +577,248 @@
         "网球"
       ]
     }
+  },
+  {
+    "id": "20261023-cheung-leads-hk-open-r2",
+    "sport": "golf",
+    "published_at": "2026-10-23T17:00:00+08:00",
+    "source": "Asian Tour",
+    "source_url": "https://wp-asiantour.ocs-sport.com/blog/author/simon/",
+    "image_url": null,
+    "title": {
+      "en": "Matthew Cheung fires bogey-free 62 to lead Hong Kong Open by three",
+      "zh_hant": "張雄熙次輪62桿無柏忌　香港公開賽領先3桿爭首位港將冠軍",
+      "zh_hans": "张雄熙次轮62杆无柏忌　香港公开赛领先3杆争首位港将冠军"
+    },
+    "summary": {
+      "en": "Hong Kong's Matthew Cheung carded a bogey-free eight-under 62 in Friday's second round of the Hong Kong Open, with one eagle and six birdies, to lead on 14-under after rounds of 64 and 62 — three shots clear as he chases a first Hong Kong winner in the tournament's 65-year history. American Caleb Surratt also shot 62 to sit second alone. Overnight leader Anirban Lahiri of India shot 68, England's Steve Lewton 65 and Thailand's Jazz Janewattananond 67 to share third, one behind Surratt. The winner earns exemptions into next year's Masters and The Open.",
+      "zh_hant": "香港球手張雄熙在香港高爾夫球公開賽次輪打出無柏忌的8-under 62桿，包括一隻老鷹及六隻小鳥，兩輪64+62以低於標準14桿領先3桿，力爭成為賽事65年歷史上首位香港冠軍。美國的Caleb Surratt同樣打出62桿獨居第二；首輪領先的印度Anirban Lahiri次輪68桿、英格蘭Steve Lewton 65桿、泰國Jazz Janewattananond 67桿，三人並列第三，落後Surratt一桿。冠軍將獲明年Masters及英國公開賽入場券。",
+      "zh_hans": "香港球手张雄熙在香港高尔夫球公开赛次轮打出无柏忌的8-under 62杆，包括一只老鹰及六只小鸟，两轮64+62以低于标准14杆领先3杆，力争成为赛事65年历史上首位香港冠军。美国的Caleb Surratt同样打出62杆独居第二；首轮领先的印度Anirban Lahiri次轮68杆、英格兰Steve Lewton 65杆、泰国Jazz Janewattananond 67杆，三人并列第三，落后Surratt一杆。冠军将获明年Masters及英国公开赛入场券。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong Open",
+        "Matthew Cheung",
+        "Asian Tour",
+        "golf"
+      ],
+      "zh_hant": [
+        "香港公開賽",
+        "張雄熙",
+        "亞巡賽",
+        "高爾夫"
+      ],
+      "zh_hans": [
+        "香港公开赛",
+        "张雄熙",
+        "亚巡赛",
+        "高尔夫"
+      ]
+    }
+  },
+  {
+    "id": "20261023-liverpool-injury-latest-brighton",
+    "sport": "football",
+    "published_at": "2026-10-23T16:50:00+08:00",
+    "source": "liverpool.com",
+    "source_url": "https://www.liverpool.com/liverpool-fc-news/features/injury-latest-szoboszlai-munoz-brighton-34805205",
+    "image_url": null,
+    "title": {
+      "en": "Liverpool could be without six players for Sunday's home clash with Brighton",
+      "zh_hant": "利物浦傷兵滿營　蘇保斯拿爾或缺陣週日主場迎戰白禮頓",
+      "zh_hans": "利物浦伤兵满营　苏保斯拿尔或缺阵周日主场迎战白礼顿"
+    },
+    "summary": {
+      "en": "Liverpool could be without six players for Sunday's Premier League home game against Brighton. Dominik Szoboszlai was substituted at half-time against Brentford last week and is not expected to be rushed back, while Jeremie Frimpong's new muscle injury will keep him out until the November international break. Hugo Ekitike and Conor Bradley remain long-term absentees, and centre-back Giovanni Leoni is targeting a return to training before the international break. Alexis Mac Allister, Ryan Gravenberch and Trey Nyoni are expected to cover in midfield. After Brighton, Liverpool face Chelsea in the League Cup in midweek before hosting Arsenal at Anfield.",
+      "zh_hant": "利物浦週日英超主場對白禮頓一役或缺六名球員。上週對賓福特半場被換下的蘇保斯拿爾短期內不會急於復出；費林邦肌肉新傷，預計缺陣至11月國際賽期；艾傑迪基及干拿·巴特利長期缺陣；中堅里奧尼目標國際賽期前復操。麥阿里士打、加雲貝治及尼安尼將頂替中場位置。對白禮頓後，利物浦週中聯賽盃對車路士，之後在晏菲路迎戰阿仙奴。",
+      "zh_hans": "利物浦周日英超主场对白礼顿一役或缺六名球员。上周对宾福特半场被换下的苏保斯拿尔短期内不会急于复出；费林邦肌肉新伤，预计缺阵至11月国际赛期；艾杰迪基及干拿·巴特利长期缺阵；中坚里奥尼目标国际赛期前复操。麦阿里士打、加云贝治及尼安尼将顶替中场位置。对白礼顿后，利物浦周中联赛杯对车路士，之后在晏菲路迎战阿仙奴。"
+    },
+    "tags": {
+      "en": [
+        "Liverpool",
+        "Premier League",
+        "Brighton",
+        "injuries",
+        "Szoboszlai"
+      ],
+      "zh_hant": [
+        "利物浦",
+        "英超",
+        "白禮頓",
+        "傷情",
+        "蘇保斯拿爾"
+      ],
+      "zh_hans": [
+        "利物浦",
+        "英超",
+        "白礼顿",
+        "伤情",
+        "苏保斯拿尔"
+      ]
+    }
+  },
+  {
+    "id": "20261023-boulter-beats-ruzic-osaka-sf",
+    "sport": "tennis",
+    "published_at": "2026-10-23T17:22:00+08:00",
+    "source": "Sky Sports",
+    "source_url": "https://www.skysports.com/tennis/news/13602595/japan-open-katie-boulter-fights-back-to-beat-antonia-ruzic-and-reach-semi-final-in-osaka",
+    "image_url": null,
+    "title": {
+      "en": "Boulter fights back to reach Osaka semi-final and reclaim British No 1 spot",
+      "zh_hant": "保達反勝入大阪四強　重奪英國一姐兼重返世界前50",
+      "zh_hans": "保达反胜入大阪四强　重夺英国一姐兼重返世界前50"
+    },
+    "summary": {
+      "en": "Eighth seed Katie Boulter fought back from a set down to beat Croatia's Antonia Ruzic 3-6, 6-3, 6-3 in the Japan Open quarter-finals in Osaka in about two hours, reaching the semi-finals where she will face Katerina Siniakova. The world No 58 wiped out the 55-point gap to Sonay Kartal to reclaim the British No 1 ranking, and will return to the world's top 50 on Monday. Boulter won eight straight games from the middle of the second set to 4-0 in the decider, then broke straight back after dropping serve at 5-2 to seal the win. It is her first semi-final since Queen's in June and her third WTA semi-final of the year.",
+      "zh_hant": "8號種子、世界排名第58的保達在大阪日本公開賽八強，先輸一盤下以3-6、6-3、6-3反勝克羅地亞的魯錫，激戰約兩小時，入四強將對仙妮雅高娃。保達抹走與卡達爾的55分差距，重奪英國一姐，下週一亦重返世界前50。她曾由第二盤中段起連贏八局至決勝盤4-0領先，5-2發球勝賽局失守後即刻破發鎖定勝局。這是她6月Queen's站以來首個四強，亦是今年第三個WTA四強。",
+      "zh_hans": "8号种子、世界排名第58的保达在大阪日本公开赛八强，先输一盘下以3-6、6-3、6-3反胜克罗地亚的鲁锡，激战约两小时，入四强将对仙妮雅高娃。保达抹走与卡达尔的55分差距，重夺英国一姐，下周一亦重返世界前50。她曾由第二盘中段起连赢八局至决胜盘4-0领先，5-2发球胜赛局失守后即刻破发锁定胜局。这是她6月Queen's站以来首个四强，亦是今年第三个WTA四强。"
+    },
+    "tags": {
+      "en": [
+        "Katie Boulter",
+        "Japan Open",
+        "Osaka",
+        "WTA",
+        "British No 1"
+      ],
+      "zh_hant": [
+        "保達",
+        "日本公開賽",
+        "大阪",
+        "WTA",
+        "英國一姐"
+      ],
+      "zh_hans": [
+        "保达",
+        "日本公开赛",
+        "大阪",
+        "WTA",
+        "英国一姐"
+      ]
+    }
+  },
+  {
+    "id": "20261023-djokovic-basel-wildcard-atp-finals-race",
+    "sport": "tennis",
+    "published_at": "2026-10-23T15:30:00+08:00",
+    "source": "Tennis Tonic",
+    "source_url": "https://tennistonic.com/tennis-news/1070471/novak-djokovic-faces-late-qualification-scramble-for-atp-finals-after-basel-wildcard/",
+    "image_url": null,
+    "title": {
+      "en": "Djokovic takes Basel wildcard in late scramble for ATP Finals spot",
+      "zh_hant": "祖高域攞外卡出戰巴塞爾　力爭ATP年終賽資格",
+      "zh_hans": "祖高域攞外卡出战巴塞尔　力争ATP年终赛资格"
+    },
+    "summary": {
+      "en": "24-time Grand Slam champion Novak Djokovic has accepted a wildcard into the Swiss Indoors in Basel as he scrambles for ATP Finals qualification. Djokovic sits 11th in the live race on 2,840 points, 40 points behind 10th-placed Alex de Minaur, and will need strong results in Basel and the Paris Masters to book his place at the season-ending championships.",
+      "zh_hant": "24屆大滿貫冠軍祖高域接受瑞士室內賽巴塞爾站外卡，力爭ATP年終賽資格。祖高域現時在live race排第11位（2,840分），落後第10位的迪文拿奧40分，要在巴塞爾及巴黎大師賽交出好成績才有望躋身年終賽。",
+      "zh_hans": "24届大满贯冠军祖高域接受瑞士室内赛巴塞尔站外卡，力争ATP年终赛资格。祖高域现时在live race排第11位（2,840分），落后第10位的迪文拿奥40分，要在巴塞尔及巴黎大师赛交出好成绩才有望跻身年终赛。"
+    },
+    "tags": {
+      "en": [
+        "Novak Djokovic",
+        "Basel",
+        "ATP Finals",
+        "wildcard",
+        "Swiss Indoors"
+      ],
+      "zh_hant": [
+        "祖高域",
+        "巴塞爾",
+        "ATP年終賽",
+        "外卡",
+        "瑞士室內賽"
+      ],
+      "zh_hans": [
+        "祖高域",
+        "巴塞尔",
+        "ATP年终赛",
+        "外卡",
+        "瑞士室内赛"
+      ]
+    }
+  },
+  {
+    "id": "20261023-india-mixed-doubles-bronze-asian-tt",
+    "sport": "others",
+    "published_at": "2026-10-23T17:37:00+08:00",
+    "source": "The Bridge",
+    "source_url": "https://thebridge.in/table-tennis/asian-table-tennis-cship-yashaswini-harmeet-win-indias-first-mixed-doubles-medal-in-72-years-58139",
+    "image_url": null,
+    "title": {
+      "en": "India wins first Asian table tennis mixed doubles medal in 72 years",
+      "zh_hant": "印度混雙奪銅創72年紀錄　亞錦賽八強激戰42分鐘反勝韓國",
+      "zh_hans": "印度混双夺铜创72年纪录　亚锦赛八强激战42分钟反胜韩国"
+    },
+    "summary": {
+      "en": "India's Yashaswini Ghorpade and Harmeet Desai won India's first mixed doubles medal at the Asian Table Tennis Championships in 72 years at the 29th edition in Tashkent. The pair came from behind to beat South Korea's Park Ganghyeon and Lee Daeun 3-2 (11-6, 8-11, 8-11, 11-9, 11-9) in a 42-minute quarter-final, before losing 0-3 (9-11, 9-11, 8-11) to Japan's Sora Matsushima and Miwa Harimoto in the semi-finals to take bronze. India's last mixed doubles medal came in 1954 (silver), with a gold in the inaugural 1952 edition. India's other pair, Payas Jain and Syndrela Das, lost 0-3 to China's Chen Yi and Huang Youzheng in the quarter-finals.",
+      "zh_hant": "在塔什干舉行的第29屆亞洲乒乓球錦標賽，印度組合Yashaswini Ghorpade／Harmeet Desai為印度贏得72年來首面亞錦賽混雙獎牌。兩人在八強激戰42分鐘，以3-2（11-6、8-11、8-11、11-9、11-9）反勝韓國的Park Ganghyeon／Lee Daeun；四強以0-3（9-11、9-11、8-11）不敵日本的松島輝空／張本美和，奪得銅牌。印度上次在亞錦賽混雙奪牌已是1954年的銀牌，1952年首屆曾奪金。印度另一對Payas Jain／Syndrela Das在八強以0-3不敵中國的陳熠／黃友政。",
+      "zh_hans": "在塔什干举行的第29届亚洲乒乓球锦标赛，印度组合Yashaswini Ghorpade／Harmeet Desai为印度赢得72年来首面亚锦赛混双奖牌。两人在八强激战42分钟，以3-2（11-6、8-11、8-11、11-9、11-9）反胜韩国的Park Ganghyeon／Lee Daeun；四强以0-3（9-11、9-11、8-11）不敌日本的松岛辉空／张本美和，夺得铜牌。印度上次在亚锦赛混双夺牌已是1954年的银牌，1952年首届曾夺金。印度另一对Payas Jain／Syndrela Das在八强以0-3不敌中国的陈熠／黄友政。"
+    },
+    "tags": {
+      "en": [
+        "table tennis",
+        "Asian Championships",
+        "India",
+        "mixed doubles",
+        "bronze"
+      ],
+      "zh_hant": [
+        "乒乓球",
+        "亞錦賽",
+        "印度",
+        "混雙",
+        "銅牌"
+      ],
+      "zh_hans": [
+        "乒乓球",
+        "亚锦赛",
+        "印度",
+        "混双",
+        "铜牌"
+      ]
+    }
+  },
+  {
+    "id": "20261023-china-mens-team-crown-asian-tt",
+    "sport": "others",
+    "published_at": "2026-10-23T02:00:00+08:00",
+    "source": "IANS",
+    "source_url": "https://asiapost.in/china-retains-mens-team-crown-japan-takes-womens-title-at-table-tennis-asian-cships/",
+    "image_url": null,
+    "title": {
+      "en": "China's men sweep South Korea 3-0 for fourth straight Asian team title",
+      "zh_hant": "國乒男團3-0橫掃韓國　四連霸亞錦賽冠軍",
+      "zh_hans": "国乒男团3-0横扫韩国　四连霸亚锦赛冠军"
+    },
+    "summary": {
+      "en": "China's men's team swept South Korea 3-0 in the final of the Asian Table Tennis Championships in Tashkent to claim a fourth consecutive men's team crown from 2023 to 2026. Zhou Qihao beat Kang Dongsoo 3-1, Lin Shidong swept Park Gyuhyeon 3-0 and Xiang Peng beat Park Kanghyeon 3-1. China beat Chinese Taipei 3-1 in the semi-finals, while South Korea upset Japan 3-1. China fielded a young squad — with Wang Chuqin, Sun Yingsha and Wang Manyu absent — as part of its build-up to the 2028 Los Angeles Olympics. Japan beat China 3-2 in the women's team final.",
+      "zh_hant": "在塔什干舉行的亞洲乒乓球錦標賽，中國男隊在決賽以3-0橫掃韓國，連續第四屆（2023–2026）稱霸亞錦賽男團。周啟豪3-1勝姜東秀、林詩棟3-0橫掃朴圭賢、向鵬3-1勝朴康賢。四強中國3-1勝中華台北，韓國3-1爆冷勝日本。中國今屆派出年輕陣容，王楚欽、孫穎莎、王曼昱缺陣，為2028洛杉磯奧運換血。女團決賽日本3-2勝中國。",
+      "zh_hans": "在塔什干举行的亚洲乒乓球锦标赛，中国男队在决赛以3-0横扫韩国，连续第四届（2023–2026）称霸亚锦赛男团。周启豪3-1胜姜东秀、林诗栋3-0横扫朴圭贤、向鹏3-1胜朴康贤。四强中国3-1胜中华台北，韩国3-1爆冷胜日本。中国今届派出年轻阵容，王楚钦、孙颖莎、王曼昱缺阵，为2028洛杉矶奥运换血。女团决赛日本3-2胜中国。"
+    },
+    "tags": {
+      "en": [
+        "table tennis",
+        "Asian Championships",
+        "China",
+        "men's team",
+        "champions"
+      ],
+      "zh_hant": [
+        "乒乓球",
+        "亞錦賽",
+        "中國",
+        "男團",
+        "冠軍"
+      ],
+      "zh_hans": [
+        "乒乓球",
+        "亚锦赛",
+        "中国",
+        "男团",
+        "冠军"
+      ]
+    }
   }
 ]
