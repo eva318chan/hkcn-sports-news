@@ -1,318 +1,441 @@
 [
-  {
-    "id": "20261023-silver-plate-griffins-beat-tsuen-wan",
-    "sport": "basketball",
-    "published_at": "2026-10-22T22:37:32+08:00",
-    "source": "體路 Sportsroad",
-    "source_url": "https://www.sportsroad.hk/archives/659131/銀牌籃球｜多點開花三日內兩挫荃灣-均安捧起銀牌/",
-    "image_url": null,
-    "title": {
-      "en": "Griffins beat Tsuen Wan twice in three days to lift Silver Plate",
-      "zh_hant": "均安三日內兩挫荃灣 捧起女籃銀牌",
-      "zh_hans": "均安三日内两挫荃湾 捧起女篮银牌"
-    },
-    "summary": {
-      "en": "Griffins (均安) defeated Tsuen Wan 66–55 in the women's senior division Silver Plate final at Southorn Stadium on Thursday night, beating the same opponents twice within three days to lift the trophy. Three Griffins players scored in double figures: Yeung Yik-hei with 14 points, 8 rebounds and 5 assists, and Lau Sheung-hok with 13 points, 6 rebounds, 5 assists and 4 steals. Tsuen Wan's Kuan Hoi-pui posted a game-high 18 points and 11 rebounds in vain. Head coach Leung Ka-hin won the title in his first season with Griffins.",
-      "zh_hant": "香港女子籃球高級組銀牌賽周四晚於修頓場館上演決戰，均安末節多點開花，以66：55擊敗荃灣捧起銀牌賽錦標，亦是三日內第二次擊敗同一對手。均安三人得分上雙：楊溢希14分8籃板5助攻、劉常學13分6籃板5助攻4偷波；荃灣的關海珮空砍全場最高18分11籃板。今季首度執教均安的梁嘉顯即帶隊奪冠。",
-      "zh_hans": "香港女子篮球高级组银牌赛周四晚上演决战，均安末节多点开花，以66：55击败荃湾捧起银牌赛锦标，亦是三日内第二次击败同一对手。均安三人得分上双：杨溢希14分8篮板5助攻、刘常学13分6篮板5助攻4偷波；荃湾的关海珮空砍全场最高18分11篮板。今季首度执教均安的梁嘉显即带队夺冠。"
-    },
-    "tags": {
-      "en": [
-        "Silver Plate",
-        "Griffins",
-        "Tsuen Wan",
-        "women's basketball"
-      ],
-      "zh_hant": [
-        "銀牌賽",
-        "均安",
-        "荃灣",
-        "女籃"
-      ],
-      "zh_hans": [
-        "银牌赛",
-        "均安",
-        "荃湾",
-        "女篮"
-      ]
-    }
+ {
+  "id": "20261023-asian-tt-champs-women-team-japan-beat-china",
+  "sport": "others",
+  "published_at": "2026-10-23T00:41:00+08:00",
+  "source": "新浪體育（體壇周報）",
+  "source_url": "https://finance.sina.cn/2026-10-23/detail-iniwcnvc5919823.d.html",
+  "image_url": null,
+  "title": {
+   "en": "Japan beat China 3-2 to win Asian table tennis women's team title",
+   "zh_hant": "乒乓球亞錦賽女團決賽 日本3：2力克中國奪冠",
+   "zh_hans": "乒乓球亚锦赛女团决赛 日本3：2力克中国夺冠"
   },
-  {
-    "id": "20261023-para-chu-man-kai-badminton-bronze",
-    "sport": "badminton",
-    "published_at": "2026-10-22T20:58:22+08:00",
-    "source": "體路 Sportsroad",
-    "source_url": "https://www.sportsroad.hk/archives/659269/愛知名古屋亞殘運｜朱文佳男單4強負中國-衛冕夢碎/",
-    "image_url": null,
-    "title": {
-      "en": "Chu Man-kai settles for badminton bronze after semi-final defeat at Asian Para Games",
-      "zh_hant": "亞殘運羽毛球朱文佳男單四強止步摘銅",
-      "zh_hans": "亚残运羽毛球朱文佳男单四强止步摘铜"
-    },
-    "summary": {
-      "en": "Hong Kong's Chu Man-kai lost 8–21, 19–21 in straight games to China's Lin Naili in the men's singles SH6 semi-final at the Asian Para Games in Aichi-Nagoya, ending his title defence. With no bronze-medal play-off, Chu takes the bronze, the only badminton medal for the Hong Kong team at this edition. The defending champion had won all three group matches and beaten teammate Wong Chun-yin 21–14, 21–7 in the quarter-final. The bronze qualifies him for a HK$62,500 award under the Jockey Club Athlete Incentive Awards Scheme.",
-      "zh_hant": "愛知名古屋亞殘運羽毛球SH6級男單四強，港將朱文佳直落兩局8：21、19：21不敵中國的林乃利，無緣衛冕；賽事不設季軍戰，朱文佳收穫銅牌，這亦是羽毛球港隊今屆唯一獎牌。上屆金牌得主朱文佳小組三戰全勝出線，八強曾以21：14、21：7擊敗隊友王鎮炎。銅牌可獲「賽馬會優秀運動員獎勵計劃」62,500港元獎金。",
-      "zh_hans": "爱知名古屋亚残运羽毛球SH6级男单四强，港将朱文佳直落两局8：21、19：21不敌中国的林乃利，无缘卫冕；赛事不设季军战，朱文佳收获铜牌，这亦是羽毛球港队今届唯一奖牌。上届金牌得主朱文佳小组三战全胜出线，八强曾以21：14、21：7击败队友王镇炎。铜牌可获「赛马会优秀运动员奖励计划」62,500港元奖金。"
-    },
-    "tags": {
-      "en": [
-        "Asian Para Games",
-        "badminton",
-        "Chu Man-kai",
-        "SH6"
-      ],
-      "zh_hant": [
-        "亞殘運",
-        "羽毛球",
-        "朱文佳",
-        "SH6"
-      ],
-      "zh_hans": [
-        "亚残运",
-        "羽毛球",
-        "朱文佳",
-        "SH6"
-      ]
-    }
+  "summary": {
+   "en": "Japan defeated China 3-2 in the women's team final of the 2026 Asian Table Tennis Championships on October 22 to take the title, leaving China with silver. Hashimoto Honoka was Japan's hero with two singles wins: she beat Chen Yi 3-0 in the opener and Wang Yidi 3-1 in the decider. Wang Yidi levelled for China with a 3-2 win over Harimoto Miwa, and Kuai Man swept Hayata Hina 3-0, but Chen Yi lost 0-3 to Harimoto in the fourth rubber as Japan sealed the championship.",
+   "zh_hant": "2026年亞洲乒乓球錦標賽女團決賽10月22日上演，日本以3：2力克中國奪冠，中國屈居亞軍。橋本帆乃香成為日本功臣，獨取兩分：首場3：0贏陳熠，決勝場再以3：1贏王藝迪。王藝迪曾以3：2贏張本美和為中國扳平，蒯曼亦3：0橫掃早田希娜，但陳熠第四場0：3不敵張本美和，日本最終捧盃。",
+   "zh_hans": "2026年亚洲乒乓球锦标赛女团决赛10月22日上演，日本以3：2力克中国夺冠，中国屈居亚军。桥本帆乃香成为日本功臣，独取两分：首场3：0赢陈熠，决胜场再以3：1赢王艺迪。王艺迪曾以3：2赢张本美和为中国扳平，蒯曼亦3：0横扫早田希娜，但陈熠第四场0：3不敌张本美和，日本最终捧杯。"
   },
-  {
-    "id": "20261023-d2-schools-swimming-kgv-victoria-shanghai",
-    "sport": "swimming",
-    "published_at": "2026-10-22T19:44:06+08:00",
-    "source": "體路 Sportsroad",
-    "source_url": "https://www.sportsroad.hk/archives/659088/d2學界游泳｜kgv封王弘立稱后-孫茂堃改寫三項自由泳/",
-    "image_url": null,
-    "title": {
-      "en": "KGV boys and Victoria Shanghai girls triumph at D2 schools swimming finals",
-      "zh_hant": "D2學界游泳KGV男子封王 弘立女子稱后",
-      "zh_hans": "D2学界游泳KGV男子封王 弘立女子称后"
-    },
-    "summary": {
-      "en": "The finals day of the Hong Kong Island and Kowloon D2 secondary schools swimming competition was held at Victoria Park Swimming Pool on Thursday. In the boys' division, King George V School (KGV) edged past Raimondi College by 8 points with 212 to take the title; in the girls' division, Victoria Shanghai Academy won with 277 points, 41 clear of the runner-up. Both teams will be promoted to D1 next year. B Grade swimmer Sun Maokun of St. Margaret's Co-educational English Secondary and Primary School broke three freestyle school records over two days: 50m free (23.78s as a relay lead-off), 100m free (51.26s) and 200m free (1:52.54), with the 50m mark lowering a 19-year-old record by 0.13 seconds.",
-      "zh_hant": "港九區D2中學校際游泳比賽決賽日周四於維園泳池舉行，男子組英皇佐治五世學校（KGV）以總分212分、8分之差力壓高主教書院封王；女子組弘立書院以277分拋離次席41分稱后，兩隊下學年攜手升上D1。就讀聖瑪加利男女英文中小學的B Grade泳手孫茂堃兩日內改寫三項自由泳學界紀錄：50自23秒78（接力首棒）、100自51秒26、200自1分52秒54，其中50自將塵封19年的舊紀錄推快0.13秒。",
-      "zh_hans": "港九区D2中学学校际游泳比赛决赛日周四于维园泳池举行，男子组英皇佐治五世学校（KGV）以总分212分、8分之差力压高主教书院封王；女子组弘立书院以277分抛离次席41分称后，两队下学年携手升上D1。就读圣玛加利男女英文中小学的B Grade泳手孙茂堃两日内改写三项自由泳学界纪录：50自23秒78（接力首棒）、100自51秒26、200自1分52秒54，其中50自将尘封19年的旧纪录推快0.13秒。"
-    },
-    "tags": {
-      "en": [
-        "D2",
-        "schools swimming",
-        "KGV",
-        "Victoria Shanghai Academy"
-      ],
-      "zh_hant": [
-        "D2",
-        "學界游泳",
-        "KGV",
-        "弘立書院"
-      ],
-      "zh_hans": [
-        "D2",
-        "学界游泳",
-        "KGV",
-        "弘立书院"
-      ]
-    }
-  },
-  {
-    "id": "20261023-uel-besiktas-crystal-palace-2-2",
-    "sport": "football",
-    "published_at": "2026-10-23T03:30:00+08:00",
-    "source": "TNT Sports",
-    "source_url": "https://www.tntsports.co.uk/football/europa-league/2026-2027/live-besiktas-crystal-palace_mtc21878730/live-commentary.shtml",
-    "image_url": null,
-    "title": {
-      "en": "Palace held 2-2 by 10-man Besiktas in Europa League thriller",
-      "zh_hant": "歐霸盃水晶宮作客2：2逼和十人比錫達斯",
-      "zh_hans": "欧霸杯水晶宫作客2：2逼和十人比锡达斯"
-    },
-    "summary": {
-      "en": "Crystal Palace were held to a 2-2 draw away at Besiktas in the UEFA Europa League's third round at Tüpraş Stadium in Istanbul. Wilfred Ndidi put the hosts ahead in first-half stoppage time before second-half strikes from Yeremy Pino (51') and Jean-Philippe Mateta (55') turned it around for Palace. Substitute Junior Olaitan levelled in the 73rd minute, and Besiktas finished with 10 men after Ümit Akdağ's 77th-minute red card. Palace head coach Pierre Sage said his side deserved better and called the result a step forward ahead of the weekend trip to Newcastle. Palace move to four points after three matches.",
-      "zh_hant": "歐霸盃第三輪，水晶宮作客土耳其2：2逼和比錫達斯。主隊先由尼迪迪（Wilfred Ndidi）補時破門，下半場耶雷米·皮諾（Yeremy Pino）51分鐘及馬迪達（Jean-Philippe Mateta）55分鐘連入兩球反超，但後備上陣的奧拉坦（Junior Olaitan）73分鐘為主隊追平；比錫達斯的艾克達（Ümit Akdağ）77分鐘被逐離場，主隊以十人應戰。領隊施治（Pierre Sage）表示球隊值得更好的結果，視今仗為向前的一步，期望帶著勢頭迎接周末作客紐卡素的聯賽。水晶宮三戰後得4分。",
-      "zh_hans": "欧霸杯第三轮，水晶宫作客土耳其2：2逼和比锡达斯。主队先由尼迪迪（Wilfred Ndidi）补时破门，下半场耶雷米·皮诺（Yeremy Pino）51分钟及马迪达（Jean-Philippe Mateta）55分钟连入两球反超，但后备上阵的奥拉坦（Junior Olaitan）73分钟为主队追平；比锡达斯的艾克达（Ümit Akdağ）77分钟被逐离场，主队以十人应战。领队施治（Pierre Sage）表示球队值得更好的结果，视今仗为向前的一步，期望带着势头迎接周末作客纽卡素的联赛。水晶宫三战后得4分。"
-    },
-    "tags": {
-      "en": [
-        "Europa League",
-        "Crystal Palace",
-        "Besiktas",
-        "2-2"
-      ],
-      "zh_hant": [
-        "歐霸盃",
-        "水晶宮",
-        "比錫達斯",
-        "和局"
-      ],
-      "zh_hans": [
-        "欧霸杯",
-        "水晶宫",
-        "比锡达斯",
-        "和局"
-      ]
-    }
-  },
-  {
-    "id": "20261023-para-scst-nine-medals",
-    "sport": "others",
-    "published_at": "2026-10-22T23:38:00+08:00",
-    "source": "政府新聞處",
-    "source_url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200789.htm",
-    "image_url": null,
-    "title": {
-      "en": "Hong Kong adds nine more medals at Asian Para Games, tally reaches 30",
-      "zh_hant": "港隊亞殘運單日再添九牌　獎牌累計30面",
-      "zh_hans": "港队亚残运单日再添九牌　奖牌累计30面"
-    },
-    "summary": {
-      "en": "The Secretary for Culture, Sports and Tourism, Rosanna Law, on October 22 congratulated Hong Kong, China athletes on winning nine more medals — one gold, two silver and six bronze — in a single day at the 5th Asian Para Games in Nagoya. Swimmer Chan Yui-lam defended her women's 100m butterfly S14 title for the third consecutive Asian Para Games, bringing the delegation its second gold of the Games, with teammate Lau Chiu-yee taking bronze in the same race. The women's epee team and the table tennis mixed doubles XD20 pair added silvers, while bronzes came from the mixed 4x100m freestyle relay S14, table tennis mixed doubles XD14 and two XD22 pairs, and badminton men's singles SH6. The delegation's tally now stands at 30 medals: two gold, 10 silver and 18 bronze.",
-      "zh_hant": "文化體育及旅遊局局長羅淑佩10月22日祝賀中國香港代表團，在名古屋第五屆亞殘運單日再添九面獎牌，包括一金兩銀六銅。泳手陳睿琳在女子100米蝶泳S14成功衛冕，連續三屆亞殘運奪得此項目金牌，為港隊帶來今屆第二金，隊友Lau Chiu-yee同場奪銅。女子重劍團體及乒乓球混雙XD20添銀；銅牌來自男女混合4x100米自由泳S14接力、乒乓球混雙XD14及兩對XD22組合，以及羽毛球男子SH6單打。港隊累計獎牌達30面：兩金十銀十八銅。",
-      "zh_hans": "文化体育及旅游局局长罗淑佩10月22日祝贺中国香港代表团，在名古屋第五届亚残运单日再添九面奖牌，包括一金两银六铜。泳手陈睿琳在女子100米蝶泳S14成功卫冕，连续三届亚残运夺得此项目金牌，为港队带来今届第二金，队友Lau Chiu-yee同场夺铜。女子重剑团体及乒乓球混双XD20添银；铜牌来自男女混合4x100米自由泳S14接力、乒乓球混双XD14及两对XD22组合，以及羽毛球男子SH6单打。港队累计奖牌达30面：两金十银十八铜。"
-    },
-    "tags": {
-      "en": [
-        "Asian Para Games",
-        "Nagoya 2026",
-        "Hong Kong team",
-        "Chan Yui-lam",
-        "medal tally"
-      ],
-      "zh_hant": [
-        "亞殘運",
-        "名古屋2026",
-        "港隊",
-        "陳睿琳",
-        "獎牌榜"
-      ],
-      "zh_hans": [
-        "亚残运",
-        "名古屋2026",
-        "港队",
-        "陈睿琳",
-        "奖牌榜"
-      ]
-    }
-  },
-  {
-    "id": "20261023-uel-juventus-rennes-draw",
-    "sport": "football",
-    "published_at": "2026-10-23T02:45:00+08:00",
-    "source": "Flashscore",
-    "source_url": "https://www.flashscore.com/news/juventus-rennes-europa-league-report-october-22-2026/AemdzbAT/",
-    "image_url": null,
-    "title": {
-      "en": "Woltemade strikes late as Juventus draw 2-2 with Rennes in Europa League",
-      "zh_hant": "歐霸盃祖雲達斯2-2逼和雷恩　禾迪馬迪十二碼救主",
-      "zh_hans": "欧霸杯祖云达斯2-2逼和雷恩　禾迪马迪十二码救主"
-    },
-    "summary": {
-      "en": "Nick Woltemade became the first Juventus player this century to score in his first three European main-draw matches for the club as his penalty rescued a 2-2 draw against Rennes on matchday three of the UEFA Europa League. Woltemade set up Zeki Celik for a fifth-minute opener before Musa Al-Taamari levelled for Rennes, meeting Bryan Reynolds' header. Boulaye Dia, deputising for the injured Esteban Lepaul, put Rennes ahead from the penalty spot late in the first half after Douglas Luiz handled. Substitute Nicolas Gonzalez's header struck Reynolds' arm midway through the second half, and Woltemade stroked the penalty down the middle. Jhon Lucumi had a late winner ruled out for offside as Juve — booed off at half-time after Sunday's 3-0 Serie A defeat by Lazio — stayed unbeaten in the league phase under pressure-hit Luciano Spalletti.",
-      "zh_hant": "歐霸盃聯賽階段第三輪，祖雲達斯主場2-2逼和雷恩。禾迪馬迪（Nick Woltemade）開賽5分鐘妙傳Zeki Celik先開紀錄，成為今世紀首位連續三場歐洲賽主賽圈為祖記入球的球員；雷恩由Musa Al-Taamari接應Bryan Reynolds頭槌二傳扳平，Boulaye Dia在上半場尾段射入十二碼反超，祖記半場被主場球迷報以噓聲。下半場中段後備入替的Nicolas Gonzalez頭槌省中Reynolds手臂，祖記再獲十二碼，禾迪馬迪射入扳平。完場前Jhon Lucumi的入球因越位被判無效。祖記在領隊史柏利迪（Luciano Spalletti）受壓下保持聯賽階段不敗。",
-      "zh_hans": "欧霸杯联赛阶段第三轮，祖云达斯主场2-2逼和雷恩。禾迪马迪（Nick Woltemade）开赛5分钟妙传Zeki Celik先开纪录，成为今世纪首位连续三场欧洲赛主赛圈为祖记入球的球员；雷恩由Musa Al-Taamari接应Bryan Reynolds头槌二传扳平，Boulaye Dia在上半场尾段射入十二码反超，祖记半场被主场球迷报以嘘声。下半场中段后备入替的Nicolas Gonzalez头槌省中Reynolds手臂，祖记再获十二码，禾迪马迪射入扳平。完场前Jhon Lucumi的入球因越位被判无效。祖记在领队史柏利迪（Luciano Spalletti）受压下保持联赛阶段不败。"
-    },
-    "tags": {
-      "en": [
-        "Europa League",
-        "Juventus",
-        "Rennes",
-        "Nick Woltemade",
-        "football"
-      ],
-      "zh_hant": [
-        "歐霸盃",
-        "祖雲達斯",
-        "雷恩",
-        "禾迪馬迪",
-        "足球"
-      ],
-      "zh_hans": [
-        "欧霸杯",
-        "祖云达斯",
-        "雷恩",
-        "禾迪马迪",
-        "足球"
-      ]
-    }
-  },
-  {
-    "id": "20261023-goffin-retires-brussels",
-    "sport": "tennis",
-    "published_at": "2026-10-23T00:04:00+08:00",
-    "source": "Tennis365",
-    "source_url": "https://www.tennis365.com/tennis-news/rafael-nadal-sends-message-tribute-david-goffin-retires",
-    "image_url": null,
-    "title": {
-      "en": "David Goffin bows out in Brussels as glittering career comes to an end",
-      "zh_hant": "哥芬主場布魯塞爾告別　結束職業網球生涯",
-      "zh_hans": "哥芬主场布鲁塞尔告别　结束职业网球生涯"
-    },
-    "summary": {
-      "en": "Belgium's David Goffin has brought his professional tennis career to an end after losing 3-6, 4-6 to American Alex Michelsen in the second round of the European Open in Brussels. The 35-year-old was given an on-court farewell ceremony featuring video tributes from Rafael Nadal, Richard Gasquet, Grigor Dimitrov and his family, and was moved to tears. Goffin retires with a 358-276 career record and six ATP titles, highlighted by his run to the 2017 ATP Finals final — beating Nadal, Dominic Thiem and Roger Federer — and the 2019 Cincinnati final. He reached four Grand Slam quarter-finals and a career-high world No. 7 in 2017, the only Belgian man to crack the world's top 10, with 21 wins over top-10 players and two Davis Cup final appearances for Belgium. He had extended his farewell in the first round, rallying from 0-3 down in the decider to beat Remy Bertola 3-6, 6-3, 6-4.",
-      "zh_hant": "比利時名將哥芬（David Goffin）在主場布魯塞爾歐洲公開賽第二圈以3-6、4-6不敵美國球手米捷臣（Alex Michelsen），結束職業網球生涯。35歲的哥芬賽後獲安排場上告別儀式，大會播出拿度、加斯基特、迪美托夫及家人的祝賀短片，令他感觸落淚。哥芬職業生涯戰績358勝276負，贏得六個ATP巡迴賽冠軍，代表作是2017年ATP年終賽連挫拿度、添姆及費達拿殺入決賽，以及2019年辛辛那提大師賽亞軍。他四度打入大滿貫八強，2017年最高排名世界第七，是唯一打入世界前十的比利時男球手，生涯21次擊敗世界前十，並助比利時兩度打入台維斯盃決賽。首圈他曾在決勝盤0-3落後下反勝貝圖拿（Remy Bertola），將告別之旅延續一輪。",
-      "zh_hans": "比利时名将哥芬（David Goffin）在主场布鲁塞尔欧洲公开赛第二圈以3-6、4-6不敌美国球手米捷臣（Alex Michelsen），结束职业网球生涯。35岁的哥芬赛后获安排场上告别仪式，大会播出拿度、加斯基特、迪美托夫及家人的祝贺短片，令他感触落泪。哥芬职业生涯战绩358胜276负，赢得六个ATP巡回赛冠军，代表作是2017年ATP年终赛连挫拿度、添姆及费达拿杀入决赛，以及2019年辛辛那提大师赛亚军。他四度打入大满贯八强，2017年最高排名世界第七，是唯一打入世界前十的比利时男球手，生涯21次击败世界前十，并助比利时两度打入台维斯杯决赛。首圈他曾在决胜盘0-3落后下反胜贝图拿（Remy Bertola），将告别之旅延续一轮。"
-    },
-    "tags": {
-      "en": [
-        "David Goffin",
-        "retirement",
-        "Brussels",
-        "ATP",
-        "tennis"
-      ],
-      "zh_hant": [
-        "哥芬",
-        "退役",
-        "布魯塞爾",
-        "ATP",
-        "網球"
-      ],
-      "zh_hans": [
-        "哥芬",
-        "退役",
-        "布鲁塞尔",
-        "ATP",
-        "网球"
-      ]
-    }
-  },
-  {
-    "id": "20261023-lyon-cobolli-beats-wawrinka",
-    "sport": "tennis",
-    "published_at": "2026-10-23T02:39:00+08:00",
-    "source": "LaPresse",
-    "source_url": "https://lapresse.us/sports/2026/10/22/tennis-atp-lyon-cobolli-defeats-wawrinka-to-reach-the-quarter-finals/",
-    "image_url": null,
-    "title": {
-      "en": "Top seed Cobolli downs Wawrinka to reach Lyon quarter-finals",
-      "zh_hant": "里昂站頭號種子高保利直落兩盤淘汰華連卡",
-      "zh_hans": "里昂站头号种子高保利直落两盘淘汰华连卡"
-    },
-    "summary": {
-      "en": "Top seed Flavio Cobolli, the world No. 6, beat Stan Wawrinka 6-2, 6-4 to reach the quarter-finals of the ATP 250 Lyon event (Grand Prix Auvergne-Rhône-Alpes, €757,320 prize money). Italy's LaPresse praised Cobolli's 'excellent performance'. Sixth seed Lorenzo Musetti also advanced on the same day, beating 17-year-old wildcard Moise Kouame 6-4, 6-4.",
-      "zh_hant": "ATP 250里昂站（總獎金757,320歐元），頭號種子、世界排名第六的高保利（Flavio Cobolli）以6-2、6-4直落兩盤擊敗華連卡（Stan Wawrinka），晉級八強。意大利《LaPresse》形容高保利表現出色。同日，六號種子慕沙迪（Lorenzo Musetti）以6-4、6-4淘汰17歲外卡小將古亞美（Moise Kouame），同樣晉級。",
-      "zh_hans": "ATP 250里昂站（总奖金757,320欧元），头号种子、世界排名第六的高保利（Flavio Cobolli）以6-2、6-4直落两盘击败华连卡（Stan Wawrinka），晋级八强。意大利《LaPresse》形容高保利表现突出。同日，六号种子慕沙迪（Lorenzo Musetti）以6-4、6-4淘汰17岁外卡小将古亚美（Moise Kouame），同样晋级。"
-    },
-    "tags": {
-      "en": [
-        "Flavio Cobolli",
-        "Lyon Open",
-        "ATP",
-        "Stan Wawrinka",
-        "tennis"
-      ],
-      "zh_hant": [
-        "高保利",
-        "里昂站",
-        "ATP",
-        "華連卡",
-        "網球"
-      ],
-      "zh_hans": [
-        "高保利",
-        "里昂站",
-        "ATP",
-        "华连卡",
-        "网球"
-      ]
-    }
+  "tags": {
+   "en": [
+    "Asian Table Tennis Championships",
+    "Japan",
+    "China",
+    "women's team",
+    "table tennis"
+   ],
+   "zh_hant": [
+    "亞洲乒乓球錦標賽",
+    "日本",
+    "中國",
+    "女團",
+    "乒乓球"
+   ],
+   "zh_hans": [
+    "亚洲乒乓球锦标赛",
+    "日本",
+    "中国",
+    "女团",
+    "乒乓球"
+   ]
   }
+ },
+ {
+  "id": "20261023-hk-open-r1-lahiri-yuan-share-lead",
+  "sport": "golf",
+  "published_at": "2026-10-23T07:25:00+08:00",
+  "source": "Shank.Golf（亞巡賽媒體）",
+  "source_url": "https://www.shank.golf/post/the-open-qualifying-series-eight-s-enough-for-lahiri-and-yuan-to-take-lead-at-link-hong-kong-open",
+  "image_url": "https://static.wixstatic.com/media/179761_5dbb5c6bf6004671ab5fcd1e99f2de73~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/179761_5dbb5c6bf6004671ab5fcd1e99f2de73~mv2.jpg",
+  "title": {
+   "en": "Lahiri and Yuan fire 62s to share Link Hong Kong Open first-round lead",
+   "zh_hant": "香港高爾夫球公開賽首輪 拉希利袁可文62桿並列領先",
+   "zh_hans": "香港高尔夫球公开赛首轮 拉希利袁可文62杆并列领先"
+  },
+  "summary": {
+   "en": "India's Anirban Lahiri and Australia's Kevin Yuan each carded nine birdies and one bogey for eight-under-par 62s to share the first-round lead at the Link Hong Kong Open on the Composite Course at Hong Kong Golf Club, Fanling. Thailand's Jazz Janewattananond and Poosit Supupramai sit one back on 63, while Hong Kong's Isaac Lam and Matthew Cheung are tied fifth on 64. Lahiri is chasing his first title since the 2015 Indian Open. The October 22-25 event carries a US$2 million purse, with the winner earning spots at the 2027 Masters and The Open.",
+   "zh_hant": "領展香港高爾夫球公開賽首輪今日喺粉嶺香港哥爾夫球會複合球場舉行，印度球手拉希利同澳洲嘅袁可文各打9隻小鳥1個博基，以低標準桿8桿嘅62桿並列領先。泰國嘅贊拿華坦隆同蘇布帕米以63桿排第二，兩位港將林嘉鴻同張雄熙以64桿並列第五。拉希利力爭2015年印度公開賽後首個冠軍。賽事10月22至25日舉行，總獎金200萬美元，冠軍可獲2027年美國大師賽同英國公開賽參賽資格。",
+   "zh_hans": "领展香港高尔夫球公开赛首轮今日在粉岭香港哥尔夫球会复合球场举行，印度球手拉希利同澳洲的袁可文各打9只小鸟1个博基，以低标准杆8杆的62杆并列领先。泰国的赞拿华坦隆同苏布帕米以63杆排第二，两位港将林嘉鸿同张雄熙以64杆并列第五。拉希利力争2015年印度公开赛后首个冠军。赛事10月22至25日举行，总奖金200万美元，冠军可获2027年美国大师赛和英国公开赛参赛资格。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Open",
+    "Anirban Lahiri",
+    "Kevin Yuan",
+    "Asian Tour",
+    "golf"
+   ],
+   "zh_hant": [
+    "香港高爾夫球公開賽",
+    "拉希利",
+    "袁可文",
+    "亞巡賽",
+    "高爾夫球"
+   ],
+   "zh_hans": [
+    "香港高尔夫球公开赛",
+    "拉希利",
+    "袁可文",
+    "亚巡赛",
+    "高尔夫球"
+   ]
+  }
+ },
+ {
+  "id": "20261023-nba-76ers-comeback-cavaliers-114-106",
+  "sport": "basketball",
+  "published_at": "2026-10-23T10:27:00+08:00",
+  "source": "ClutchPoints",
+  "source_url": "https://clutchpoints.com/nba/philadelphia-76ers/76ers-news-phillys-insane-comeback-cavs-lebron-james-career-best",
+  "image_url": null,
+  "title": {
+   "en": "LeBron's 76ers erase 29-point deficit to stun Cavaliers 114-106 in home opener",
+   "zh_hant": "勒邦占士76人主場首戰 29分大逆轉114：106反勝騎士",
+   "zh_hans": "勒邦占士76人主场首战 29分大逆转114：106反胜骑士"
+  },
+  "summary": {
+   "en": "LeBron James made his Philadelphia home debut in historic fashion as the 76ers wiped out a 29-point deficit to beat the Cleveland Cavaliers 114-106 at Xfinity Mobile Arena. Down 69-45 at halftime, Philly outscored Cleveland 69-37 in the second half, powered by a 15-0 fourth-quarter run, becoming the first team in NBA history to overcome a 20-plus point halftime deficit and win its home opener. The comeback is the largest of James's 24-season career and the 76ers' biggest since the 1997-98 play-by-play era. James finished with 17 points and 10 rebounds; Tyrese Maxey led all scorers with 32, Joel Embiid added 24 and newcomer Jaylen Brown 21. The 2-0 Sixers had beaten defending champions New York Knicks 106-100 on opening night.",
+   "zh_hant": "勒邦占士披上76人戰衣主場首戰即寫歷史，球隊半場落後29分之下，下半場打出69：37反擊浪，以114：106反勝騎士。76人半場以45：69落後，第四節更打出15：0攻勢一舉反超，成為NBA史上首支半場落後20分以上仍能贏下主場揭幕戰嘅球隊；呢場亦係占士24季職業生涯最大逆轉勝，以及76人自1997-98有play-by-play紀錄以來最大逆轉。占士交出17分10籃板雙雙，麥斯32分全場最高，安比迪24分，今季新加盟嘅謝倫布朗21分。開季2連勝嘅76人，揭幕戰曾作客106：100擊敗衛冕嘅紐約人。",
+   "zh_hans": "勒邦占士披上76人战衣主场首战即写历史，球队半场落后29分之下，下半场打出69：37反击浪，以114：106反胜骑士。76人半场以45：69落后，第四节更打出15：0攻势一举反超，成为NBA史上首支半场落后20分以上仍能赢下主场揭幕战的球队；这场亦是占士24季职业生涯最大逆转胜，以及76人自1997-98有play-by-play纪录以来最大逆转。占士交出17分10篮板双双，麦斯32分全场最高，安比迪24分，今季新加盟的谢伦布朗21分。开季2连胜的76人，揭幕战曾作客106：100击败卫冕的纽约人。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Philadelphia 76ers",
+    "LeBron James",
+    "Cleveland Cavaliers",
+    "comeback"
+   ],
+   "zh_hant": [
+    "NBA",
+    "費城76人",
+    "勒邦占士",
+    "騎士",
+    "大逆轉"
+   ],
+   "zh_hans": [
+    "NBA",
+    "费城76人",
+    "勒邦占士",
+    "骑士",
+    "大逆转"
+   ]
+  }
+ },
+ {
+  "id": "20261023-silver-plate-griffins-beat-tsuen-wan",
+  "sport": "basketball",
+  "published_at": "2026-10-22T22:37:32+08:00",
+  "source": "體路 Sportsroad",
+  "source_url": "https://www.sportsroad.hk/archives/659131/銀牌籃球｜多點開花三日內兩挫荃灣-均安捧起銀牌/",
+  "image_url": null,
+  "title": {
+   "en": "Griffins beat Tsuen Wan twice in three days to lift Silver Plate",
+   "zh_hant": "均安三日內兩挫荃灣 捧起女籃銀牌",
+   "zh_hans": "均安三日内两挫荃湾 捧起女篮银牌"
+  },
+  "summary": {
+   "en": "Griffins (均安) defeated Tsuen Wan 66–55 in the women's senior division Silver Plate final at Southorn Stadium on Thursday night, beating the same opponents twice within three days to lift the trophy. Three Griffins players scored in double figures: Yeung Yik-hei with 14 points, 8 rebounds and 5 assists, and Lau Sheung-hok with 13 points, 6 rebounds, 5 assists and 4 steals. Tsuen Wan's Kuan Hoi-pui posted a game-high 18 points and 11 rebounds in vain. Head coach Leung Ka-hin won the title in his first season with Griffins.",
+   "zh_hant": "香港女子籃球高級組銀牌賽周四晚於修頓場館上演決戰，均安末節多點開花，以66：55擊敗荃灣捧起銀牌賽錦標，亦是三日內第二次擊敗同一對手。均安三人得分上雙：楊溢希14分8籃板5助攻、劉常學13分6籃板5助攻4偷波；荃灣的關海珮空砍全場最高18分11籃板。今季首度執教均安的梁嘉顯即帶隊奪冠。",
+   "zh_hans": "香港女子篮球高级组银牌赛周四晚上演决战，均安末节多点开花，以66：55击败荃湾捧起银牌赛锦标，亦是三日内第二次击败同一对手。均安三人得分上双：杨溢希14分8篮板5助攻、刘常学13分6篮板5助攻4偷波；荃湾的关海珮空砍全场最高18分11篮板。今季首度执教均安的梁嘉显即带队夺冠。"
+  },
+  "tags": {
+   "en": [
+    "Silver Plate",
+    "Griffins",
+    "Tsuen Wan",
+    "women's basketball"
+   ],
+   "zh_hant": [
+    "銀牌賽",
+    "均安",
+    "荃灣",
+    "女籃"
+   ],
+   "zh_hans": [
+    "银牌赛",
+    "均安",
+    "荃湾",
+    "女篮"
+   ]
+  }
+ },
+ {
+  "id": "20261023-para-chu-man-kai-badminton-bronze",
+  "sport": "badminton",
+  "published_at": "2026-10-22T20:58:22+08:00",
+  "source": "體路 Sportsroad",
+  "source_url": "https://www.sportsroad.hk/archives/659269/愛知名古屋亞殘運｜朱文佳男單4強負中國-衛冕夢碎/",
+  "image_url": null,
+  "title": {
+   "en": "Chu Man-kai settles for badminton bronze after semi-final defeat at Asian Para Games",
+   "zh_hant": "亞殘運羽毛球朱文佳男單四強止步摘銅",
+   "zh_hans": "亚残运羽毛球朱文佳男单四强止步摘铜"
+  },
+  "summary": {
+   "en": "Hong Kong's Chu Man-kai lost 8–21, 19–21 in straight games to China's Lin Naili in the men's singles SH6 semi-final at the Asian Para Games in Aichi-Nagoya, ending his title defence. With no bronze-medal play-off, Chu takes the bronze, the only badminton medal for the Hong Kong team at this edition. The defending champion had won all three group matches and beaten teammate Wong Chun-yin 21–14, 21–7 in the quarter-final. The bronze qualifies him for a HK$62,500 award under the Jockey Club Athlete Incentive Awards Scheme.",
+   "zh_hant": "愛知名古屋亞殘運羽毛球SH6級男單四強，港將朱文佳直落兩局8：21、19：21不敵中國的林乃利，無緣衛冕；賽事不設季軍戰，朱文佳收穫銅牌，這亦是羽毛球港隊今屆唯一獎牌。上屆金牌得主朱文佳小組三戰全勝出線，八強曾以21：14、21：7擊敗隊友王鎮炎。銅牌可獲「賽馬會優秀運動員獎勵計劃」62,500港元獎金。",
+   "zh_hans": "爱知名古屋亚残运羽毛球SH6级男单四强，港将朱文佳直落两局8：21、19：21不敌中国的林乃利，无缘卫冕；赛事不设季军战，朱文佳收获铜牌，这亦是羽毛球港队今届唯一奖牌。上届金牌得主朱文佳小组三战全胜出线，八强曾以21：14、21：7击败队友王镇炎。铜牌可获「赛马会优秀运动员奖励计划」62,500港元奖金。"
+  },
+  "tags": {
+   "en": [
+    "Asian Para Games",
+    "badminton",
+    "Chu Man-kai",
+    "SH6"
+   ],
+   "zh_hant": [
+    "亞殘運",
+    "羽毛球",
+    "朱文佳",
+    "SH6"
+   ],
+   "zh_hans": [
+    "亚残运",
+    "羽毛球",
+    "朱文佳",
+    "SH6"
+   ]
+  }
+ },
+ {
+  "id": "20261023-d2-schools-swimming-kgv-victoria-shanghai",
+  "sport": "swimming",
+  "published_at": "2026-10-22T19:44:06+08:00",
+  "source": "體路 Sportsroad",
+  "source_url": "https://www.sportsroad.hk/archives/659088/d2學界游泳｜kgv封王弘立稱后-孫茂堃改寫三項自由泳/",
+  "image_url": null,
+  "title": {
+   "en": "KGV boys and Victoria Shanghai girls triumph at D2 schools swimming finals",
+   "zh_hant": "D2學界游泳KGV男子封王 弘立女子稱后",
+   "zh_hans": "D2学界游泳KGV男子封王 弘立女子称后"
+  },
+  "summary": {
+   "en": "The finals day of the Hong Kong Island and Kowloon D2 secondary schools swimming competition was held at Victoria Park Swimming Pool on Thursday. In the boys' division, King George V School (KGV) edged past Raimondi College by 8 points with 212 to take the title; in the girls' division, Victoria Shanghai Academy won with 277 points, 41 clear of the runner-up. Both teams will be promoted to D1 next year. B Grade swimmer Sun Maokun of St. Margaret's Co-educational English Secondary and Primary School broke three freestyle school records over two days: 50m free (23.78s as a relay lead-off), 100m free (51.26s) and 200m free (1:52.54), with the 50m mark lowering a 19-year-old record by 0.13 seconds.",
+   "zh_hant": "港九區D2中學校際游泳比賽決賽日周四於維園泳池舉行，男子組英皇佐治五世學校（KGV）以總分212分、8分之差力壓高主教書院封王；女子組弘立書院以277分拋離次席41分稱后，兩隊下學年攜手升上D1。就讀聖瑪加利男女英文中小學的B Grade泳手孫茂堃兩日內改寫三項自由泳學界紀錄：50自23秒78（接力首棒）、100自51秒26、200自1分52秒54，其中50自將塵封19年的舊紀錄推快0.13秒。",
+   "zh_hans": "港九区D2中学学校际游泳比赛决赛日周四于维园泳池举行，男子组英皇佐治五世学校（KGV）以总分212分、8分之差力压高主教书院封王；女子组弘立书院以277分抛离次席41分称后，两队下学年携手升上D1。就读圣玛加利男女英文中小学的B Grade泳手孙茂堃两日内改写三项自由泳学界纪录：50自23秒78（接力首棒）、100自51秒26、200自1分52秒54，其中50自将尘封19年的旧纪录推快0.13秒。"
+  },
+  "tags": {
+   "en": [
+    "D2",
+    "schools swimming",
+    "KGV",
+    "Victoria Shanghai Academy"
+   ],
+   "zh_hant": [
+    "D2",
+    "學界游泳",
+    "KGV",
+    "弘立書院"
+   ],
+   "zh_hans": [
+    "D2",
+    "学界游泳",
+    "KGV",
+    "弘立书院"
+   ]
+  }
+ },
+ {
+  "id": "20261023-uel-besiktas-crystal-palace-2-2",
+  "sport": "football",
+  "published_at": "2026-10-23T03:30:00+08:00",
+  "source": "TNT Sports",
+  "source_url": "https://www.tntsports.co.uk/football/europa-league/2026-2027/live-besiktas-crystal-palace_mtc21878730/live-commentary.shtml",
+  "image_url": null,
+  "title": {
+   "en": "Palace held 2-2 by 10-man Besiktas in Europa League thriller",
+   "zh_hant": "歐霸盃水晶宮作客2：2逼和十人比錫達斯",
+   "zh_hans": "欧霸杯水晶宫作客2：2逼和十人比锡达斯"
+  },
+  "summary": {
+   "en": "Crystal Palace were held to a 2-2 draw away at Besiktas in the UEFA Europa League's third round at Tüpraş Stadium in Istanbul. Wilfred Ndidi put the hosts ahead in first-half stoppage time before second-half strikes from Yeremy Pino (51') and Jean-Philippe Mateta (55') turned it around for Palace. Substitute Junior Olaitan levelled in the 73rd minute, and Besiktas finished with 10 men after Ümit Akdağ's 77th-minute red card. Palace head coach Pierre Sage said his side deserved better and called the result a step forward ahead of the weekend trip to Newcastle. Palace move to four points after three matches.",
+   "zh_hant": "歐霸盃第三輪，水晶宮作客土耳其2：2逼和比錫達斯。主隊先由尼迪迪（Wilfred Ndidi）補時破門，下半場耶雷米·皮諾（Yeremy Pino）51分鐘及馬迪達（Jean-Philippe Mateta）55分鐘連入兩球反超，但後備上陣的奧拉坦（Junior Olaitan）73分鐘為主隊追平；比錫達斯的艾克達（Ümit Akdağ）77分鐘被逐離場，主隊以十人應戰。領隊施治（Pierre Sage）表示球隊值得更好的結果，視今仗為向前的一步，期望帶著勢頭迎接周末作客紐卡素的聯賽。水晶宮三戰後得4分。",
+   "zh_hans": "欧霸杯第三轮，水晶宫作客土耳其2：2逼和比锡达斯。主队先由尼迪迪（Wilfred Ndidi）补时破门，下半场耶雷米·皮诺（Yeremy Pino）51分钟及马迪达（Jean-Philippe Mateta）55分钟连入两球反超，但后备上阵的奥拉坦（Junior Olaitan）73分钟为主队追平；比锡达斯的艾克达（Ümit Akdağ）77分钟被逐离场，主队以十人应战。领队施治（Pierre Sage）表示球队值得更好的结果，视今仗为向前的一步，期望带着势头迎接周末作客纽卡素的联赛。水晶宫三战后得4分。"
+  },
+  "tags": {
+   "en": [
+    "Europa League",
+    "Crystal Palace",
+    "Besiktas",
+    "2-2"
+   ],
+   "zh_hant": [
+    "歐霸盃",
+    "水晶宮",
+    "比錫達斯",
+    "和局"
+   ],
+   "zh_hans": [
+    "欧霸杯",
+    "水晶宫",
+    "比锡达斯",
+    "和局"
+   ]
+  }
+ },
+ {
+  "id": "20261023-para-scst-nine-medals",
+  "sport": "others",
+  "published_at": "2026-10-22T23:38:00+08:00",
+  "source": "政府新聞處",
+  "source_url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200789.htm",
+  "image_url": null,
+  "title": {
+   "en": "Hong Kong adds nine more medals at Asian Para Games, tally reaches 30",
+   "zh_hant": "港隊亞殘運單日再添九牌　獎牌累計30面",
+   "zh_hans": "港队亚残运单日再添九牌　奖牌累计30面"
+  },
+  "summary": {
+   "en": "The Secretary for Culture, Sports and Tourism, Rosanna Law, on October 22 congratulated Hong Kong, China athletes on winning nine more medals — one gold, two silver and six bronze — in a single day at the 5th Asian Para Games in Nagoya. Swimmer Chan Yui-lam defended her women's 100m butterfly S14 title for the third consecutive Asian Para Games, bringing the delegation its second gold of the Games, with teammate Lau Chiu-yee taking bronze in the same race. The women's epee team and the table tennis mixed doubles XD20 pair added silvers, while bronzes came from the mixed 4x100m freestyle relay S14, table tennis mixed doubles XD14 and two XD22 pairs, and badminton men's singles SH6. The delegation's tally now stands at 30 medals: two gold, 10 silver and 18 bronze.",
+   "zh_hant": "文化體育及旅遊局局長羅淑佩10月22日祝賀中國香港代表團，在名古屋第五屆亞殘運單日再添九面獎牌，包括一金兩銀六銅。泳手陳睿琳在女子100米蝶泳S14成功衛冕，連續三屆亞殘運奪得此項目金牌，為港隊帶來今屆第二金，隊友Lau Chiu-yee同場奪銅。女子重劍團體及乒乓球混雙XD20添銀；銅牌來自男女混合4x100米自由泳S14接力、乒乓球混雙XD14及兩對XD22組合，以及羽毛球男子SH6單打。港隊累計獎牌達30面：兩金十銀十八銅。",
+   "zh_hans": "文化体育及旅游局局长罗淑佩10月22日祝贺中国香港代表团，在名古屋第五届亚残运单日再添九面奖牌，包括一金两银六铜。泳手陈睿琳在女子100米蝶泳S14成功卫冕，连续三届亚残运夺得此项目金牌，为港队带来今届第二金，队友Lau Chiu-yee同场夺铜。女子重剑团体及乒乓球混双XD20添银；铜牌来自男女混合4x100米自由泳S14接力、乒乓球混双XD14及两对XD22组合，以及羽毛球男子SH6单打。港队累计奖牌达30面：两金十银十八铜。"
+  },
+  "tags": {
+   "en": [
+    "Asian Para Games",
+    "Nagoya 2026",
+    "Hong Kong team",
+    "Chan Yui-lam",
+    "medal tally"
+   ],
+   "zh_hant": [
+    "亞殘運",
+    "名古屋2026",
+    "港隊",
+    "陳睿琳",
+    "獎牌榜"
+   ],
+   "zh_hans": [
+    "亚残运",
+    "名古屋2026",
+    "港队",
+    "陈睿琳",
+    "奖牌榜"
+   ]
+  }
+ },
+ {
+  "id": "20261023-uel-juventus-rennes-draw",
+  "sport": "football",
+  "published_at": "2026-10-23T02:45:00+08:00",
+  "source": "Flashscore",
+  "source_url": "https://www.flashscore.com/news/juventus-rennes-europa-league-report-october-22-2026/AemdzbAT/",
+  "image_url": null,
+  "title": {
+   "en": "Woltemade strikes late as Juventus draw 2-2 with Rennes in Europa League",
+   "zh_hant": "歐霸盃祖雲達斯2-2逼和雷恩　禾迪馬迪十二碼救主",
+   "zh_hans": "欧霸杯祖云达斯2-2逼和雷恩　禾迪马迪十二码救主"
+  },
+  "summary": {
+   "en": "Nick Woltemade became the first Juventus player this century to score in his first three European main-draw matches for the club as his penalty rescued a 2-2 draw against Rennes on matchday three of the UEFA Europa League. Woltemade set up Zeki Celik for a fifth-minute opener before Musa Al-Taamari levelled for Rennes, meeting Bryan Reynolds' header. Boulaye Dia, deputising for the injured Esteban Lepaul, put Rennes ahead from the penalty spot late in the first half after Douglas Luiz handled. Substitute Nicolas Gonzalez's header struck Reynolds' arm midway through the second half, and Woltemade stroked the penalty down the middle. Jhon Lucumi had a late winner ruled out for offside as Juve — booed off at half-time after Sunday's 3-0 Serie A defeat by Lazio — stayed unbeaten in the league phase under pressure-hit Luciano Spalletti.",
+   "zh_hant": "歐霸盃聯賽階段第三輪，祖雲達斯主場2-2逼和雷恩。禾迪馬迪（Nick Woltemade）開賽5分鐘妙傳Zeki Celik先開紀錄，成為今世紀首位連續三場歐洲賽主賽圈為祖記入球的球員；雷恩由Musa Al-Taamari接應Bryan Reynolds頭槌二傳扳平，Boulaye Dia在上半場尾段射入十二碼反超，祖記半場被主場球迷報以噓聲。下半場中段後備入替的Nicolas Gonzalez頭槌省中Reynolds手臂，祖記再獲十二碼，禾迪馬迪射入扳平。完場前Jhon Lucumi的入球因越位被判無效。祖記在領隊史柏利迪（Luciano Spalletti）受壓下保持聯賽階段不敗。",
+   "zh_hans": "欧霸杯联赛阶段第三轮，祖云达斯主场2-2逼和雷恩。禾迪马迪（Nick Woltemade）开赛5分钟妙传Zeki Celik先开纪录，成为今世纪首位连续三场欧洲赛主赛圈为祖记入球的球员；雷恩由Musa Al-Taamari接应Bryan Reynolds头槌二传扳平，Boulaye Dia在上半场尾段射入十二码反超，祖记半场被主场球迷报以嘘声。下半场中段后备入替的Nicolas Gonzalez头槌省中Reynolds手臂，祖记再获十二码，禾迪马迪射入扳平。完场前Jhon Lucumi的入球因越位被判无效。祖记在领队史柏利迪（Luciano Spalletti）受压下保持联赛阶段不败。"
+  },
+  "tags": {
+   "en": [
+    "Europa League",
+    "Juventus",
+    "Rennes",
+    "Nick Woltemade",
+    "football"
+   ],
+   "zh_hant": [
+    "歐霸盃",
+    "祖雲達斯",
+    "雷恩",
+    "禾迪馬迪",
+    "足球"
+   ],
+   "zh_hans": [
+    "欧霸杯",
+    "祖云达斯",
+    "雷恩",
+    "禾迪马迪",
+    "足球"
+   ]
+  }
+ },
+ {
+  "id": "20261023-goffin-retires-brussels",
+  "sport": "tennis",
+  "published_at": "2026-10-23T00:04:00+08:00",
+  "source": "Tennis365",
+  "source_url": "https://www.tennis365.com/tennis-news/rafael-nadal-sends-message-tribute-david-goffin-retires",
+  "image_url": null,
+  "title": {
+   "en": "David Goffin bows out in Brussels as glittering career comes to an end",
+   "zh_hant": "哥芬主場布魯塞爾告別　結束職業網球生涯",
+   "zh_hans": "哥芬主场布鲁塞尔告别　结束职业网球生涯"
+  },
+  "summary": {
+   "en": "Belgium's David Goffin has brought his professional tennis career to an end after losing 3-6, 4-6 to American Alex Michelsen in the second round of the European Open in Brussels. The 35-year-old was given an on-court farewell ceremony featuring video tributes from Rafael Nadal, Richard Gasquet, Grigor Dimitrov and his family, and was moved to tears. Goffin retires with a 358-276 career record and six ATP titles, highlighted by his run to the 2017 ATP Finals final — beating Nadal, Dominic Thiem and Roger Federer — and the 2019 Cincinnati final. He reached four Grand Slam quarter-finals and a career-high world No. 7 in 2017, the only Belgian man to crack the world's top 10, with 21 wins over top-10 players and two Davis Cup final appearances for Belgium. He had extended his farewell in the first round, rallying from 0-3 down in the decider to beat Remy Bertola 3-6, 6-3, 6-4.",
+   "zh_hant": "比利時名將哥芬（David Goffin）在主場布魯塞爾歐洲公開賽第二圈以3-6、4-6不敵美國球手米捷臣（Alex Michelsen），結束職業網球生涯。35歲的哥芬賽後獲安排場上告別儀式，大會播出拿度、加斯基特、迪美托夫及家人的祝賀短片，令他感觸落淚。哥芬職業生涯戰績358勝276負，贏得六個ATP巡迴賽冠軍，代表作是2017年ATP年終賽連挫拿度、添姆及費達拿殺入決賽，以及2019年辛辛那提大師賽亞軍。他四度打入大滿貫八強，2017年最高排名世界第七，是唯一打入世界前十的比利時男球手，生涯21次擊敗世界前十，並助比利時兩度打入台維斯盃決賽。首圈他曾在決勝盤0-3落後下反勝貝圖拿（Remy Bertola），將告別之旅延續一輪。",
+   "zh_hans": "比利时名将哥芬（David Goffin）在主场布鲁塞尔欧洲公开赛第二圈以3-6、4-6不敌美国球手米捷臣（Alex Michelsen），结束职业网球生涯。35岁的哥芬赛后获安排场上告别仪式，大会播出拿度、加斯基特、迪美托夫及家人的祝贺短片，令他感触落泪。哥芬职业生涯战绩358胜276负，赢得六个ATP巡回赛冠军，代表作是2017年ATP年终赛连挫拿度、添姆及费达拿杀入决赛，以及2019年辛辛那提大师赛亚军。他四度打入大满贯八强，2017年最高排名世界第七，是唯一打入世界前十的比利时男球手，生涯21次击败世界前十，并助比利时两度打入台维斯杯决赛。首圈他曾在决胜盘0-3落后下反胜贝图拿（Remy Bertola），将告别之旅延续一轮。"
+  },
+  "tags": {
+   "en": [
+    "David Goffin",
+    "retirement",
+    "Brussels",
+    "ATP",
+    "tennis"
+   ],
+   "zh_hant": [
+    "哥芬",
+    "退役",
+    "布魯塞爾",
+    "ATP",
+    "網球"
+   ],
+   "zh_hans": [
+    "哥芬",
+    "退役",
+    "布鲁塞尔",
+    "ATP",
+    "网球"
+   ]
+  }
+ },
+ {
+  "id": "20261023-lyon-cobolli-beats-wawrinka",
+  "sport": "tennis",
+  "published_at": "2026-10-23T02:39:00+08:00",
+  "source": "LaPresse",
+  "source_url": "https://lapresse.us/sports/2026/10/22/tennis-atp-lyon-cobolli-defeats-wawrinka-to-reach-the-quarter-finals/",
+  "image_url": null,
+  "title": {
+   "en": "Top seed Cobolli downs Wawrinka to reach Lyon quarter-finals",
+   "zh_hant": "里昂站頭號種子高保利直落兩盤淘汰華連卡",
+   "zh_hans": "里昂站头号种子高保利直落两盘淘汰华连卡"
+  },
+  "summary": {
+   "en": "Top seed Flavio Cobolli, the world No. 6, beat Stan Wawrinka 6-2, 6-4 to reach the quarter-finals of the ATP 250 Lyon event (Grand Prix Auvergne-Rhône-Alpes, €757,320 prize money). Italy's LaPresse praised Cobolli's 'excellent performance'. Sixth seed Lorenzo Musetti also advanced on the same day, beating 17-year-old wildcard Moise Kouame 6-4, 6-4.",
+   "zh_hant": "ATP 250里昂站（總獎金757,320歐元），頭號種子、世界排名第六的高保利（Flavio Cobolli）以6-2、6-4直落兩盤擊敗華連卡（Stan Wawrinka），晉級八強。意大利《LaPresse》形容高保利表現出色。同日，六號種子慕沙迪（Lorenzo Musetti）以6-4、6-4淘汰17歲外卡小將古亞美（Moise Kouame），同樣晉級。",
+   "zh_hans": "ATP 250里昂站（总奖金757,320欧元），头号种子、世界排名第六的高保利（Flavio Cobolli）以6-2、6-4直落两盘击败华连卡（Stan Wawrinka），晋级八强。意大利《LaPresse》形容高保利表现突出。同日，六号种子慕沙迪（Lorenzo Musetti）以6-4、6-4淘汰17岁外卡小将古亚美（Moise Kouame），同样晋级。"
+  },
+  "tags": {
+   "en": [
+    "Flavio Cobolli",
+    "Lyon Open",
+    "ATP",
+    "Stan Wawrinka",
+    "tennis"
+   ],
+   "zh_hant": [
+    "高保利",
+    "里昂站",
+    "ATP",
+    "華連卡",
+    "網球"
+   ],
+   "zh_hans": [
+    "高保利",
+    "里昂站",
+    "ATP",
+    "华连卡",
+    "网球"
+   ]
+  }
+ }
 ]
