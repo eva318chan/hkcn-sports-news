@@ -1773,5 +1773,40 @@
     "英超"
    ]
   }
+ },
+ {
+  "id": "20261024-beasley-plea-negotiations",
+  "sport": "basketball",
+  "published_at": "2026-10-24T23:33:01+08:00",
+  "source": "Field Level Media",
+  "source_url": "https://www.1075thegame.com/2026/10/24/ex-nba-g-malik-beasley-negotiating-plea-in-gambling-case/",
+  "image_url": null,
+  "title": {
+   "en": "Ex-NBA guard Malik Beasley negotiating plea deal in federal gambling case",
+   "zh_hant": "前 NBA 球員比士利涉賭波案　與檢方磋商認罪協議",
+   "zh_hans": "前 NBA 球员比士利涉赌波案　与检方磋商认罪协议"
+  },
+  "summary": {
+   "en": "Former NBA guard Malik Beasley is negotiating a plea deal with federal prosecutors over charges that he manipulated his on-court statistics to benefit gamblers, his attorney Steve Haney told ESPN on Saturday. A notice on the court docket indicated Beasley intends to plead guilty, with a decision expected early next week. The US Attorney's Office in New York alleges Beasley rigged his numbers in at least four games for the Milwaukee Bucks in the 2023-24 season. Indicted in June on bribery, wire fraud and money laundering conspiracy charges, the 29-year-old initially pleaded not guilty; former teammate Ed Davis, also charged, has pleaded not guilty.",
+   "zh_hant": "前 NBA 後衛比士利的代表律師夏尼周六向 ESPN 表示，比士利正與聯邦檢察官磋商認罪協議，涉及他在 2023-24 賽季效力密爾沃基公鹿期間操控個人數據圖利賭客的指控。法庭文件顯示比士利有意認罪，預計下周初有決定。紐約檢方指他至少在四場比賽造數，他今年6月被控賄賂、電匯欺詐及洗錢串謀等罪名，最初否認全部控罪；同案前隊友艾迪·戴維斯亦否認控罪。",
+   "zh_hans": "前 NBA 后卫比士利的代表律师夏尼周六向 ESPN 表示，比士利正与联邦检察官磋商认罪协议，涉及他在 2023-24 赛季效力密尔沃基公鹿期间操控个人数据图利赌客的指控。法庭文件显示比士利有意认罪，预计下周初有决定。纽约检方指他至少在四场比赛造数，他今年6月被控贿赂、电汇欺诈及洗钱串谋等罪名，最初否认全部控罪；同案前队友艾迪·戴维斯亦否认控罪。"
+  },
+  "tags": {
+   "en": [
+    "Malik Beasley",
+    "NBA",
+    "gambling"
+   ],
+   "zh_hant": [
+    "比士利",
+    "NBA",
+    "賭波"
+   ],
+   "zh_hans": [
+    "比士利",
+    "NBA",
+    "赌波"
+   ]
+  }
  }
 ]
