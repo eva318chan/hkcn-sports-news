@@ -1703,5 +1703,75 @@
     "WTA"
    ]
   }
+ },
+ {
+  "id": "20261024-arsenal-beat-everton-2-0",
+  "sport": "football",
+  "published_at": "2026-10-24T23:57:00+08:00",
+  "source": "Soccer Laduma",
+  "source_url": "https://www.soccerladuma.co.za/international/english-premier-league/premier-league-wrap-24-october-2026",
+  "image_url": null,
+  "title": {
+   "en": "Arsenal beat Everton 2-0 to move level with Manchester City at the top",
+   "zh_hant": "阿仙奴2–0挫愛華頓　追平曼城並列榜首",
+   "zh_hans": "阿森纳2–0挫埃弗顿　追平曼城并列榜首"
+  },
+  "summary": {
+   "en": "Arsenal beat Everton 2-0 at the Emirates on Saturday to move level on points with Premier League leaders Manchester City. Konsa opened the scoring after seven minutes with his first goal for the club, bundling home from close range after a corner, and Gabriel Magalhaes doubled the lead in the 68th minute with a header from Ben White's cross, his first goal of the season. Mikel Arteta was without the injured Bukayo Saka, who picked up a knock in the midweek Champions League draw with Bayern Munich. City lost their perfect start at Aston Villa earlier in the day, allowing Arsenal to draw level at the top.",
+   "zh_hant": "阿仙奴星期六主場2比0擊敗愛華頓，追平榜首曼城的積分。干沙開賽7分鐘接應角球近門撞入，取得加盟後首個入球；加比爾68分鐘接應賓·懷特傳中頂入今季首球，為阿仙奴鎖定勝局。主帥阿迪達今仗缺少沙卡，後者在周中歐聯賽和拜仁慕尼黑一仗受傷。曼城同日較早前作客不敵阿士東維拉，今季首嘗敗績（本站已報道），阿仙奴藉此追平榜首。",
+   "zh_hans": "阿森纳星期六主场2比0击败埃弗顿，追平榜首曼城的积分。干沙开赛7分钟接应角球近门撞入，取得加盟后首个入球；加比尔68分钟接应宾·怀特传中顶入今季首球，为阿森纳锁定胜局。主帅阿迪达今仗缺少沙卡，后者在周中欧冠赛和拜仁慕尼黑一仗受伤。曼城同日较早前作客不敌阿斯顿维拉，今季首尝败绩（本站已报道），阿森纳藉此追平榜首。"
+  },
+  "tags": {
+   "en": [
+    "Arsenal",
+    "Everton",
+    "Premier League"
+   ],
+   "zh_hant": [
+    "阿仙奴",
+    "愛華頓",
+    "英超"
+   ],
+   "zh_hans": [
+    "阿森纳",
+    "埃弗顿",
+    "英超"
+   ]
+  }
+ },
+ {
+  "id": "20261024-fulham-beat-coventry-1-0",
+  "sport": "football",
+  "published_at": "2026-10-24T23:57:00+08:00",
+  "source": "Soccer Laduma",
+  "source_url": "https://www.soccerladuma.co.za/international/english-premier-league/premier-league-wrap-24-october-2026",
+  "image_url": null,
+  "title": {
+   "en": "Bobb's late stunner gives Fulham back-to-back wins at Coventry",
+   "zh_hant": "卜比末段世界波奠勝　富咸作客1–0挫高雲地利取兩連勝",
+   "zh_hans": "卜比末段世界波奠胜　富咸作客1–0挫高云地利取两连胜"
+  },
+  "summary": {
+   "en": "Fulham beat Coventry City 1-0 away on Saturday to record back-to-back Premier League wins for the first time this season. Bobb settled the match with a late stunner. Coventry, managed by Frank Lampard, had been looking to get back to winning ways following last weekend's 3-1 defeat by Tottenham, but could not find a way through as Fulham extended their recent good run.",
+   "zh_hant": "富咸星期六作客1比0擊敗高雲地利，取得今季首次英超兩連勝。卜比末段轟入世界波一箭定江山。由林柏特領軍的高雲地利上周末3比1不敵熱刺，今仗力求反彈未果。富咸延續近期好勢，連贏兩場。",
+   "zh_hans": "富咸星期六作客1比0击败高云地利，取得今季首次英超两连胜。卜比末段轰入世界波一箭定江山。由林柏特领军的高云地利上周末3比1不敌热刺，今仗力求反弹未果。富咸延续近期好势，连赢两场。"
+  },
+  "tags": {
+   "en": [
+    "Fulham",
+    "Coventry",
+    "Premier League"
+   ],
+   "zh_hant": [
+    "富咸",
+    "高雲地利",
+    "英超"
+   ],
+   "zh_hans": [
+    "富咸",
+    "高云地利",
+    "英超"
+   ]
+  }
  }
 ]
