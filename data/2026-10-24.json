@@ -437,5 +437,415 @@
     "练习赛"
    ]
   }
+ },
+ {
+  "id": "20261024-celtics-beat-knicks-107-103",
+  "sport": "basketball",
+  "published_at": "2026-10-24T10:00:00+08:00",
+  "source": "Wire Report",
+  "source_url": "https://wire.report/article/jayson-tatum-scores-36-takes-over-in-fourth-as-knicks-fall-t-2026-10-23",
+  "image_url": null,
+  "title": {
+   "en": "Tatum drops 36 as Celtics beat Knicks 107-103, defending champs fall to 0-2",
+   "zh_hant": "泰譚轟36分　塞爾特人107：103力挫衛冕冠軍紐約人　對手開季兩連敗",
+   "zh_hans": "泰谭轰36分　塞尔特人107：103力挫卫冕冠军纽约人　对手开季两连败"
+  },
+  "summary": {
+   "en": "Jayson Tatum scored 36 points with 9 rebounds, 7 assists and 3 steals as the Boston Celtics held off the New York Knicks 107-103 at TD Garden in their home opener. Tatum poured in 25 of his points after half-time, including seven of Boston's final eight, to repel a late Knicks rally led by Karl-Anthony Towns (22 points). Paul George added 15 points in his Celtics debut as Boston improved to 1-1, while the defending champions fell to 0-2 — the first title holders to open a season 0-2 in 15 years.",
+   "zh_hant": "NBA常規賽，塞爾特人主場107：103力挫紐約人，取得今季主場首勝。泰譚全場轟入36分另加9籃板、7助攻同3偷波，其中下半場獨取25分，末段更包辦球隊最後8分入面嘅7分，頂住由唐斯（22分）帶領嘅紐約人反撲。佐治處子戰貢獻15分，助塞爾特人開季戰績1勝1負；衛冕冠軍紐約人開季兩連敗，係15年來首支開季0勝2負嘅衛冕冠軍。",
+   "zh_hans": "NBA常规赛，塞尔特人主场107：103力挫纽约人，取得今季主场首胜。泰谭全场轰入36分另加9篮板、7助攻同3抢断，其中下半场独取25分，末段更包办球队最后8分里面的7分，顶住由唐斯（22分）带领的纽约人反扑。佐治处子战贡献15分，助塞尔特人开季战绩1胜1负；卫冕冠军纽约人开季两连败，是15年来首支开季0胜2负的卫冕冠军。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Celtics",
+    "Knicks",
+    "Tatum",
+    "Boston"
+   ],
+   "zh_hant": [
+    "NBA",
+    "塞爾特人",
+    "紐約人",
+    "泰譚",
+    "波士頓"
+   ],
+   "zh_hans": [
+    "NBA",
+    "塞尔特人",
+    "纽约人",
+    "泰谭",
+    "波士顿"
+   ]
+  }
+ },
+ {
+  "id": "20261024-pistons-beat-heat-128-111",
+  "sport": "basketball",
+  "published_at": "2026-10-24T10:30:00+08:00",
+  "source": "Eurohoops",
+  "source_url": "https://www.eurohoops.net/en/nba-news/2025270/giannis-antetokounmpo-scores-36-points-miami-heat-lose-to-detroit-pistons-nba/",
+  "image_url": null,
+  "title": {
+   "en": "Pistons rout Heat 128-111 in Miami despite Giannis 36-point night",
+   "zh_hant": "字母哥36分徒勞　活塞作客128：111大炒熱火開季兩連勝",
+   "zh_hans": "字母哥36分徒劳　活塞作客128：111大炒热火开季两连胜"
+  },
+  "summary": {
+   "en": "The Detroit Pistons beat the Miami Heat 128-111 on the road, leading from start to finish and stretching the advantage to 23 points. John Collins scored 23 for Detroit and Paul Reed posted a 19-point, 11-rebound double-double as the Pistons moved to 2-0. Giannis Antetokounmpo's game-high 36 points with 12 rebounds went in vain for Miami, who dropped to 0-2.",
+   "zh_hant": "NBA常規賽，活塞作客128：111大炒熱火，由頭帶到尾，最多領先23分。哥連斯為活塞攻入23分，列特交出19分11籃板雙雙，助活塞開季兩連勝。字母哥空砍全場最高36分加12籃板，熱火開季兩連敗。",
+   "zh_hans": "NBA常规赛，活塞作客128：111大炒热火，由头带到尾，最多领先23分。哥连斯为活塞攻入23分，列特交出19分11篮板双双，助活塞开季两连胜。字母哥空砍全场最高36分加12篮板，热火开季两连败。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Pistons",
+    "Heat",
+    "Giannis",
+    "Detroit"
+   ],
+   "zh_hant": [
+    "NBA",
+    "活塞",
+    "熱火",
+    "字母哥",
+    "底特律"
+   ],
+   "zh_hans": [
+    "NBA",
+    "活塞",
+    "热火",
+    "字母哥",
+    "底特律"
+   ]
+  }
+ },
+ {
+  "id": "20261024-hawks-blowout-hornets-128-81",
+  "sport": "basketball",
+  "published_at": "2026-10-24T09:45:00+08:00",
+  "source": "Filling The Lane",
+  "source_url": "https://www.fillingthelane.com/nba/hawks-at-hornets-full-game-highlights-october-23-2026/",
+  "image_url": null,
+  "title": {
+   "en": "Hawks demolish Hornets 128-81 in 47-point rout",
+   "zh_hant": "鷹隊47分狂屠黃蜂128：81　開季兩連勝",
+   "zh_hans": "鹰队47分狂屠黄蜂128：81　开季两连胜"
+  },
+  "summary": {
+   "en": "The Atlanta Hawks routed the Charlotte Hornets 128-81 on the road, a 47-point blowout. Jalen Johnson led Atlanta with 19 points, 8 assists and 7 rebounds, Aaron Wiggins also scored 19 and Naz Reid added 17. The Hawks moved to 2-0 while the Hornets dropped to 1-1.",
+   "zh_hant": "NBA常規賽，鷹隊作客128：81狂屠黃蜂，贏足47分。莊遜為鷹隊攻入19分另加8助攻7籃板，韋堅斯同樣得19分，列特貢獻17分。鷹隊開季兩連勝，黃蜂跌至1勝1負。",
+   "zh_hans": "NBA常规赛，鹰队作客128：81狂屠黄蜂，赢足47分。庄逊为鹰队攻入19分另加8助攻7篮板，韦坚斯同样得19分，列特贡献17分。鹰队开季两连胜，黄蜂跌至1胜1负。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Hawks",
+    "Hornets",
+    "Johnson",
+    "Atlanta"
+   ],
+   "zh_hant": [
+    "NBA",
+    "鷹隊",
+    "黃蜂",
+    "莊遜",
+    "阿特蘭大"
+   ],
+   "zh_hans": [
+    "NBA",
+    "鹰队",
+    "黄蜂",
+    "庄逊",
+    "亚特兰大"
+   ]
+  }
+ },
+ {
+  "id": "20261024-mavericks-beat-pacers-121-105",
+  "sport": "basketball",
+  "published_at": "2026-10-24T09:45:00+08:00",
+  "source": "Wire Report",
+  "source_url": "https://wire.report/article/mavericks-finish-16-points-clear-in-road-win-over--1023",
+  "image_url": null,
+  "title": {
+   "en": "Mavericks beat Pacers 121-105 on the road to level at 1-1",
+   "zh_hant": "獨行俠作客121：105挫溜馬　開季回勇追平1勝1負",
+   "zh_hans": "独行侠作客121：105挫溜马　开季回勇追平1胜1负"
+  },
+  "summary": {
+   "en": "The Dallas Mavericks beat the Indiana Pacers 121-105 on the road for a 16-point win. Dallas exploded for 44 points in the first quarter and never looked back. Both teams moved to 1-1 for the season.",
+   "zh_hant": "NBA常規賽，獨行俠作客121：105擊敗溜馬，贏16分。獨行俠首節狂轟44分奠定勝局，之後未曾落後。兩隊同樣開季1勝1負。",
+   "zh_hans": "NBA常规赛，独行侠作客121：105击败溜马，赢16分。独行侠首节狂轰44分奠定胜局，之后未曾落后。两队同样开季1胜1负。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Mavericks",
+    "Pacers",
+    "Dallas",
+    "Indiana"
+   ],
+   "zh_hant": [
+    "NBA",
+    "獨行俠",
+    "溜馬",
+    "達拉斯",
+    "印第安納"
+   ],
+   "zh_hans": [
+    "NBA",
+    "独行侠",
+    "溜马",
+    "达拉斯",
+    "印第安纳"
+   ]
+  }
+ },
+ {
+  "id": "20261024-timberwolves-beat-magic-115-93",
+  "sport": "basketball",
+  "published_at": "2026-10-24T09:45:00+08:00",
+  "source": "Deadspin",
+  "source_url": "https://deadspin.com/timberwolves-cruise-past-magic-to-sweep-florida-road-trip/",
+  "image_url": null,
+  "title": {
+   "en": "Timberwolves cruise past Magic 115-93 to go 2-0",
+   "zh_hant": "木狼作客115：93輕取魔術　開季兩連勝",
+   "zh_hans": "木狼作客115：93轻取魔术　开季两连胜"
+  },
+  "summary": {
+   "en": "The Minnesota Timberwolves beat the Orlando Magic 115-93 on the road, sweeping their Florida road trip. Minnesota led 57-45 at half-time and closed the third quarter on a 17-3 run. Anthony Edwards and Jaden McDaniels scored 15 points each, with Rudy Gobert adding 14 points and 9 rebounds. The Timberwolves moved to 2-0 while the Magic fell to 0-2.",
+   "zh_hant": "NBA常規賽，木狼作客115：93輕取魔術，橫掃佛羅里達作客之旅。木狼半場領先57：45，第三節尾段打出17：3攻勢拉開比數。艾華士同麥丹尼爾斯各得15分，戈拔貢獻14分9籃板。木狼開季兩連勝，魔術開季兩連敗。",
+   "zh_hans": "NBA常规赛，木狼作客115：93轻取魔术，横扫佛罗里达作客之旅。木狼半场领先57：45，第三节尾段打出17：3攻势拉开比分。艾华士同麦丹尼尔斯各得15分，戈拔贡献14分9篮板。木狼开季两连胜，魔术开季两连败。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Timberwolves",
+    "Magic",
+    "Edwards",
+    "Minnesota"
+   ],
+   "zh_hant": [
+    "NBA",
+    "木狼",
+    "魔術",
+    "艾華士",
+    "明尼蘇達"
+   ],
+   "zh_hans": [
+    "NBA",
+    "木狼",
+    "魔术",
+    "艾华士",
+    "明尼苏达"
+   ]
+  }
+ },
+ {
+  "id": "20261024-raptors-beat-wizards-112-102",
+  "sport": "basketball",
+  "published_at": "2026-10-24T09:45:00+08:00",
+  "source": "Legion Report",
+  "source_url": "https://legionreport.com/raptors-vs-wizards-recap-october-23-2026/",
+  "image_url": null,
+  "title": {
+   "en": "Barnes drops 28 and 14 boards as Raptors beat Wizards 112-102",
+   "zh_hant": "班尼斯28分14籃板　速龍作客112：102挫巫師",
+   "zh_hans": "班尼斯28分14篮板　速龙作客112：102挫巫师"
+  },
+  "summary": {
+   "en": "The Toronto Raptors beat the Washington Wizards 112-102 on the road. Scottie Barnes posted 28 points, 14 rebounds and 5 assists, while Trae Young added 22 points and 12 assists. The Raptors moved to 2-0 while the Wizards dropped to 1-1.",
+   "zh_hant": "NBA常規賽，速龍作客112：102擊敗巫師。班尼斯交出28分14籃板5助攻，楊格貢獻22分12助攻。速龍開季兩連勝，巫師跌至1勝1負。",
+   "zh_hans": "NBA常规赛，速龙作客112：102击败巫师。班尼斯交出28分14篮板5助攻，杨格贡献22分12助攻。速龙开季两连胜，巫师跌至1胜1负。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Raptors",
+    "Wizards",
+    "Barnes",
+    "Toronto"
+   ],
+   "zh_hant": [
+    "NBA",
+    "速龍",
+    "巫師",
+    "班尼斯",
+    "多倫多"
+   ],
+   "zh_hans": [
+    "NBA",
+    "速龙",
+    "巫师",
+    "班尼斯",
+    "多伦多"
+   ]
+  }
+ },
+ {
+  "id": "20261024-alaves-malaga-1-1",
+  "sport": "football",
+  "published_at": "2026-10-24T05:00:00+08:00",
+  "source": "FullTime.zone",
+  "source_url": "https://fulltime.zone/matches/2026-10-23/laliga/alaves-vs-malaga/1d8c1efed4a3",
+  "image_url": null,
+  "title": {
+   "en": "Late Manas equaliser rescues Alaves in 1-1 draw with Malaga",
+   "zh_hant": "文拿斯89分鐘絕平　艾拉維斯主場1：1和馬拉加",
+   "zh_hans": "文拿斯89分钟绝平　艾拉维斯主场1：1和马拉加"
+  },
+  "summary": {
+   "en": "Deportivo Alaves drew 1-1 with Malaga CF at Mendizorroza in LaLiga Matchday 10. Adrian Nino gave Malaga the lead in the 44th minute before Aitor Manas equalised for the hosts in the 89th. Alaves dominated 63% of possession but could only rescue a point, staying mid-table while Malaga remain winless near the bottom.",
+   "zh_hant": "西甲第10輪，艾拉維斯主場1：1逼和馬拉加。尼諾44分鐘先為馬拉加開紀錄，文拿斯89分鐘為主隊絕平。艾拉維斯空有63%控球率只搶到1分，繼續排中游；馬拉加依然未開齋，位處榜尾附近。",
+   "zh_hans": "西甲第10轮，艾拉维斯主场1：1逼和马拉加。尼诺44分钟先为马拉加开纪录，文拿斯89分钟为主队绝平。艾拉维斯空有63%控球率只抢到1分，继续排中游；马拉加依然未开斋，位处榜尾附近。"
+  },
+  "tags": {
+   "en": [
+    "LaLiga",
+    "Alaves",
+    "Malaga",
+    "Spain",
+    "Manas"
+   ],
+   "zh_hant": [
+    "西甲",
+    "艾拉維斯",
+    "馬拉加",
+    "西班牙",
+    "文拿斯"
+   ],
+   "zh_hans": [
+    "西甲",
+    "艾拉维斯",
+    "马拉加",
+    "西班牙",
+    "文拿斯"
+   ]
+  }
+ },
+ {
+  "id": "20261024-vitoria-guimaraes-5-0-maritimo",
+  "sport": "football",
+  "published_at": "2026-10-24T05:45:00+08:00",
+  "source": "Sports Mole",
+  "source_url": "https://www.sportsmole.co.uk/football/primeira-liga/vitoria-de-guimaraes-vs-maritimo_game_260979.html",
+  "image_url": null,
+  "title": {
+   "en": "Vitoria Guimaraes thrash Maritimo 5-0 in Liga Portugal",
+   "zh_hant": "吉馬雷斯5：0大炒馬里迪莫　葡超豪取大勝",
+   "zh_hans": "吉马雷斯5：0大炒马里迪莫　葡超豪取大胜"
+  },
+  "summary": {
+   "en": "Vitoria SC Guimaraes thrashed Maritimo Madeira 5-0 at home in Liga Portugal Matchday 9. The hosts led 1-0 at half-time before scoring four second-half goals to seal an emphatic win.",
+   "zh_hant": "葡超第9輪，吉馬雷斯主場5：0大炒馬里迪莫。主隊半場領先1：0，下半場再入四球，取得一場大勝。",
+   "zh_hans": "葡超第9轮，吉马雷斯主场5：0大炒马里迪莫。主队半场领先1：0，下半场再入四球，取得一场大胜。"
+  },
+  "tags": {
+   "en": [
+    "Liga Portugal",
+    "Vitoria Guimaraes",
+    "Maritimo",
+    "Portugal",
+    "Guimaraes"
+   ],
+   "zh_hant": [
+    "葡超",
+    "吉馬雷斯",
+    "馬里迪莫",
+    "葡萄牙",
+    "吉馬雷斯"
+   ],
+   "zh_hans": [
+    "葡超",
+    "吉马雷斯",
+    "马里迪莫",
+    "葡萄牙",
+    "吉马雷斯"
+   ]
+  }
+ },
+ {
+  "id": "20261024-go-ahead-eagles-3-2-telstar",
+  "sport": "football",
+  "published_at": "2026-10-24T04:00:00+08:00",
+  "source": "Betora",
+  "source_url": "https://betora.app/result/netherlands-eredivisie/go-ahead-eagles-vs-telstar-2026-10-23",
+  "image_url": null,
+  "title": {
+   "en": "Go Ahead Eagles edge Telstar 3-2 as Tengstedt strikes twice",
+   "zh_hant": "滕斯迪特梅開二度　前進之鷹主場3：2險勝泰斯達",
+   "zh_hans": "滕斯迪特梅开二度　前进之鹰主场3：2险胜泰斯达"
+  },
+  "summary": {
+   "en": "Go Ahead Eagles beat SC Telstar 3-2 at home in Eredivisie Matchday 10. Soren Tengstedt struck twice in the first half (7', 33') and Evert Linthorst headed the third in the 67th minute. Tyrone Owusu pulled one back in the 48th and Sem Valk's stoppage-time strike made it a nervy finish, but the hosts held on.",
+   "zh_hant": "荷甲第10輪，前進之鷹主場3：2險勝泰斯達。滕斯迪特上半場梅開二度（7分鐘、33分鐘），連霍斯特67分鐘頭槌建功。奧胡素48分鐘為客軍追近，華克補時再追一球令戰況緊湊，但主隊保住勝果。",
+   "zh_hans": "荷甲第10轮，前进之鹰主场3：2险胜泰斯达。滕斯迪特上半场梅开二度（7分钟、33分钟），连霍斯特67分钟头槌建功。奥胡素48分钟为客军追近，华克补时再追一球令战况紧凑，但主队保住胜果。"
+  },
+  "tags": {
+   "en": [
+    "Eredivisie",
+    "Go Ahead Eagles",
+    "Telstar",
+    "Netherlands",
+    "Tengstedt"
+   ],
+   "zh_hant": [
+    "荷甲",
+    "前進之鷹",
+    "泰斯達",
+    "荷蘭",
+    "滕斯迪特"
+   ],
+   "zh_hans": [
+    "荷甲",
+    "前进之鹰",
+    "泰斯达",
+    "荷兰",
+    "滕斯迪特"
+   ]
+  }
+ },
+ {
+  "id": "20261024-bermuda-championship-r2-lead",
+  "sport": "golf",
+  "published_at": "2026-10-24T04:30:00+08:00",
+  "source": "PGA Tour",
+  "source_url": "https://www.pgatour.com/article/news/latest/2026/10/20/how-to-watch-butterfield-bermuda-championship-port-royal-golf-course-tv-times-live-scores-leaderboards-coverage-details",
+  "image_url": null,
+  "title": {
+   "en": "Hirata's 64 catches Blanchet to share Bermuda lead at 13-under",
+   "zh_hant": "平田憲聖交出無柏忌64桿　並列領先百慕達錦標賽36洞",
+   "zh_hans": "平田宪圣交出无柏忌64杆　并列领先百慕达锦标赛36洞"
+  },
+  "summary": {
+   "en": "Japan's Kensei Hirata shot a bogey-free 7-under 64 to join first-round leader Chandler Blanchet at 13-under 129, sharing the 36-hole lead at the Butterfield Bermuda Championship at Port Royal. Five players sit one stroke back at 12-under, including Seamus Power and Corey Conners, while pre-tournament favourite Ben James missed the 5-under cut.",
+   "zh_hant": "美巡賽百慕達錦標賽第二輪，日本球手平田憲聖交出無柏忌7鳥64桿，兩輪總成績低標準13桿129桿，追平首輪領先嘅布蘭切特，並列領先。鮑爾同康納斯等五人以12桿低標準緊隨其後；賽前熱門賓占士未能通過低標準5桿嘅晉級線，提早出局。",
+   "zh_hans": "美巡赛百慕达锦标赛第二轮，日本球手平田宪圣交出无柏忌7鸟64杆，两轮总成绩低标准13杆129杆，追平首轮领先的布兰切特，并列领先。鲍尔同康纳斯等五人以12杆低标准紧随其后；赛前热门宾占士未能通过低标准5杆的晋级线，提早出局。"
+  },
+  "tags": {
+   "en": [
+    "PGA Tour",
+    "Bermuda Championship",
+    "Hirata",
+    "golf",
+    "Japan"
+   ],
+   "zh_hant": [
+    "美巡賽",
+    "百慕達錦標賽",
+    "平田憲聖",
+    "高爾夫球",
+    "日本"
+   ],
+   "zh_hans": [
+    "美巡赛",
+    "百慕达锦标赛",
+    "平田宪圣",
+    "高尔夫球",
+    "日本"
+   ]
+  }
  }
 ]
