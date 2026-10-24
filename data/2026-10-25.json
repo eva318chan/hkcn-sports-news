@@ -68,5 +68,43 @@
     "西甲"
    ]
   }
+ },
+ {
+  "id": "20261025-f1-us-gp-qualifying-antonelli-pole",
+  "sport": "f1",
+  "published_at": "2026-10-25T06:08:43+08:00",
+  "source": "The Race",
+  "source_url": "https://www.the-race.com/formula-1/f1-2026-us-grand-prix-qualifying-results/",
+  "image_url": null,
+  "title": {
+   "en": "Antonelli takes United States GP pole ahead of Verstappen as title beckons",
+   "zh_hant": "安東尼利奪美國站頭位　力壓韋斯達潘　周日有望提前封王",
+   "zh_hans": "安东尼利夺美国站头位　力压韦斯达潘　周日有望提前封王"
+  },
+  "summary": {
+   "en": "Kimi Antonelli claimed pole position for the United States Grand Prix at Austin, lapping the Circuit of The Americas in 1 minute 34.035 seconds. Max Verstappen was second, 0.179 seconds back, with Isack Hadjar a career-best third for Red Bull. Charles Leclerc and Lewis Hamilton were fourth and fifth for Ferrari, ahead of George Russell, Oscar Piastri and Lando Norris, whose final lap was deleted for exceeding track limits. Arvid Lindblad qualified ninth but drops five places for a power-unit penalty, while Gabriel Bortoleto will start from the back of the grid. Antonelli can seal the drivers' championship on Sunday if he wins, Russell finishes outside the top eight and Hamilton outside the top four.",
+   "zh_hant": "安東尼利在奧斯汀以1分34.035秒奪得美國大獎賽頭位，韋斯達潘落後0.179秒排第二，夏查生涯首次排第三。法拉利的陸克萊及咸美頓分列第四、五位，其後是羅素、皮亞斯治及最後一圈因超出賽道限制被取消時間的諾里斯。連比錫排位第九，但因更換動力單元罰退五位，波托列圖更要由尾位起步。安東尼利周日若奪冠、羅素跌出前八及咸美頓跌出前四，即可提前鎖定車手總冠軍。",
+   "zh_hans": "安东尼利在奥斯汀以1分34.035秒夺得美国大奖赛头位，韦斯达潘落后0.179秒排第二，夏查生涯首次排第三。法拉利的陆克莱及咸美顿分列第四、五位，其后是罗素、皮亚斯治及最后一圈因超出赛道限制被取消时间的诺里斯。连比锡排位第九，但因更换动力单元罚退五位，波托列图更要由尾位起步。安东尼利周日若夺冠、罗素跌出前八及咸美顿跌出前四，即可提前锁定车手总冠军。"
+  },
+  "tags": {
+   "en": [
+    "F1",
+    "United States GP",
+    "Antonelli",
+    "Verstappen"
+   ],
+   "zh_hant": [
+    "F1",
+    "美國大獎賽",
+    "安東尼利",
+    "韋斯達潘"
+   ],
+   "zh_hans": [
+    "F1",
+    "美国大奖赛",
+    "安东尼利",
+    "韦斯达潘"
+   ]
+  }
  }
 ]
