@@ -74,5 +74,43 @@
     "利兹联"
    ]
   }
+ },
+ {
+  "id": "20261026-f1-us-gp-antonelli-wins-title-wait",
+  "sport": "f1",
+  "published_at": "2026-10-26T05:36:00+08:00",
+  "source": "Formula 1",
+  "source_url": "https://www.formula1.com/en/latest/article/antonelli-surges-to-dominant-victory-in-united-states-grand-prix-ahead-of-leclerc-and-verstappen.6kmBQv9FNTW7LzkDj8S34j",
+  "image_url": null,
+  "title": {
+   "en": "Antonelli wins United States Grand Prix but must wait to seal F1 world title",
+   "zh_hant": "安東尼利贏美國站大獎賽　封王要等墨西哥站",
+   "zh_hans": "安东尼利赢美国站大奖赛　封王要等墨西哥站"
+  },
+  "summary": {
+   "en": "Kimi Antonelli won the United States Grand Prix at Austin on Sunday, his ninth victory of the season, but must wait to clinch the Formula 1 world championship. The 20-year-old Mercedes driver led from pole and held on through a one-stop strategy to beat Ferrari's Charles Leclerc by 13.078 seconds, with Red Bull's Max Verstappen third. Antonelli needed team-mate George Russell to finish ninth or lower and Lewis Hamilton fifth or lower to seal the title in Texas, but Russell finished eighth and Hamilton fourth, keeping the championship alive. Antonelli now leads the standings on 365 points, 123 clear of Russell and 124 of Hamilton with 125 still available, and will clinch the title in Mexico next weekend if he finishes in the top nine.",
+   "zh_hant": "20歲平治車手安東尼利星期日在美國大獎賽奪冠，今季第九場勝利，但要等到下星期墨西哥站先有望提前封王。安東尼利由頭位起步，憑一停策略力保領先，以13.078秒優勢擊敗法拉利的拿卡克，紅牛的韋斯達潘得第三。要在德州封王，安東尼利需要隊友羅素排第九或之後、咸美頓排第五或之後，但羅素得第八、咸美頓得第四，令冠軍懸念留到墨西哥。安東尼利現以365分領先車手榜，拋離羅素123分、咸美頓124分，餘下125分可爭；下星期在墨西哥只要以前九名完賽即可封王。",
+   "zh_hans": "20岁梅赛德斯车手安东尼利星期日在美国大奖赛夺冠，今季第九场胜利，但要等到下星期墨西哥站先有望提前封王。安东尼利由头位起步，凭一停策略力保领先，以13.078秒优势击败法拉利的勒克莱尔，红牛的维斯塔潘得第三。要在德州封王，安东尼利需要队友拉塞尔排第九或之后、汉密尔顿排第五或之后，但拉塞尔得第八、汉密尔顿得第四，令冠军悬念留到墨西哥。安东尼利现以365分领先车手榜，抛离拉塞尔123分、汉密尔顿124分，余下125分可争；下星期在墨西哥只要以前九名完赛即可封王。"
+  },
+  "tags": {
+   "en": [
+    "Kimi Antonelli",
+    "United States Grand Prix",
+    "Formula 1",
+    "Mercedes"
+   ],
+   "zh_hant": [
+    "安東尼利",
+    "美國大獎賽",
+    "一級方程式",
+    "平治"
+   ],
+   "zh_hans": [
+    "安东尼利",
+    "美国大奖赛",
+    "一级方程式",
+    "梅赛德斯"
+   ]
+  }
  }
 ]
