@@ -36,5 +36,43 @@
     "马鞍山体育馆"
    ]
   }
+ },
+ {
+  "id": "20261026-premier-league-sunday-late-games",
+  "sport": "football",
+  "published_at": "2026-10-26T02:39:00+08:00",
+  "source": "101 Great Goals",
+  "source_url": "https://www.101greatgoals.com/match-reports/sunderland-leeds-united-report-result-goals-2/",
+  "image_url": null,
+  "title": {
+   "en": "Newcastle win at Palace as Sunderland and Leeds play out goalless draw; Hull hold Brentford",
+   "zh_hant": "英超星期日尾場：紐卡素作客挫水晶宮　新特蘭悶和列斯聯　侯城逼和賓福特",
+   "zh_hans": "英超星期日尾场：纽卡素作客挫水晶宫　桑德兰闷和利兹联　侯城逼和布伦特福德"
+  },
+  "summary": {
+   "en": "Newcastle United won 2-0 away at Crystal Palace on Sunday to move up to eighth in the Premier League, while Hull City drew 1-1 with Brentford. In the late kick-off, Sunderland and Leeds United played out a 0-0 draw at the Stadium of Light. Sunderland remain bottom of the table on five points after extending their winless run to six games, while the point lifted Leeds to seventh on 11 points. Brian Brobbey, back for the first time since September 20, came closest to breaking the deadlock in the first half but was denied by Leeds goalkeeper James Trafford. Leeds striker Dominic Calvert-Lewin went down in the area in a penalty appeal that was waved away after a VAR check, and former Newcastle midfielder Sean Longstaff was twice denied late on, once by a save from Sunderland goalkeeper Robin Roefs and once by a block on the line.",
+   "zh_hant": "紐卡素星期日在英超作客以2：0擊敗水晶宮，升上聯賽第八位；侯城主場1：1逼和賓福特。尾場新特蘭主場與列斯聯互交白卷。新特蘭六場不勝，聯賽五分繼續包尾；列斯聯得一分後升上第七位，得11分。相隔一個多月復出的布洛比上半場曾單刀直入，最有機會打破僵局，但被列斯聯門將查福特化解。列斯聯前鋒卡維特利雲在禁區內倒地，球證經VAR覆核後拒判十二碼；前紐卡素中場朗斯達夫尾段兩度失機，一次被新特蘭門將魯夫斯撲出，另一次在門線前被擋出。",
+   "zh_hans": "纽卡素星期日在英超作客以2：0击败水晶宫，升上联赛第八位；侯城主场1：1逼和布伦特福德。尾场桑德兰主场与利兹联互交白卷。桑德兰六场不胜，联赛五分继续包尾；利兹联得一分后升上第七位，得11分。相隔一个多月复出的布洛比上半场曾单刀直入，最有机会打破僵局，但被利兹联门将特拉福德化解。利兹联前锋卡尔弗特-勒温在禁区内倒地，球证经VAR覆核后拒判十二码；前纽卡素中场朗斯塔夫尾段两度失机，一次被桑德兰门将鲁夫斯扑出，另一次在门线前被挡出。"
+  },
+  "tags": {
+   "en": [
+    "Premier League",
+    "Newcastle",
+    "Sunderland",
+    "Leeds United"
+   ],
+   "zh_hant": [
+    "英超",
+    "紐卡素",
+    "新特蘭",
+    "列斯聯"
+   ],
+   "zh_hans": [
+    "英超",
+    "纽卡素",
+    "桑德兰",
+    "利兹联"
+   ]
+  }
  }
 ]
