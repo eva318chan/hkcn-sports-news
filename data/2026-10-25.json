@@ -106,5 +106,195 @@
     "韦斯达潘"
    ]
   }
+ },
+ {
+  "id": "20261025-76ers-beat-bucks-embiid-triple-double",
+  "sport": "basketball",
+  "published_at": "2026-10-25T10:00:00+08:00",
+  "source": "TSN",
+  "source_url": "https://www.tsn.ca/nba/article/embiid-posts-triple-double-with-lebron-out-to-keep-76ers-perfect-in-win-over-bucks/",
+  "image_url": null,
+  "title": {
+   "en": "Embiid's triple-double keeps 76ers perfect as Brown scores 27 on his birthday in win over Bucks",
+   "zh_hant": "恩比德大三元助76人險勝公鹿保不敗　布朗30歲生日轟27分",
+   "zh_hans": "恩比德大三元助76人险胜公鹿保不败　布朗30岁生日轰27分"
+  },
+  "summary": {
+   "en": "Joel Embiid recorded his 10th career triple-double with 28 points, 11 rebounds and 10 assists as the Philadelphia 76ers beat the Milwaukee Bucks 127-116 at home on Saturday to stay unbeaten at 3-0, including a 29-point comeback win over Cleveland in their previous game. Jaylen Brown scored 27 points on his 30th birthday and Tyrese Maxey added 26, while VJ Edgecombe had 17 points and 13 rebounds. The 76ers rested LeBron James with a back problem; he is expected to return on Sunday against Detroit. Jaime Jaquez Jr. led the winless Bucks with 21 points, and Kel'el Ware had 19 points and 13 rebounds.",
+   "zh_hant": "祖爾·恩比德交出28分、11個籃板及10次助攻，取得職業生涯第10次大三元，帶領費城76人星期六主場127比116擊敗密爾沃基公鹿，開季三戰全勝，包括上場落後29分反勝騎士。謝倫·布朗在30歲生日轟入27分，麥斯亦貢獻26分，艾治古比則有17分及13個籃板。76人今仗讓背部有傷的勒邦·占士休戰，預計他星期日對活塞時復出。公鹿三戰全敗，夏基斯以21分領軍，韋亞則有19分及13個籃板。",
+   "zh_hans": "祖尔·恩比德交出28分、11个篮板及10次助攻，取得职业生涯第10次大三元，带领费城76人星期六主场127比116击败密尔沃基公鹿，开季三战全胜，包括上场落后29分反胜骑士。谢伦·布朗在30岁生日轰入27分，麦斯亦贡献26分，艾治古比则有17分及13个篮板。76人今仗让背部有伤的勒邦·占士休战，预计他星期日对活塞时复出。公鹿三战全败，夏基斯以21分领军，韦亚则有19分及13个篮板。"
+  },
+  "tags": {
+   "en": [
+    "Philadelphia 76ers",
+    "Milwaukee Bucks",
+    "NBA",
+    "Joel Embiid"
+   ],
+   "zh_hant": [
+    "費城76人",
+    "密爾沃基公鹿",
+    "NBA",
+    "恩比德"
+   ],
+   "zh_hans": [
+    "费城76人",
+    "密尔沃基公鹿",
+    "NBA",
+    "恩比德"
+   ]
+  }
+ },
+ {
+  "id": "20261025-spurs-beat-mavericks-wembanyama-23",
+  "sport": "basketball",
+  "published_at": "2026-10-25T10:30:00+08:00",
+  "source": "Corner Wire",
+  "source_url": "https://cornerwire.com/story/rundown-bdl-nba-21717951",
+  "image_url": null,
+  "title": {
+   "en": "Wembanyama scores 23 as Spurs beat Mavericks 122-106",
+   "zh_hant": "雲班耶馬轟23分　馬刺122–106挫獨行俠",
+   "zh_hans": "云班耶马轰23分　马刺122–106挫独行侠"
+  },
+  "summary": {
+   "en": "Victor Wembanyama scored 23 points with seven rebounds and four blocks as the San Antonio Spurs beat the Dallas Mavericks 122-106 in Dallas on Saturday. Sergio De Larrea led the Mavericks with 21 points, five rebounds and four assists. The Spurs pulled away in the fourth quarter, outscoring Dallas 30-17 to seal the win.",
+   "zh_hant": "域陀·雲班耶馬攻入23分、7個籃板及4次封阻，帶領聖安東尼奧馬刺星期六作客122比106擊敗達拉斯獨行俠。迪拉利亞為獨行俠攻入21分、5個籃板及4次助攻。馬刺末節打出30比17奠定勝局。",
+   "zh_hans": "域陀·云班耶马攻入23分、7个篮板及4次封阻，带领圣安东尼奥马刺星期六作客122比106击败达拉斯独行侠。迪拉利亚为独行侠攻入21分、5个篮板及4次助攻。马刺末节打出30比17奠定胜局。"
+  },
+  "tags": {
+   "en": [
+    "San Antonio Spurs",
+    "Dallas Mavericks",
+    "NBA",
+    "Victor Wembanyama"
+   ],
+   "zh_hant": [
+    "聖安東尼奧馬刺",
+    "達拉斯獨行俠",
+    "NBA",
+    "雲班耶馬"
+   ],
+   "zh_hans": [
+    "圣安东尼奥马刺",
+    "达拉斯独行侠",
+    "NBA",
+    "云班耶马"
+   ]
+  }
+ },
+ {
+  "id": "20261025-cavaliers-beat-nets-mitchell-22",
+  "sport": "basketball",
+  "published_at": "2026-10-25T10:00:00+08:00",
+  "source": "Corner Wire",
+  "source_url": "https://cornerwire.com/story/rundown-bdl-nba-21717947",
+  "image_url": null,
+  "title": {
+   "en": "Mitchell scores 22 as Cavaliers edge Nets 125-121",
+   "zh_hant": "米曹攻入22分　騎士125–121險勝籃網",
+   "zh_hans": "米曹攻入22分　骑士125–121险胜篮网"
+  },
+  "summary": {
+   "en": "Donovan Mitchell scored 22 points as the Cleveland Cavaliers beat the Brooklyn Nets 125-121 at home on Saturday. Michael Porter Jr. led the Nets with 28 points and nine rebounds, while Egor Demin added 22 points. The Nets closed with a 41-29 fourth quarter but could not complete the comeback, leaving Cleveland at 1-1 and Brooklyn winless at 0-2.",
+   "zh_hant": "當路雲·米曹攻入22分，帶領克里夫蘭騎士星期六主場125比121險勝布魯克林籃網。波特為籃網攻入28分及9個籃板，迪明亦貢獻22分。籃網末節打出41比29反撲未果，騎士戰績1勝1負，籃網則兩戰全敗。",
+   "zh_hans": "当路云·米曹攻入22分，带领克里夫兰骑士星期六主场125比121险胜布鲁克林篮网。波特为篮网攻入28分及9个篮板，迪明亦贡献22分。篮网末节打出41比29反扑未果，骑士战绩1胜1负，篮网则两战全败。"
+  },
+  "tags": {
+   "en": [
+    "Cleveland Cavaliers",
+    "Brooklyn Nets",
+    "NBA",
+    "Donovan Mitchell"
+   ],
+   "zh_hant": [
+    "克里夫蘭騎士",
+    "布魯克林籃網",
+    "NBA",
+    "米曹"
+   ],
+   "zh_hans": [
+    "克里夫兰骑士",
+    "布鲁克林篮网",
+    "NBA",
+    "米曹"
+   ]
+  }
+ },
+ {
+  "id": "20261025-hornets-beat-heat-miller-34",
+  "sport": "basketball",
+  "published_at": "2026-10-25T08:30:00+08:00",
+  "source": "Filling The Lane",
+  "source_url": "https://www.fillingthelane.com/nba/heat-at-hornets-full-game-highlights-october-24-2026/",
+  "image_url": null,
+  "title": {
+   "en": "Miller's 34 points lift Hornets past Heat 115-110",
+   "zh_hant": "米拿轟34分　黃蜂115–110挫熱火",
+   "zh_hans": "米拿轰34分　黄蜂115–110挫热火"
+  },
+  "summary": {
+   "en": "Brandon Miller scored a team-high 34 points with seven rebounds and four assists as the Charlotte Hornets beat the Miami Heat 115-110 at home on Saturday. Dennis Schroder added 25 points for Charlotte, while Davion Mitchell led Miami with 22 points and 10 assists. The win lifts the Hornets to 2-1, while the Heat fall to 0-3.",
+   "zh_hant": "班頓·米拿攻入全隊最高的34分、7個籃板及4次助攻，帶領夏洛特黃蜂星期六主場115比110擊敗邁阿密熱火。舒路達為黃蜂貢獻25分，達維安·米曹則為熱火攻入22分及10次助攻。黃蜂戰績改寫為2勝1負，熱火則三戰全敗。",
+   "zh_hans": "班顿·米拿攻入全队最高的34分、7个篮板及4次助攻，带领夏洛特黄蜂星期六主场115比110击败迈阿密热火。舒路达为黄蜂贡献25分，达维安·米曹则为热火攻入22分及10次助攻。黄蜂战绩改写为2胜1负，热火则三战全败。"
+  },
+  "tags": {
+   "en": [
+    "Charlotte Hornets",
+    "Miami Heat",
+    "NBA",
+    "Brandon Miller"
+   ],
+   "zh_hant": [
+    "夏洛特黃蜂",
+    "邁阿密熱火",
+    "NBA",
+    "米拿"
+   ],
+   "zh_hans": [
+    "夏洛特黄蜂",
+    "迈阿密热火",
+    "NBA",
+    "米拿"
+   ]
+  }
+ },
+ {
+  "id": "20261025-premier-bowl-preview-tomodachi-kokoroe",
+  "sport": "racing",
+  "published_at": "2026-10-25T11:00:00+08:00",
+  "source": "HKJC Racing News",
+  "source_url": "https://racingnews.hkjc.com/english/2026/10/23/bentley-sees-hope-for-tomodachi-kokoroe-in-premier-bowl-defence/",
+  "image_url": null,
+  "title": {
+   "en": "Tomodachi Kokoroe defends Premier Bowl title at Sha Tin on Sunday",
+   "zh_hant": "好友精神今日沙田衞冕精英碗　力爭一年來首勝",
+   "zh_hans": "好友精神今日沙田卫冕精英碗　力争一年来首胜"
+  },
+  "summary": {
+   "en": "Tomodachi Kokoroe returns to Sha Tin on Sunday to defend his title in the HK$5.35 million Group 2 Lukfook Jewellery Premier Bowl Handicap over 1,200 metres. The eight-year-old won last year's renewal in 1:07.39, a time bettered only by stablemate Ka Ying Rising over the course and distance, but has not won since. Jockey Harry Bentley believes the return to 1,200 metres suits him after a disappointing run over 1,000 metres three weeks ago. Raging Blizzard carries top weight of 135lb, while Crimson Flash steps up in distance for trainer Mark Newnham. Sunday's 11-race card begins at 12.40pm, with the Premier Bowl as the seventh race.",
+   "zh_hant": "八歲馬「好友精神」今日重返沙田，角逐總獎金535萬港元的二級賽六福珠寶精英碗（1200米），力爭衞冕。牠去年以1分07.39秒奪冠，沙田1200米僅次於廄侶「嘉應高升」，但自此未再贏馬。騎師 Harry Bentley 表示，馬匹上仗跑1000米表現令人失望，重返1200米更合發揮。頂磅馬 Raging Blizzard 負135磅，Crimson Flash 則在練馬師 Mark Newnham 麾下增程應戰。今日沙田11場賽事下午12時40分開跑，精英碗為第七場。",
+   "zh_hans": "八岁马「好友精神」今日重返沙田，角逐总奖金535万港元的二级赛六福珠宝精英碗（1200米），力争卫冕。牠去年以1分07.39秒夺冠，沙田1200米仅次于厩侣「嘉应高升」，但自此未再赢马。骑师 Harry Bentley 表示，马匹上仗跑1000米表现令人失望，重返1200米更合发挥。顶磅马 Raging Blizzard 负135磅，Crimson Flash 则在练马师 Mark Newnham 麾下增程应战。今日沙田11场赛事下午12时40分开跑，精英碗为第七场。"
+  },
+  "tags": {
+   "en": [
+    "Premier Bowl",
+    "Sha Tin",
+    "Tomodachi Kokoroe",
+    "horse racing"
+   ],
+   "zh_hant": [
+    "精英碗",
+    "沙田",
+    "好友精神",
+    "賽馬"
+   ],
+   "zh_hans": [
+    "精英碗",
+    "沙田",
+    "好友精神",
+    "赛马"
+   ]
+  }
  }
 ]
