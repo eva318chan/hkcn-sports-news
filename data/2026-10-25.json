@@ -685,5 +685,43 @@
     "万伟聪"
    ]
   }
+ },
+ {
+  "id": "20261025-catlin-wins-hong-kong-open",
+  "sport": "golf",
+  "published_at": "2026-10-25T21:33:00+08:00",
+  "source": "Golf Digest",
+  "source_url": "https://www.golfdigest.com/post/john-catlin-punched-his-fifth-ticket-to-the-british-open-sunday-",
+  "image_url": null,
+  "title": {
+   "en": "Catlin wins Hong Kong Open by five shots to earn Masters and Open invitations",
+   "zh_hant": "卡特連五桿優勢贏香港公開賽　奪得大師賽及英國公開賽資格",
+   "zh_hans": "卡特林五杆优势赢香港公开赛　夺得大师赛及英国公开赛资格"
+  },
+  "summary": {
+   "en": "American John Catlin won the Link Hong Kong Open on Sunday, firing a final-round 64 to finish 20 under par and win by five shots at Hong Kong Golf Club in Fanling. The 35-year-old, who shared the lead with three other players going into the final round, made seven birdies against one bogey to claim his seventh Asian Tour title and the US$360,000 winner's cheque. Hong Kong's Matthew Cheung finished tied second on 15 under with Finland's Kalle Samooja, the best result by a local player in the tournament's history. The victory also earned Catlin invitations to the 2027 Masters at Augusta National, his first appearance there, and to The Open at St Andrews.",
+   "zh_hant": "美國球手卡特連星期日在粉嶺香港哥爾夫球會舉行的領展香港高爾夫球公開賽決賽輪打出64桿，以總成績低標準桿20桿、五桿優勢奪冠。35歲的卡特連決賽輪前與另外三名球手並列領先，決賽輪打出7隻小鳥、1個柏忌，贏得個人第七個亞巡賽冠軍及36萬美元獎金。香港球手 Matthew Cheung 以低標準桿15桿，與芬蘭的森莫查並列第二，創下本地球手在賽事的最佳成績。今次勝利亦令卡特連獲得2027年美國大師賽及在聖安德魯斯舉行的英國公開賽參賽資格，前者是他首次亮相奧古斯塔。",
+   "zh_hans": "美国球手卡特林星期日在粉岭香港高尔夫球会举行的领展香港高尔夫球公开赛决赛轮打出64杆，以总成绩低标准杆20杆、五杆优势夺冠。35岁的卡特林决赛轮前与另外三名球手并列领先，决赛轮打出7只小鸟、1个柏忌，赢得个人第七个亚巡赛冠军及36万美元奖金。香港球手 Matthew Cheung 以低标准杆15杆，与芬兰的森莫查并列第二，创下本地球手在赛事的最佳成绩。今次胜利亦令卡特林获得2027年美国大师赛及在圣安德鲁斯举行的英国公开赛参赛资格，前者是他首次亮相奥古斯塔。"
+  },
+  "tags": {
+   "en": [
+    "John Catlin",
+    "Hong Kong Open",
+    "Asian Tour",
+    "Matthew Cheung"
+   ],
+   "zh_hant": [
+    "卡特連",
+    "香港公開賽",
+    "亞巡賽",
+    "Matthew Cheung"
+   ],
+   "zh_hans": [
+    "卡特林",
+    "香港公开赛",
+    "亚巡赛",
+    "Matthew Cheung"
+   ]
+  }
  }
 ]
