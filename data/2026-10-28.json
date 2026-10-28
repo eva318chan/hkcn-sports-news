@@ -302,5 +302,43 @@
     "密爾沃基釀酒人"
    ]
   }
+ },
+ {
+  "id": "20261028-nba-tatum-buzzer-beater-celtics-nets",
+  "image_url": null,
+  "published_at": "2026-10-28T16:27:00+08:00",
+  "source": "KWSN",
+  "source_url": "https://kwsn.com/2026/10/27/nba-roundup-jayson-tatums-ot-buzzer-beater-lifts-celtics-over-nets/",
+  "sport": "basketball",
+  "summary": {
+   "en": "Jayson Tatum hit an elbow jumper as time expired in overtime to give the Boston Celtics a 125-124 win over the Brooklyn Nets, finishing with a game-high 40 points and a career-high 18 free throws. Paul George added 20 points, seven rebounds and seven assists for Boston, which won its third straight game, while Michael Porter Jr. had 27 points and 12 rebounds for the winless Nets, who had forced overtime with a three-pointer in the final second of regulation. Elsewhere, the New York Knicks beat the Detroit Pistons 111-97 for their first win of the season, the San Antonio Spurs routed the Sacramento Kings 130-103, and the Portland Trail Blazers handed the Los Angeles Lakers their first defeat, 135-129, despite 41 points from Luka Doncic.",
+   "zh_hans": "泰坦在加时完场前一刻命中中距离跳投，协助波士顿凯尔特人以 125:124 险胜布鲁克林篮网，全场攻入 40 分，罚球 22 投 18 中创生涯新高。保罗佐治为凯尔特人贡献 20 分、7 篮板及 7 助攻，球队取得三连胜；波特为篮网攻入 27 分及 12 篮板，篮网在第四节最后一秒凭三分追平拖入加时，开季四连败。另外，纽约人以 111:97 击败活塞取得今季首胜，圣安东尼奥马刺以 130:103 大胜帝王，波特兰拓荒者以 135:129 击败洛杉矶湖人，令湖人首尝败绩，东契奇空砍 41 分。",
+   "zh_hant": "泰譚在加時完場前一刻命中中距離跳投，協助波士頓塞爾特人以 125:124 險勝布魯克林籃網，全場攻入 40 分，罰球 22 投 18 中創生涯新高。保羅佐治為塞爾特人貢獻 20 分、7 籃板及 7 助攻，球隊取得三連勝；波特為籃網攻入 27 分及 12 籃板，籃網在第四節最後一秒憑三分追平拖入加時，開季四連敗。另外，紐約人以 111:97 擊敗活塞取得今季首勝，聖安東尼奧馬刺以 130:103 大勝帝王，波特蘭拓荒者以 135:129 擊敗洛杉磯湖人，令湖人首嘗敗績，東契奇空砍 41 分。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Boston Celtics",
+    "Jayson Tatum",
+    "Brooklyn Nets"
+   ],
+   "zh_hans": [
+    "NBA",
+    "凯尔特人",
+    "泰坦",
+    "篮网"
+   ],
+   "zh_hant": [
+    "NBA",
+    "塞爾特人",
+    "泰譚",
+    "籃網"
+   ]
+  },
+  "title": {
+   "en": "Tatum's overtime buzzer-beater lifts Celtics past Nets 125-124",
+   "zh_hans": "泰坦加时压哨绝杀　凯尔特人 125:124 险胜篮网",
+   "zh_hant": "泰譚加時壓哨絕殺　塞爾特人 125:124 險勝籃網"
+  }
  }
 ]
