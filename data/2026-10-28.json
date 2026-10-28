@@ -229,5 +229,43 @@
    "zh_hans": "亚冠精英联赛　阿尔沙马尔 3:1 爆冷击败希拉尔　送对方今季首败",
    "zh_hant": "亞冠精英聯賽　阿爾沙馬爾 3:1 爆冷擊敗希拉爾　送對方今季首敗"
   }
+ },
+ {
+  "id": "20261028-acl-beijing-draw-jeonbuk-2-2",
+  "sport": "football",
+  "published_at": "2026-10-28T01:00:00+08:00",
+  "source": "亞足聯",
+  "source_url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-al-shamal-sc-qat-3-1-al-hilal-sfc-ksa",
+  "image_url": "https://assets.the-afc.com/2026-27_ACL_Elite/Matches/League_Stage/East/MD3/Beijing_FC_CHN_v_Jeonbuk_Hyundai_Motors_FC_KOR/Match/lead.JPG",
+  "title": {
+   "en": "Beijing FC held 2-2 by Jeonbuk in AFC Champions League Elite",
+   "zh_hant": "亞冠精英聯賽　北京國安主場 2:2 逼和全北現代",
+   "zh_hans": "亚冠精英联赛　北京国安主场 2:2 逼和全北现代"
+  },
+  "summary": {
+   "en": "Beijing FC were held to a 2-2 draw by Jeonbuk Hyundai Motors in their AFC Champions League Elite match at Workers' Stadium on Tuesday, after the visitors came back from a goal down. In other East matches on the night, Vissel Kobe made it three wins in a row with a 1-0 victory at Daejeon Hana Citizen thanks to Ren Komatsu's header seven minutes from time, while Ratchaburi held Kashiwa Reysol to a 0-0 draw.",
+   "zh_hant": "北京國安星期二在工人體育場舉行的亞冠精英聯賽中，主場 2:2 逼和全北現代，客軍落後一球之下追平。同晚東亞區賽事，神戶勝利船憑小松蓮完場前七分鐘頭槌破網，作客 1:0 擊敗大田韓亞市民，三戰全勝；拉查武里主場 0:0 逼和柏雷素爾。",
+   "zh_hans": "北京国安星期二在工人体育场举行的亚冠精英联赛中，主场 2:2 逼和全北现代，客军落后一球之下追平。同晚东亚区赛事，神户胜利船凭小松莲完场前七分钟头槌破网，作客 1:0 击败大田韩亚市民，三战全胜；拉查武里主场 0:0 逼和柏雷素尔。"
+  },
+  "tags": {
+   "en": [
+    "Beijing FC",
+    "Jeonbuk",
+    "AFC Champions League Elite",
+    "Vissel Kobe"
+   ],
+   "zh_hant": [
+    "北京國安",
+    "全北現代",
+    "亞冠精英聯賽",
+    "神戶勝利船"
+   ],
+   "zh_hans": [
+    "北京国安",
+    "全北现代",
+    "亚冠精英联赛",
+    "神户胜利船"
+   ]
+  }
  }
 ]
