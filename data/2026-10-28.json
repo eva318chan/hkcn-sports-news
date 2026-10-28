@@ -267,5 +267,40 @@
     "神户胜利船"
    ]
   }
+ },
+ {
+  "id": "20261028-world-series-game4-rays-beat-brewers-4-3",
+  "sport": "others",
+  "published_at": "2026-10-28T13:00:00+08:00",
+  "source": "KWSN",
+  "source_url": "https://kwsn.com/2026/10/28/brewers-sell-out-world-series-watch-party-as-fans-await-first-title/",
+  "image_url": null,
+  "title": {
+   "en": "Rays stay alive in World Series with 4-3 walk-off win over Brewers in 12 innings",
+   "zh_hans": "世界大赛第四场　光芒 12 局 4:3 险胜酿酒人续命",
+   "zh_hant": "世界大賽第四場　光芒 12 局 4:3 險勝釀酒人續命"
+  },
+  "summary": {
+   "en": "The Tampa Bay Rays kept their World Series hopes alive with a 4-3 walk-off win over the Milwaukee Brewers in 12 innings in Game 4 in St. Petersburg, avoiding a sweep and cutting the series deficit to 3-1. Rookie Cooper Pratt hit a go-ahead home run in the top of the 12th to put Milwaukee three outs from its first World Series title, but the Rays scored twice in the bottom half, with Ben Williamson driving in the winning run with a walk-off single. Pratt had four hits in the game. Game 5 is scheduled for Wednesday night in St. Petersburg, at 8am Hong Kong time on Thursday.",
+   "zh_hans": "坦帕湾光芒在世界大赛第四场主场以 4:3 击败密尔沃基酿酒人，12 局下半凭宾·威廉森的再见安打得分，避免被横扫，系列赛追至 1:3。酿酒人新秀古柏·普拉特在 12 局上半敲出超前全垒打，一度只差三个出局数便可夺得队史首个世界大赛冠军，但光芒在下半局连得两分反胜；普拉特单场敲出四支安打。酿酒人仍以 3:1 领先，第五场将于香港时间星期四早上 8 时在圣彼得堡举行。",
+   "zh_hant": "坦帕灣光芒在世界大賽第四場主場以 4:3 擊敗密爾沃基釀酒人，12 局下半憑賓·威廉森的再見安打得分，避免被橫掃，系列賽追至 1:3。釀酒人新秀古柏·普拉特在 12 局上半敲出超前全壘打，一度只差三個出局數便可奪得隊史首個世界大賽冠軍，但光芒在下半局連得兩分反勝；普拉特單場敲出四支安打。釀酒人仍以 3:1 領先，第五場將於香港時間星期四早上 8 時在聖彼得堡舉行。"
+  },
+  "tags": {
+   "en": [
+    "World Series",
+    "Tampa Bay Rays",
+    "Milwaukee Brewers"
+   ],
+   "zh_hans": [
+    "世界大赛",
+    "坦帕湾光芒",
+    "密尔沃基酿酒人"
+   ],
+   "zh_hant": [
+    "世界大賽",
+    "坦帕灣光芒",
+    "密爾沃基釀酒人"
+   ]
+  }
  }
 ]
