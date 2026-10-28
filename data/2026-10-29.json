@@ -36,5 +36,43 @@
    "zh_hans": "东京泛太平洋公开赛　Joint 与 Eala 双双晋级八强",
    "zh_hant": "東京泛太平洋公開賽　Joint 與 Eala 雙雙晉級八強"
   }
+ },
+ {
+  "id": "20261029-liverpool-beat-chelsea-carabao-cup-pens",
+  "image_url": null,
+  "published_at": "2026-10-29T06:22+08:00",
+  "source": "Sports Mole",
+  "source_url": "https://www.sportsmole.co.uk/football/liverpool/league-cup/result/penalties-all-round-liverpool-beat-chelsea-on-spot-kicks-to-book-efl-cup-last-eight-spot_607899.html",
+  "sport": "football",
+  "summary": {
+   "en": "Liverpool beat Chelsea 6-5 on penalties after a 1-1 draw in normal time in the fourth round of the English League Cup at Anfield, booking a place in the quarter-finals. Chelsea took the lead through a Morgan Rogers penalty in the 40th minute, but Cody Gakpo equalised from the spot just three minutes later. In the shootout both sides missed kicks before goalkeeper Giorgi Mamardashvili made a crucial save and Joe Gomez scored the decisive penalty.",
+   "zh_hans": "英格兰联赛杯第四圈，利物浦主场与切尔西在法定时间踢成 1:1，互射十二码以 6:5 胜出晋级八强。切尔西由摩根·罗杰斯（Morgan Rogers）在 40 分钟射入十二码先开纪录，利物浦仅三分钟后由加普（Cody Gakpo）同样凭十二码扳平。互射十二码阶段双方多次失手，利物浦门将马马达殊维利（Giorgi Mamardashvili）救出关键一球，祖·高美斯（Joe Gomez）射入制胜一球，为红军锁定胜局。",
+   "zh_hant": "英格蘭聯賽盃第四圈，利物浦主場與車路士在法定時間踢成 1:1，互射十二碼以 6:5 勝出晉級八強。車路士由摩根·羅傑斯（Morgan Rogers）在 40 分鐘射入十二碼先開紀錄，利物浦僅三分鐘後由加普（Cody Gakpo）同樣憑十二碼扳平。互射十二碼階段雙方多次失手，利物浦門將馬馬達殊維利（Giorgi Mamardashvili）救出關鍵一球，祖·高美斯（Joe Gomez）射入制勝一球，為紅軍鎖定勝局。"
+  },
+  "tags": {
+   "en": [
+    "Liverpool",
+    "Chelsea",
+    "League Cup",
+    "penalty shootout"
+   ],
+   "zh_hans": [
+    "利物浦",
+    "切尔西",
+    "联赛杯",
+    "互射十二码"
+   ],
+   "zh_hant": [
+    "利物浦",
+    "車路士",
+    "聯賽盃",
+    "互射十二碼"
+   ]
+  },
+  "title": {
+   "en": "Liverpool beat Chelsea 6-5 on penalties to reach League Cup quarter-finals",
+   "zh_hans": "利物浦互射十二码 6:5 淘汰切尔西　晋级联赛杯八强",
+   "zh_hant": "利物浦互射十二碼 6:5 淘汰車路士　晉級聯賽盃八強"
+  }
  }
 ]
