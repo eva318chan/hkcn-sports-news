@@ -290,5 +290,110 @@
    "zh_hans": "约基奇生涯第 200 次三双　掘金作客轻取鹈鹕",
    "zh_hant": "祖基治生涯第 200 次三雙　金塊作客輕取塘鵝"
   }
+ },
+ {
+  "id": "20261029-tai-po-acl2-pathum",
+  "sport": "football",
+  "published_at": "2026-10-29T22:10:00+08:00",
+  "image_url": null,
+  "source": "體路",
+  "source_url": "https://www.sportsroad.hk/?p=660541",
+  "title": {
+   "en": "Tai Po suffer 0-3 home defeat to Pathum United, on brink of ACL Two elimination",
+   "zh_hant": "亞冠二：大埔主場 0:3 不敵巴吞聯　三戰全敗瀕臨出局",
+   "zh_hans": "亚冠二：大埔主场 0:3 不敌巴吞联　三战全败濒临出局"
+  },
+  "summary": {
+   "en": "Tai Po's AFC Champions League Two campaign is all but over after a 0-3 home defeat to Thailand's BG Pathum United in their Group F third-round tie. The visitors struck three times before the break — Bissoli opening the scoring in the 27th minute, a second five minutes later, and Radulovic racing clear to make it 3-0 just before half-time. There were no further goals after the restart. In the group's other game, Lion City Sailors won 2-0 away to Adelaide United to move top with seven points, while Tai Po sit bottom with zero points from three matches.",
+   "zh_hant": "大埔在亞冠二 F 組第三輪主場以 0:3 不敵泰超球隊巴吞聯，三戰全敗只得 0 分，瀕臨出局。客軍上半場 27 分鐘由比蒙迪先開紀錄，五分鐘後再下一城，完半場前拉達薩單刀建功，半場已領先 3:0；換邊後雙方再無進帳。同組另一場獅城水手作客 2:0 擊敗阿德萊德聯，三戰 7 分升上榜首。",
+   "zh_hans": "大埔在亚冠二 F 组第三轮主场以 0:3 不敌泰超球队巴吞联，三战全败只得 0 分，濒临出局。客军上半场 27 分钟由比蒙迪先开纪录，五分钟后再下一城，完半场前拉达萨单刀建功，半场已领先 3:0；换边后双方再无进帐。同组另一场狮城水手作客 2:0 击败阿德莱德联，三战 7 分升上榜首。"
+  },
+  "tags": {
+   "en": [
+    "Tai Po",
+    "AFC Champions League Two",
+    "BG Pathum United"
+   ],
+   "zh_hant": [
+    "大埔",
+    "亞冠二",
+    "巴吞聯"
+   ],
+   "zh_hans": [
+    "大埔",
+    "亚冠二",
+    "巴吞联"
+   ]
+  }
+ },
+ {
+  "id": "20261029-knicks-comeback-bulls",
+  "sport": "basketball",
+  "published_at": "2026-10-29T12:00:00+08:00",
+  "image_url": null,
+  "source": "Sports Illustrated",
+  "source_url": "https://www.si.com/nba/schedule",
+  "title": {
+   "en": "Brunson drops 38 as Knicks rally from 19 down to beat Bulls 133-127",
+   "zh_hant": "巴倫森 38 分領軍　紐約人作客 133:127 反勝公牛",
+   "zh_hans": "巴伦森 38 分领军　纽约人作客 133:127 反胜公牛"
+  },
+  "summary": {
+   "en": "Jalen Brunson scored 38 points with seven assists as the New York Knicks came back from 19 points down to beat the Chicago Bulls 133-127 on the road. Coach Mike Brown benched the struggling Mikal Bridges for almost the entire second half, riding reserves Tyler Kolek, Jordan Clarkson and Landry Shamet, who combined for 41 points and 15 assists. Karl-Anthony Towns added 19 points and 13 rebounds despite a first-half hand scare. Norman Powell led Chicago with 30 points.",
+   "zh_hant": "紐約人作客以 133:127 反勝芝加哥公牛，巴倫森攻入 38 分另加 7 次助攻，球隊一度落後 19 分下完成逆轉。狀態低迷的米卡爾布歷捷斯下半場幾乎被收起，教練米克布朗改用後備泰拿高歷、佐敦奇勒臣及蘭迪沙密特，三人合取 41 分 15 助攻。唐斯克服上半場手部驚魂，貢獻 19 分 13 籃板；公牛的諾文鮑維爾空砍 30 分。",
+   "zh_hans": "纽约人作客以 133:127 反胜芝加哥公牛，巴伦森攻入 38 分另加 7 次助攻，球队一度落后 19 分下完成逆转。状态低迷的米卡尔布里捷斯下半场几乎被收起，教练米克布朗改用后备泰拿高历、佐敦奇勒臣及兰迪沙密特，三人合取 41 分 15 助攻。唐斯克服上半场手部惊魂，贡献 19 分 13 篮板；公牛的诺文鲍维尔空砍 30 分。"
+  },
+  "tags": {
+   "en": [
+    "New York Knicks",
+    "Jalen Brunson",
+    "NBA"
+   ],
+   "zh_hant": [
+    "紐約人",
+    "巴倫森",
+    "NBA"
+   ],
+   "zh_hans": [
+    "纽约人",
+    "巴伦森",
+    "NBA"
+   ]
+  }
+ },
+ {
+  "id": "20261029-spurs-ot-beat-jazz",
+  "sport": "basketball",
+  "published_at": "2026-10-29T21:30:00+08:00",
+  "image_url": null,
+  "source": "Roundtable",
+  "source_url": "https://roundtable.io/sports/nba/spurs/news/victor-wembanyama-finally-returned-to-form-for-spurs",
+  "title": {
+   "en": "Wembanyama posts 36-14-5 as Spurs edge Jazz 117-111 in overtime",
+   "zh_hant": "雲班耶馬 36 分 14 籃板　馬刺加時 117:111 險勝爵士",
+   "zh_hans": "云班耶马 36 分 14 篮板　马刺加时 117:111 险胜爵士"
+  },
+  "summary": {
+   "en": "Victor Wembanyama scored 36 points with 14 rebounds and five assists as the San Antonio Spurs beat the Utah Jazz 117-111 in overtime in Salt Lake City. The French star rediscovered his touch on both ends of the floor after a slow start to the season, hitting contested jumpers and protecting the rim down the stretch. Keyonte George led Utah with 31 points. The Spurs return home to face the Minnesota Timberwolves on Halloween night.",
+   "zh_hant": "聖安東尼奧馬刺作客加時以 117:111 險勝猶他爵士，雲班耶馬攻入 36 分、14 籃板、5 助攻，攻防兩端重拾狀態，季初的低迷一掃而空。爵士的基安迪佐治攻入全隊最高的 31 分。馬刺將於萬聖節之夜返回主場迎戰木狼。",
+   "zh_hans": "圣安东尼奥马刺作客加时以 117:111 险胜犹他爵士，云班耶马攻入 36 分、14 篮板、5 助攻，攻防两端重拾状态，季初的低迷一扫而空。爵士的基安迪佐治攻入全队最高的 31 分。马刺将于万圣节之夜返回主场迎战木狼。"
+  },
+  "tags": {
+   "en": [
+    "Victor Wembanyama",
+    "San Antonio Spurs",
+    "NBA"
+   ],
+   "zh_hant": [
+    "雲班耶馬",
+    "馬刺",
+    "NBA"
+   ],
+   "zh_hans": [
+    "云班耶马",
+    "马刺",
+    "NBA"
+   ]
+  }
  }
 ]
