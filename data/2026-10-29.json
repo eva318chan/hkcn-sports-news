@@ -74,5 +74,81 @@
    "zh_hans": "利物浦互射十二码 6:5 淘汰切尔西　晋级联赛杯八强",
    "zh_hant": "利物浦互射十二碼 6:5 淘汰車路士　晉級聯賽盃八強"
   }
+ },
+ {
+  "id": "20261029-blue-jays-beat-dodgers-world-series-game5",
+  "image_url": null,
+  "published_at": "2026-10-29T11:00+08:00",
+  "source": "NBC Sports Bay Area",
+  "source_url": "https://www.nbcsportsbayarea.com/mlb/2025-dodgers-blue-jays-world-series-game-5-live-updates/1887954/",
+  "sport": "baseball",
+  "summary": {
+   "en": "The Toronto Blue Jays beat the Los Angeles Dodgers 6-1 in Game 5 of the World Series at Dodger Stadium, taking a 3-2 series lead and moving within one win of their first championship since 1993. Davis Schneider and Vladimir Guerrero Jr. opened the game with back-to-back home runs off Blake Snell, the first time in World Series history a game has begun with consecutive long balls. Rookie Trey Yesavage struck out 12 over seven innings, a World Series rookie record, allowing just three hits and one run as the series shifts back to Toronto for Game 6.",
+   "zh_hans": "多伦多蓝鸟在世界大赛第五场作客以 6:1 大胜洛杉矶道奇，系列赛领先 3:2，只要再赢一场就能夺得自 1993 年以来首个总冠军。戴维斯·施奈德（Davis Schneider）与小弗拉迪米尔·古里路（Vladimir Guerrero Jr.）开赛即先后轰出全垒打，是世界大赛史上首次有球队以连续两支全垒打开局。新秀投手耶萨维奇（Trey Yesavage）主投七局三振 12 次，创下世界大赛新秀纪录，只失 3 支安打及 1 分；系列赛将返回多伦多进行第六场。",
+   "zh_hant": "多倫多藍鳥在世界大賽第五場作客以 6:1 大勝洛杉磯道奇，系列賽領先 3:2，只要再贏一場就能奪得自 1993 年以來首個總冠軍。戴維斯·施奈德（Davis Schneider）與小弗拉迪米爾·古里路（Vladimir Guerrero Jr.）開賽即先後轟出全壘打，是世界大賽史上首次有球隊以連續兩支全壘打開局。新秀投手耶薩維奇（Trey Yesavage）主投七局三振 12 次，創下世界大賽新秀紀錄，只失 3 支安打及 1 分；系列賽將返回多倫多進行第六場。"
+  },
+  "tags": {
+   "en": [
+    "Blue Jays",
+    "Dodgers",
+    "World Series",
+    "baseball"
+   ],
+   "zh_hans": [
+    "蓝鸟",
+    "道奇",
+    "世界大赛",
+    "棒球"
+   ],
+   "zh_hant": [
+    "藍鳥",
+    "道奇",
+    "世界大賽",
+    "棒球"
+   ]
+  },
+  "title": {
+   "en": "Blue Jays crush Dodgers 6-1 in World Series Game 5 to move one win from title",
+   "zh_hans": "蓝鸟世界大赛第五场 6:1 大胜道奇　再赢一场即封王",
+   "zh_hant": "藍鳥世界大賽第五場 6:1 大勝道奇　再贏一場即封王"
+  }
+ },
+ {
+  "id": "20261029-rockets-rout-bucks-132-100",
+  "image_url": null,
+  "published_at": "2026-10-29T10:30+08:00",
+  "source": "Sports Illustrated",
+  "source_url": "https://www.si.com/nba/bucks/onsi/little-help-for-tyler-herro-as-bucks-smoked-by-rockets-01m62fgt64wn",
+  "sport": "basketball",
+  "summary": {
+   "en": "The Houston Rockets stayed undefeated at 5-0 with a commanding 132-100 win over the Milwaukee Bucks at Fiserv Forum, leading 57-35 at half-time and never looking back. Fred VanVleet scored 24 points, including 15 in the third quarter, while Kevin Durant added 18 as six Rockets finished in double figures despite missing centre Alperen Sengun. Tyler Herro led Milwaukee with 23 points, but the Bucks fell to 1-4 as their other starters combined for just 12 points.",
+   "zh_hans": "侯斯顿火箭作客以 132:100 大胜密尔沃基雄鹿，开季五连胜保持不败，半场已领先 57:35，之后未曾受过威胁。范弗利特（Fred VanVleet）攻入全队最高 24 分，其中 15 分来自第三节，杜兰特（Kevin Durant）贡献 18 分；火箭在缺少中锋森根（Alperen Sengun）下仍有六人得分上双。雄鹿由希罗（Tyler Herro）攻入 23 分领军，但其他首发合共只得 12 分，球队跌至 1 胜 4 负。",
+   "zh_hant": "侯斯頓火箭作客以 132:100 大勝密爾沃基公鹿，開季五連勝保持不敗，半場已領先 57:35，之後未曾受過威脅。雲維利特（Fred VanVleet）攻入全隊最高 24 分，其中 15 分來自第三節，杜蘭特（Kevin Durant）貢獻 18 分；火箭在缺少中鋒森根（Alperen Sengun）下仍有六人得分上雙。公鹿由希路（Tyler Herro）攻入 23 分領軍，但其他正選合共只得 12 分，球隊跌至 1 勝 4 負。"
+  },
+  "tags": {
+   "en": [
+    "Rockets",
+    "Bucks",
+    "NBA",
+    "basketball"
+   ],
+   "zh_hans": [
+    "火箭",
+    "雄鹿",
+    "NBA",
+    "篮球"
+   ],
+   "zh_hant": [
+    "火箭",
+    "公鹿",
+    "NBA",
+    "籃球"
+   ]
+  },
+  "title": {
+   "en": "Undefeated Rockets rout Bucks 132-100 as VanVleet scores 24",
+   "zh_hans": "火箭 132:100 大胜雄鹿保不败身　范弗利特攻入 24 分",
+   "zh_hant": "火箭 132:100 大勝公鹿保不敗身　雲維利特攻入 24 分"
+  }
  }
 ]
