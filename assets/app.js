@@ -151,11 +151,11 @@ function filtered(){
 function cardHTML(a){
   const url = articleUrl(a);
   const img = a.image_url
-    ? `<img src="${esc(a.image_url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>🏅</div>'">`
-    : `<div class="noimg">🏅</div>`;
+    ? `<a class="thumb" href="a/${esc(a.id)}.html"><img src="${esc(a.image_url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.thumb').remove()"></a>`
+    : ``;
   const tags = (a.tags[LANG] || a.tags.zh_hant || []).map(g => `<button class="tag" data-tag="${esc(g)}">#${esc(g)}</button>`).join("");
   return `<article class="card" id="a-${esc(a.id)}">
-    <a class="thumb" href="a/${esc(a.id)}.html">${img}</a>
+    ${img}
     <div class="card-body">
       <div class="card-top"><span class="sport-tag">${esc((SPORTS[a.sport]||SPORTS.others)[LANG])}</span><span>${esc(fmtTime(a.published_at))}</span></div>
       <h2 class="card-title"><a href="a/${esc(a.id)}.html">${esc(a.title[LANG] || a.title.zh_hant)}</a></h2>
