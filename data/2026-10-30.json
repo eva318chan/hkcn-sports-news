@@ -1,142 +1,247 @@
 [
-  {
-    "id": "20261030-dream-force-wnba-finals-game7",
-    "sport": "basketball",
-    "published_at": "2026-10-30T02:52:00+08:00",
-    "image_url": null,
-    "source": "theScore",
-    "source_url": "https://www.thescore.com/wnba/news/3638543/dream-force-1-st-game-7-in-wnba-finals-history-with-win-over-valkyries",
-    "title": {
-      "en": "Dream rout Valkyries 80-69 to force first-ever Game 7 in WNBA Finals",
-      "zh_hant": "夢想 80:69 大勝女武神　WNBA 總決賽史上首次打到第七場",
-      "zh_hans": "梦想 80:69 大胜女武神　WNBA 总决赛史上首次打到第七场"
-    },
-    "summary": {
-      "en": "The Atlanta Dream kept their season alive with an 80-69 win over the Golden State Valkyries in Game 6 of the WNBA Finals on Thursday, levelling the series at 3-3. Allisha Gray led Atlanta with 23 points on 8-of-12 shooting, while Defensive Player of the Year Angel Reese added 15 points, 14 rebounds and six assists and Rhyne Howard scored 21. The Dream raced to a 32-15 first-quarter lead on six three-pointers and led by as many as 25 in the third, while Golden State shot just 22 of 70 from the field. The game tipped off at 12:30 p.m. ET after being moved from the evening slot because of a scheduling conflict with the Atlanta Hawks at State Farm Arena. The decider is set for Saturday at 8 p.m. ET at San Francisco's Chase Center — the first Game 7 in WNBA Finals history since the format expanded to best-of-seven in 2025.",
-      "zh_hant": "阿特蘭大夢想於星期四的 WNBA 總決賽第六場以 80:69 擊敗金州女武神，將場數追平至 3:3，保住爭冠希望。Allisha Gray 12 投 8 中攻入 23 分領軍，年度最佳防守球員 Angel Reese 交出 15 分、14 籃板、6 助攻，Rhyne Howard 亦得 21 分。夢想首節憑六記三分打出 32:15，第三節最多領先 25 分；女武神全場 70 投僅 22 中。由於與鷹隊在州立農業球館賽程撞期，比賽提早至美東時間中午 12 時半開波。第七場將於星期六美東時間晚上 8 時在三藩市大通中心上演，是 WNBA 總決賽自 2025 年改為七場四勝制以來首次打到第七場。",
-      "zh_hans": "阿特兰大梦想于星期四的 WNBA 总决赛第六场以 80:69 击败金州女武神，将场数追平至 3:3，保住争冠希望。Allisha Gray 12 投 8 中攻入 23 分领军，年度最佳防守球员 Angel Reese 交出 15 分、14 篮板、6 助攻，Rhyne Howard 亦得 21 分。梦想首节凭六记三分打出 32:15，第三节最多领先 25 分；女武神全场 70 投仅 22 中。由于与鹰队在州立农业球馆赛程撞期，比赛提早至美东时间中午 12 时半开波。第七场将于星期六美东时间晚上 8 时在三藩市大通中心上演，是 WNBA 总决赛自 2025 年改为七场四胜制以来首次打到第七场。"
-    },
-    "tags": {
-      "en": [
-        "WNBA Finals",
-        "Atlanta Dream",
-        "Golden State Valkyries"
-      ],
-      "zh_hant": [
-        "WNBA 總決賽",
-        "夢想",
-        "女武神"
-      ],
-      "zh_hans": [
-        "WNBA 总决赛",
-        "梦想",
-        "女武神"
-      ]
-    }
+ {
+  "id": "20261030-dream-force-wnba-finals-game7",
+  "sport": "basketball",
+  "published_at": "2026-10-30T02:52:00+08:00",
+  "image_url": null,
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/wnba/news/3638543/dream-force-1-st-game-7-in-wnba-finals-history-with-win-over-valkyries",
+  "title": {
+   "en": "Dream rout Valkyries 80-69 to force first-ever Game 7 in WNBA Finals",
+   "zh_hant": "夢想 80:69 大勝女武神　WNBA 總決賽史上首次打到第七場",
+   "zh_hans": "梦想 80:69 大胜女武神　WNBA 总决赛史上首次打到第七场"
   },
-  {
-    "id": "20261030-hong-kong-sixes-2026-opens",
-    "sport": "cricket",
-    "published_at": "2026-10-30T07:20:00+08:00",
-    "image_url": null,
-    "source": "Cricket News",
-    "source_url": "https://www.cricketnews.com/en/cricket/news/where-watch-hong-kong-sixes-2026-live-tv-channel-start-time-streaming/d12aebc784e24768913cb002",
-    "title": {
-      "en": "Hong Kong Sixes 2026 opens today at Mission Road Ground",
-      "zh_hant": "香港國際六人板球賽今日開鑼　港隊首戰澳洲",
-      "zh_hans": "香港国际六人板球赛今日开锣　港队首战澳洲"
-    },
-    "summary": {
-      "en": "The Hong Kong Sixes 2026, the 22nd edition of the six-a-side tournament, begins today at the Mission Road Ground in Mong Kok and runs until November 1. Twelve teams are split into four groups, with hosts Hong Kong, China opening against Australia at 8:45 a.m., followed by a marquee India-Pakistan clash at 2:15 p.m. India are led by Krunal Pandya after Bhuvneshwar Kumar dropped out of the squad, while defending champions Pakistan, led by Abbas Afridi, chase a record-extending seventh title. A total of 25 matches will be played across the three days, with group winners advancing to the Cup semi-finals.",
-      "zh_hant": "第 22 屆香港國際六人板球賽（Hong Kong Sixes）今日在旺角使命路球場開鑼，一連三天至 11 月 1 日。12 隊分成四組，主辦港隊（中國香港）上午 8 時 45 分首戰澳洲，焦點戰印度對巴基斯坦則於下午 2 時 15 分上演。印度改由 Krunal Pandya 領軍（Bhuvneshwar Kumar 退出），衞冕冠軍巴基斯坦由 Abbas Afridi 帶領，力爭破紀錄第七度封王。三天合共上演 25 場賽事，小組首名晉級盃賽四強。",
-      "zh_hans": "第 22 届香港国际六人板球赛（Hong Kong Sixes）今日在旺角使命路球场开锣，一连三天至 11 月 1 日。12 队分成四组，主办港队（中国香港）上午 8 时 45 分首战澳洲，焦点战印度对巴基斯坦则于下午 2 时 15 分上演。印度改由 Krunal Pandya 领军（Bhuvneshwar Kumar 退出），卫冕冠军巴基斯坦由 Abbas Afridi 带领，力争破纪录第七度封王。三天合共上演 25 场赛事，小组首名晋级杯赛四强。"
-    },
-    "tags": {
-      "en": [
-        "Hong Kong Sixes",
-        "Cricket",
-        "Hong Kong, China"
-      ],
-      "zh_hant": [
-        "香港六人板球賽",
-        "板球",
-        "中國香港"
-      ],
-      "zh_hans": [
-        "香港六人板球赛",
-        "板球",
-        "中国香港"
-      ]
-    }
+  "summary": {
+   "en": "The Atlanta Dream kept their season alive with an 80-69 win over the Golden State Valkyries in Game 6 of the WNBA Finals on Thursday, levelling the series at 3-3. Allisha Gray led Atlanta with 23 points on 8-of-12 shooting, while Defensive Player of the Year Angel Reese added 15 points, 14 rebounds and six assists and Rhyne Howard scored 21. The Dream raced to a 32-15 first-quarter lead on six three-pointers and led by as many as 25 in the third, while Golden State shot just 22 of 70 from the field. The game tipped off at 12:30 p.m. ET after being moved from the evening slot because of a scheduling conflict with the Atlanta Hawks at State Farm Arena. The decider is set for Saturday at 8 p.m. ET at San Francisco's Chase Center — the first Game 7 in WNBA Finals history since the format expanded to best-of-seven in 2025.",
+   "zh_hant": "阿特蘭大夢想於星期四的 WNBA 總決賽第六場以 80:69 擊敗金州女武神，將場數追平至 3:3，保住爭冠希望。Allisha Gray 12 投 8 中攻入 23 分領軍，年度最佳防守球員 Angel Reese 交出 15 分、14 籃板、6 助攻，Rhyne Howard 亦得 21 分。夢想首節憑六記三分打出 32:15，第三節最多領先 25 分；女武神全場 70 投僅 22 中。由於與鷹隊在州立農業球館賽程撞期，比賽提早至美東時間中午 12 時半開波。第七場將於星期六美東時間晚上 8 時在三藩市大通中心上演，是 WNBA 總決賽自 2025 年改為七場四勝制以來首次打到第七場。",
+   "zh_hans": "阿特兰大梦想于星期四的 WNBA 总决赛第六场以 80:69 击败金州女武神，将场数追平至 3:3，保住争冠希望。Allisha Gray 12 投 8 中攻入 23 分领军，年度最佳防守球员 Angel Reese 交出 15 分、14 篮板、6 助攻，Rhyne Howard 亦得 21 分。梦想首节凭六记三分打出 32:15，第三节最多领先 25 分；女武神全场 70 投仅 22 中。由于与鹰队在州立农业球馆赛程撞期，比赛提早至美东时间中午 12 时半开波。第七场将于星期六美东时间晚上 8 时在三藩市大通中心上演，是 WNBA 总决赛自 2025 年改为七场四胜制以来首次打到第七场。"
   },
-  {
-    "id": "20261030-hawks-beat-cavaliers-114-111",
-    "sport": "basketball",
-    "published_at": "2026-10-30T10:43:00+08:00",
-    "image_url": null,
-    "source": "Sportsnet",
-    "source_url": "https://www.sportsnet.ca/nba/article/onyeka-okongwus-29-points-12-rebounds-lead-hawks-past-cavaliers/",
-    "title": {
-      "en": "Okongwu's 29 points, 12 rebounds lift Hawks past Cavaliers 114-111",
-      "zh_hant": "奧孔古 29 分 12 籃板　鷹隊 114:111 力克騎士止三連敗",
-      "zh_hans": "奥孔古 29 分 12 篮板　鹰队 114:111 力克骑士止三连败"
-    },
-    "summary": {
-      "en": "Onyeka Okongwu scored a season-high 29 points with 12 rebounds as the Atlanta Hawks edged the Cleveland Cavaliers 114-111 at home, snapping a three-game losing streak to move to 3-3. Atlanta trailed by 15 early before a 19-2 second-quarter run flipped the game; Donovan Mitchell cut the gap to one with 20.6 seconds left but missed twice on the final possession. James Harden led Cleveland with 24 points and Mitchell added 22, as the Cavaliers' three-game winning streak ended at 3-2.",
-      "zh_hant": "奧尼卡·奧孔古攻入今季新高 29 分並搶下 12 個籃板，帶領阿特蘭大鷹隊主場以 114 比 111 險勝克里夫蘭騎士，終止三連敗，戰績追至 3 勝 3 負。鷹隊開局一度落後 15 分，次節打出 19 比 2 反超；騎士當錫·米曹最後 20.6 秒追至 1 分差，惟最後一擊兩度失手。夏登為騎士攻入全隊最高 24 分，米曹得 22 分；騎士三連勝告終跌至 3 勝 2 負。",
-      "zh_hans": "奥尼卡·奥孔古攻入今季新高 29 分并抢下 12 个篮板，带领阿特兰大鹰队主场以 114 比 111 险胜克里夫兰骑士，终止三连败，战绩追至 3 胜 3 负。鹰队开局一度落后 15 分，次节打出 19 比 2 反超；骑士当锡·米曹最后 20.6 秒追至 1 分差，惟最后一击两度失手。夏登为骑士攻入全队最高 24 分，米曹得 22 分；骑士三连胜告终跌至 3 胜 2 负。"
-    },
-    "tags": {
-      "en": [
-        "NBA",
-        "Atlanta Hawks",
-        "Cleveland Cavaliers"
-      ],
-      "zh_hant": [
-        "NBA",
-        "鷹隊",
-        "騎士"
-      ],
-      "zh_hans": [
-        "NBA",
-        "鹰队",
-        "骑士"
-      ]
-    }
-  },
-  {
-    "id": "20261030-australia-beat-hk-sixes-opener",
-    "sport": "cricket",
-    "published_at": "2026-10-30T09:45:00+08:00",
-    "image_url": null,
-    "source": "Cricbuzz",
-    "source_url": "https://www.cricbuzz.com/live-cricket-scorecard/175071/aus-vs-hkc-group-a-hong-kong-sixes-2026",
-    "title": {
-      "en": "Australia beat Hong Kong by 28 runs in Hong Kong Sixes opener",
-      "zh_hant": "香港六人板球賽揭幕戰　澳洲 28 分之差擊敗港隊",
-      "zh_hans": "香港六人板球赛揭幕战　澳洲 28 分之差击败港队"
-    },
-    "summary": {
-      "en": "Australia opened the 22nd Hong Kong Sixes with a 28-run win over hosts Hong Kong, China at Mission Road Ground this morning. Australia posted 135 in six overs and restricted Hong Kong to 107 for 4; captain Yasim Murtaza top-scored with an unbeaten 32 while Nasrulla Rana made 30. Hong Kong next face England at 12:25pm.",
-      "zh_hant": "第 22 屆香港國際六人板球賽今早在旺角使命路球場揭幕，澳洲在首場小組賽以 28 分之差擊敗主辦港隊。澳洲六局攻入 135 分，港隊追至 107 分失 4 局；隊長 Yasim Murtaza 未出局攻入 32 分，Nasrulla Rana 得 30 分。港隊下一場將於中午 12 時 25 分迎戰英格蘭。",
-      "zh_hans": "第 22 届香港国际六人板球赛今早在旺角使命路球场揭幕，澳洲在首场小组赛以 28 分之差击败主办港队。澳洲六局攻入 135 分，港队追至 107 分失 4 局；队长 Yasim Murtaza 未出局攻入 32 分，Nasrulla Rana 得 30 分。港队下一场将于中午 12 时 25 分迎战英格兰。"
-    },
-    "tags": {
-      "en": [
-        "Hong Kong Sixes",
-        "cricket",
-        "Hong Kong"
-      ],
-      "zh_hant": [
-        "香港六人板球賽",
-        "板球",
-        "港隊"
-      ],
-      "zh_hans": [
-        "香港六人板球赛",
-        "板球",
-        "港队"
-      ]
-    }
+  "tags": {
+   "en": [
+    "WNBA Finals",
+    "Atlanta Dream",
+    "Golden State Valkyries"
+   ],
+   "zh_hant": [
+    "WNBA 總決賽",
+    "夢想",
+    "女武神"
+   ],
+   "zh_hans": [
+    "WNBA 总决赛",
+    "梦想",
+    "女武神"
+   ]
   }
+ },
+ {
+  "id": "20261030-hong-kong-sixes-2026-opens",
+  "sport": "cricket",
+  "published_at": "2026-10-30T07:20:00+08:00",
+  "image_url": null,
+  "source": "Cricket News",
+  "source_url": "https://www.cricketnews.com/en/cricket/news/where-watch-hong-kong-sixes-2026-live-tv-channel-start-time-streaming/d12aebc784e24768913cb002",
+  "title": {
+   "en": "Hong Kong Sixes 2026 opens today at Mission Road Ground",
+   "zh_hant": "香港國際六人板球賽今日開鑼　港隊首戰澳洲",
+   "zh_hans": "香港国际六人板球赛今日开锣　港队首战澳洲"
+  },
+  "summary": {
+   "en": "The Hong Kong Sixes 2026, the 22nd edition of the six-a-side tournament, begins today at the Mission Road Ground in Mong Kok and runs until November 1. Twelve teams are split into four groups, with hosts Hong Kong, China opening against Australia at 8:45 a.m., followed by a marquee India-Pakistan clash at 2:15 p.m. India are led by Krunal Pandya after Bhuvneshwar Kumar dropped out of the squad, while defending champions Pakistan, led by Abbas Afridi, chase a record-extending seventh title. A total of 25 matches will be played across the three days, with group winners advancing to the Cup semi-finals.",
+   "zh_hant": "第 22 屆香港國際六人板球賽（Hong Kong Sixes）今日在旺角使命路球場開鑼，一連三天至 11 月 1 日。12 隊分成四組，主辦港隊（中國香港）上午 8 時 45 分首戰澳洲，焦點戰印度對巴基斯坦則於下午 2 時 15 分上演。印度改由 Krunal Pandya 領軍（Bhuvneshwar Kumar 退出），衞冕冠軍巴基斯坦由 Abbas Afridi 帶領，力爭破紀錄第七度封王。三天合共上演 25 場賽事，小組首名晉級盃賽四強。",
+   "zh_hans": "第 22 届香港国际六人板球赛（Hong Kong Sixes）今日在旺角使命路球场开锣，一连三天至 11 月 1 日。12 队分成四组，主办港队（中国香港）上午 8 时 45 分首战澳洲，焦点战印度对巴基斯坦则于下午 2 时 15 分上演。印度改由 Krunal Pandya 领军（Bhuvneshwar Kumar 退出），卫冕冠军巴基斯坦由 Abbas Afridi 带领，力争破纪录第七度封王。三天合共上演 25 场赛事，小组首名晋级杯赛四强。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Sixes",
+    "Cricket",
+    "Hong Kong, China"
+   ],
+   "zh_hant": [
+    "香港六人板球賽",
+    "板球",
+    "中國香港"
+   ],
+   "zh_hans": [
+    "香港六人板球赛",
+    "板球",
+    "中国香港"
+   ]
+  }
+ },
+ {
+  "id": "20261030-hawks-beat-cavaliers-114-111",
+  "sport": "basketball",
+  "published_at": "2026-10-30T10:43:00+08:00",
+  "image_url": null,
+  "source": "Sportsnet",
+  "source_url": "https://www.sportsnet.ca/nba/article/onyeka-okongwus-29-points-12-rebounds-lead-hawks-past-cavaliers/",
+  "title": {
+   "en": "Okongwu's 29 points, 12 rebounds lift Hawks past Cavaliers 114-111",
+   "zh_hant": "奧孔古 29 分 12 籃板　鷹隊 114:111 力克騎士止三連敗",
+   "zh_hans": "奥孔古 29 分 12 篮板　鹰队 114:111 力克骑士止三连败"
+  },
+  "summary": {
+   "en": "Onyeka Okongwu scored a season-high 29 points with 12 rebounds as the Atlanta Hawks edged the Cleveland Cavaliers 114-111 at home, snapping a three-game losing streak to move to 3-3. Atlanta trailed by 15 early before a 19-2 second-quarter run flipped the game; Donovan Mitchell cut the gap to one with 20.6 seconds left but missed twice on the final possession. James Harden led Cleveland with 24 points and Mitchell added 22, as the Cavaliers' three-game winning streak ended at 3-2.",
+   "zh_hant": "奧尼卡·奧孔古攻入今季新高 29 分並搶下 12 個籃板，帶領阿特蘭大鷹隊主場以 114 比 111 險勝克里夫蘭騎士，終止三連敗，戰績追至 3 勝 3 負。鷹隊開局一度落後 15 分，次節打出 19 比 2 反超；騎士當錫·米曹最後 20.6 秒追至 1 分差，惟最後一擊兩度失手。夏登為騎士攻入全隊最高 24 分，米曹得 22 分；騎士三連勝告終跌至 3 勝 2 負。",
+   "zh_hans": "奥尼卡·奥孔古攻入今季新高 29 分并抢下 12 个篮板，带领阿特兰大鹰队主场以 114 比 111 险胜克里夫兰骑士，终止三连败，战绩追至 3 胜 3 负。鹰队开局一度落后 15 分，次节打出 19 比 2 反超；骑士当锡·米曹最后 20.6 秒追至 1 分差，惟最后一击两度失手。夏登为骑士攻入全队最高 24 分，米曹得 22 分；骑士三连胜告终跌至 3 胜 2 负。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Atlanta Hawks",
+    "Cleveland Cavaliers"
+   ],
+   "zh_hant": [
+    "NBA",
+    "鷹隊",
+    "騎士"
+   ],
+   "zh_hans": [
+    "NBA",
+    "鹰队",
+    "骑士"
+   ]
+  }
+ },
+ {
+  "id": "20261030-australia-beat-hk-sixes-opener",
+  "sport": "cricket",
+  "published_at": "2026-10-30T09:45:00+08:00",
+  "image_url": null,
+  "source": "Cricbuzz",
+  "source_url": "https://www.cricbuzz.com/live-cricket-scorecard/175071/aus-vs-hkc-group-a-hong-kong-sixes-2026",
+  "title": {
+   "en": "Australia beat Hong Kong by 28 runs in Hong Kong Sixes opener",
+   "zh_hant": "香港六人板球賽揭幕戰　澳洲 28 分之差擊敗港隊",
+   "zh_hans": "香港六人板球赛揭幕战　澳洲 28 分之差击败港队"
+  },
+  "summary": {
+   "en": "Australia opened the 22nd Hong Kong Sixes with a 28-run win over hosts Hong Kong, China at Mission Road Ground this morning. Australia posted 135 in six overs and restricted Hong Kong to 107 for 4; captain Yasim Murtaza top-scored with an unbeaten 32 while Nasrulla Rana made 30. Hong Kong next face England at 12:25pm.",
+   "zh_hant": "第 22 屆香港國際六人板球賽今早在旺角使命路球場揭幕，澳洲在首場小組賽以 28 分之差擊敗主辦港隊。澳洲六局攻入 135 分，港隊追至 107 分失 4 局；隊長 Yasim Murtaza 未出局攻入 32 分，Nasrulla Rana 得 30 分。港隊下一場將於中午 12 時 25 分迎戰英格蘭。",
+   "zh_hans": "第 22 届香港国际六人板球赛今早在旺角使命路球场揭幕，澳洲在首场小组赛以 28 分之差击败主办港队。澳洲六局攻入 135 分，港队追至 107 分失 4 局；队长 Yasim Murtaza 未出局攻入 32 分，Nasrulla Rana 得 30 分。港队下一场将于中午 12 时 25 分迎战英格兰。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Sixes",
+    "cricket",
+    "Hong Kong"
+   ],
+   "zh_hant": [
+    "香港六人板球賽",
+    "板球",
+    "港隊"
+   ],
+   "zh_hans": [
+    "香港六人板球赛",
+    "板球",
+    "港队"
+   ]
+  }
+ },
+ {
+  "id": "20261030-coleman-wong-seoul-qf",
+  "sport": "tennis",
+  "published_at": "2026-10-30T12:23:00+08:00",
+  "image_url": null,
+  "source": "體路 Sportsroad",
+  "source_url": "https://www.sportsroad.hk/?p=660493",
+  "title": {
+   "en": "Coleman Wong beats Shimabukuro 7-6, 6-1 to reach Seoul Challenger semifinals",
+   "zh_hant": "黃澤林 7:6、6:1 復仇島袋將　不失一盤闖首爾挑戰賽四強",
+   "zh_hans": "黄泽林 7:6、6:1 复仇岛袋将　不失一盘闯首尔挑战赛四强"
+  },
+  "summary": {
+   "en": "Hong Kong's Coleman Wong avenged last year's final defeat by beating Japan's seventh seed Sho Shimabukuro 7-6(4), 6-1 in the quarterfinals of the ATP 125 Seoul Challenger today, his first win in four meetings. After trading breaks, Wong took the first-set tiebreak 7-4, then broke twice to race to 5-0 in the second set before closing it out 6-1. The third seed, whose ranking rose to a career-high 87 after last week's Nansha runner-up finish, reached the semifinals without dropping a set and will play for a place in the final tomorrow.",
+   "zh_hant": "香港網球「一哥」黃澤林今日在 ATP 125 首爾挑戰賽八強，以 7:6（7:4）、6:1 直落兩盤擊敗日本 7 號種子島袋將，取得雙方 4 次交鋒首勝，報回去屆決賽落敗之仇。首盤雙方互破發球局戰至搶七，黃澤林贏 7:4 先拔頭籌；次盤兩度破發拉開至 5:0，最終以 6:1 再下一城。上周南沙奪亞後世界排名升至生涯新高 87 位的黃澤林，以 3 號種子身份不失一盤晉級四強，明日爭奪決賽席位。",
+   "zh_hans": "香港网球「一哥」黄泽林今日在 ATP 125 首尔挑战赛八强，以 7:6（7:4）、6:1 直落两盘击败日本 7 号种子岛袋将，取得双方 4 次交锋首胜，报回去届决赛落败之仇。首盘双方互破发球局战至抢七，黄泽林赢 7:4 先拔头筹；次盘两度破发拉开至 5:0，最终以 6:1 再下一城。上周南沙夺亚后世界排名升至生涯新高 87 位的黄泽林，以 3 号种子身份不失一盘晋级四强，明日争夺决赛席位。"
+  },
+  "tags": {
+   "en": [
+    "Coleman Wong",
+    "Seoul Challenger",
+    "tennis"
+   ],
+   "zh_hant": [
+    "黃澤林",
+    "首爾挑戰賽",
+    "網球"
+   ],
+   "zh_hans": [
+    "黄泽林",
+    "首尔挑战赛",
+    "网球"
+   ]
+  }
+ },
+ {
+  "id": "20261030-hk-beat-england-sixes",
+  "sport": "cricket",
+  "published_at": "2026-10-30T13:29:00+08:00",
+  "image_url": null,
+  "source": "Cricbuzz",
+  "source_url": "https://www.cricbuzz.com/live-cricket-scores/175110/hkc-vs-eng-group-a-hong-kong-sixes-2026",
+  "title": {
+   "en": "Hong Kong bounce back with 61-run win over England at Hong Kong Sixes; Anshuman Rath smashes 62 off 13",
+   "zh_hant": "港隊 61 分大勝英格蘭一吐烏氣　Anshuman Rath 13 球 62 分膺最佳球員",
+   "zh_hans": "港队 61 分大胜英格兰一吐乌气　Anshuman Rath 13 球 62 分膺最佳球员"
+  },
+  "summary": {
+   "en": "Hong Kong, China bounced back from this morning's opening defeat to Australia with a commanding 61-run win over England in Group A of the Hong Kong Sixes at Mission Road Ground, Mong Kok. Hong Kong posted 149 for 5 in their six overs before restricting England to 88 for 3. Anshuman Rath smashed 62 off just 13 balls to take player of the match. England won the toss and chose to bowl; Fynn Hudson-Prentice top-scored for England with 26 and Martin Andersson made 22.",
+   "zh_hant": "香港國際六人板球賽 A 組賽事，港隊今日中午在旺角使命路球場以 61 分之差大勝英格蘭，一吐今早揭幕戰不敵澳洲之氣。港隊 6 局攻入 149 分失 5 局，英格蘭 6 局僅得 88 分失 3 局。Anshuman Rath 僅用 13 球轟入 62 分，膺全場最佳球員。英格蘭贏得掟幣選擇先守，Fynn Hudson-Prentice 得 26 分、Martin Andersson 得 22 分為英格蘭最高。",
+   "zh_hans": "香港国际六人板球赛 A 组赛事，港队今日中午在旺角使命路球场以 61 分之差大胜英格兰，一吐今早揭幕战不敌澳洲之气。港队 6 局攻入 149 分失 5 局，英格兰 6 局仅得 88 分失 3 局。Anshuman Rath 仅用 13 球轰入 62 分，膺全场最佳球员。英格兰赢得掷币选择先守，Fynn Hudson-Prentice 得 26 分、Martin Andersson 得 22 分为英格兰最高。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Sixes",
+    "cricket",
+    "Hong Kong team"
+   ],
+   "zh_hant": [
+    "香港六人板球賽",
+    "板球",
+    "港隊"
+   ],
+   "zh_hans": [
+    "香港六人板球赛",
+    "板球",
+    "港队"
+   ]
+  }
+ },
+ {
+  "id": "20261030-m-mark-three-events",
+  "sport": "others",
+  "published_at": "2026-10-30T12:01:00+08:00",
+  "image_url": null,
+  "source": "政府新聞處",
+  "source_url": "https://www.info.gov.hk/gia/general/202610/30/P2026103000275.htm",
+  "title": {
+   "en": "\"M\" Mark status awarded to World Triathlon Cup, BLAST esports event and HZMB Half Marathon",
+   "zh_hant": "三項國際賽事獲「M」品牌認可　三鐵世界盃、BLAST 電競、港珠澳大橋半馬",
+   "zh_hans": "三项国际赛事获「M」品牌认可　三铁世界杯、BLAST 电竞、港珠澳大桥半马"
+  },
+  "summary": {
+   "en": "The Major Sports Events Committee today awarded \"M\" Mark status to three international sports events: the 2026 World Triathlon Cup – Hong Kong (November 7-8), BLAST Premier Hong Kong Rivals 2026 esports event (November 13-15 at AsiaWorld-Expo), and the Bank of China (Hong Kong) Hong Kong-Zhuhai-Macao Bridge (Hong Kong Section) Half Marathon 2026 (November 15). Committee chairman Wilfred Ng said the events will attract world-class athletes and international visitors, further consolidating Hong Kong's position as a centre for major international sports events.",
+   "zh_hant": "大型體育活動事務委員會今日向三項國際體育賽事頒授「M」品牌：11 月 7 至 8 日的 2026 三項鐵人世界盃—香港、11 月 13 至 15 日在亞洲國際博覽館舉行的 BLAST Premier Hong Kong Rivals 2026 電競賽，以及 11 月 15 日的中國銀行（香港）港珠澳大橋（香港段）半馬拉松 2026。委員會主席吳守基表示，三項賽事有助吸引世界級運動員及國際旅客，進一步鞏固香港作為國際體壇盛事之都的地位。",
+   "zh_hans": "大型体育活动事务委员会今日向三项国际体育赛事颁授「M」品牌：11 月 7 至 8 日的 2026 三项铁人世界杯—香港、11 月 13 至 15 日在亚洲国际博览馆举行的 BLAST Premier Hong Kong Rivals 2026 电竞赛事，以及 11 月 15 日的中国银行（香港）港珠澳大桥（香港段）半马拉松 2026。委员会主席吴守基表示，三项赛事有助吸引世界级运动员及国际旅客，进一步巩固香港作为国际体坛盛事之都的地位。"
+  },
+  "tags": {
+   "en": [
+    "M Mark",
+    "major sports events",
+    "Hong Kong"
+   ],
+   "zh_hant": [
+    "M品牌",
+    "大型體育盛事",
+    "香港"
+   ],
+   "zh_hans": [
+    "M品牌",
+    "大型体育盛事",
+    "香港"
+   ]
+  }
+ }
 ]
