@@ -68,5 +68,40 @@
         "菲尔斯"
       ]
     }
+  },
+  {
+    "id": "20261031-kowloon-city-2-2-bc-rangers",
+    "sport": "football",
+    "published_at": "2026-10-31T01:00:00+08:00",
+    "source": "《睇體》YouTube",
+    "source_url": "https://www.youtube.com/watch?v=x369etz7JBk",
+    "image_url": "https://i.ytimg.com/vi/x369etz7JBk/hqdefault.jpg",
+    "title": {
+      "en": "Kowloon City fight back from two down to draw 2-2 with BC Rangers",
+      "zh_hant": "和富九龍城下半場連追兩球　2:2 逼和標準流浪",
+      "zh_hans": "和富九龙城下半场连追两球　2:2 逼和标准流浪"
+    },
+    "summary": {
+      "en": "Wofoo Kowloon City came from two goals down to draw 2-2 with BC Rangers in Friday's Hong Kong Premier League lone fixture at Kai Tak Youth Sports Ground. Rangers led 2-0 at half-time through Paulinho's 7th-minute strike and Flavio Tico's 23rd-minute header, after Kowloon City had a 41st-minute effort from Keung Chun-yin ruled out for handball following a VAR review. Kowloon City hit back after the break, with Chan Ngo-hin pulling one back in the 65th minute before Nikola Popovic bundled home the equaliser in the 93rd minute. The point lifts Kowloon City to sixth in the table on five points.",
+      "zh_hant": "港超聯周五（10月30日）獨腳戲，和富九龍城在啟德青年運動場主場出擊，半場落後兩球下，下半場連入兩球以2比2逼和標準流浪。流浪憑保利奧7分鐘門前燙射及法華利23分鐘飛身頭槌領先2比0；九龍城41分鐘曾由姜浚賢撞入一球，但經VAR覆核判手球在先，入球無效。換邊後九龍城全力反撲，陳傲軒65分鐘底線傳中掃射追近，補時3分鐘普波域門前撞入扳平。九龍城賽後以5分升上聯賽榜第6位。",
+      "zh_hans": "港超联周五（10月30日）独脚戏，和富九龙城在启德青年运动场主场出击，半场落后两球下，下半场连入两球以2比2逼和标准流浪。流浪凭保利奥7分钟门前烫射及法华利23分钟飞身头槌领先2比0；九龙城41分钟曾由姜浚贤撞入一球，但经VAR覆核判手球在先，入球无效。换边后九龙城全力反扑，陈傲轩65分钟底线传中扫射追近，补时3分钟普波域门前撞入扳平。九龙城赛后以5分升上联赛榜第6位。"
+    },
+    "tags": {
+      "en": [
+        "HKPL",
+        "Kowloon City",
+        "BC Rangers"
+      ],
+      "zh_hant": [
+        "港超聯",
+        "九龍城",
+        "標準流浪"
+      ],
+      "zh_hans": [
+        "港超联",
+        "九龙城",
+        "标准流浪"
+      ]
+    }
   }
 ]
