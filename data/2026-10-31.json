@@ -103,5 +103,75 @@
         "标准流浪"
       ]
     }
+  },
+  {
+    "id": "20261031-hk-sixes-plate-sf",
+    "sport": "cricket",
+    "published_at": "2026-10-31T11:10:00+08:00",
+    "source": "ESPN",
+    "source_url": "https://www.espn.ph/cricket/scores/series/8768/hong-kong-international-sixes",
+    "image_url": null,
+    "title": {
+      "zh_hant": "香港國際六人板球賽　港隊首日1勝1負晉級Plate四強",
+      "zh_hans": "香港国际六人板球赛　港队首日1胜1负晋级Plate四强",
+      "en": "Hong Kong International Sixes: hosts go 1-1 on day one, reach Plate semi-finals"
+    },
+    "summary": {
+      "zh_hant": "香港國際六人板球賽昨日（10月30日）在旺角上演首日9場分組賽。港隊在A組首戰以107/4不敵澳洲135/4，輸28分；次戰反彈以149/5大勝英格蘭88/3，贏61分。港隊1勝1負以小組次名晉級Plate四強，今日下午2時15分出戰Plate第二場四強。澳洲小組全勝晉級盃賽四強。",
+      "zh_hans": "香港国际六人板球赛昨日（10月30日）在旺角上演首日9场分组赛。港队在A组首战以107/4不敌澳洲135/4，输28分；次战反弹以149/5大胜英格兰88/3，赢61分。港队1胜1负以小组次名晋级Plate四强，今日下午2时15分出战Plate第二场四强。澳洲小组全胜晋级杯赛四强。",
+      "en": "Day one of the Hong Kong International Sixes saw nine group games at Mong Kok on October 30. Hosts Hong Kong lost their Group A opener to Australia by 28 runs (107/4 chasing 135/4) but bounced back to thrash England by 61 runs (149/5 vs 88/3). The 1-1 record sends Hong Kong into the Plate semi-finals as group runners-up, playing the second Plate semi-final today at 2:15pm. Australia topped the group to reach the Cup semi-finals."
+    },
+    "tags": {
+      "zh_hant": [
+        "六人板球賽",
+        "港隊",
+        "板球"
+      ],
+      "zh_hans": [
+        "六人板球赛",
+        "港队",
+        "板球"
+      ],
+      "en": [
+        "Hong Kong Sixes",
+        "Hong Kong",
+        "cricket"
+      ]
+    }
+  },
+  {
+    "id": "20261031-chen-yi-beats-wang-manyu",
+    "sport": "table_tennis",
+    "published_at": "2026-10-31T10:02:56+08:00",
+    "source": "新浪體育",
+    "source_url": "https://sports.sina.cn/2026-10-31/detail-inixaraz7622948.d.html?vt=4",
+    "image_url": null,
+    "title": {
+      "zh_hant": "陳熠3比0橫掃世界第一王曼昱　晉級蒙彼利埃冠軍賽八強",
+      "zh_hans": "陈熠3比0横扫世界第一王曼昱　晋级蒙彼利埃冠军赛八强",
+      "en": "Chen Yi stuns world No.1 Wang Manyu 3-0 to reach Montpellier Champions quarter-finals"
+    },
+    "summary": {
+      "zh_hant": "WTT蒙彼利埃冠軍賽女單16強上演國乒內戰，世界排名第9的陳熠以13比11、11比8、11比9直落三局，3比0淘汰世界第一、賽會頭號種子王曼昱，晉級女單八強。首局王曼昱9比7領先下，陳熠憑連續擦網擦邊球逆轉拿下；賽後陳熠坦言「運氣太好了」。剛奪亞錦賽女單冠軍的陳熠狀態正盛，雙方交手紀錄改寫為2比2。",
+      "zh_hans": "WTT蒙彼利埃冠军赛女单16强上演国乒内战，世界排名第9的陈熠以13比11、11比8、11比9直落三局，3比0淘汰世界第一、赛会头号种子王曼昱，晋级女单八强。首局王曼昱9比7领先下，陈熠凭连续擦网擦边球逆转拿下；赛后陈熠坦言「运气太好了」。刚夺亚锦赛女单冠军的陈熠状态正盛，双方交手纪录改写为2比2。",
+      "en": "China's Chen Yi, ranked world No.9, stunned top seed and world No.1 Wang Manyu 3-0 (13-11, 11-8, 11-9) in an all-Chinese round-of-16 clash at the WTT Montpellier Champions, reaching the women's singles quarter-finals. Wang led 9-7 in the opener before Chen Yi turned it around with a string of net cords and edge balls. Fresh from winning the Asian Championships singles title, Chen Yi levelled their head-to-head at 2-2."
+    },
+    "tags": {
+      "zh_hant": [
+        "陳熠",
+        "王曼昱",
+        "WTT"
+      ],
+      "zh_hans": [
+        "陈熠",
+        "王曼昱",
+        "WTT"
+      ],
+      "en": [
+        "Chen Yi",
+        "Wang Manyu",
+        "WTT"
+      ]
+    }
   }
 ]
