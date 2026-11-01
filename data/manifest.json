@@ -1,7 +1,11 @@
 {
- "updated_at": "2026-11-01T23:10:00+08:00",
+ "updated_at": "2026-11-02T03:40:00+08:00",
  "site_url": "https://hksports.hk",
  "dates": [
+  {
+   "date": "2026-11-02",
+   "count": 3
+  },
   {
    "date": "2026-11-01",
    "count": 26
