@@ -1,0 +1,107 @@
+[
+ {
+  "id": "20261102-lazio-2-1-cagliari",
+  "sport": "football",
+  "published_at": "2026-11-02T01:30:00+08:00",
+  "image_url": null,
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/seri/news/3641421/lazio-beat-cagliari-to-pull-clear-at-serie-a-summit",
+  "title": {
+   "en": "Lazio fight back to beat Cagliari 2-1 and go three clear at Serie A summit",
+   "zh_hant": "拉素2:1反勝卡利亞里　六連勝獨佔意甲榜首",
+   "zh_hans": "拉素2:1反胜卡利亚里　六连胜独占意甲榜首"
+  },
+  "summary": {
+   "en": "Gennaro Gattuso's Lazio consolidated top spot in Serie A on Sunday with a 2-1 comeback win over Cagliari, making it six straight league victories. The visitors took the lead through M'Bala Nzola in the 20th minute before Gustav Isaksen levelled in the 36th and substitute Andrea Pinamonti headed the winner in the 83rd. With 28 points from 10 games, Lazio moved three clear of Inter after the Nerazzurri lost the Milan derby. It is the best start to a league campaign in the club's history; Lazio last won Serie A in 2000.",
+   "zh_hant": "加度素帶領嘅拉素喺意甲第10輪主場2:1反勝卡利亞里，聯賽六連勝，28分獨佔榜首，拋離輸咗米蘭打吡嘅國際米蘭3分。卡利亞里由尼索拉20分鐘先開紀錄，伊沙臣36分鐘勁射扳平，後備入替嘅比拿蒙迪83分鐘頂入奠勝。拉素今季10戰8勝2和保持不敗，係隊史最佳聯賽開局；球會上次捧意甲已經係2000年嘅事。",
+   "zh_hans": "加图索带领的拉素在意甲第10轮主场2:1反胜卡利亚里，联赛六连胜，28分独占榜首，抛离输了米兰德比的国际米兰3分。卡利亚里由尼索拉20分钟先开纪录，伊萨臣36分钟劲射扳平，后备入替的比拿蒙迪83分钟顶入奠胜。拉素今季10战8胜2和保持不败，是队史最佳联赛开局；球会上次捧意甲已经是2000年的事。"
+  },
+  "tags": {
+   "en": [
+    "Serie A",
+    "Lazio",
+    "Cagliari"
+   ],
+   "zh_hant": [
+    "意甲",
+    "拉素",
+    "卡利亞里"
+   ],
+   "zh_hans": [
+    "意甲",
+    "拉素",
+    "卡利亚里"
+   ]
+  }
+ },
+ {
+  "id": "20261102-roma-5-2-udinese",
+  "sport": "football",
+  "published_at": "2026-11-01T04:33:00+08:00",
+  "image_url": "https://media.asroma.com/prod/images/landscape_medium_fill/e3ab17358eaa-dsc1281.webp",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/seri/news/3640508/roma-score-4-goals-in-1-st-half-thrash-udinese",
+  "title": {
+   "en": "Roma hit four before half-time in 5-2 rout of Udinese to stay unbeaten",
+   "zh_hant": "羅馬半場轟4球5:2大勝烏甸尼斯　緊貼榜首",
+   "zh_hans": "罗马半场轰4球5:2大胜乌甸尼斯　紧贴榜首"
+  },
+  "summary": {
+   "en": "AS Roma blew away Udinese 5-2 on Saturday to stay unbeaten in Serie A, racing into a 4-0 half-time lead. Bryan Cristante opened the scoring in the 10th minute before Rodrigo Mora, Donyell Malen and Evan Ndicka struck between the 31st and 37th minutes. Udinese pulled two back through Nicolo Zaniolo and Matteo Palma after the break, but Daniele Ghilardi sealed it in stoppage time. Gian Piero Gasperini's side have 24 points from 10 games, sitting third behind leaders Lazio.",
+   "zh_hant": "羅馬喺意甲第10輪作客5:2大勝烏甸尼斯，半場已經領先4:0，繼續保持不敗。基斯坦迪10分鐘先開紀錄，摩拉、馬倫同尼迪卡喺31至37分鐘連入3球；烏甸尼斯下半場由辛尼奧路同柏馬追返兩球，基拉迪補時射入第5球。加斯柏連尼嘅球隊10戰得24分排第三，緊貼榜首拉素。",
+   "zh_hans": "罗马在意甲第10轮作客5:2大胜乌甸尼斯，半场已经领先4:0，继续保持不败。基斯坦迪10分钟先开纪录，摩拉、马伦和尼迪卡在31至37分钟连入3球；乌甸尼斯下半场由辛尼奥路和柏马追回两球，基拉迪补时射入第5球。加斯柏连尼的球队10战得24分排第三，紧贴榜首拉素。"
+  },
+  "tags": {
+   "en": [
+    "Serie A",
+    "Roma",
+    "Udinese"
+   ],
+   "zh_hant": [
+    "意甲",
+    "羅馬",
+    "烏甸尼斯"
+   ],
+   "zh_hans": [
+    "意甲",
+    "罗马",
+    "乌甸尼斯"
+   ]
+  }
+ },
+ {
+  "id": "20261102-lecce-1-2-genoa",
+  "sport": "football",
+  "published_at": "2026-11-02T03:00:00+08:00",
+  "image_url": null,
+  "source": "Football Italia",
+  "source_url": "https://football-italia.net/serie-a-lecce-1-2-genoa-messias-inspiration/",
+  "title": {
+   "en": "Messias inspires Genoa to third straight win with 2-1 victory at Lecce",
+   "zh_hant": "米斯亞斯一射一傳　熱拿亞2:1作客挫萊切三連勝",
+   "zh_hans": "米斯亚斯一射一传　热拿亚2:1作客挫莱切三连胜"
+  },
+  "summary": {
+   "en": "Genoa made it three consecutive Serie A wins with a 2-1 victory away to Lecce on Sunday, a result that could prove crucial in the relegation battle. Milutin Osmajic turned in Junior Messias' cross for the opener in the 11th minute, and Messias doubled the lead in the 28th with a fine finish from a tight angle after being released by Stephan El Shaarawy. Lecce pulled one back through Youssef Maleh's deflected free kick in the 40th minute but could not find an equaliser.",
+   "zh_hant": "熱拿亞喺意甲第10輪作客2:1擊敗萊切，聯賽三連勝，護級路上攞到關鍵3分。奧斯馬治11分鐘接應米斯亞斯傳送先開紀錄，米斯亞斯28分鐘接應艾沙拉維妙傳，窄角度笠過門將射成2:0；萊切由馬利40分鐘罰球省中人牆折射追返一球，但未能扳平。米斯亞斯一射一傳成為贏波功臣。",
+   "zh_hans": "热拿亚在意甲第10轮作客2:1击败莱切，联赛三连胜，护级路上拿到关键3分。奥斯马治11分钟接应米斯亚斯传送先开纪录，米斯亚斯28分钟接应艾沙拉维妙传，窄角度笠过门将射成2:0；莱切由马利40分钟罚球省中人墙折射追回一球，但未能扳平。米斯亚斯一射一传成为赢波功臣。"
+  },
+  "tags": {
+   "en": [
+    "Serie A",
+    "Genoa",
+    "Lecce"
+   ],
+   "zh_hant": [
+    "意甲",
+    "熱拿亞",
+    "萊切"
+   ],
+   "zh_hans": [
+    "意甲",
+    "热拿亚",
+    "莱切"
+   ]
+  }
+ }
+]
