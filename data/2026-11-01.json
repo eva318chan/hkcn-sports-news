@@ -1,5 +1,110 @@
 [
  {
+  "id": "20261101-hk-handball-bronze",
+  "sport": "others",
+  "published_at": "2026-11-01T17:38:00+08:00",
+  "image_url": null,
+  "source": "體路 Sportsroad",
+  "source_url": "https://www.sportsroad.hk/?p=661058",
+  "title": {
+   "en": "Hong Kong edge Anhui 29-28 to take bronze at Chinese Handball Super League finals",
+   "zh_hant": "中手超煞科戰　港隊29：28險勝安徽主場奪季軍",
+   "zh_hans": "中手超煞科战　港队29：28险胜安徽主场夺季军"
+  },
+  "summary": {
+   "en": "Hong Kong won bronze on home soil at the finals of the 2025-26 Chinese Handball Super League men's division at Ma On Shan Sports Centre today, edging Anhui 29-28 in the third-place match to avenge a 21-30 round-robin defeat. Lin Yun-tao and Kan Yik-fai combined for 15 goals while goalkeeper Leung Laam-hei made 12 saves; Hong Kong pulled three clear late on through Li Shao-chung, Wong Kin and Lin before holding on. Playing as an amateur side under the name 'Hong Kong Men's Handball Club', the hosts finished fourth in the round robin to reach the bronze-medal match on their debut.",
+   "zh_hant": "首度落戶香港嘅「2025-26中國手球超級聯賽男子組（第四階段總決賽）」今日喺馬鞍山體育館煞科，港隊喺季軍戰以29：28險勝安徽，報返單循環階段21：30落敗之仇，主場奪得季軍。連潤滔同簡翊暉合轟15球，門將梁嵐熹交出12次撲救；下半場後段李少聰、黃健、連潤滔接連建功拉開3分，最終守住勝局。港隊以業餘球隊身份、用「香港男子手球俱樂部」名義首度參賽，單循環取得3場勝仗以第4名躋身季軍戰。",
+   "zh_hans": "首度落户香港的「2025-26中国手球超级联赛男子组（第四阶段总决赛）」今日在马鞍山体育馆煞科，港队在季军战以29：28险胜安徽，报回单循环阶段21：30落败之仇，主场夺得季军。连润滔和简翊晖合轰15球，门将梁岚熹交出12次扑救；下半场后段李少聪、黄健、连润滔接连建功拉开3分，最终守住胜局。港队以业余球队身份、用「香港男子手球俱乐部」名义首度参赛，单循环取得3场胜仗以第4名跻身季军战。"
+  },
+  "tags": {
+   "en": [
+    "handball",
+    "Chinese Handball Super League",
+    "Hong Kong team"
+   ],
+   "zh_hant": [
+    "手球",
+    "中手超",
+    "港隊"
+   ],
+   "zh_hans": [
+    "手球",
+    "中手超",
+    "港队"
+   ]
+  }
+ },
+ {
+  "id": "20261101-beijing-handball-champion",
+  "sport": "others",
+  "published_at": "2026-11-01T21:00:00+08:00",
+  "image_url": null,
+  "source": "新浪體育",
+  "source_url": "https://k.sina.cn/article_7857201856_1d45362c001908t9xy.html?from=sports",
+  "title": {
+   "en": "Beijing beat Jiangsu 30-28 to win Chinese Handball Super League",
+   "zh_hant": "中手超總決賽　北京30：28力克江蘇封王",
+   "zh_hans": "中手超总决赛　北京30：28力克江苏封王"
+  },
+  "summary": {
+   "en": "Beijing won the 2025-2026 Chinese Handball Super League men's title, beating Jiangsu 30-28 in the final at Ma On Shan Sports Centre in Hong Kong today. Xinhua photos showed Beijing's Lu Mingsong and Sun Fangwei shooting during the match and the players celebrating after the final whistle. The fourth-stage finals were staged in Hong Kong from October 23 to November 1, with eight teams taking part.",
+   "zh_hant": "喺香港馬鞍山體育館舉行嘅2025-2026中國手球超級聯賽男子聯賽（第四階段總決賽）決賽，北京隊以30：28擊敗江蘇隊，奪得冠軍。新華社圖片顯示北京隊球員逯明松、孫芳偉喺比賽中射門，以及球員賽後慶祝。第四階段總決賽喺10月23日至11月1日落戶香港舉行，8支隊伍參賽。",
+   "zh_hans": "在香港马鞍山体育馆举行的2025-2026中国手球超级联赛男子联赛（第四阶段总决赛）决赛，北京队以30：28击败江苏队，夺得冠军。新华社图片显示北京队球员逯明松、孙芳伟在比赛中射门，以及球员赛后庆祝。第四阶段总决赛在10月23日至11月1日落户香港举行，8支队伍参赛。"
+  },
+  "tags": {
+   "en": [
+    "handball",
+    "Chinese Handball Super League",
+    "Beijing"
+   ],
+   "zh_hant": [
+    "手球",
+    "中手超",
+    "北京隊"
+   ],
+   "zh_hans": [
+    "手球",
+    "中手超",
+    "北京队"
+   ]
+  }
+ },
+ {
+  "id": "20261101-beijing-womens-afc-kaya",
+  "sport": "football",
+  "published_at": "2026-11-01T21:21:45+08:00",
+  "image_url": "https://static.bjd.com.cn/dams-res/editing/image/202611/01/ibo4pmpfatzaiqgmtfatxo1k.jpeg",
+  "source": "京報網",
+  "source_url": "https://news.bjd.com.cn/2026/11/01/12014638.shtml",
+  "title": {
+   "en": "Beijing City thump Kaya 6-0 in Women's AFC Champions League opener",
+   "zh_hant": "女足亞冠　北京城建6：0大勝菲律賓卡雅開門紅",
+   "zh_hans": "女足亚冠　北京城建6：0大胜菲律宾卡雅开门红"
+  },
+  "summary": {
+   "en": "Beijing City opened their 2026-27 Women's AFC Champions League campaign with a 6-0 rout of Philippine champions Kaya tonight. Foreign signing Traore struck after just three minutes and added another later; Shen Menglu's cross forced an own goal and she scored again in first-half stoppage time, while Aidanbuqi and Si Yu completed the scoring after the break. It is Beijing women's first appearance at the Women's AFC Champions League; they are drawn with Kaya, Uzbekistan's Nasaf and Australia's Melbourne City in Karshi, Uzbekistan, and face hosts Nasaf on November 4.",
+   "zh_hant": "北京城建隊今晚喺2026至2027賽季女足亞冠首場小組賽，以6：0大勝菲律賓冠軍卡雅女足，取得「開門紅」。外援特勞雷開賽3分鐘就打破僵局，之後再入一球；沈夢露左路傳中製造烏龍球，補時再入一球；艾爾丹布齊同司雨下半場各建一功。北京女足首次站上女足亞冠舞台，同卡雅、烏茲別克納薩夫女足、澳洲墨爾本城女足同組，賽事喺烏茲別克卡爾希舉行；下場11月4日晚挑戰東道主納薩夫。",
+   "zh_hans": "北京城建队今晚在2026至2027赛季女足亚冠首场小组赛，以6：0大胜菲律宾冠军卡雅女足，取得「开门红」。外援特劳雷开赛3分钟就打破僵局，之后再入一球；沈梦露左路传中制造乌龙球，补时再入一球；艾尔丹布齐和司雨下半场各建一功。北京女足首次站上女足亚冠舞台，同卡雅、乌兹别克纳萨夫女足、澳洲墨尔本城女足同组，赛事在乌兹别克卡尔希举行；下场11月4日晚挑战东道主纳萨夫。"
+  },
+  "tags": {
+   "en": [
+    "Women's AFC Champions League",
+    "Beijing City",
+    "Kaya"
+   ],
+   "zh_hant": [
+    "女足亞冠",
+    "北京城建",
+    "卡雅"
+   ],
+   "zh_hans": [
+    "女足亚冠",
+    "北京城建",
+    "卡雅"
+   ]
+  }
+ },
+ {
   "id": "20261101-coleman-wong-seoul-final-result",
   "sport": "tennis",
   "published_at": "2026-11-01T14:46:00+08:00",
