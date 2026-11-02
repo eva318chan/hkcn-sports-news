@@ -418,5 +418,75 @@
     "保特"
    ]
   }
+ },
+ {
+  "id": "20261102-india-bangladesh-hk-sixes-11th",
+  "sport": "cricket",
+  "published_at": "2026-11-01T14:02:53+08:00",
+  "image_url": null,
+  "source": "Blaze Trends",
+  "source_url": "https://blazetrends.com/india-beats-bangladesh-on-final-ball-to-finish-11th-at-hong-kong-sixes/",
+  "title": {
+   "en": "India beat Bangladesh on final ball to finish 11th at Hong Kong Sixes",
+   "zh_hant": "香港六人板球賽　印度最後一球險勝孟加拉奪第11名",
+   "zh_hans": "香港六人板球赛　印度最后一球险胜孟加拉夺第11名"
+  },
+  "summary": {
+   "en": "India defeated Bangladesh by five wickets on the final ball of the 11th/12th place Bowl play-off to finish 11th at the 2026 Hong Kong Sixes. Chasing 117 at Mission Road Ground in Mong Kok, Krunal Pandya's side reached 117 for 1 in six overs, with opener Shashank Singh smashing 50 off 15 balls and Nitish Rana hitting the winning runs off the last delivery. Bangladesh posted 116 for 5, led by captain Abu Hider Rony's unbeaten 62 off 18 balls. It was India's first and only win of the tournament, while Bangladesh finished bottom in 12th.",
+   "zh_hant": "香港國際六人板球賽2026名次賽，印度喺第11/12名附加賽最後一球以5個wicket險勝孟加拉，排名第11。喺旺角Mission Road球場，追緊117分嘅印度6個over攞到117/1，開路先鋒Shashank Singh 15球轟50分，Nitish Rana最後一球打出致勝分。孟加拉先攻得116/5，隊長Abu Hider Rony 18球62分未出局。呢係印度今屆唯一一場勝仗，孟加拉就包尾排第12。",
+   "zh_hans": "香港国际六人板球赛2026名次赛，印度在第11/12名附加赛最后一球以5个wicket险胜孟加拉，排名第11。在旺角Mission Road球场，追紧117分的印度6个over拿到117/1，开路先锋Shashank Singh 15球轰50分，Nitish Rana最后一球打出致胜分。孟加拉先攻得116/5，队长Abu Hider Rony 18球62分未出局。这是印度今届唯一一场胜仗，孟加拉就包尾排第12。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Sixes",
+    "Cricket",
+    "India"
+   ],
+   "zh_hant": [
+    "香港六人板球賽",
+    "板球",
+    "印度"
+   ],
+   "zh_hans": [
+    "香港六人板球赛",
+    "板球",
+    "印度"
+   ]
+  }
+ },
+ {
+  "id": "20261102-ten-hag-relegation-warning",
+  "sport": "football",
+  "published_at": "2026-11-02T16:14:00+08:00",
+  "image_url": null,
+  "source": "BeSoccer",
+  "source_url": "https://www.besoccer.com/new/relegation-is-certainly-possible-says-former-manchester-united-manager-ten-hag-1438660",
+  "title": {
+   "en": "Ten Hag warns Manchester United relegation is 'certainly possible'",
+   "zh_hant": "坦哈格警告：曼聯今季降班「絕對有可能」",
+   "zh_hans": "坦哈格警告：曼联今季降班「绝对有可能」"
+  },
+  "summary": {
+   "en": "Former Manchester United manager Erik ten Hag has warned that relegation is 'certainly possible' for the club if their poor run continues. Speaking to ESPN, the Dutchman said: 'In the Premier League it's certainly possible, because all the teams are simply strong. They're all strong squads, all good managers. And if you end up on the wrong side once and you really get into that vicious circle, yes, then it can become very, very difficult.' United sit 17th in the Premier League with seven points from nine matches after Saturday's 2-0 defeat at Chelsea, outside the relegation zone only on goal difference. Ten Hag, dismissed by United in 2024, is now technical director at FC Twente.",
+   "zh_hant": "曼聯前主帥坦哈格警告，如果球隊頹勢持續，今季降班「絕對有可能」。佢接受ESPN訪問時話：「英超乜都有可能，因為每隊都好強，陣容強、領隊又好；一旦行衰運跌入惡性循環，就會非常、非常難搞。」曼聯星期六作客0:2輸畀車路士之後，9戰得7分排第17位，只係憑得失球差壓住降班區。坦哈格2024年被曼聯解僱，現任川迪技術總監。",
+   "zh_hans": "曼联前主帅坦哈格警告，如果球队颓势持续，今季降班「绝对有可能」。他接受ESPN访问时说：「英超什么都有可能，因为每队都很强，阵容强、领队又好；一旦行衰运跌入恶性循环，就会非常、非常难搞。」曼联星期六作客0:2输给车路士之后，9战得7分排第17位，只是凭得失球差压住降班区。坦哈格2024年被曼联解雇，现任川迪技术总监。"
+  },
+  "tags": {
+   "en": [
+    "Manchester United",
+    "Ten Hag",
+    "Premier League"
+   ],
+   "zh_hant": [
+    "曼聯",
+    "坦哈格",
+    "英超"
+   ],
+   "zh_hans": [
+    "曼联",
+    "坦哈格",
+    "英超"
+   ]
+  }
  }
 ]
