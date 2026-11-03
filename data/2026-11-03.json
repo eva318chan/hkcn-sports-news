@@ -387,5 +387,215 @@
         "广东"
       ]
     }
+  },
+  {
+    "id": "20261103-lamelo-1000-threes",
+    "sport": "basketball",
+    "published_at": "2026-11-03T15:31:00+08:00",
+    "image_url": null,
+    "source": "whynba.com",
+    "source_url": "https://whynba.com/lamelo-ball-1000th-three-fastest-nba-history-311-games-timberwolves-bucks/",
+    "title": {
+      "en": "LaMelo Ball reaches 1,000 career threes in record 311 games as Timberwolves down Bucks",
+      "zh_hant": "鮑爾史上最快投進千記三分　灰狼112:100挫公鹿",
+      "zh_hans": "鲍尔史上最快投进千记三分　灰狼112:100挫公鹿"
+    },
+    "summary": {
+      "en": "Timberwolves guard LaMelo Ball sank his 1,000th career three-pointer in his 311th game during today's 112-100 win over the Bucks, becoming the fastest player in NBA history to reach the milestone, breaking Duncan Robinson's record of 343 games (Stephen Curry ranks sixth). Ball finished with a season-high 34 points, six rebounds and six threes; Minnesota improved to 5-3 while Milwaukee fell to 1-6. Wolves star Anthony Edwards missed the game with a knee injury and could be sidelined for months.",
+      "zh_hant": "灰狼後衛鮑爾在今日112:100擊敗公鹿一戰，於生涯第311場比賽投進第1,000顆三分球，成為NBA史上最快達標的球員，打破鄧肯·羅賓遜保持的343場舊紀錄（居里排第六）。他全場攻入34分（賽季新高）、6籃板及6記三分；灰狼戰績5勝3負，公鹿1勝6負。灰狼主將安東尼·愛德華茲因膝傷缺陣，或需缺席數月。",
+      "zh_hans": "灰狼后卫鲍尔在今日112:100击败公鹿一战，于生涯第311场比赛投进第1,000颗三分球，成为NBA史上最快达标的球员，打破邓肯·罗宾逊保持的343场旧纪录（居里排第六）。他全场攻入34分（赛季新高）、6篮板及6记三分；灰狼战绩5胜3负，公鹿1胜6负。灰狼主将安东尼·爱德华兹因膝伤缺阵，或需缺席数月。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "LaMelo Ball",
+        "Timberwolves"
+      ],
+      "zh_hant": [
+        "NBA",
+        "鮑爾",
+        "灰狼"
+      ],
+      "zh_hans": [
+        "NBA",
+        "鲍尔",
+        "灰狼"
+      ]
+    }
+  },
+  {
+    "id": "20261103-pelicans-grizzlies-ot",
+    "sport": "basketball",
+    "published_at": "2026-11-03T14:00:00+08:00",
+    "image_url": null,
+    "source": "Basketball Sphere",
+    "source_url": "https://basketballsphere.com/en/nba-morning-brief-luka-doncic-kobe-bryant/",
+    "title": {
+      "en": "Pelicans end Grizzlies' six-game win streak 135-134 in overtime behind Jerome's 40",
+      "zh_hant": "鵜鶘加時135:134終結灰熊六連勝　謝路姆40分生涯次高",
+      "zh_hans": "鹈鹕加时135:134终结灰熊六连胜　谢路姆40分生涯次高"
+    },
+    "summary": {
+      "en": "The Grizzlies' franchise-best 6-0 start ended today as the Pelicans won 135-134 in overtime, handing Memphis its first loss of the season. Ty Jerome scored nine straight points in the final 1:43 of regulation to force overtime during a 9-0 run, finishing with 40 points — his second career 40-point game; Zion Williamson scored nine of the team's 11 overtime points, and Jeremiah Fears sealed the win with two free throws with 7.3 seconds left. New Orleans won its third straight after an 0-4 start; players from both teams had to be separated after a midcourt scuffle at the final buzzer.",
+      "zh_hant": "灰熊開季六連勝的隊史最佳開局，今日被鵜鶘在加時以135:134終結，吞下今季首敗。謝路姆在常規時間最後1分43秒連得9分，打出9:0反擊將比賽拖入加時，全場攻入40分，是他生涯第二次40+；加時賽錫安包辦球隊11分中的9分，費斯在最後7.3秒兩罰全中奠定勝局。鵜鶘在開季0勝4負後取得三連勝；終場後兩隊球員在中場爆發口角，要被拉開。",
+      "zh_hans": "灰熊开季六连胜的队史最佳开局，今日被鹈鹕在加时以135:134终结，吞下今季首败。谢路姆在常规时间最后1分43秒连得9分，打出9:0反击将比赛拖入加时，全场攻入40分，是他生涯第二次40+；加时赛锡安包办球队11分中的9分，费斯在最后7.3秒两罚全中奠定胜局。鹈鹕在开季0胜4负后取得三连胜；终场后两队球员在中场爆发口角，要被拉开。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "Pelicans",
+        "Grizzlies"
+      ],
+      "zh_hant": [
+        "NBA",
+        "鵜鶘",
+        "灰熊"
+      ],
+      "zh_hans": [
+        "NBA",
+        "鹈鹕",
+        "灰熊"
+      ]
+    }
+  },
+  {
+    "id": "20261103-doncic-42-heat",
+    "sport": "basketball",
+    "published_at": "2026-11-03T14:00:00+08:00",
+    "image_url": null,
+    "source": "Basketball Sphere",
+    "source_url": "https://basketballsphere.com/en/nba-morning-brief-luka-doncic-kobe-bryant/",
+    "title": {
+      "en": "Dončić's 42 points and 13 assists power Lakers past Heat, ties Kobe's franchise record",
+      "zh_hant": "當錫42分13助攻大勝熱火　追平高比湖人連續35+紀錄",
+      "zh_hans": "当锡42分13助攻大胜热火　追平高比湖人连续35+纪录"
+    },
+    "summary": {
+      "en": "Luka Dončić dropped 42 points, 13 assists and seven rebounds today as the Lakers routed the Heat 138-117. He became the first Laker since Kobe Bryant in 2007 to score 20+ in five straight first halves, and tied Bryant's franchise record of five consecutive 35-point games; it was also his 19th career game with 40+ points, 10+ assists and 5+ threes, the most in NBA history. Giannis Antetokounmpo had 30 points and 12 rebounds for Miami; the Lakers improved to 6-2.",
+      "zh_hant": "盧卡·當錫今日攻入42分、13次助攻及7個籃板，帶領湖人138:117大勝熱火。他成為自2007年高比拜恩之後，首位連續五場上半場攻入20+的湖人球員，並追平高比連續五場35+的隊史紀錄；這也是他生涯第19次單場40+得分、10+助攻、5+三分，為NBA史上最多。熱火的安迪杜高普攻入30分12籃板；湖人戰績6勝2負。",
+      "zh_hans": "卢卡·当锡今日攻入42分、13次助攻及7个篮板，带领湖人138:117大胜热火。他成为自2007年高比拜恩之后，首位连续五场上半场攻入20+的湖人球员，并追平高比连续五场35+的队史纪录；这也是他生涯第19次单场40+得分、10+助攻、5+三分，为NBA史上最多。热火的安迪杜高普攻入30分12篮板；湖人战绩6胜2负。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "Doncic",
+        "Lakers"
+      ],
+      "zh_hant": [
+        "NBA",
+        "當錫",
+        "湖人"
+      ],
+      "zh_hans": [
+        "NBA",
+        "当锡",
+        "湖人"
+      ]
+    }
+  },
+  {
+    "id": "20261103-hk-tennis-sonmez-yastremska",
+    "sport": "tennis",
+    "published_at": "2026-11-03T16:00:00+08:00",
+    "image_url": null,
+    "source": "Tennis Majors",
+    "source_url": "https://www.tennismajors.com/matches/wta/prudential-hong-kong-tennis-open/dayana-yastremska-vs-zeynep-sonmez-3",
+    "title": {
+      "en": "Hong Kong Tennis Open: Sonmez sweeps past Yastremska in straight sets",
+      "zh_hant": "香港網球公開賽：辛美絲直落兩盤淘汰耶絲特蓮絲卡晉級",
+      "zh_hans": "香港网球公开赛：辛美丝直落两盘淘汰耶丝特莲丝卡晋级"
+    },
+    "summary": {
+      "en": "At the Prudential Hong Kong Tennis Open today, Turkey's Zeynep Sonmez defeated Ukraine's Dayana Yastremska 6-4, 6-2 in straight sets to advance to the next round.",
+      "zh_hant": "保誠香港網球公開賽今日上演女單賽事，土耳其球手辛美絲以6:4、6:2直落兩盤擊敗烏克蘭的耶絲特蓮絲卡，順利晉級下一輪。",
+      "zh_hans": "保诚香港网球公开赛今日上演女单赛事，土耳其球手辛美丝以6:4、6:2直落两盘击败乌克兰的耶丝特莲丝卡，顺利晋级下一轮。"
+    },
+    "tags": {
+      "en": [
+        "tennis",
+        "Hong Kong Tennis Open",
+        "Sonmez"
+      ],
+      "zh_hant": [
+        "網球",
+        "香港網球公開賽",
+        "辛美絲"
+      ],
+      "zh_hans": [
+        "网球",
+        "香港网球公开赛",
+        "辛美丝"
+      ]
+    }
+  },
+  {
+    "id": "20261103-caf-womens-cl-kawempe",
+    "sport": "football",
+    "published_at": "2026-11-03T12:00:00+08:00",
+    "image_url": "https://en.africatopsports.com/wp-content/uploads/2026/11/IMG-20261102-WA0217-1068x600.jpg",
+    "source": "Africa Top Sports",
+    "source_url": "https://en.africatopsports.com/ugandas-kawempe-muslim-ladies-fight-back-to-stop-as-far-rabat-in-2026-caf-womens-champions-league/",
+    "title": {
+      "en": "CAF Women's Champions League: debutants Kawempe stun holders AS FAR 3-2",
+      "zh_hant": "非洲女子冠軍聯賽：烏干達Kawempe 3:2絕殺衛冕冠軍AS FAR",
+      "zh_hans": "非洲女子冠军联赛：乌干达Kawempe 3:2绝杀卫冕冠军AS FAR"
+    },
+    "summary": {
+      "en": "The 2026 CAF Women's Champions League produced a shock in Group B as debutants Kawempe of Uganda came from behind to beat holders AS FAR of Morocco 3-2. Fatima Tagnaout gave AS FAR a sixth-minute lead; Agnes Nabukenya equalised in the 53rd minute and Shakirah Nyingahirwa put Kawempe ahead five minutes later. After Doha El Madani levelled for AS FAR, Nabukenya struck again in the fourth minute of stoppage time for the winner. In the other Group B game, Ghana's Ampem Darkoa thrashed Mali's USFAS Bamako 5-1, with Angelina Yeboah scoring twice.",
+      "zh_hant": "2026年非洲女子冠軍聯賽B組首戰爆出冷門，首次參賽的烏干達Kawempe以3:2反勝衛冕冠軍摩洛哥AS FAR。AS FAR開賽6分鐘由泰娜奧先開紀錄，下半場娜布堅雅53分鐘追平、尼恩加希瓦5分鐘後反超；艾馬丹尼為AS FAR扳平後，娜布堅雅在補時第4分鐘梅開二度絕殺。同組另一場，加納Ampem Darkoa以5:1大勝馬里USFAS Bamako，耶保亞梅開二度。",
+      "zh_hans": "2026年非洲女子冠军联赛B组首战爆出冷门，首次参赛的乌干达Kawempe以3:2反胜卫冕冠军摩洛哥AS FAR。AS FAR开赛6分钟由泰娜奥先开纪录，下半场娜布坚雅53分钟追平、尼恩加希瓦5分钟后反超；艾马丹尼为AS FAR扳平后，娜布坚雅在补时第4分钟梅开二度绝杀。同组另一场，加纳Ampem Darkoa以5:1大胜马里USFAS Bamako，耶保亚梅开二度。"
+    },
+    "tags": {
+      "en": [
+        "women's football",
+        "CAF Champions League",
+        "Kawempe"
+      ],
+      "zh_hant": [
+        "女足",
+        "非洲冠軍聯賽",
+        "Kawempe"
+      ],
+      "zh_hans": [
+        "女足",
+        "非洲冠军联赛",
+        "Kawempe"
+      ]
+    }
+  },
+  {
+    "id": "20261103-paris-masters-withdrawals",
+    "sport": "tennis",
+    "published_at": "2026-11-03T15:00:00+08:00",
+    "image_url": null,
+    "source": "Tennis Majors",
+    "source_url": "https://www.tennismajors.com/competitions/rolex-paris-masters-2026-men-s-singles",
+    "title": {
+      "en": "Paris Masters: Davidovich Fokina and Tsitsipas withdraw injured, lucky losers step in",
+      "zh_hant": "巴黎大師賽：科保、施斯柏斯傷退　幸運落敗者頂上",
+      "zh_hans": "巴黎大师赛：科保、施斯柏斯伤退　幸运落败者顶上"
+    },
+    "summary": {
+      "en": "The Rolex Paris Masters lost two more players to injury as 13th seed Alejandro Davidovich Fokina (back) and Stefanos Tsitsipas (right shoulder) withdrew; lucky losers Nuno Borges and Adolfo Daniel Vallejo take their places, with Borges now facing Moise Kouame. Novak Djokovic earlier told Tennis Majors his physical issues since the US Open have eased and his form has picked up.",
+      "zh_hant": "勞力士巴黎大師賽再添傷兵，13號種子科保因背傷、施斯柏斯因右肩傷勢雙雙退賽；幸運落敗者保治斯及華利祖頂上籤表，保治斯將對陣高美。祖高域早前向Tennis Majors表示，自美網以來的身體問題已經緩解，狀態有所回升。",
+      "zh_hans": "劳力士巴黎大师赛再添伤兵，13号种子科保因背伤、施斯柏斯因右肩伤势双双退赛；幸运落败者保治斯及华利祖顶上签表，保治斯将对阵高美。祖高域早前向Tennis Majors表示，自美网以来的身体问题已经缓解，状态有所回升。"
+    },
+    "tags": {
+      "en": [
+        "tennis",
+        "Paris Masters",
+        "withdrawals"
+      ],
+      "zh_hant": [
+        "網球",
+        "巴黎大師賽",
+        "退賽"
+      ],
+      "zh_hans": [
+        "网球",
+        "巴黎大师赛",
+        "退赛"
+      ]
+    }
   }
 ]
