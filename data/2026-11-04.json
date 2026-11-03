@@ -112,5 +112,78 @@
         "北京首钢"
       ]
     }
+  },
+  {
+    "id": "20261104-ucl-md4-roundup",
+    "sport": "football",
+    "published_at": "2026-11-04T06:00:00+08:00",
+    "image_url": null,
+    "source": "sportradar",
+    "source_url": "https://sportradar.com/?q=6804642120119600896",
+    "title": {
+      "en": "UCL Matchday 4: Man Utd fight back from 2-0 to beat Roma; Barca, PSG, Bayern win big",
+      "zh_hant": "歐聯第4輪：曼聯讓二追三反勝羅馬　巴塞PSG拜仁齊大勝",
+      "zh_hans": "欧联第4轮：曼联让二追三反胜罗马　巴塞PSG拜仁齐大胜"
+    },
+    "summary": {
+      "en": "All nine games on the first night of UEFA Champions League league-phase Matchday 4 are complete. Manchester United came from 2-0 down at half-time at Old Trafford: Bruno Fernandes converted a 58th-minute penalty — retaken after his first effort was saved due to encroachment — before Matheus Cunha struck in the 83rd and 86th minutes to seal a 3-2 comeback win over Roma and end a nine-match winless run; Cunha was sent off for two yellow cards in stoppage time. Roma had led through Matias Soule's 11th-minute opener and Donyell Malen's 17th-minute penalty. Barcelona beat Aston Villa 3-0 at home; Paris Saint-Germain thrashed Villarreal 6-0 away, already 4-0 up at half-time; Bayern Munich won 2-0 at Atletico Madrid; Inter won 3-0 at Feyenoord; LASK Linz beat Slovan Bratislava 4-0; Galatasaray's Aleksey Batrakov scored in the 12th and 15th minutes in a 2-0 home win over Stuttgart; Sporting won 1-0 at Shakhtar Donetsk through Issa Doumbia's 58th-minute goal; Bodo/Glimt and Lille drew 0-0. PSG lead the table with a perfect 12 points from four games; Barcelona, Villa and Sporting all have nine, while United sit 17th on six.",
+      "zh_hant": "歐聯聯賽階段第4輪首個比賽日9場賽事全部完場。曼聯在奧脫福半場落後兩球下，下半場大反擊：般奴費南迪斯58分鐘射入十二碼（首射被救出後，因對方球員提早進入禁區獲重射），古拿83及86分鐘梅開二度，3:2反勝羅馬，終止9場不勝；古拿在補時階段兩黃一紅被逐。羅馬由蘇尼11分鐘先開紀錄，馬倫17分鐘射入十二碼一度領先。巴塞隆拿主場3:0大勝阿士東維拉；巴黎聖日耳門作客6:0大勝比利亞雷亞爾，半場已領先4:0；拜仁慕尼黑作客2:0擊敗馬德里體育會；國際米蘭作客3:0勝飛燕諾；林茨4:0大勝施洛雲巴迪斯拉華；加拉塔沙雷憑巴特拉科夫12及15分鐘梅開二度，主場2:0勝史特加；士砵亭憑敦比亞58分鐘的入球，作客1:0小勝薩克達；波杜基林特與里爾0:0互交白卷。積分榜方面，巴黎4戰全勝12分領跑，巴塞、維拉、士砵亭同積9分，曼聯6分排第17位。",
+      "zh_hans": "欧联联赛阶段第4轮首个比赛日9场赛事全部完场。曼联在奥脱福半场落后两球下，下半场大反击：般奴费南迪斯58分钟射入十二码（首射被救出后，因对方球员提早进入禁区获重射），古拿83及86分钟梅开二度，3:2反胜罗马，终止9场不胜；古拿在补时阶段两黄一红被逐。罗马由苏尼11分钟先开纪录，马伦17分钟射入十二码一度领先。巴塞隆拿主场3:0大胜阿士东维拉；巴黎圣日耳门作客6:0大胜比利亚雷亚尔，半场已领先4:0；拜仁慕尼黑作客2:0击败马德里体育会；国际米兰作客3:0胜飞燕诺；林茨4:0大胜施洛云巴迪斯拉华；加拉塔沙雷凭巴特拉科夫12及15分钟梅开二度，主场2:0胜史特加；士砵亭凭敦比亚58分钟的入球，作客1:0小胜萨克达；波杜基林特与里尔0:0互交白卷。积分榜方面，巴黎4战全胜12分领跑，巴塞、维拉、士砵亭同积9分，曼联6分排第17位。"
+    },
+    "tags": {
+      "en": [
+        "Champions League",
+        "Man Utd",
+        "Barcelona",
+        "PSG"
+      ],
+      "zh_hant": [
+        "歐聯",
+        "曼聯",
+        "巴塞隆拿",
+        "巴黎聖日耳門"
+      ],
+      "zh_hans": [
+        "欧联",
+        "曼联",
+        "巴塞隆拿",
+        "巴黎圣日耳门"
+      ]
+    }
+  },
+  {
+    "id": "20261104-segunda-tenerife-miguel",
+    "sport": "football",
+    "published_at": "2026-11-04T01:28:00+08:00",
+    "image_url": null,
+    "source": "香港電台",
+    "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1876450-20261104.htm",
+    "title": {
+      "en": "Tenerife striker Miguel dies after collision with goalkeeper; police investigate",
+      "zh_hant": "西乙特內里費前鋒米格爾被門將撞昏迷不治　警方調查死因",
+      "zh_hans": "西乙特内里费前锋米格尔被门将撞昏迷不治　警方调查死因"
+    },
+    "summary": {
+      "en": "Tenerife striker Miguel has died after being knocked unconscious in a collision with the opposition goalkeeper during Monday's Segunda Division home match against FC Andorra. In second-half stoppage time, Miguel was struck in the chest by the knee of the onrushing visiting keeper near the halfway line and collapsed. He received emergency treatment on the pitch and was taken to hospital by ambulance; his heart briefly stopped and he was admitted to intensive care before dying on Tuesday morning from neurological deterioration. The Canary Islands judiciary said the investigation is routine procedure, as Spanish law automatically triggers a judicial inquiry into any death deemed unnatural, with possible manslaughter implications. The goalkeeper, sent off with a red card, faced abuse after the match and shut down his social media accounts. Clubs across Europe paid tribute: Real Madrid and Arsenal held moments of silence before training on Tuesday, the Spanish FA postponed the day's Copa del Rey fixtures, and UEFA announced moments of silence before this week's Champions League, Europa League and Conference League matches.",
+      "zh_hant": "西乙球隊特內里費前鋒米格爾，在周一主場對FC安道爾的下半場補時階段，於中場位置被出迎的客隊門將以膝頭撞中胸部，倒地昏迷。米格爾即場接受急救後由救護車送院，一度心跳停頓，入住深切治療部，延至周二早上因神經系統惡化去世。加那利群島司法部門表示，調查屬例行程序，根據西班牙法律，任何被認定為非自然死亡的事件都會自動啟動司法調查，可能涉及誤殺。被球證出示紅牌驅逐的門將賽後遭到謾罵，要關閉社交平台。多間歐洲球會哀悼，皇家馬德里和阿仙奴周二在訓練前默哀；西班牙足總推遲原定當日的國王盃賽事；歐洲足協宣布，本周歐聯、歐霸和歐協聯比賽賽前設默哀儀式。",
+      "zh_hans": "西乙球队特内里费前锋米格尔，在周一主场对FC安道尔的下半场补时阶段，于中场位置被出迎的客队门将以膝头撞中胸部，倒地昏迷。米格尔即场接受急救后由救护车送院，一度心跳停顿，入住深切治疗部，延至周二早上因神经系统恶化去世。加那利群岛司法部门表示，调查属例行程序，根据西班牙法律，任何被认定为非自然死亡的事件都会自动启动司法调查，可能涉及误杀。被球证出示红牌驱逐的门将赛后遭到谩骂，要关闭社交平台。多间欧洲球会哀悼，皇家马德里和阿仙奴周二在训练前默哀；西班牙足总推迟原定当日的国王杯赛事；欧洲足协宣布，本周欧联、欧霸和欧协联比赛赛前设默哀仪式。"
+    },
+    "tags": {
+      "en": [
+        "Segunda Division",
+        "Tenerife",
+        "Miguel"
+      ],
+      "zh_hant": [
+        "西乙",
+        "特內里費",
+        "米格爾"
+      ],
+      "zh_hans": [
+        "西乙",
+        "特内里费",
+        "米格尔"
+      ]
+    }
   }
 ]
