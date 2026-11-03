@@ -1,286 +1,391 @@
 [
- {
-  "id": "20261103-nfl-week8-roundup",
-  "sport": "others",
-  "published_at": "2026-11-03T03:00:00+08:00",
-  "image_url": null,
-  "source": "Philadelphia Eagles",
-  "source_url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-game-recap-2026-nfl-week-8-sunday-night-football-saquon-barkley-jayden-daniels",
-  "title": {
-   "en": "NFL Week 8: Commanders rout Eagles 27-10; Broncos end Chiefs' unbeaten run",
-   "zh_hant": "NFL第8周：指揮官27:10挫老鷹　野馬28:24終結酋長不敗",
-   "zh_hans": "NFL第8周：指挥官27:10挫老鹰　野马28:24终结酋长不败"
+  {
+    "id": "20261103-nfl-week8-roundup",
+    "sport": "others",
+    "published_at": "2026-11-03T03:00:00+08:00",
+    "image_url": null,
+    "source": "Philadelphia Eagles",
+    "source_url": "https://www.philadelphiaeagles.com/news/eagles-at-commanders-game-recap-2026-nfl-week-8-sunday-night-football-saquon-barkley-jayden-daniels",
+    "title": {
+      "en": "NFL Week 8: Commanders rout Eagles 27-10; Broncos end Chiefs' unbeaten run",
+      "zh_hant": "NFL第8周：指揮官27:10挫老鷹　野馬28:24終結酋長不敗",
+      "zh_hans": "NFL第8周：指挥官27:10挫老鹰　野马28:24终结酋长不败"
+    },
+    "summary": {
+      "en": "The Washington Commanders produced an impressive 27-10 victory over the Philadelphia Eagles in Sunday Night Football to headline Week 8 of the NFL season. After falling behind 10-0 in the first quarter, Washington scored 27 unanswered points, with running back Rachaad White punching in a one-yard touchdown to seal the win; Saquon Barkley scored the Eagles' lone touchdown on a direct snap. Philadelphia, held scoreless in the second half, dropped a sixth straight game to fall to 2-6 and the bottom of the NFC East, while Washington improved to 2-4-1. Elsewhere, the Denver Broncos handed the Kansas City Chiefs their first defeat of the season, 28-24, scoring 15 unanswered fourth-quarter points - quarterback Bo Nix hit Jonah Coleman with a 51-yard pass before running in a five-yard touchdown with 1:56 remaining, and Denver's goal-line stand sealed it as the Broncos (6-2) took over first place in the AFC West. The Detroit Lions handed the Minnesota Vikings their first loss, 19-15; the Buffalo Bills beat the Baltimore Ravens 36-10 with Josh Allen recording 319 total yards and three touchdowns, as the Ravens' season took another hit with a major injury to Lamar Jackson; and the Tampa Bay Buccaneers made history with a 16-0 shutout of the Atlanta Falcons. Other results: Bengals 43-36 Titans (OT), Cardinals 33-30 Cowboys (OT), Jaguars 42-7 Colts, Raiders 38-33 Jets, Rams 24-9 Chargers, Patriots 24-19 Dolphins, Packers 27-19 Panthers.",
+      "zh_hant": "NFL第8周賽事，華盛頓指揮官喺周日晚黃金時段以27:10大勝費城老鷹。指揮官首節落後0:10，之後連取27分反勝，跑衛懷特一碼衝球達陣鎖定勝局；老鷹全場唯一達陣由巴克利直接開球攻入。老鷹下半場一分未得，六連敗跌至2勝6負，喺國聯東區墊底；指揮官就升上2勝4負1和。另一場焦點戰，丹佛野馬以28:24令堪薩斯城酋長吞下今季首敗：野馬第四節連取15分反勝，四分衛尼克斯51碼長傳找到科爾曼，再親自5碼衝球達陣，剩1分56秒反超，之後靠住端區前防守頂住酋長最後一攻；野馬6勝2負升上美聯西區榜首。底特律雄獅以19:15令明尼蘇達維京人首嘗敗績；水牛城比爾36:10大勝巴爾的摩烏鴉，艾倫交出319碼同3次達陣，烏鴉四分衛拉馬積遜再受重傷，球季蒙上陰影；坦帕灣海盜16:0零封阿特蘭大獵鷹，創下歷史。其他賽果：孟加拉虎43:36加時贏泰坦、紅雀33:30加時贏牛仔、美洲虎42:7大勝小馬、突襲者38:33贏噴射機、公羊24:9贏閃電、愛國者24:19贏海豚、包裝工27:19贏黑豹。",
+      "zh_hans": "NFL第8周赛事，华盛顿指挥官在周日晚黄金时段以27:10大胜费城老鹰。指挥官首节落后0:10，之后连取27分反胜，跑卫怀特一码冲球达阵锁定胜局；老鹰全场唯一达阵由巴克利直接开球攻入。老鹰下半场一分未得，六连败跌至2胜6负，在国联东区垫底；指挥官就升上2胜4负1和。另一场焦点战，丹佛野马以28:24令堪萨斯城酋长吞下今季首败：野马第四节连取15分反胜，四分卫尼克斯51码长传找到科尔曼，再亲自5码冲球达阵，剩1分56秒反超，之后靠住端区前防守顶住酋长最后一攻；野马6胜2负升上美联西区榜首。底特律雄狮以19:15令明尼苏达维京人首尝败绩；水牛城比尔36:10大胜巴尔的摩乌鸦，艾伦交出319码同3次达阵，乌鸦四分卫拉马积逊再受重伤，球季蒙上阴影；坦帕湾海盗16:0零封阿特兰大猎鹰，创下历史。其他赛果：孟加拉虎43:36加时赢泰坦、红雀33:30加时赢牛仔、美洲虎42:7大胜小马、突袭者38:33赢喷射机、公羊24:9赢闪电、爱国者24:19赢海豚、包装工27:19赢黑豹。"
+    },
+    "tags": {
+      "en": [
+        "NFL",
+        "Week 8",
+        "Commanders"
+      ],
+      "zh_hant": [
+        "NFL",
+        "第8周",
+        "指揮官"
+      ],
+      "zh_hans": [
+        "NFL",
+        "第8周",
+        "指挥官"
+      ]
+    }
   },
-  "summary": {
-   "en": "The Washington Commanders produced an impressive 27-10 victory over the Philadelphia Eagles in Sunday Night Football to headline Week 8 of the NFL season. After falling behind 10-0 in the first quarter, Washington scored 27 unanswered points, with running back Rachaad White punching in a one-yard touchdown to seal the win; Saquon Barkley scored the Eagles' lone touchdown on a direct snap. Philadelphia, held scoreless in the second half, dropped a sixth straight game to fall to 2-6 and the bottom of the NFC East, while Washington improved to 2-4-1. Elsewhere, the Denver Broncos handed the Kansas City Chiefs their first defeat of the season, 28-24, scoring 15 unanswered fourth-quarter points - quarterback Bo Nix hit Jonah Coleman with a 51-yard pass before running in a five-yard touchdown with 1:56 remaining, and Denver's goal-line stand sealed it as the Broncos (6-2) took over first place in the AFC West. The Detroit Lions handed the Minnesota Vikings their first loss, 19-15; the Buffalo Bills beat the Baltimore Ravens 36-10 with Josh Allen recording 319 total yards and three touchdowns, as the Ravens' season took another hit with a major injury to Lamar Jackson; and the Tampa Bay Buccaneers made history with a 16-0 shutout of the Atlanta Falcons. Other results: Bengals 43-36 Titans (OT), Cardinals 33-30 Cowboys (OT), Jaguars 42-7 Colts, Raiders 38-33 Jets, Rams 24-9 Chargers, Patriots 24-19 Dolphins, Packers 27-19 Panthers.",
-   "zh_hant": "NFL第8周賽事，華盛頓指揮官喺周日晚黃金時段以27:10大勝費城老鷹。指揮官首節落後0:10，之後連取27分反勝，跑衛懷特一碼衝球達陣鎖定勝局；老鷹全場唯一達陣由巴克利直接開球攻入。老鷹下半場一分未得，六連敗跌至2勝6負，喺國聯東區墊底；指揮官就升上2勝4負1和。另一場焦點戰，丹佛野馬以28:24令堪薩斯城酋長吞下今季首敗：野馬第四節連取15分反勝，四分衛尼克斯51碼長傳找到科爾曼，再親自5碼衝球達陣，剩1分56秒反超，之後靠住端區前防守頂住酋長最後一攻；野馬6勝2負升上美聯西區榜首。底特律雄獅以19:15令明尼蘇達維京人首嘗敗績；水牛城比爾36:10大勝巴爾的摩烏鴉，艾倫交出319碼同3次達陣，烏鴉四分衛拉馬積遜再受重傷，球季蒙上陰影；坦帕灣海盜16:0零封阿特蘭大獵鷹，創下歷史。其他賽果：孟加拉虎43:36加時贏泰坦、紅雀33:30加時贏牛仔、美洲虎42:7大勝小馬、突襲者38:33贏噴射機、公羊24:9贏閃電、愛國者24:19贏海豚、包裝工27:19贏黑豹。",
-   "zh_hans": "NFL第8周赛事，华盛顿指挥官在周日晚黄金时段以27:10大胜费城老鹰。指挥官首节落后0:10，之后连取27分反胜，跑卫怀特一码冲球达阵锁定胜局；老鹰全场唯一达阵由巴克利直接开球攻入。老鹰下半场一分未得，六连败跌至2胜6负，在国联东区垫底；指挥官就升上2胜4负1和。另一场焦点战，丹佛野马以28:24令堪萨斯城酋长吞下今季首败：野马第四节连取15分反胜，四分卫尼克斯51码长传找到科尔曼，再亲自5码冲球达阵，剩1分56秒反超，之后靠住端区前防守顶住酋长最后一攻；野马6胜2负升上美联西区榜首。底特律雄狮以19:15令明尼苏达维京人首尝败绩；水牛城比尔36:10大胜巴尔的摩乌鸦，艾伦交出319码同3次达阵，乌鸦四分卫拉马积逊再受重伤，球季蒙上阴影；坦帕湾海盗16:0零封阿特兰大猎鹰，创下历史。其他赛果：孟加拉虎43:36加时赢泰坦、红雀33:30加时赢牛仔、美洲虎42:7大胜小马、突袭者38:33赢喷射机、公羊24:9赢闪电、爱国者24:19赢海豚、包装工27:19赢黑豹。"
+  {
+    "id": "20261103-laliga-matchweek11-roundup",
+    "sport": "football",
+    "published_at": "2026-11-02T20:00:00+08:00",
+    "image_url": null,
+    "source": "Planete Football",
+    "source_url": "https://planetefootball.com/news/la-liga-matchweek-11-review",
+    "title": {
+      "en": "La Liga MW11: Barcelona hit Alaves for six to stay top; Real Madrid cruise",
+      "zh_hant": "西甲第11輪：巴塞6:1大勝續領跑　皇馬3:0緊追不捨",
+      "zh_hans": "西甲第11轮：巴塞6:1大胜续领跑　皇马3:0紧追不舍"
+    },
+    "summary": {
+      "en": "La Liga matchweek 11 produced 27 goals across nine matches, with the big three all winning. Leaders Barcelona thrashed Deportivo Alaves 6-1 at Camp Nou to move to 30 points. Second-placed Atletico Madrid beat Levante 2-0 away to stay two points behind on 28. Real Madrid cruised to a 3-0 win at Racing Santander - Kylian Mbappe converting an 11th-minute penalty for his 12th league goal of the season, before Jude Bellingham and Yan Diomande completed the scoring - for a sixth straight league win that keeps Jose Mourinho's side third on 27 points, with Thibaut Courtois keeping a clean sheet on his return; Madrid now head to Greece to face AEK Athens in Champions League matchday 4. In the Basque derby, Athletic Bilbao edged Real Sociedad 2-1: Inaki Williams lobbed Athletic ahead, Luka Sucic levelled, and Alex Berenguer restored the lead from a disputed penalty after Jon Aramburu was judged to have fouled Nico Williams, lifting Athletic to seventh on 15 points. Elsewhere: Real Betis 2-1 Malaga (4th, 23 pts), Rayo Vallecano 3-0 Celta, Getafe 3-1 Sevilla, Villarreal 0-1 Espanyol, Elche 0-1 Valencia (Umar Sadiq).",
+      "zh_hant": "西甲第11輪9場比賽合共入27球，前三名全部贏波。榜首巴塞隆拿主場6:1大炒艾拉維斯，30分續領跑。次席馬德里體育會作客2:0贏利雲特，28分緊隨其後。皇家馬德里作客3:0輕取桑坦德競技：麥巴比11分鐘射入12碼，取得今季第12個聯賽入球，之後比寧咸同迪奧文迪各建一功；摩連奴嘅球隊聯賽六連勝，27分排第三，復出嘅高圖爾斯力保不失；皇馬之後將遠赴希臘，喺歐聯第4輪鬥AEK雅典。巴斯克打吡，畢爾包2:1險勝皇家蘇斯達：伊拿基威廉斯笠射先開紀錄，蘇錫追平，貝倫古亞憑具爭議嘅12碼（球證指阿拉姆布魯侵犯尼高威廉斯）再超前，畢爾包升上第7位得15分。其他賽果：貝迪斯2:1馬拉加（第4，23分）、華歷簡奴3:0切爾達、基達菲3:1西維爾、維拉利爾0:1愛斯賓奴、埃爾切0:1華倫西亞（薩迪克入球）。",
+      "zh_hans": "西甲第11轮9场比赛合共入27球，前三名全部赢波。榜首巴塞隆拿主场6:1大炒艾拉维斯，30分续领跑。次席马德里体育会作客2:0赢利云特，28分紧随其后。皇家马德里作客3:0轻取桑坦德竞技：麦巴比11分钟射入12码，取得今季第12个联赛入球，之后比宁咸同迪奥文迪各建一功；摩连奴的球队联赛六连胜，27分排第三，复出的高图尔斯力保不失；皇马之后将远赴希腊，在欧联第4轮斗AEK雅典。巴斯克打吡，毕尔包2:1险胜皇家苏斯达：伊拿基威廉斯笠射先开纪录，苏锡追平，贝伦古亚凭具争议的12码（球证指阿拉姆布鲁侵犯尼高威廉斯）再超前，毕尔包升上第7位得15分。其他赛果：贝迪斯2:1马拉加（第4，23分）、华历简奴3:0切尔达、基达菲3:1西维尔、维拉利尔0:1爱斯宾奴、埃尔切0:1华伦西亚（萨迪克入球）。"
+    },
+    "tags": {
+      "en": [
+        "La Liga",
+        "Barcelona",
+        "Real Madrid"
+      ],
+      "zh_hant": [
+        "西甲",
+        "巴塞隆拿",
+        "皇家馬德里"
+      ],
+      "zh_hans": [
+        "西甲",
+        "巴塞隆拿",
+        "皇家马德里"
+      ]
+    }
   },
-  "tags": {
-   "en": [
-    "NFL",
-    "Week 8",
-    "Commanders"
-   ],
-   "zh_hant": [
-    "NFL",
-    "第8周",
-    "指揮官"
-   ],
-   "zh_hans": [
-    "NFL",
-    "第8周",
-    "指挥官"
-   ]
+  {
+    "id": "20261103-phkto-venus-williams-out",
+    "sport": "tennis",
+    "published_at": "2026-11-03T00:03:00+08:00",
+    "source": "WNFL Sports",
+    "source_url": "https://wnflsports.com/2026/11/02/wta-roundup-venus-williams-falls-in-hong-kong-opener/",
+    "image_url": null,
+    "title": {
+      "en": "Venus Williams falls in Hong Kong Open first round, 17th straight singles defeat",
+      "zh_hant": "雲露絲威廉絲香港公開賽首圈出局　單打17連敗前途未卜",
+      "zh_hans": "云露丝威廉丝香港公开赛首圈出局　单打17连败前途未卜"
+    },
+    "summary": {
+      "en": "Seven-time Grand Slam champion Venus Williams lost 6-2, 6-3 to fellow American Mary Stoiana in the first round of the Hong Kong Tennis Open on Monday, exiting in 77 minutes and extending her singles losing streak to 17 matches — winless since July 2025. The 46-year-old failed to create a single break-point chance and, asked about her future afterwards, said she had made no plans: 'I didn't make plans this year either.' Elsewhere on the day, fourth seed Maria Sakkari, sixth seed Wang Xinyu of China and eighth seed Katie Boulter all advanced to the second round.",
+      "zh_hant": "七屆大滿貫冠軍雲露絲威廉絲星期一在香港網球公開賽首圈以2:6、3:6不敵同胞史杜安娜，77分鐘出局，單打連敗增至17場，自2025年7月起未嘗一勝。46歲的威廉絲全場未能製造任何破發機會，賽後被問及未來去向時話「未計劃明年，但今年都冇計劃」。同日4號種子莎卡妮、中國6號種子王欣瑜及8號種子保特均晉級次圈。",
+      "zh_hans": "七届大满贯冠军云露丝威廉丝星期一在香港网球公开赛首圈以2:6、3:6不敌同胞史杜安娜，77分钟出局，单打连败增至17场，自2025年7月起未尝一胜。46岁的威廉丝全场未能制造任何破发机会，赛后被问及未来去向时话「未计划明年，但今年都没计划」。同日4号种子莎卡妮、中国6号种子王欣瑜及8号种子保特均晋级次圈。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong Tennis Open",
+        "Venus Williams",
+        "WTA"
+      ],
+      "zh_hant": [
+        "香港網球公開賽",
+        "雲露絲威廉絲",
+        "WTA"
+      ],
+      "zh_hans": [
+        "香港网球公开赛",
+        "云露丝威廉丝",
+        "WTA"
+      ]
+    }
+  },
+  {
+    "id": "20261103-ucl-matchday4-preview",
+    "sport": "football",
+    "published_at": "2026-11-02T16:00:00+08:00",
+    "source": "UEFA",
+    "source_url": "https://www.uefa.com/uefachampionsleague/news/02aa-21f10edb96af-f01ebdbd9935-1000--champions-league-matchday-4-key-stats-and-what-to-look-o/",
+    "image_url": null,
+    "title": {
+      "en": "Champions League Matchday 4 kicks off tonight: Atlético vs Bayern, Barcelona vs Villa headline",
+      "zh_hant": "歐聯第4輪今晚上演　馬體會鬥拜仁、巴塞撼維拉成焦點",
+      "zh_hans": "欧联第4轮今晚上演　马体会斗拜仁、巴塞撼维拉成焦点"
+    },
+    "summary": {
+      "en": "Matchday 4 of the UEFA Champions League league phase takes place over tonight and tomorrow, with nine ties this evening. The headline act sees Atlético de Madrid host Bayern München — Ballon d'Or winner Harry Kane has scored in each of his last ten Champions League appearances, and one more would equal Cristiano Ronaldo's record of 11 straight scoring games. Barcelona host Aston Villa, where 19-year-old Lamine Yamal (13 teenage UCL goals, level with Kylian Mbappé's pre-20 record) can take the record outright. Manchester United vs Roma and Villarreal vs Paris Saint-Germain also stand out. Wednesday brings nine more, including Real Madrid at AEK Athens and Liverpool at Fenerbahçe.",
+      "zh_hant": "歐聯聯賽階段第4輪今明兩晚舉行，今晚先演9場。焦點戰包括馬德里體育會主場迎戰拜仁慕尼黑——金球獎得主哈利卡尼已連續10場歐聯有入球，再入一球即可追平C朗11場連續入球紀錄；巴塞隆拿主場對阿士東維拉，19歲的耶馬若再入球，將以14球獨佔歐聯20歲前入球紀錄。曼聯主場對羅馬、維拉利爾對巴黎聖日耳門同樣矚目。星期三尚有皇馬作客AEK雅典、利物浦作客費倫巴治等9場。",
+      "zh_hans": "欧联联赛阶段第4轮今明两晚举行，今晚先演9场。焦点战包括马德里体育会主场迎战拜仁慕尼黑——金球奖得主哈利卡尼已连续10场欧联有入球，再入一球即可追平C朗11场连续入球纪录；巴塞隆拿主场对阿士东维拉，19岁的耶马若再入球，将以14球独占欧联20岁前入球纪录。曼联主场对罗马、维拉利尔对巴黎圣日耳门同样瞩目。星期三尚有皇马作客AEK雅典、利物浦作客费伦巴治等9场。"
+    },
+    "tags": {
+      "en": [
+        "Champions League",
+        "Atlético Madrid",
+        "Bayern Munich"
+      ],
+      "zh_hant": [
+        "歐聯",
+        "馬體會",
+        "拜仁慕尼黑"
+      ],
+      "zh_hans": [
+        "欧联",
+        "马体会",
+        "拜仁慕尼黑"
+      ]
+    }
+  },
+  {
+    "id": "20261103-yingbo-fa-letter",
+    "sport": "football",
+    "published_at": "2026-11-03T10:45:00+08:00",
+    "image_url": null,
+    "image_caption": "",
+    "source": "24直播网（引述《东方体育日报》）",
+    "source_url": "https://bxgdgjg.cn-flyer.com/article/875856.html",
+    "title": {
+      "en": "Dalian Yingbo write to CFA after FA Cup semi-final chaos; drumstick thrown at player",
+      "zh_hant": "足協杯半決賽風波：大連英博致函足協　鼓槌砸中球員引爭議",
+      "zh_hans": "足协杯半决赛风波：大连英博致函足协　鼓槌砸中球员引争议"
+    },
+    "summary": {
+      "en": "Oriental Sports Daily disclosed on November 3 that Dalian Yingbo FC have submitted a written report to the Chinese Football Association over controversial incidents in their 3-4 FA Cup semi-final defeat at Yunnan Yukun on November 1. In the 48th minute, Yingbo player Alimi was struck on the leg by a drumstick thrown from the stands while celebrating a goal; Song Yue was then sent off for a second yellow card and Delgado was shown a straight red for punching an opponent, leaving Yingbo with nine men as they were eliminated. Head coach Li Guoxu said post-match he hoped \"next time we come to Yuxi, there will only be the altitude — not drumsticks thrown after we score.\" Under CFA disciplinary rules, responsibility for objects thrown from the stands falls on security and match organisers; the CFA may impose warnings, fines or closed-door matches, but no past case has changed a result. The CFA has yet to announce its findings.",
+      "zh_hant": "據《東方體育日報》今日（11月3日）披露，大連英博足球俱樂部已就足協杯半決賽客場3:4不敵雲南玉昆一戰中的爭議事件，向中國足協提交書面報告。在11月1日於玉溪舉行的比賽第48分鐘，英博球員阿利米在慶祝進球時被看台拋下的鼓槌擊中腿部倒地；其後宋岳兩黃變一紅、德爾加多無球狀態下拳擊對手被直紅罰下，球隊九人應戰被逆轉淘汰。英博主帥李國旭賽後發布會表示，希望「下次來玉溪的時候，只有高原，沒有我們進球以後扔下來的打鼓棒」。按中國足協紀律規定，看台投擲物品的責任落在安保及賽事管理組織，足協可處以警告、罰款、空場等處罰，但過往此類事件未曾導致比賽結果變更。足協暫未公布調查結果及處罰決定。",
+      "zh_hans": "据《东方体育日报》今日（11月3日）披露，大连英博足球俱乐部已就足协杯半决赛客场3:4不敌云南玉昆一战中的争议事件，向中国足协提交书面报告。在11月1日于玉溪举行的比赛第48分钟，英博球员阿利米在庆祝进球时被看台抛下的鼓槌击中腿部倒地；其后宋岳两黄变一红、德尔加多无球状态下拳击对手被直红罚下，球队九人应战被逆转淘汰。英博主帅李国旭赛后发布会表示，希望「下次来玉溪的时候，只有高原，没有我们进球以后扔下来的打鼓棒」。按中国足协纪律规定，看台投掷物品的责任落在安保及赛事管理组织，足协可处以警告、罚款、空场等处罚，但过往此类事件未曾导致比赛结果变更。足协暂未公布调查结果及处罚决定。"
+    },
+    "tags": {
+      "en": [
+        "FA Cup",
+        "Dalian Yingbo",
+        "Yunnan Yukun"
+      ],
+      "zh_hant": [
+        "足協杯",
+        "大連英博",
+        "雲南玉昆"
+      ],
+      "zh_hans": [
+        "足协杯",
+        "大连英博",
+        "云南玉昆"
+      ]
+    }
+  },
+  {
+    "id": "20261103-u17wwc-china-brazil",
+    "sport": "football",
+    "published_at": "2026-11-02T10:02:00+08:00",
+    "image_url": null,
+    "image_caption": "",
+    "source": "中国新闻网",
+    "source_url": "https://finance.sina.cn/2026-11-02/detail-inixicih3008590.d.html",
+    "title": {
+      "en": "China U17 women fall 1-2 to Brazil in World Cup quarter-final, exit with record best",
+      "zh_hant": "U17女足世界盃：中國1:2遭巴西逆轉止步八強　創隊史最佳戰績",
+      "zh_hans": "U17女足世界杯：中国1:2遭巴西逆转止步八强　创队史最佳战绩"
+    },
+    "summary": {
+      "en": "China's U17 women's team were knocked out of the FIFA U17 Women's World Cup in Rabat, Morocco, losing 1-2 to Brazil in the quarter-final after taking the lead. Wu Yichen broke through several defenders and smashed home from a tight angle in the 42nd minute; Brazil's Helena Vieira equalised within a minute of the restart and completed a brace in the 87th minute to seal the comeback. Despite the exit, it is China's best-ever result at the tournament — three group-stage wins including a 3-2 victory over the United States, and a penalty shoot-out win over France in the round of 16. The team said post-match: \"The Morocco journey ends here. We settle, we harvest, we keep going forward.\"",
+      "zh_hant": "在摩洛哥拉巴特舉行的2026國際足聯U17女足世界盃四分之一決賽中，中國U17女足在領先局面下被巴西隊逆轉，以1:2惜敗，無緣四強。吳逸晨在第42分鐘連過數人、小角度爆射先拔頭籌；下半場開場不到1分鐘，巴西隊的埃萊娜·維埃拉扳平，並在第87分鐘梅開二度完成絕殺。儘管止步八強，這已是中國U17女足在該項賽事上的歷史最佳戰績——小組賽三戰全勝（包括3:2力克美國），八分之一決賽點球淘汰法國隊。中國女足官方賽後表示：「摩洛哥征程就此結束，沉澱收穫，蓄力前行。」",
+      "zh_hans": "在摩洛哥拉巴特举行的2026国际足联U17女足世界杯四分之一决赛中，中国U17女足在领先局面下被巴西队逆转，以1:2惜败，无缘四强。吴逸晨在第42分钟连过数人、小角度爆射先拔头筹；下半场开场不到1分钟，巴西队的埃莱娜·维埃拉扳平，并以第87分钟梅开二度完成绝杀。尽管止步八强，这已是中国U17女足在该项赛事上的历史最佳战绩——小组赛三战全胜（包括3:2力克美国），八分之一决赛点球淘汰法国队。中国女足官方赛后表示：「摩洛哥征程就此结束，沉淀收获，蓄力前行。」"
+    },
+    "tags": {
+      "en": [
+        "U17 Women's World Cup",
+        "China women",
+        "Brazil"
+      ],
+      "zh_hant": [
+        "U17女足世界盃",
+        "中國女足",
+        "巴西"
+      ],
+      "zh_hans": [
+        "U17女足世界杯",
+        "中国女足",
+        "巴西"
+      ]
+    }
+  },
+  {
+    "id": "20261103-spurs-third-win",
+    "sport": "football",
+    "published_at": "2026-11-03T08:13:00+08:00",
+    "image_url": null,
+    "image_caption": "",
+    "source": "新浪体育",
+    "source_url": "https://sports.sina.cn/2026-11-03/detail-inixmhhh2351852.d.html?vt=4",
+    "title": {
+      "en": "Spurs make it three straight Premier League wins, climb to eighth",
+      "zh_hant": "英超：熱刺三連勝升上第八　強強對話或成爭冠「判官」",
+      "zh_hans": "英超：热刺三连胜升上第八　强强对话或成争冠「判官」"
+    },
+    "summary": {
+      "en": "Tottenham continued their revival with a 2-0 home win over Crystal Palace on October 31, making it three straight Premier League victories and climbing to eighth — their first three-game league winning streak in 616 days. Palace striker Jean-Philippe Mateta saw red in the 13th minute; Spurs recorded 34 shots to Palace's two with 79.4% possession, the biggest shot differential in club history. Goals came from Archie Gray (25th-minute header) and Jan Paul van Hecke (73rd minute). Spurs were bottom after six winless rounds at the start of the season, then beat Coventry 3-1, Chelsea 2-0 and Palace 2-0. Their next four fixtures are all against teams outside the top six; with only the league to play, Tottenham can push for the top four — and their clashes with the top three could directly reshape the title race.",
+      "zh_hant": "熱刺延續反彈勢頭，在10月31日的英超第9輪主場2:0擊敗水晶宮，取得聯賽三連勝，積分榜升至第8位，是球隊時隔616天再取英超三連勝。水晶宮前鋒馬特塔第13分鐘紅牌被逐，熱刺全場34次射門對2次、控球率79.4%，創隊史有記錄以來最大射門差；兩球分別由阿奇·格雷（25分鐘頭槌）及雲赫克（73分鐘）攻入。球隊開季6輪不勝一度墊底，隨後3:1考文垂、2:0車路士、2:0水晶宮觸底反彈。未來四輪對手均非前六球隊，單線作戰的熱刺有望進一步逼近前四；與前三球隊的強強對話結果，更可能直接改寫榜首分差。",
+      "zh_hans": "热刺延续反弹势头，在10月31日的英超第9轮主场2:0击败水晶宫，取得联赛三连胜，积分榜升至第8位，是球队时隔616天再取英超三连胜。水晶宫前锋马特塔第13分钟红牌被逐，热刺全场34次射门对2次、控球率79.4%，创队史有记录以来最大射门差；两球分别由阿奇·格雷（25分钟头槌）及云赫克（73分钟）攻入。球队开季6轮不胜一度垫底，随后3:1考文垂、2:0车路士、2:0水晶宫触底反弹。未来四轮对手均非前六球队，单线作战的热刺有望进一步逼近前四；与前三球队的强强对话结果，更可能直接改写榜首分差。"
+    },
+    "tags": {
+      "en": [
+        "Premier League",
+        "Tottenham",
+        "De Zerbi"
+      ],
+      "zh_hant": [
+        "英超",
+        "熱刺",
+        "德澤爾比"
+      ],
+      "zh_hans": [
+        "英超",
+        "热刺",
+        "德泽尔比"
+      ]
+    }
+  },
+  {
+    "id": "20261103-hylo-open-double",
+    "sport": "badminton",
+    "published_at": "2026-11-02T01:39:00+08:00",
+    "image_url": "https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2026/11/20261101_1707_HyloOpen2026_BPLN4793-613x290.jpg",
+    "image_caption": "拉克什亞·森在HYLO公開賽男單決賽後慶祝勝利。（BWF）",
+    "source": "BWF 世界羽聯",
+    "source_url": "https://bwfworldtour.bwfbadminton.com/news-single/2026/11/02/hylo-open-lakshya-sen-regains-winning-touch/",
+    "title": {
+      "en": "Sindhu and Lakshya Sen complete Indian double at Hylo Open Super 500",
+      "zh_hant": "羽毛球HYLO公開賽：辛度、拉克什亞包辦單打冠軍　印度羽壇雙喜臨門",
+      "zh_hans": "羽毛球HYLO公开赛：辛度、拉克什亚包办单打冠军　印度羽坛双喜临门"
+    },
+    "summary": {
+      "en": "Indian badminton enjoyed a memorable Sunday at the Hylo Open (Super 500) in Saarbrücken, Germany, taking both singles titles. Former world champion PV Sindhu beat Denmark's Line Højmark Kjærsfeldt 21-12, 21-14 in just 39 minutes without dropping a game all week — her second World Tour title of 2026. Lakshya Sen then defeated Indonesia's Jonatan Christie 21-17, 21-10, also in 39 minutes, for his first title of the season. It is the first time in four years that two Indians have won titles at the same Super 500-level-or-above World Tour event, since the 2022 India Open.",
+      "zh_hant": "印度羽毛球在德國薩爾布呂肯舉行的HYLO公開賽（超級500賽）包辦男女單打冠軍：前世界冠軍辛度以21:12、21:14直落兩局擊敗丹麥的凱爾斯費爾特，全周未失一局，僅用39分鐘拿下今年第二個巡迴賽冠軍；拉克什亞·森則以21:17、21:10戰勝印尼的基士提，同樣39分鐘奪得本季首冠。這是四年來首次有兩名印度球員在同一站超級500級別或以上賽事同奪冠軍，上次是2022年印度公開賽。",
+      "zh_hans": "印度羽毛球在德国萨尔布吕肯举行的HYLO公开赛（超级500赛）包办男女单打冠军：前世界冠军辛度以21:12、21:14直落两局击败丹麦的凯尔斯费尔特，全周未失一局，仅用39分钟拿下今年第二个巡回赛冠军；拉克什亚·森则以21:17、21:10战胜印尼的基士提，同样39分钟夺得本季首冠。这是四年来首次有两名印度球员在同一站超级500级别或以上赛事同夺冠军，上次是2022年印度公开赛。"
+    },
+    "tags": {
+      "en": [
+        "badminton",
+        "Hylo Open",
+        "PV Sindhu"
+      ],
+      "zh_hant": [
+        "羽毛球",
+        "HYLO公開賽",
+        "辛度"
+      ],
+      "zh_hans": [
+        "羽毛球",
+        "HYLO公开赛",
+        "辛度"
+      ]
+    }
+  },
+  {
+    "id": "20261103-triathlon-cup-hk",
+    "sport": "others",
+    "published_at": "2026-11-03T11:00:00+08:00",
+    "image_url": null,
+    "source": "政府新聞處",
+    "source_url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300288.htm",
+    "title": {
+      "en": "2026 World Triathlon Cup Hong Kong to be staged in Victoria Harbour and Central this weekend",
+      "zh_hant": "2026三項鐵人世界盃香港站本周末上演　維港中環街道競逐",
+      "zh_hans": "2026三项铁人世界杯香港站本周末上演　维港中环街道竞逐"
+    },
+    "summary": {
+      "en": "The 2026 World Triathlon Cup – Hong Kong, recognised as an \"M\" Mark major sports event, takes place on November 7 and 8, with elite triathletes racing in Victoria Harbour and along Central's streets. Police will implement special traffic arrangements in Central and Wan Chai from November 4 to 8, including temporary road closures on Expo Drive and traffic diversions, and urge the public to use public transport. Large-scale sports events committee chairman Wilfred Ng said the event showcases Hong Kong's status as a centre for international sports events.",
+      "zh_hant": "2026三項鐵人世界盃—香港將於11月7至8日舉行，屬「M」品牌大型體育活動，世界頂尖三項鐵人運動員將在維多利亞港和中環街道競逐。警方今日宣布，11月4日至8日將在中環及灣仔實施特別交通安排，包括博覽道臨時封閉及交通改道，呼籲市民盡量使用公共交通工具。大型體育活動事務委員會主席吳守基表示，賽事讓運動員在維港和中環街道展現拼搏精神，進一步鞏固香港作為國際體育盛事之都的地位。",
+      "zh_hans": "2026三项铁人世界杯—香港将于11月7至8日举行，属「M」品牌大型体育活动，世界顶尖三项铁人运动员将在维多利亚港和中环街道竞逐。警方今日宣布，11月4日至8日将在中环及湾仔实施特别交通安排，包括博览道临时封闭及交通改道，呼吁市民尽量使用公共交通工具。大型体育活动事务委员会主席吴守基表示，赛事让运动员在维港和中环街道展现拼搏精神，进一步巩固香港作为国际体育盛事之都的地位。"
+    },
+    "tags": {
+      "en": [
+        "World Triathlon Cup",
+        "Hong Kong",
+        "triathlon"
+      ],
+      "zh_hant": [
+        "三項鐵人世界盃",
+        "香港",
+        "三項鐵人"
+      ],
+      "zh_hans": [
+        "三项铁人世界杯",
+        "香港",
+        "三项铁人"
+      ]
+    }
+  },
+  {
+    "id": "20261103-afc-shanghai-port",
+    "sport": "football",
+    "published_at": "2026-11-03T15:45:00+08:00",
+    "image_url": null,
+    "source": "24直播網",
+    "source_url": "https://www.ybjx.com/20421.html",
+    "title": {
+      "en": "AFC Champions League Elite: Shanghai Port face Newcastle Jets in must-win clash",
+      "zh_hant": "亞冠精英聯賽：上海海港今午客戰紐卡素噴射機　爭出線搶分",
+      "zh_hans": "亚冠精英联赛：上海海港今午客战纽卡素喷射机　争出线抢分"
+    },
+    "summary": {
+      "en": "Shanghai Port visit the Newcastle Jets at 3:45pm this afternoon (Hong Kong time) in round four of the AFC Champions League Elite East Zone. With four points from three matches, Port sit eighth in the group and desperately need a win against a Jets side that have lost all three games and sit bottom; Shanghai media describe it as a rare chance to take points, warning that failure would make qualification prospects bleak with tough fixtures against Buriram United, Pohang Steelers and Jeonbuk to come. Confirmed line-ups have Shanghai fielding five foreign players including Leonardo and Jiang Guangtai against the Jets' two imports, with coach Kevin Muscat returning to his former coaching stomping ground in Australia.",
+      "zh_hant": "亞冠精英聯賽東亞區第四輪，上海海港將於今午3時45分（香港時間）作客挑戰紐卡素噴射機。海港前三輪1勝1平1負積4分排東亞區第8，面對三戰全敗墊底的噴射機必須搶分；滬媒形容今仗是難得的搶分窗口，若無法取勝，之後還要硬撼武里南聯、浦項鐵人、全北現代等勁旅，出線前景將陡然嚴峻。雙方正選陣容已公布，海港以五外援應戰，列安拿度、蔣光太先發，噴射機則有兩名外援；主帥穆斯卡特重返澳洲故地。",
+      "zh_hans": "亚冠精英联赛东亚区第四轮，上海海港将于今午3时45分（香港时间）作客挑战纽卡素喷射机。海港前三轮1胜1平1负积4分排东亚区第8，面对三战全败垫底的喷射机必须抢分；沪媒形容今仗是难得的抢分窗口，若无法取胜，之后还要硬撼武里南联、浦项铁人、全北现代等劲旅，出线前景将陡然严峻。双方正选阵容已公布，海港以五外援应战，列安拿度、蒋光太先发，喷射机则有两名外援；主帅穆斯卡特重返澳洲故地。"
+    },
+    "tags": {
+      "en": [
+        "AFC Champions League Elite",
+        "Shanghai Port",
+        "Newcastle Jets"
+      ],
+      "zh_hant": [
+        "亞冠精英聯賽",
+        "上海海港",
+        "紐卡素噴射機"
+      ],
+      "zh_hans": [
+        "亚冠精英联赛",
+        "上海海港",
+        "纽卡素喷射机"
+      ]
+    }
+  },
+  {
+    "id": "20261103-cba-qingdao-guangdong",
+    "sport": "basketball",
+    "published_at": "2026-11-02T22:00:00+08:00",
+    "image_url": null,
+    "source": "觀海新聞",
+    "source_url": "https://finance.sina.cn/2026-11-03/detail-inixmhhe6734489.d.html",
+    "title": {
+      "en": "CBA: Qingdao stun Guangdong 112-109 behind Weatherspoon's 45 points",
+      "zh_hant": "CBA：青島112:109力克廣東　韋瑟斯龐狂轟45分",
+      "zh_hans": "CBA：青岛112:109力克广东　韦瑟斯庞狂轰45分"
+    },
+    "summary": {
+      "en": "Qingdao stunned Guangdong 112-109 on the road in round eight of the CBA regular season last night, ending a two-game losing streak and handing the 11-time champions another defeat. Head coach Liu Weiwei did not travel with the team, with former captain Li Guang taking interim charge. NBA champion Quincy Weatherspoon was unstoppable with 45 points, eight assists, four steals and a block on 17-of-15 free throws. Mickey added 18 points for Qingdao. Both teams are now 3-5, with Qingdao eighth and Guangdong 11th in the standings.",
+      "zh_hant": "CBA常規賽第8輪，青島昨晚作客以112:109力克「十一冠王」廣東，結束兩連敗。主帥劉維偉未有隨隊出征東莞，由前隊長李光暫掌帥印。NBA總冠軍戒指擁有者韋瑟斯龐大放異彩，兩分球17投9中、三分球7投4中、罰球17罰15中，狂轟45分另加8次助攻、4次搶斷和1次封阻；米奇貢獻18分。目前兩隊戰績同為3勝5負，青島暫列第8，廣東排第11。",
+      "zh_hans": "CBA常规赛第8轮，青岛昨晚作客以112:109力克「十一冠王」广东，结束两连败。主帅刘维伟未有随队出征东莞，由前队长李光暂掌帅印。NBA总冠军戒指拥有者韦瑟斯庞大放异彩，两分球17投9中、三分球7投4中、罚球17罚15中，狂轰45分另加8次助攻、4次抢断和1次封阻；米奇贡献18分。目前两队战绩同为3胜5负，青岛暂列第8，广东排第11。"
+    },
+    "tags": {
+      "en": [
+        "CBA",
+        "Qingdao",
+        "Guangdong"
+      ],
+      "zh_hant": [
+        "CBA",
+        "青島",
+        "廣東"
+      ],
+      "zh_hans": [
+        "CBA",
+        "青岛",
+        "广东"
+      ]
+    }
   }
- },
- {
-  "id": "20261103-laliga-matchweek11-roundup",
-  "sport": "football",
-  "published_at": "2026-11-02T20:00:00+08:00",
-  "image_url": null,
-  "source": "Planete Football",
-  "source_url": "https://planetefootball.com/news/la-liga-matchweek-11-review",
-  "title": {
-   "en": "La Liga MW11: Barcelona hit Alaves for six to stay top; Real Madrid cruise",
-   "zh_hant": "西甲第11輪：巴塞6:1大勝續領跑　皇馬3:0緊追不捨",
-   "zh_hans": "西甲第11轮：巴塞6:1大胜续领跑　皇马3:0紧追不舍"
-  },
-  "summary": {
-   "en": "La Liga matchweek 11 produced 27 goals across nine matches, with the big three all winning. Leaders Barcelona thrashed Deportivo Alaves 6-1 at Camp Nou to move to 30 points. Second-placed Atletico Madrid beat Levante 2-0 away to stay two points behind on 28. Real Madrid cruised to a 3-0 win at Racing Santander - Kylian Mbappe converting an 11th-minute penalty for his 12th league goal of the season, before Jude Bellingham and Yan Diomande completed the scoring - for a sixth straight league win that keeps Jose Mourinho's side third on 27 points, with Thibaut Courtois keeping a clean sheet on his return; Madrid now head to Greece to face AEK Athens in Champions League matchday 4. In the Basque derby, Athletic Bilbao edged Real Sociedad 2-1: Inaki Williams lobbed Athletic ahead, Luka Sucic levelled, and Alex Berenguer restored the lead from a disputed penalty after Jon Aramburu was judged to have fouled Nico Williams, lifting Athletic to seventh on 15 points. Elsewhere: Real Betis 2-1 Malaga (4th, 23 pts), Rayo Vallecano 3-0 Celta, Getafe 3-1 Sevilla, Villarreal 0-1 Espanyol, Elche 0-1 Valencia (Umar Sadiq).",
-   "zh_hant": "西甲第11輪9場比賽合共入27球，前三名全部贏波。榜首巴塞隆拿主場6:1大炒艾拉維斯，30分續領跑。次席馬德里體育會作客2:0贏利雲特，28分緊隨其後。皇家馬德里作客3:0輕取桑坦德競技：麥巴比11分鐘射入12碼，取得今季第12個聯賽入球，之後比寧咸同迪奧文迪各建一功；摩連奴嘅球隊聯賽六連勝，27分排第三，復出嘅高圖爾斯力保不失；皇馬之後將遠赴希臘，喺歐聯第4輪鬥AEK雅典。巴斯克打吡，畢爾包2:1險勝皇家蘇斯達：伊拿基威廉斯笠射先開紀錄，蘇錫追平，貝倫古亞憑具爭議嘅12碼（球證指阿拉姆布魯侵犯尼高威廉斯）再超前，畢爾包升上第7位得15分。其他賽果：貝迪斯2:1馬拉加（第4，23分）、華歷簡奴3:0切爾達、基達菲3:1西維爾、維拉利爾0:1愛斯賓奴、埃爾切0:1華倫西亞（薩迪克入球）。",
-   "zh_hans": "西甲第11轮9场比赛合共入27球，前三名全部赢波。榜首巴塞隆拿主场6:1大炒艾拉维斯，30分续领跑。次席马德里体育会作客2:0赢利云特，28分紧随其后。皇家马德里作客3:0轻取桑坦德竞技：麦巴比11分钟射入12码，取得今季第12个联赛入球，之后比宁咸同迪奥文迪各建一功；摩连奴的球队联赛六连胜，27分排第三，复出的高图尔斯力保不失；皇马之后将远赴希腊，在欧联第4轮斗AEK雅典。巴斯克打吡，毕尔包2:1险胜皇家苏斯达：伊拿基威廉斯笠射先开纪录，苏锡追平，贝伦古亚凭具争议的12码（球证指阿拉姆布鲁侵犯尼高威廉斯）再超前，毕尔包升上第7位得15分。其他赛果：贝迪斯2:1马拉加（第4，23分）、华历简奴3:0切尔达、基达菲3:1西维尔、维拉利尔0:1爱斯宾奴、埃尔切0:1华伦西亚（萨迪克入球）。"
-  },
-  "tags": {
-   "en": [
-    "La Liga",
-    "Barcelona",
-    "Real Madrid"
-   ],
-   "zh_hant": [
-    "西甲",
-    "巴塞隆拿",
-    "皇家馬德里"
-   ],
-   "zh_hans": [
-    "西甲",
-    "巴塞隆拿",
-    "皇家马德里"
-   ]
-  }
- },
- {
-  "id": "20261103-phkto-venus-williams-out",
-  "sport": "tennis",
-  "published_at": "2026-11-03T00:03:00+08:00",
-  "source": "WNFL Sports",
-  "source_url": "https://wnflsports.com/2026/11/02/wta-roundup-venus-williams-falls-in-hong-kong-opener/",
-  "image_url": null,
-  "title": {
-   "en": "Venus Williams falls in Hong Kong Open first round, 17th straight singles defeat",
-   "zh_hant": "雲露絲威廉絲香港公開賽首圈出局　單打17連敗前途未卜",
-   "zh_hans": "云露丝威廉丝香港公开赛首圈出局　单打17连败前途未卜"
-  },
-  "summary": {
-   "en": "Seven-time Grand Slam champion Venus Williams lost 6-2, 6-3 to fellow American Mary Stoiana in the first round of the Hong Kong Tennis Open on Monday, exiting in 77 minutes and extending her singles losing streak to 17 matches — winless since July 2025. The 46-year-old failed to create a single break-point chance and, asked about her future afterwards, said she had made no plans: 'I didn't make plans this year either.' Elsewhere on the day, fourth seed Maria Sakkari, sixth seed Wang Xinyu of China and eighth seed Katie Boulter all advanced to the second round.",
-   "zh_hant": "七屆大滿貫冠軍雲露絲威廉絲星期一在香港網球公開賽首圈以2:6、3:6不敵同胞史杜安娜，77分鐘出局，單打連敗增至17場，自2025年7月起未嘗一勝。46歲的威廉絲全場未能製造任何破發機會，賽後被問及未來去向時話「未計劃明年，但今年都冇計劃」。同日4號種子莎卡妮、中國6號種子王欣瑜及8號種子保特均晉級次圈。",
-   "zh_hans": "七届大满贯冠军云露丝威廉丝星期一在香港网球公开赛首圈以2:6、3:6不敌同胞史杜安娜，77分钟出局，单打连败增至17场，自2025年7月起未尝一胜。46岁的威廉丝全场未能制造任何破发机会，赛后被问及未来去向时话「未计划明年，但今年都没计划」。同日4号种子莎卡妮、中国6号种子王欣瑜及8号种子保特均晋级次圈。"
-  },
-  "tags": {
-   "en": [
-    "Hong Kong Tennis Open",
-    "Venus Williams",
-    "WTA"
-   ],
-   "zh_hant": [
-    "香港網球公開賽",
-    "雲露絲威廉絲",
-    "WTA"
-   ],
-   "zh_hans": [
-    "香港网球公开赛",
-    "云露丝威廉丝",
-    "WTA"
-   ]
-  }
- },
- {
-  "id": "20261103-ucl-matchday4-preview",
-  "sport": "football",
-  "published_at": "2026-11-02T16:00:00+08:00",
-  "source": "UEFA",
-  "source_url": "https://www.uefa.com/uefachampionsleague/news/02aa-21f10edb96af-f01ebdbd9935-1000--champions-league-matchday-4-key-stats-and-what-to-look-o/",
-  "image_url": null,
-  "title": {
-   "en": "Champions League Matchday 4 kicks off tonight: Atlético vs Bayern, Barcelona vs Villa headline",
-   "zh_hant": "歐聯第4輪今晚上演　馬體會鬥拜仁、巴塞撼維拉成焦點",
-   "zh_hans": "欧联第4轮今晚上演　马体会斗拜仁、巴塞撼维拉成焦点"
-  },
-  "summary": {
-   "en": "Matchday 4 of the UEFA Champions League league phase takes place over tonight and tomorrow, with nine ties this evening. The headline act sees Atlético de Madrid host Bayern München — Ballon d'Or winner Harry Kane has scored in each of his last ten Champions League appearances, and one more would equal Cristiano Ronaldo's record of 11 straight scoring games. Barcelona host Aston Villa, where 19-year-old Lamine Yamal (13 teenage UCL goals, level with Kylian Mbappé's pre-20 record) can take the record outright. Manchester United vs Roma and Villarreal vs Paris Saint-Germain also stand out. Wednesday brings nine more, including Real Madrid at AEK Athens and Liverpool at Fenerbahçe.",
-   "zh_hant": "歐聯聯賽階段第4輪今明兩晚舉行，今晚先演9場。焦點戰包括馬德里體育會主場迎戰拜仁慕尼黑——金球獎得主哈利卡尼已連續10場歐聯有入球，再入一球即可追平C朗11場連續入球紀錄；巴塞隆拿主場對阿士東維拉，19歲的耶馬若再入球，將以14球獨佔歐聯20歲前入球紀錄。曼聯主場對羅馬、維拉利爾對巴黎聖日耳門同樣矚目。星期三尚有皇馬作客AEK雅典、利物浦作客費倫巴治等9場。",
-   "zh_hans": "欧联联赛阶段第4轮今明两晚举行，今晚先演9场。焦点战包括马德里体育会主场迎战拜仁慕尼黑——金球奖得主哈利卡尼已连续10场欧联有入球，再入一球即可追平C朗11场连续入球纪录；巴塞隆拿主场对阿士东维拉，19岁的耶马若再入球，将以14球独占欧联20岁前入球纪录。曼联主场对罗马、维拉利尔对巴黎圣日耳门同样瞩目。星期三尚有皇马作客AEK雅典、利物浦作客费伦巴治等9场。"
-  },
-  "tags": {
-   "en": [
-    "Champions League",
-    "Atlético Madrid",
-    "Bayern Munich"
-   ],
-   "zh_hant": [
-    "歐聯",
-    "馬體會",
-    "拜仁慕尼黑"
-   ],
-   "zh_hans": [
-    "欧联",
-    "马体会",
-    "拜仁慕尼黑"
-   ]
-  }
- },
- {
-  "id": "20261103-yingbo-fa-letter",
-  "sport": "football",
-  "published_at": "2026-11-03T10:45:00+08:00",
-  "image_url": null,
-  "image_caption": "",
-  "source": "24直播网（引述《东方体育日报》）",
-  "source_url": "https://bxgdgjg.cn-flyer.com/article/875856.html",
-  "title": {
-   "en": "Dalian Yingbo write to CFA after FA Cup semi-final chaos; drumstick thrown at player",
-   "zh_hant": "足協杯半決賽風波：大連英博致函足協　鼓槌砸中球員引爭議",
-   "zh_hans": "足协杯半决赛风波：大连英博致函足协　鼓槌砸中球员引争议"
-  },
-  "summary": {
-   "en": "Oriental Sports Daily disclosed on November 3 that Dalian Yingbo FC have submitted a written report to the Chinese Football Association over controversial incidents in their 3-4 FA Cup semi-final defeat at Yunnan Yukun on November 1. In the 48th minute, Yingbo player Alimi was struck on the leg by a drumstick thrown from the stands while celebrating a goal; Song Yue was then sent off for a second yellow card and Delgado was shown a straight red for punching an opponent, leaving Yingbo with nine men as they were eliminated. Head coach Li Guoxu said post-match he hoped \"next time we come to Yuxi, there will only be the altitude — not drumsticks thrown after we score.\" Under CFA disciplinary rules, responsibility for objects thrown from the stands falls on security and match organisers; the CFA may impose warnings, fines or closed-door matches, but no past case has changed a result. The CFA has yet to announce its findings.",
-   "zh_hant": "據《東方體育日報》今日（11月3日）披露，大連英博足球俱樂部已就足協杯半決賽客場3:4不敵雲南玉昆一戰中的爭議事件，向中國足協提交書面報告。在11月1日於玉溪舉行的比賽第48分鐘，英博球員阿利米在慶祝進球時被看台拋下的鼓槌擊中腿部倒地；其後宋岳兩黃變一紅、德爾加多無球狀態下拳擊對手被直紅罰下，球隊九人應戰被逆轉淘汰。英博主帥李國旭賽後發布會表示，希望「下次來玉溪的時候，只有高原，沒有我們進球以後扔下來的打鼓棒」。按中國足協紀律規定，看台投擲物品的責任落在安保及賽事管理組織，足協可處以警告、罰款、空場等處罰，但過往此類事件未曾導致比賽結果變更。足協暫未公布調查結果及處罰決定。",
-   "zh_hans": "据《东方体育日报》今日（11月3日）披露，大连英博足球俱乐部已就足协杯半决赛客场3:4不敌云南玉昆一战中的争议事件，向中国足协提交书面报告。在11月1日于玉溪举行的比赛第48分钟，英博球员阿利米在庆祝进球时被看台抛下的鼓槌击中腿部倒地；其后宋岳两黄变一红、德尔加多无球状态下拳击对手被直红罚下，球队九人应战被逆转淘汰。英博主帅李国旭赛后发布会表示，希望「下次来玉溪的时候，只有高原，没有我们进球以后扔下来的打鼓棒」。按中国足协纪律规定，看台投掷物品的责任落在安保及赛事管理组织，足协可处以警告、罚款、空场等处罚，但过往此类事件未曾导致比赛结果变更。足协暂未公布调查结果及处罚决定。"
-  },
-  "tags": {
-   "en": [
-    "FA Cup",
-    "Dalian Yingbo",
-    "Yunnan Yukun"
-   ],
-   "zh_hant": [
-    "足協杯",
-    "大連英博",
-    "雲南玉昆"
-   ],
-   "zh_hans": [
-    "足协杯",
-    "大连英博",
-    "云南玉昆"
-   ]
-  }
- },
- {
-  "id": "20261103-u17wwc-china-brazil",
-  "sport": "football",
-  "published_at": "2026-11-02T10:02:00+08:00",
-  "image_url": null,
-  "image_caption": "",
-  "source": "中国新闻网",
-  "source_url": "https://finance.sina.cn/2026-11-02/detail-inixicih3008590.d.html",
-  "title": {
-   "en": "China U17 women fall 1-2 to Brazil in World Cup quarter-final, exit with record best",
-   "zh_hant": "U17女足世界盃：中國1:2遭巴西逆轉止步八強　創隊史最佳戰績",
-   "zh_hans": "U17女足世界杯：中国1:2遭巴西逆转止步八强　创队史最佳战绩"
-  },
-  "summary": {
-   "en": "China's U17 women's team were knocked out of the FIFA U17 Women's World Cup in Rabat, Morocco, losing 1-2 to Brazil in the quarter-final after taking the lead. Wu Yichen broke through several defenders and smashed home from a tight angle in the 42nd minute; Brazil's Helena Vieira equalised within a minute of the restart and completed a brace in the 87th minute to seal the comeback. Despite the exit, it is China's best-ever result at the tournament — three group-stage wins including a 3-2 victory over the United States, and a penalty shoot-out win over France in the round of 16. The team said post-match: \"The Morocco journey ends here. We settle, we harvest, we keep going forward.\"",
-   "zh_hant": "在摩洛哥拉巴特舉行的2026國際足聯U17女足世界盃四分之一決賽中，中國U17女足在領先局面下被巴西隊逆轉，以1:2惜敗，無緣四強。吳逸晨在第42分鐘連過數人、小角度爆射先拔頭籌；下半場開場不到1分鐘，巴西隊的埃萊娜·維埃拉扳平，並在第87分鐘梅開二度完成絕殺。儘管止步八強，這已是中國U17女足在該項賽事上的歷史最佳戰績——小組賽三戰全勝（包括3:2力克美國），八分之一決賽點球淘汰法國隊。中國女足官方賽後表示：「摩洛哥征程就此結束，沉澱收穫，蓄力前行。」",
-   "zh_hans": "在摩洛哥拉巴特举行的2026国际足联U17女足世界杯四分之一决赛中，中国U17女足在领先局面下被巴西队逆转，以1:2惜败，无缘四强。吴逸晨在第42分钟连过数人、小角度爆射先拔头筹；下半场开场不到1分钟，巴西队的埃莱娜·维埃拉扳平，并以第87分钟梅开二度完成绝杀。尽管止步八强，这已是中国U17女足在该项赛事上的历史最佳战绩——小组赛三战全胜（包括3:2力克美国），八分之一决赛点球淘汰法国队。中国女足官方赛后表示：「摩洛哥征程就此结束，沉淀收获，蓄力前行。」"
-  },
-  "tags": {
-   "en": [
-    "U17 Women's World Cup",
-    "China women",
-    "Brazil"
-   ],
-   "zh_hant": [
-    "U17女足世界盃",
-    "中國女足",
-    "巴西"
-   ],
-   "zh_hans": [
-    "U17女足世界杯",
-    "中国女足",
-    "巴西"
-   ]
-  }
- },
- {
-  "id": "20261103-spurs-third-win",
-  "sport": "football",
-  "published_at": "2026-11-03T08:13:00+08:00",
-  "image_url": null,
-  "image_caption": "",
-  "source": "新浪体育",
-  "source_url": "https://sports.sina.cn/2026-11-03/detail-inixmhhh2351852.d.html?vt=4",
-  "title": {
-   "en": "Spurs make it three straight Premier League wins, climb to eighth",
-   "zh_hant": "英超：熱刺三連勝升上第八　強強對話或成爭冠「判官」",
-   "zh_hans": "英超：热刺三连胜升上第八　强强对话或成争冠「判官」"
-  },
-  "summary": {
-   "en": "Tottenham continued their revival with a 2-0 home win over Crystal Palace on October 31, making it three straight Premier League victories and climbing to eighth — their first three-game league winning streak in 616 days. Palace striker Jean-Philippe Mateta saw red in the 13th minute; Spurs recorded 34 shots to Palace's two with 79.4% possession, the biggest shot differential in club history. Goals came from Archie Gray (25th-minute header) and Jan Paul van Hecke (73rd minute). Spurs were bottom after six winless rounds at the start of the season, then beat Coventry 3-1, Chelsea 2-0 and Palace 2-0. Their next four fixtures are all against teams outside the top six; with only the league to play, Tottenham can push for the top four — and their clashes with the top three could directly reshape the title race.",
-   "zh_hant": "熱刺延續反彈勢頭，在10月31日的英超第9輪主場2:0擊敗水晶宮，取得聯賽三連勝，積分榜升至第8位，是球隊時隔616天再取英超三連勝。水晶宮前鋒馬特塔第13分鐘紅牌被逐，熱刺全場34次射門對2次、控球率79.4%，創隊史有記錄以來最大射門差；兩球分別由阿奇·格雷（25分鐘頭槌）及雲赫克（73分鐘）攻入。球隊開季6輪不勝一度墊底，隨後3:1考文垂、2:0車路士、2:0水晶宮觸底反彈。未來四輪對手均非前六球隊，單線作戰的熱刺有望進一步逼近前四；與前三球隊的強強對話結果，更可能直接改寫榜首分差。",
-   "zh_hans": "热刺延续反弹势头，在10月31日的英超第9轮主场2:0击败水晶宫，取得联赛三连胜，积分榜升至第8位，是球队时隔616天再取英超三连胜。水晶宫前锋马特塔第13分钟红牌被逐，热刺全场34次射门对2次、控球率79.4%，创队史有记录以来最大射门差；两球分别由阿奇·格雷（25分钟头槌）及云赫克（73分钟）攻入。球队开季6轮不胜一度垫底，随后3:1考文垂、2:0车路士、2:0水晶宫触底反弹。未来四轮对手均非前六球队，单线作战的热刺有望进一步逼近前四；与前三球队的强强对话结果，更可能直接改写榜首分差。"
-  },
-  "tags": {
-   "en": [
-    "Premier League",
-    "Tottenham",
-    "De Zerbi"
-   ],
-   "zh_hant": [
-    "英超",
-    "熱刺",
-    "德澤爾比"
-   ],
-   "zh_hans": [
-    "英超",
-    "热刺",
-    "德泽尔比"
-   ]
-  }
- },
- {
-  "id": "20261103-hylo-open-double",
-  "sport": "badminton",
-  "published_at": "2026-11-02T01:39:00+08:00",
-  "image_url": "https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2026/11/20261101_1707_HyloOpen2026_BPLN4793-613x290.jpg",
-  "image_caption": "拉克什亞·森在HYLO公開賽男單決賽後慶祝勝利。（BWF）",
-  "source": "BWF 世界羽聯",
-  "source_url": "https://bwfworldtour.bwfbadminton.com/news-single/2026/11/02/hylo-open-lakshya-sen-regains-winning-touch/",
-  "title": {
-   "en": "Sindhu and Lakshya Sen complete Indian double at Hylo Open Super 500",
-   "zh_hant": "羽毛球HYLO公開賽：辛度、拉克什亞包辦單打冠軍　印度羽壇雙喜臨門",
-   "zh_hans": "羽毛球HYLO公开赛：辛度、拉克什亚包办单打冠军　印度羽坛双喜临门"
-  },
-  "summary": {
-   "en": "Indian badminton enjoyed a memorable Sunday at the Hylo Open (Super 500) in Saarbrücken, Germany, taking both singles titles. Former world champion PV Sindhu beat Denmark's Line Højmark Kjærsfeldt 21-12, 21-14 in just 39 minutes without dropping a game all week — her second World Tour title of 2026. Lakshya Sen then defeated Indonesia's Jonatan Christie 21-17, 21-10, also in 39 minutes, for his first title of the season. It is the first time in four years that two Indians have won titles at the same Super 500-level-or-above World Tour event, since the 2022 India Open.",
-   "zh_hant": "印度羽毛球在德國薩爾布呂肯舉行的HYLO公開賽（超級500賽）包辦男女單打冠軍：前世界冠軍辛度以21:12、21:14直落兩局擊敗丹麥的凱爾斯費爾特，全周未失一局，僅用39分鐘拿下今年第二個巡迴賽冠軍；拉克什亞·森則以21:17、21:10戰勝印尼的基士提，同樣39分鐘奪得本季首冠。這是四年來首次有兩名印度球員在同一站超級500級別或以上賽事同奪冠軍，上次是2022年印度公開賽。",
-   "zh_hans": "印度羽毛球在德国萨尔布吕肯举行的HYLO公开赛（超级500赛）包办男女单打冠军：前世界冠军辛度以21:12、21:14直落两局击败丹麦的凯尔斯费尔特，全周未失一局，仅用39分钟拿下今年第二个巡回赛冠军；拉克什亚·森则以21:17、21:10战胜印尼的基士提，同样39分钟夺得本季首冠。这是四年来首次有两名印度球员在同一站超级500级别或以上赛事同夺冠军，上次是2022年印度公开赛。"
-  },
-  "tags": {
-   "en": [
-    "badminton",
-    "Hylo Open",
-    "PV Sindhu"
-   ],
-   "zh_hant": [
-    "羽毛球",
-    "HYLO公開賽",
-    "辛度"
-   ],
-   "zh_hans": [
-    "羽毛球",
-    "HYLO公开赛",
-    "辛度"
-   ]
-  }
- }
 ]
