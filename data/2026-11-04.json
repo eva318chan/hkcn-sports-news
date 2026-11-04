@@ -185,5 +185,43 @@
         "米格尔"
       ]
     }
+  },
+  {
+    "id": "20261104-paris-masters-r2-ruud-jodar",
+    "image_url": "https://images.prismic.io/app-rpm/7j4zY9xW8vdqjxDj__NG17176.JPG?auto=format,compress",
+    "published_at": "2026-11-04T06:00:00+08:00",
+    "source": "Tennis Majors",
+    "source_url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/race-to-turin-daily-cobolli-qualifies-and-jodars-fate-now-rests-with-de-minaur-865490.html",
+    "sport": "tennis",
+    "summary": {
+      "en": "Casper Ruud beat ninth seed Rafael Jodar 6-3, 6-4 in the second round of the Rolex Paris Masters, wrapping up the win in 1 hour 18 minutes with a love game to close the first set and an ace to seal the second. Jodar's defeat sends Italy's Flavio Cobolli, who withdrew from Paris on Monday, to his first Nitto ATP Finals without hitting a ball — the fifth qualifier for Turin. Third seed Ben Shelton also advanced, beating Cameron Norrie 6-3, 6-4 in just 1 hour 11 minutes. Jodar stays on 3,234 points and his fate now rests with Alex de Minaur, who must beat Tomas Martin Etcheverry on Wednesday to overtake him.",
+      "zh_hans": "巴黎大师赛次圈赛事，挪威球手鲁迪以6:3、6:4直落两盘击败九号种子佐达，全场仅用1小时18分钟，首盘以连赢四局收尾，次盘则以发球直得锁定胜局。佐达落败令周一退赛的意大利球手科波利毋须上场，即锁定首度晋级年终总决赛，成为都灵之行的第五位入围球手。同日三号种子舒尔顿亦以6:3、6:4轻取诺利晋级，仅用1小时11分钟。佐达积分停留于3,234分，命运现系于今日迪文拿奥对艾切维里一战，后者若胜出即可超越佐达。",
+      "zh_hant": "巴黎大師賽次圈賽事，挪威球手魯迪以6:3、6:4直落兩盤擊敗九號種子佐達，全場僅用1小時18分鐘，首盤以連贏四局收尾，次盤則以發球直得鎖定勝局。佐達落敗令周一退賽的意大利球手科波利毋須上場，即鎖定首度晉級年終總決賽，成為都靈之行的第五位入圍球手。同日三號種子舒爾頓亦以6:3、6:4輕取諾利晉級，僅用1小時11分鐘。佐達積分停留於3,234分，命運現繫於今日迪文拿奧對艾切維里一戰，後者若勝出即可超越佐達。"
+    },
+    "tags": {
+      "en": [
+        "Paris Masters",
+        "Casper Ruud",
+        "Rafael Jodar",
+        "ATP Finals"
+      ],
+      "zh_hans": [
+        "巴黎大师赛",
+        "鲁迪",
+        "佐达",
+        "年终总决赛"
+      ],
+      "zh_hant": [
+        "巴黎大師賽",
+        "魯迪",
+        "佐達",
+        "年終總決賽"
+      ]
+    },
+    "title": {
+      "en": "Paris Masters: Ruud stuns Jodar to send Cobolli to ATP Finals; Shelton cruises",
+      "zh_hans": "巴黎大师赛：鲁迪直落两盘击败佐达　科波利锁定年终总决赛席位",
+      "zh_hant": "巴黎大師賽：魯迪直落兩盤擊敗佐達　科波利鎖定年終總決賽席位"
+    }
   }
 ]
