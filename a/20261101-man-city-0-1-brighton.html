@@ -16,18 +16,82 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="card-top"><span class="sport-tag">football</span><span>2026-11-01 00:57</span><span> · Sky Sports</span></div>
-  <h1>艾耶利一箭定江山　白禮頓1:0作客挫曼城</h1>
-  <div class="alt-titles"><p>Ayari&#x27;s early strike gives Brighton 1-0 win at Manchester City</p><p>艾耶利一箭定江山　白礼顿1:0作客挫曼城</p></div>
-  <p class="lead">白禮頓周六英超作客伊蒂哈德球場1:0擊敗曼城，耶辛·艾耶利11分鐘把握馬菲斯·紐尼斯解圍失誤，近門射入全場唯一入球。曼城遭遇聯賽兩連敗，是2025年8月以來首次在英超連敗，但仍暫居榜首。這是白禮頓史上首次在伊蒂哈德贏波，球隊升上第三位，落後曼城及阿仙奴兩分；阿仙奴周日作客利物浦，只要不敗即可反超登頂。</p>
-  <div class="tags"><button class="tag">#英超</button><button class="tag">#曼城</button><button class="tag">#白禮頓</button><button class="tag">#艾耶利</button></div>
+  <h1 class="article-title">艾耶利一箭定江山　白禮頓1:0作客挫曼城</h1>
+  <p class="lead article-summary">白禮頓周六英超作客伊蒂哈德球場1:0擊敗曼城，耶辛·艾耶利11分鐘把握馬菲斯·紐尼斯解圍失誤，近門射入全場唯一入球。曼城遭遇聯賽兩連敗，是2025年8月以來首次在英超連敗，但仍暫居榜首。這是白禮頓史上首次在伊蒂哈德贏波，球隊升上第三位，落後曼城及阿仙奴兩分；阿仙奴周日作客利物浦，只要不敗即可反超登頂。</p>
+  <div class="tags article-tags"><button class="tag">#英超</button><button class="tag">#曼城</button><button class="tag">#白禮頓</button><button class="tag">#艾耶利</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.skysports.com/football/man-city-vs-brighton/report/559531" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhksports.hk%2Fa%2F20261101-man-city-0-1-brighton.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

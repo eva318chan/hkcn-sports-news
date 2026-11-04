@@ -17,18 +17,82 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="card-top"><span class="sport-tag">football</span><span>2026-09-28 06:41</span><span> · 星島頭條</span></div>
-  <h1>高普領軍首敗！德國0:1主場不敵希臘 隊史11次交鋒首嘗敗績</h1>
-  <div class="alt-titles"><p>Klopp suffers first defeat as Germany lose 1-0 to Greece — a historic first</p><p>克洛普领军首败！德国0:1主场不敌希腊 队史11次交锋首尝败绩</p></div>
-  <p class="lead">高普執教德國遭遇首場敗仗，球隊在歐國聯主場0:1不敵希臘，哥比利斯74分鐘的折射入球一箭定江山。這是德國隊史上11次面對希臘的首場敗仗（此前7勝3和），高普領軍兩場仍未打開勝利之門；希臘兩戰全勝續居A2組榜首。</p>
-  <div class="tags"><button class="tag">#足球</button><button class="tag">#歐國聯</button><button class="tag">#德國</button><button class="tag">#高普</button><button class="tag">#希臘</button></div>
+  <h1 class="article-title">高普領軍首敗！德國0:1主場不敵希臘 隊史11次交鋒首嘗敗績</h1>
+  <p class="lead article-summary">高普執教德國遭遇首場敗仗，球隊在歐國聯主場0:1不敵希臘，哥比利斯74分鐘的折射入球一箭定江山。這是德國隊史上11次面對希臘的首場敗仗（此前7勝3和），高普領軍兩場仍未打開勝利之門；希臘兩戰全勝續居A2組榜首。</p>
+  <div class="tags article-tags"><button class="tag">#足球</button><button class="tag">#歐國聯</button><button class="tag">#德國</button><button class="tag">#高普</button><button class="tag">#希臘</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.stheadline.com/football-news/3620063/%E6%AD%90%E5%9C%8B%E8%81%AF%E9%AB%98%E6%99%AE%E9%A0%98%E8%BB%8D%E9%A6%96%E6%95%97-%E5%BE%B7%E5%9C%8B%E9%9A%8A%E5%8F%B2%E9%A6%96%E6%AC%A1%E4%B8%8D%E6%95%B5%E5%B8%8C%E8%87%98" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-sports-news.vercel.app%2Fa%2F20260928-stheadline-germany-greece-klopp-first-defeat.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

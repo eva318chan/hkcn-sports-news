@@ -16,18 +16,82 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="card-top"><span class="sport-tag">basketball</span><span>2026-10-25 12:30</span><span> · theScore</span></div>
-  <h1>布卡轟43分　太陽131：122挫勇士　勇士開季三連敗19年來首次</h1>
-  <div class="alt-titles"><p>Booker scores 43 as Suns beat short-handed Warriors 131-122, Golden State falls to 0-3</p><p>布卡轰43分　太阳131：122挫勇士　勇士开季三连败19年来首次</p></div>
-  <p class="lead">鳳凰城太陽周六在主場以131：122擊敗人手短缺的金州勇士，取得今季首勝；布卡攻入43分，創下太陽主場開幕戰得分紀錄。布卡全場25投17中，另有7次助攻及7個籃板，第三節獨取17分；其43分打破了巴克利在1992年11月7日對快艇所創的37分太陽主場開幕戰紀錄。布歷治斯為太陽貢獻16分，球隊一洗揭幕戰以83：124大敗予拓荒者的頹勢。勇士四日內第三戰，輪休居里、格連、波斯美斯基及荷福特，開季三連敗是19年來首次。新秀 Lendeborg 為勇士攻入26分，創個人今季新高，梅爾頓亦有25分進帳。</p>
-  <div class="tags"><button class="tag">#太陽</button><button class="tag">#布卡</button><button class="tag">#勇士</button><button class="tag">#NBA</button><button class="tag">#居里</button></div>
+  <h1 class="article-title">布卡轟43分　太陽131：122挫勇士　勇士開季三連敗19年來首次</h1>
+  <p class="lead article-summary">鳳凰城太陽周六在主場以131：122擊敗人手短缺的金州勇士，取得今季首勝；布卡攻入43分，創下太陽主場開幕戰得分紀錄。布卡全場25投17中，另有7次助攻及7個籃板，第三節獨取17分；其43分打破了巴克利在1992年11月7日對快艇所創的37分太陽主場開幕戰紀錄。布歷治斯為太陽貢獻16分，球隊一洗揭幕戰以83：124大敗予拓荒者的頹勢。勇士四日內第三戰，輪休居里、格連、波斯美斯基及荷福特，開季三連敗是19年來首次。新秀 Lendeborg 為勇士攻入26分，創個人今季新高，梅爾頓亦有25分進帳。</p>
+  <div class="tags article-tags"><button class="tag">#太陽</button><button class="tag">#布卡</button><button class="tag">#勇士</button><button class="tag">#NBA</button><button class="tag">#居里</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.thescore.com/nba/news/3634115/booker-scores-43-points-in-suns-win-over-warriors-who-fall-to-0-3" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhksports.hk%2Fa%2F20261025-suns-beat-warriors-booker-43.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

@@ -18,19 +18,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://image.hkhl.hk/f/1200p0/0x0/100/none/0c767e8747d519f25b859a7807324d73/2026-10/Billy_59_.png" alt="" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;noimg&quot;>🏅</div>'"></div>
   <div class="card-top"><span class="sport-tag">others</span><span>2026-10-08 21:29</span><span> · 星島體育</span></div>
-  <h1>沈曉榆帶亞運金牌與市民分享喜悅 為黃澤林網球男單奪金感高興</h1>
-  <div class="alt-titles"><p>Shen Xiaoyu shares Asian Games wushu gold joy with Hongkongers at charity run</p><p>沈晓榆带亚运金牌与市民分享喜悦 为黄泽林网球男单夺金感高兴</p></div>
-  <p class="lead">香港武術運動員沈曉榆今日出席公益跑記者會，將亞運金牌帶到現場與市民分享喜悅。她在愛知・名古屋亞運勇奪金牌後載譽歸來，並表示為黃澤林勇奪網球男單金牌感到高興。</p>
-  <div class="tags"><button class="tag">#沈曉榆</button><button class="tag">#武術</button><button class="tag">#亞運會</button><button class="tag">#香港運動員</button></div>
+  <h1 class="article-title">沈曉榆帶亞運金牌與市民分享喜悅 為黃澤林網球男單奪金感高興</h1>
+  <p class="lead article-summary">香港武術運動員沈曉榆今日出席公益跑記者會，將亞運金牌帶到現場與市民分享喜悅。她在愛知・名古屋亞運勇奪金牌後載譽歸來，並表示為黃澤林勇奪網球男單金牌感到高興。</p>
+  <div class="tags article-tags"><button class="tag">#沈曉榆</button><button class="tag">#武術</button><button class="tag">#亞運會</button><button class="tag">#香港運動員</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.stheadline.com/realtime-sport/3623985/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-sports-news.vercel.app%2Fa%2F20261008-shen-xiaoyu-asian-games-gold.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

@@ -16,18 +16,82 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="card-top"><span class="sport-tag">badminton</span><span>2026-10-19 01:30</span><span> · Flashscore</span></div>
-  <h1>法國世界冠軍蘭尼亞三局挫安東臣 丹麥公開賽男單封王</h1>
-  <div class="alt-titles"><p>France's world champion Alex Lanier beats Antonsen to win Denmark Open, ends Dane's world No.1 dream</p><p>法国世界冠军兰尼亚三局挫安东臣 丹麦公开赛男单封王</p></div>
-  <p class="lead">丹麥羽毛球公開賽男單決賽，21歲法國世界冠軍蘭尼亞以21比15、13比21、21比13力克地主球手安東臣，首奪丹麥公開賽冠軍。安東臣錯失登上世界第一嘅機會，全場受場館側風困擾，決勝局失誤偏多。蘭尼亞憑出色戰術執行，喺休戰兩個月後復出即捧盃。</p>
-  <div class="tags"><button class="tag">#蘭尼亞</button><button class="tag">#安東臣</button><button class="tag">#丹麥公開賽</button><button class="tag">#羽毛球男單</button></div>
+  <h1 class="article-title">法國世界冠軍蘭尼亞三局挫安東臣 丹麥公開賽男單封王</h1>
+  <p class="lead article-summary">丹麥羽毛球公開賽男單決賽，21歲法國世界冠軍蘭尼亞以21比15、13比21、21比13力克地主球手安東臣，首奪丹麥公開賽冠軍。安東臣錯失登上世界第一嘅機會，全場受場館側風困擾，決勝局失誤偏多。蘭尼亞憑出色戰術執行，喺休戰兩個月後復出即捧盃。</p>
+  <div class="tags article-tags"><button class="tag">#蘭尼亞</button><button class="tag">#安東臣</button><button class="tag">#丹麥公開賽</button><button class="tag">#羽毛球男單</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.flashscore.co.za/news/badminton-denmark-open-superseries-men-french-world-champion-ends-antonsen-s-dream-of-world-no-1-spot-in-denmark-open-final/Eqvx27Pp/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-sports-news.vercel.app%2Fa%2F20261019-denmark-open-mens-singles-lanier.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

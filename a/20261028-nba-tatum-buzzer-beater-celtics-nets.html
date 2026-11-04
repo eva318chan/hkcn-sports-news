@@ -16,18 +16,82 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="card-top"><span class="sport-tag">basketball</span><span>2026-10-28 16:27</span><span> · KWSN</span></div>
-  <h1>泰譚加時壓哨絕殺　塞爾特人 125:124 險勝籃網</h1>
-  <div class="alt-titles"><p>Tatum's overtime buzzer-beater lifts Celtics past Nets 125-124</p><p>泰坦加时压哨绝杀　凯尔特人 125:124 险胜篮网</p></div>
-  <p class="lead">泰譚在加時完場前一刻命中中距離跳投，協助波士頓塞爾特人以 125:124 險勝布魯克林籃網，全場攻入 40 分，罰球 22 投 18 中創生涯新高。保羅佐治為塞爾特人貢獻 20 分、7 籃板及 7 助攻，球隊取得三連勝；波特為籃網攻入 27 分及 12 籃板，籃網在第四節最後一秒憑三分追平拖入加時，開季四連敗。另外，紐約人以 111:97 擊敗活塞取得今季首勝，聖安東尼奧馬刺以 130:103 大勝帝王，波特蘭拓荒者以 135:129 擊敗洛杉磯湖人，令湖人首嘗敗績，東契奇空砍 41 分。</p>
-  <div class="tags"><button class="tag">#NBA</button><button class="tag">#塞爾特人</button><button class="tag">#泰譚</button><button class="tag">#籃網</button></div>
+  <h1 class="article-title">泰譚加時壓哨絕殺　塞爾特人 125:124 險勝籃網</h1>
+  <p class="lead article-summary">泰譚在加時完場前一刻命中中距離跳投，協助波士頓塞爾特人以 125:124 險勝布魯克林籃網，全場攻入 40 分，罰球 22 投 18 中創生涯新高。保羅佐治為塞爾特人貢獻 20 分、7 籃板及 7 助攻，球隊取得三連勝；波特為籃網攻入 27 分及 12 籃板，籃網在第四節最後一秒憑三分追平拖入加時，開季四連敗。另外，紐約人以 111:97 擊敗活塞取得今季首勝，聖安東尼奧馬刺以 130:103 大勝帝王，波特蘭拓荒者以 135:129 擊敗洛杉磯湖人，令湖人首嘗敗績，東契奇空砍 41 分。</p>
+  <div class="tags article-tags"><button class="tag">#NBA</button><button class="tag">#塞爾特人</button><button class="tag">#泰譚</button><button class="tag">#籃網</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://kwsn.com/2026/10/27/nba-roundup-jayson-tatums-ot-buzzer-beater-lifts-celtics-over-nets/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhksports.hk%2Fa%2F20261028-nba-tatum-buzzer-beater-celtics-nets.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

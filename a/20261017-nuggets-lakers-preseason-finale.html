@@ -17,19 +17,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://images.eurohoops.net/2026/10/85026270-nikola-jokic-dribbles-denver-nuggets-at-los-angeles-lakers-preseason-600x314.jpg" alt="圖片：Eurohoops" referrerpolicy="no-referrer" onerror="this.closest('.article-hero').remove()"></div>
   <div class="card-top"><span class="sport-tag">basketball</span><span>2026-10-17 15:04</span><span> · Eurohoops</span></div>
-  <h1>祖基治壓到當錫　金塊季前賽收官戰 121-106 大炒湖人</h1>
-  <div class="alt-titles"><p>Jokic outshines Doncic as Nuggets beat Lakers 121-106 in preseason finale</p><p>约基奇力压东契奇　掘金季前赛收官战 121-106 大胜湖人</p></div>
-  <p class="lead">金塊季前賽收官戰毫不留情，121 比 106 喺洛杉磯大炒湖人。祖基治交出 17 分、8 助攻、6 籃板、2 偷波；當錫為湖人攻入 15 分，另有 4 助攻、2 籃板、1 封阻、1 偷波，隊友馬姆基拉舒維利亦得 15 分。周五晚十二場賽事打完，2026 季前賽正式落幕，各隊轉戰常規賽。</p>
-  <div class="tags"><button class="tag">#NBA</button><button class="tag">#丹佛金塊</button><button class="tag">#洛杉磯湖人</button><button class="tag">#祖基治</button><button class="tag">#當錫</button></div>
+  <h1 class="article-title">祖基治壓到當錫　金塊季前賽收官戰 121-106 大炒湖人</h1>
+  <p class="lead article-summary">金塊季前賽收官戰毫不留情，121 比 106 喺洛杉磯大炒湖人。祖基治交出 17 分、8 助攻、6 籃板、2 偷波；當錫為湖人攻入 15 分，另有 4 助攻、2 籃板、1 封阻、1 偷波，隊友馬姆基拉舒維利亦得 15 分。周五晚十二場賽事打完，2026 季前賽正式落幕，各隊轉戰常規賽。</p>
+  <div class="tags article-tags"><button class="tag">#NBA</button><button class="tag">#丹佛金塊</button><button class="tag">#洛杉磯湖人</button><button class="tag">#祖基治</button><button class="tag">#當錫</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.eurohoops.net/en/nba-news/2022107/nikola-jokic-versus-luka-doncic-nba-preseason-european-recap/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-sports-news.vercel.app%2Fa%2F20261017-nuggets-lakers-preseason-finale.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

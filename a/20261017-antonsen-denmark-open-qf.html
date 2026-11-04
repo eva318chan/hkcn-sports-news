@@ -17,19 +17,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/3176e522-de5b-4eb1-8767-bf697b67bcbe.jpeg" alt="圖片：Flashscore" referrerpolicy="no-referrer" onerror="this.closest('.article-hero').remove()"></div>
   <div class="card-top"><span class="sport-tag">badminton</span><span>2026-10-16 22:45</span><span> · Flashscore</span></div>
-  <h1>安賽龍直落兩局挫阿爾維　晉級丹麥公開賽四強</h1>
-  <div class="alt-titles"><p>Antonsen Beats Alwi Farhan to Reach Denmark Open Semi-Final</p><p>安赛龙直落两局挫阿尔维　晋级丹麦公开赛四强</p></div>
-  <p class="lead">丹麥名將安賽龍在丹麥公開賽男單八強以 21 比 17、21 比 16 直落兩局擊敗印尼的阿爾維·法罕，繼續向第三度捧盃邁進。首局尾段一度被追至 17 比 20，安賽龍頂住壓力拿下；決勝分憑對手回球出界兌現。四強將迎戰法國二號種子基斯圖·普波夫。安賽龍周四才剛報卻中國大師賽不敵香港陳延澤（Jason Gunawan）之仇。</p>
-  <div class="tags"><button class="tag">#安賽龍</button><button class="tag">#丹麥公開賽</button><button class="tag">#男單</button></div>
+  <h1 class="article-title">安賽龍直落兩局挫阿爾維　晉級丹麥公開賽四強</h1>
+  <p class="lead article-summary">丹麥名將安賽龍在丹麥公開賽男單八強以 21 比 17、21 比 16 直落兩局擊敗印尼的阿爾維·法罕，繼續向第三度捧盃邁進。首局尾段一度被追至 17 比 20，安賽龍頂住壓力拿下；決勝分憑對手回球出界兌現。四強將迎戰法國二號種子基斯圖·普波夫。安賽龍周四才剛報卻中國大師賽不敵香港陳延澤（Jason Gunawan）之仇。</p>
+  <div class="tags article-tags"><button class="tag">#安賽龍</button><button class="tag">#丹麥公開賽</button><button class="tag">#男單</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.flashscore.com.au/news/badminton-denmark-open-superseries-men-antonsen-surge-past-indonesian-star-to-set-up-popov-clash-in-denmark-open-semi-final/QH8JWM8C/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-sports-news.vercel.app%2Fa%2F20261017-antonsen-denmark-open-qf.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

@@ -17,22 +17,86 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="../assets/img/20261017-handball-final-hk-vn.jpg" alt="港隊今晚以23:21擊敗越南，晉級挑戰盃決賽（相片由中國香港手球總會提供）"></div>
   <div class="card-top"><span class="sport-tag">handball</span><span>2026-10-17 21:15</span><span> · 中國香港手球總會</span></div>
-  <h1>港女手23:21再贏越南晉級挑戰盃決賽　鄔梨鈴狂轟13球　明午撼朝鮮爭冠</h1>
-  <div class="alt-titles"><p>Hong Kong Women Beat Vietnam 23:21 to Reach Challenge Cup Final, Wu Lai-ling Scores 13</p><p>港女手23:21再赢越南晋级挑战杯决赛　邬梨铃狂轰13球　明午撼朝鲜争冠</p></div>
-  <p class="lead">香港女子手球隊今晚喺馬鞍山體育館上演嘅IHF挑戰盃四強戰，以23:21擊敗越南，繼名古屋亞運後再度戰勝同一對手，聽日（18日）下晝3點半決賽同朝鮮爭冠軍。主將鄔梨鈴個人狂轟13球，連續兩場對越南都係全場入球最多，近700名主場球迷見證港隊晉級。</p>
+  <h1 class="article-title">港女手23:21再贏越南晉級挑戰盃決賽　鄔梨鈴狂轟13球　明午撼朝鮮爭冠</h1>
+  <p class="lead article-summary">香港女子手球隊今晚喺馬鞍山體育館上演嘅IHF挑戰盃四強戰，以23:21擊敗越南，繼名古屋亞運後再度戰勝同一對手，聽日（18日）下晝3點半決賽同朝鮮爭冠軍。主將鄔梨鈴個人狂轟13球，連續兩場對越南都係全場入球最多，近700名主場球迷見證港隊晉級。</p>
   <p class="lead">港越雙方開局防守嚴密，比分拉鋸；落後一球嘅港隊連取3分反超9:7，9平時鄔梨鈴禁區外跳射個人第5球，10:9振奮全場，半場港隊14:13領先一球。下半場港隊多次封殺越南射門，盧紀嵐、孔倩瑜、張鎧恩各入兩球，一度拉開到21:16；越南追近至20:22時，越南球員Hoang T侵犯盧紀嵐被紅牌驅逐，港隊最終以23:21鎖定勝局。</p>
   <p class="lead">鄔梨鈴賽後表示，好開心兩度喺越南身上取得個人單場最高入球，期望聽日決賽喺球迷支持下擊敗朝鮮。另一場四強，朝鮮以30:19大勝中華台北，門將CHOE O G當選MVP；排名賽澳門以24:18擊敗蒙古得第五，杜佩潔入7球膺MVP。聽日下晝1點先上演越南對中華台北嘅季軍戰，3點半就係香港對朝鮮嘅決賽，馬鞍山體育館免費入場。</p>
   <div class="embed-wrap"><p class="embed-label">📷 四強戰況（相片由中國香港手球總會提供）</p><figure style="margin:0 0 14px"><img src="../assets/img/20261017-handball-final-wu.jpg" alt="鄔梨鈴（白衫18號）今仗個人狂轟13球" style="width:100%;border-radius:8px"><figcaption class="embed-caption">鄔梨鈴（白衫18號）今仗個人狂轟13球（相片由中國香港手球總會提供）</figcaption></figure><figure style="margin:0 0 14px"><img src="../assets/img/20261017-handball-final-prk-tpe.jpg" alt="另一場四強，朝鮮以30:19擊敗中華台北晉級" style="width:100%;border-radius:8px"><figcaption class="embed-caption">另一場四強，朝鮮以30:19擊敗中華台北晉級（相片由中國香港手球總會提供）</figcaption></figure><figure style="margin:0 0 14px"><img src="../assets/img/20261017-handball-final-mac-mgl.jpg" alt="澳門以24:18擊敗蒙古，奪得賽事第五名" style="width:100%;border-radius:8px"><figcaption class="embed-caption">澳門以24:18擊敗蒙古，奪得賽事第五名（相片由中國香港手球總會提供）</figcaption></figure></div>
-  <div class="tags"><button class="tag">#手球</button><button class="tag">#香港女子手球隊</button><button class="tag">#IHF挑戰盃</button><button class="tag">#鄔梨鈴</button><button class="tag">#挑戰盃決賽</button></div>
+  <div class="tags article-tags"><button class="tag">#手球</button><button class="tag">#香港女子手球隊</button><button class="tag">#IHF挑戰盃</button><button class="tag">#鄔梨鈴</button><button class="tag">#挑戰盃決賽</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <span class="abtn primary" style="font-size:15px;padding:10px 22px">📍 馬鞍山體育館 · 免費入場</span>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhksports.hk%2Fa%2F20261017-hk-handball-beat-vietnam-final.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>內容根據中國香港手球總會新聞稿重新編寫，相片由中國香港手球總會提供。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

@@ -16,18 +16,82 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="card-top"><span class="sport-tag">others</span><span>2026-10-19 11:42</span><span> · 京報網</span></div>
-  <h1>崔哲奪舉重金牌　為中國代表團摘下名古屋亞殘運首金</h1>
-  <div class="alt-titles"><p>Cui Zhe wins weightlifting gold, China&#x27;s first at Nagoya Asian Para Games</p><p>崔哲夺举重金牌　为中国代表团摘下名古屋亚残运首金</p></div>
-  <p class="lead">第五屆亞洲殘疾人運動會今日在日本名古屋迎來首個獎牌日：中國選手崔哲在舉重女子41公斤級決賽奪得金牌，為中國代表團摘下本屆賽事首枚金牌。今早稍早前，中國選手陳柳巽在舉重男子49公斤級決賽摘得銅牌，為代表團贏得本屆賽事首枚獎牌。據悉，舉重、自行車、游泳等項目今日率先展開金牌爭奪。中國代表團今屆派出312名運動員，參加17個大項335個小項的比賽，賽事將持續至10月24日。</p>
-  <div class="tags"><button class="tag">#亞殘運會</button><button class="tag">#崔哲</button><button class="tag">#舉重</button><button class="tag">#首金</button><button class="tag">#中國代表團</button></div>
+  <h1 class="article-title">崔哲奪舉重金牌　為中國代表團摘下名古屋亞殘運首金</h1>
+  <p class="lead article-summary">第五屆亞洲殘疾人運動會今日在日本名古屋迎來首個獎牌日：中國選手崔哲在舉重女子41公斤級決賽奪得金牌，為中國代表團摘下本屆賽事首枚金牌。今早稍早前，中國選手陳柳巽在舉重男子49公斤級決賽摘得銅牌，為代表團贏得本屆賽事首枚獎牌。據悉，舉重、自行車、游泳等項目今日率先展開金牌爭奪。中國代表團今屆派出312名運動員，參加17個大項335個小項的比賽，賽事將持續至10月24日。</p>
+  <div class="tags article-tags"><button class="tag">#亞殘運會</button><button class="tag">#崔哲</button><button class="tag">#舉重</button><button class="tag">#首金</button><button class="tag">#中國代表團</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://news.bjd.com.cn/2026/10/19/12000388.shtml" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-sports-news.vercel.app%2Fa%2F20261019-asian-para-games-cui-zhe-first-gold.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

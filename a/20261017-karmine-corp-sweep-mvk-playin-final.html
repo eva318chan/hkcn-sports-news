@@ -17,19 +17,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://insider-gaming.com/wp-content/uploads/2026/10/55593860609_c5ca40b338_k.jpg" alt="圖片：Insider Gaming" referrerpolicy="no-referrer" onerror="this.closest('.article-hero').remove()"></div>
   <div class="card-top"><span class="sport-tag">esports</span><span>2026-10-17 05:30</span><span> · Insider Gaming</span></div>
-  <h1>Karmine Corp 橫掃 MVK 晉級世界賽入圍賽決賽</h1>
-  <div class="alt-titles"><p>Karmine Corp sweep MVK to reach Worlds 2026 Play-In final</p><p>Karmine Corp 横扫 MVK 晋级世界赛入围赛决赛</p></div>
-  <p class="lead">歐洲戰隊 Karmine Corp 喺洛杉磯舉行嘅《英雄聯盟》2026 世界賽入圍賽勝部決賽，以 3 比 0 橫掃越南代表 MVK Esports，表現遠較前一日對 Cloud9 嘅五局大戰輕鬆。Karmine Corp 距離瑞士輪只差一場勝利。MVK 跌入敗部，將對陣 Cloud9 對 FURIA 嘅勝方爭奪決賽席位，該仗敗方會成為今屆世界賽首支出局隊伍。</p>
-  <div class="tags"><button class="tag">#英雄聯盟</button><button class="tag">#世界賽2026</button><button class="tag">#Karmine Corp</button><button class="tag">#MVK Esports</button><button class="tag">#入圍賽</button></div>
+  <h1 class="article-title">Karmine Corp 橫掃 MVK 晉級世界賽入圍賽決賽</h1>
+  <p class="lead article-summary">歐洲戰隊 Karmine Corp 喺洛杉磯舉行嘅《英雄聯盟》2026 世界賽入圍賽勝部決賽，以 3 比 0 橫掃越南代表 MVK Esports，表現遠較前一日對 Cloud9 嘅五局大戰輕鬆。Karmine Corp 距離瑞士輪只差一場勝利。MVK 跌入敗部，將對陣 Cloud9 對 FURIA 嘅勝方爭奪決賽席位，該仗敗方會成為今屆世界賽首支出局隊伍。</p>
+  <div class="tags article-tags"><button class="tag">#英雄聯盟</button><button class="tag">#世界賽2026</button><button class="tag">#Karmine Corp</button><button class="tag">#MVK Esports</button><button class="tag">#入圍賽</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://insider-gaming.com/karmine-corp-sweep-mvk-lol-worlds-play-ins/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-sports-news.vercel.app%2Fa%2F20261017-karmine-corp-sweep-mvk-playin-final.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

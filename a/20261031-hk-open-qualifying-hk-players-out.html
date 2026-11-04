@@ -16,18 +16,82 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="card-top"><span class="sport-tag">tennis</span><span>2026-10-31 17:05</span><span> · 體路 Sportsroad</span></div>
-  <h1>香港網球公開賽資格賽　王康怡石卓盈黎清嵐首圈止步</h1>
-  <div class="alt-titles"><p>Hong Kong trio fall in qualifying first round at Prudential Hong Kong Tennis Open 2026</p><p>香港网球公开赛资格赛　王康怡石卓盈黎清岚首圈止步</p></div>
-  <p class="lead">「保誠香港網球公開賽2026」女單資格賽今日在維園開打，三位港將全部首圈出局。21歲的石卓盈面對頭號種子莎絲洛域治，首盤一度追近至4:5，最終以4:6、2:6落敗，但頻頻打出「靚波」贏得全場掌聲。王康怡以4:6、2:6不敵2號種子坂詰姬野，黎清嵐則以1:6、2:6敗給美國球手李英洙。女單正賽已抽籤，李芬首圈將鬥6號種子王欣瑜。</p>
-  <div class="tags"><button class="tag">#香港網球公開賽</button><button class="tag">#王康怡</button><button class="tag">#石卓盈</button><button class="tag">#黎清嵐</button><button class="tag">#港隊</button></div>
+  <h1 class="article-title">香港網球公開賽資格賽　王康怡石卓盈黎清嵐首圈止步</h1>
+  <p class="lead article-summary">「保誠香港網球公開賽2026」女單資格賽今日在維園開打，三位港將全部首圈出局。21歲的石卓盈面對頭號種子莎絲洛域治，首盤一度追近至4:5，最終以4:6、2:6落敗，但頻頻打出「靚波」贏得全場掌聲。王康怡以4:6、2:6不敵2號種子坂詰姬野，黎清嵐則以1:6、2:6敗給美國球手李英洙。女單正賽已抽籤，李芬首圈將鬥6號種子王欣瑜。</p>
+  <div class="tags article-tags"><button class="tag">#香港網球公開賽</button><button class="tag">#王康怡</button><button class="tag">#石卓盈</button><button class="tag">#黎清嵐</button><button class="tag">#港隊</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.sportsroad.hk/?p=660837" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https://hksports.hk/a/20261031-hk-open-qualifying-hk-players-out.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

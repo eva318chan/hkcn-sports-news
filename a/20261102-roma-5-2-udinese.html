@@ -17,21 +17,85 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://media.asroma.com/prod/images/landscape_medium_fill/e3ab17358eaa-dsc1281.webp" alt="" referrerpolicy="no-referrer" onerror="this.closest('.article-hero').remove()"></div>
 
   <p style="font-size:13px;color:#888;margin:8px 0 0">羅馬球員慶祝入球，今仗建功嘅摩拉、馬倫同基拉迪在陣。（AS Roma 官網）</p>
   <div class="card-top"><span class="sport-tag">football</span><span>2026-11-01 04:33</span><span> · theScore</span></div>
-  <h1>羅馬半場轟4球5:2大勝烏甸尼斯　緊貼榜首</h1>
-  <div class="alt-titles"><p>Roma hit four before half-time in 5-2 rout of Udinese to stay unbeaten</p><p>罗马半场轰4球5:2大胜乌甸尼斯　紧贴榜首</p></div>
-  <p class="lead">羅馬喺意甲第10輪作客5:2大勝烏甸尼斯，半場已經領先4:0，繼續保持不敗。基斯坦迪10分鐘先開紀錄，摩拉、馬倫同尼迪卡喺31至37分鐘連入3球；烏甸尼斯下半場由辛尼奧路同柏馬追返兩球，基拉迪補時射入第5球。加斯柏連尼嘅球隊10戰得24分排第三，緊貼榜首拉素。</p>
-  <div class="tags"><button class="tag">#意甲</button><button class="tag">#羅馬</button><button class="tag">#烏甸尼斯</button></div>
+  <h1 class="article-title">羅馬半場轟4球5:2大勝烏甸尼斯　緊貼榜首</h1>
+  <p class="lead article-summary">羅馬喺意甲第10輪作客5:2大勝烏甸尼斯，半場已經領先4:0，繼續保持不敗。基斯坦迪10分鐘先開紀錄，摩拉、馬倫同尼迪卡喺31至37分鐘連入3球；烏甸尼斯下半場由辛尼奧路同柏馬追返兩球，基拉迪補時射入第5球。加斯柏連尼嘅球隊10戰得24分排第三，緊貼榜首拉素。</p>
+  <div class="tags article-tags"><button class="tag">#意甲</button><button class="tag">#羅馬</button><button class="tag">#烏甸尼斯</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.thescore.com/seri/news/3640508/roma-score-4-goals-in-1-st-half-thrash-udinese" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhksports.hk%2Fa%2F20261102-roma-5-2-udinese.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

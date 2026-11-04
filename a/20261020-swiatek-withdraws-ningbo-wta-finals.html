@@ -16,18 +16,82 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="card-top"><span class="sport-tag">tennis</span><span>2026-10-20 16:30</span><span> · KWSN (Reuters)</span></div>
-  <h1>施華迪左大腿受傷退出寧波賽　無緣年終賽直接入圍</h1>
-  <div class="alt-titles"><p>Swiatek withdraws from Ningbo Open with thigh injury, ends last chance of WTA Finals qualification</p><p>施华迪左大腿受伤退出宁波赛　无缘年终赛直接入围</p></div>
-  <p class="lead">六屆大滿貫得主施華迪因左大腿傷患退出今周在中國舉行的寧波公開賽，斷送直接入圍年終賽的最後希望。25歲的波蘭球手自2021年起從未缺席年終賽，並於2023年奪冠；她今次要在寧波打入八強，才有機會超越捷克球手穆霍娃搶到最後一席。施華迪今年只贏得一項賽事，四大滿貫全部止步八強，上周武漢站四強以7比5、6比1不敵同胞喬達（世界排名第11）時已受傷困擾。「經過深思熟慮，我決定退出賽事。」施華迪在聲明中指，左大腿問題已困擾她數星期，休息復元是正確決定。穆霍娃今周沒有參賽，仍可能被高絲卓超越——後者須在寧波及下周東京泛太平洋賽追回815分。11月8至15日年終賽將在加州印第安韋爾斯舉行，施華迪仍可作為兩位候補之一前往。</p>
-  <div class="tags"><button class="tag">#施華迪</button><button class="tag">#年終賽</button><button class="tag">#寧波賽</button><button class="tag">#傷患</button></div>
+  <h1 class="article-title">施華迪左大腿受傷退出寧波賽　無緣年終賽直接入圍</h1>
+  <p class="lead article-summary">六屆大滿貫得主施華迪因左大腿傷患退出今周在中國舉行的寧波公開賽，斷送直接入圍年終賽的最後希望。25歲的波蘭球手自2021年起從未缺席年終賽，並於2023年奪冠；她今次要在寧波打入八強，才有機會超越捷克球手穆霍娃搶到最後一席。施華迪今年只贏得一項賽事，四大滿貫全部止步八強，上周武漢站四強以7比5、6比1不敵同胞喬達（世界排名第11）時已受傷困擾。「經過深思熟慮，我決定退出賽事。」施華迪在聲明中指，左大腿問題已困擾她數星期，休息復元是正確決定。穆霍娃今周沒有參賽，仍可能被高絲卓超越——後者須在寧波及下周東京泛太平洋賽追回815分。11月8至15日年終賽將在加州印第安韋爾斯舉行，施華迪仍可作為兩位候補之一前往。</p>
+  <div class="tags article-tags"><button class="tag">#施華迪</button><button class="tag">#年終賽</button><button class="tag">#寧波賽</button><button class="tag">#傷患</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://kwsn.com/2026/10/20/tennis-swiatek-loses-last-chance-to-qualify-for-wta-finals-after-withdrawing-from-ningbo/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-sports-news.vercel.app%2Fa%2F20261020-swiatek-withdraws-ningbo-wta-finals.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

@@ -17,19 +17,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://st1.latestly.com/wp-content/uploads/2026/10/ANI-20261025123036-588x441.jpg" alt="圖片：LatestLY (ANI)" referrerpolicy="no-referrer" onerror="this.closest('.article-hero').remove()"></div>
   <div class="card-top"><span class="sport-tag">badminton</span><span>2026-10-25 20:50</span><span> · LatestLY (ANI)</span></div>
-  <h1>安洗瑩先失一局反勝辛杜　奪法國羽賽女單冠軍　50連勝兼今季第10冠</h1>
-  <div class="alt-titles"><p>An Se-young fights back to beat Sindhu and win French Open, 50th straight victory</p><p>安洗莹先失一局反胜辛杜　夺法国羽赛女单冠军　50连胜兼今季第10冠</p></div>
-  <p class="lead">世界「一姐」安洗瑩今日在巴黎法國羽毛球公開賽女單決賽，先失一局下以16：21、21：11、21：12反勝印度名將辛杜，豪取50連勝。世界排名第11位的辛杜首局以21：16先拔頭籌，是她與安洗瑩11次交手以來第二次贏下一局，但衞冕奧運冠軍其後掌控比賽，激戰61分鐘鎖定勝局。今仗是安洗瑩今季第10個冠軍，亦是她第四次贏得法國公開賽，2026年戰績提升至66勝1負，唯一敗仗是全英公開賽決賽不敵王祉怡。7月贏得日本公開賽的辛杜爭取生涯第七冠及今季第二個超級750賽冠軍，可惜首次打入法國公開賽決賽只能屈居亞軍。</p>
-  <div class="tags"><button class="tag">#安洗瑩</button><button class="tag">#辛杜</button><button class="tag">#法國公開賽</button><button class="tag">#羽毛球</button></div>
+  <h1 class="article-title">安洗瑩先失一局反勝辛杜　奪法國羽賽女單冠軍　50連勝兼今季第10冠</h1>
+  <p class="lead article-summary">世界「一姐」安洗瑩今日在巴黎法國羽毛球公開賽女單決賽，先失一局下以16：21、21：11、21：12反勝印度名將辛杜，豪取50連勝。世界排名第11位的辛杜首局以21：16先拔頭籌，是她與安洗瑩11次交手以來第二次贏下一局，但衞冕奧運冠軍其後掌控比賽，激戰61分鐘鎖定勝局。今仗是安洗瑩今季第10個冠軍，亦是她第四次贏得法國公開賽，2026年戰績提升至66勝1負，唯一敗仗是全英公開賽決賽不敵王祉怡。7月贏得日本公開賽的辛杜爭取生涯第七冠及今季第二個超級750賽冠軍，可惜首次打入法國公開賽決賽只能屈居亞軍。</p>
+  <div class="tags article-tags"><button class="tag">#安洗瑩</button><button class="tag">#辛杜</button><button class="tag">#法國公開賽</button><button class="tag">#羽毛球</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.latestly.com/agency-news/sports-news-french-open-badminton-pv-sindhu-loses-final-suffers-11th-straight-loss-to-an-se-young-7656412.html" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhksports.hk%2Fa%2F20261025-french-open-an-se-young-beats-sindhu.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

@@ -17,19 +17,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Ftennisuptodate.com%2Fimages%2F2026-01%2Frybakinaauso2-697ddfca7f061.jpg" alt="圖片：TennisUpToDate" referrerpolicy="no-referrer" onerror="this.closest('.article-hero').remove()"></div>
   <div class="card-top"><span class="sport-tag">tennis</span><span>2026-10-25 18:05</span><span> · TennisUpToDate</span></div>
-  <h1>列巴堅娜6：2、6：2輕取費蘭迪絲　成功衞冕寧波冠軍　世界「一姐」首冠</h1>
-  <div class="alt-titles"><p>Rybakina defends Ningbo title with 6-2, 6-2 win over Fernandez, first trophy as world No. 1</p><p>列巴坚娜6：2、6：2轻取费兰迪丝　成功卫冕宁波冠军　世界「一姐」首冠</p></div>
-  <p class="lead">世界「一姐」列巴堅娜在寧波公開賽決賽以6：2、6：2輕取費蘭迪絲，成功衞冕冠軍，奪得登頂世界第一後首個錦標。這是她職業生涯第15個冠軍，也是今年第四冠，此前已贏得澳洲公開賽、史特加站及美國公開賽，更是她首次成功衞冕WTA單打冠軍。費蘭迪絲9月才贏得新加坡公開賽，今仗爭取生涯第七冠及連續第四次決賽獲勝，可惜未能如願。列巴堅娜在首盤初段化解破發點後連贏五局奠定勝局，全場未讓對手有反撲機會。</p>
-  <div class="tags"><button class="tag">#列巴堅娜</button><button class="tag">#費蘭迪絲</button><button class="tag">#寧波公開賽</button><button class="tag">#網球</button></div>
+  <h1 class="article-title">列巴堅娜6：2、6：2輕取費蘭迪絲　成功衞冕寧波冠軍　世界「一姐」首冠</h1>
+  <p class="lead article-summary">世界「一姐」列巴堅娜在寧波公開賽決賽以6：2、6：2輕取費蘭迪絲，成功衞冕冠軍，奪得登頂世界第一後首個錦標。這是她職業生涯第15個冠軍，也是今年第四冠，此前已贏得澳洲公開賽、史特加站及美國公開賽，更是她首次成功衞冕WTA單打冠軍。費蘭迪絲9月才贏得新加坡公開賽，今仗爭取生涯第七冠及連續第四次決賽獲勝，可惜未能如願。列巴堅娜在首盤初段化解破發點後連贏五局奠定勝局，全場未讓對手有反撲機會。</p>
+  <div class="tags article-tags"><button class="tag">#列巴堅娜</button><button class="tag">#費蘭迪絲</button><button class="tag">#寧波公開賽</button><button class="tag">#網球</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://tennisuptodate.com/wta/live-ningbo-open-final-world-no1-elena-rybakina-seeks-successful-title-defence-against-leylah-fernandez" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhksports.hk%2Fa%2F20261025-rybakina-defends-ningbo-title.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

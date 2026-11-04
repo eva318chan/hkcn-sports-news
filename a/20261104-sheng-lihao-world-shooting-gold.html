@@ -17,20 +17,84 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="card-top"><span class="sport-tag">others</span><span>2026-11-04 13:10</span><span> · 大眾網</span></div>
   <div class="article-hero"><img src="https://appimg.dzwww.com/share/2026/11/04/3942ad5-3f64a368.jpg" alt="盛李豪（新华社）" referrerpolicy="no-referrer" onerror="this.closest('.article-hero').remove()"></div>
   <p style="font-size:13px;color:#888;margin:8px 0 0">盛李豪在男子10米氣步槍決賽中。（新华社）</p>
-  <h1>世界射擊錦標賽｜盛李豪10米氣步槍254.1環奪冠　成就「全滿貫」</h1>
-  <div class="alt-titles"><p>World Shooting Championships: Sheng Lihao wins 10m air rifle gold to complete career Grand Slam</p><p>世界射击锦标赛｜盛李豪10米气步枪254.1环夺冠　成就「全满贯」</p></div>
-  <p class="lead">中國選手盛李豪在2026年多哈世界射擊錦標賽男子10米氣步槍決賽中，以254.1環強勢奪冠，取得個人首枚世錦賽金牌。年僅21歲的盛李豪已集齊奧運會、世錦賽、世界盃總決賽、亞運會及亞錦賽金牌，成就該項目「全滿貫」。他曾於杭州亞運會以253.3環創世界紀錄，巴黎奧運以252.2環破奧運紀錄奪冠；今次勝利亦為中國隊取得洛杉磯奧運會該項目參賽名額。</p>
-  <div class="tags"><button class="tag">#世界射擊錦標賽</button><button class="tag">#盛李豪</button><button class="tag">#10米氣步槍</button><button class="tag">#全滿貫</button></div>
+  <h1 class="article-title">世界射擊錦標賽｜盛李豪10米氣步槍254.1環奪冠　成就「全滿貫」</h1>
+  <p class="lead article-summary">中國選手盛李豪在2026年多哈世界射擊錦標賽男子10米氣步槍決賽中，以254.1環強勢奪冠，取得個人首枚世錦賽金牌。年僅21歲的盛李豪已集齊奧運會、世錦賽、世界盃總決賽、亞運會及亞錦賽金牌，成就該項目「全滿貫」。他曾於杭州亞運會以253.3環創世界紀錄，巴黎奧運以252.2環破奧運紀錄奪冠；今次勝利亦為中國隊取得洛杉磯奧運會該項目參賽名額。</p>
+  <div class="tags article-tags"><button class="tag">#世界射擊錦標賽</button><button class="tag">#盛李豪</button><button class="tag">#10米氣步槍</button><button class="tag">#全滿貫</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.dzwww.com/news/yw/202611/t20261104_18269664.htm" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhksports.hk%2Fa%2F20261104-sheng-lihao-world-shooting-gold.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

@@ -16,18 +16,82 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="card-top"><span class="sport-tag">badminton</span><span>2026-10-25 22:30</span><span> · BadmintonPlanet</span></div>
-  <h1>法國羽賽男雙馬來西亞內訌　萬偉聰／鄭凱文反勝吳世飛／諾伊祖丁奪冠</h1>
-  <div class="alt-titles"><p>Man Wei Chong and Tee Kai Wun win all-Malaysian French Open men's doubles final</p><p>法国羽赛男双马来西亚内讧　万伟聪／郑凯文反胜吴世飞／诺伊祖丁夺冠</p></div>
-  <p class="lead">馬來西亞組合萬偉聰／鄭凱文在法國羽毛球公開賽男雙決賽上演馬來西亞內訌，先失一局下以13：21、21：15、21：7反勝同胞吳世飛／諾伊祖丁奪冠。六號種子吳世飛／諾伊祖丁首局以21：13先拔頭籌，但萬偉聰／鄭凱文扳平後在決勝局以21：7大勝。萬偉聰／鄭凱文今屆表現出色，次圈擊敗日本前世界冠軍保木卓朗／小林優吾，四強以21：16、21：15擊敗印尼組合雷蒙／祖亞昆。吳世飛／諾伊祖丁八強以21：15、21：18擊敗世界第一組合金元昊／徐承宰，是今屆其中一場最大冷門。</p>
-  <div class="tags"><button class="tag">#法國公開賽</button><button class="tag">#男雙</button><button class="tag">#馬來西亞</button><button class="tag">#萬偉聰</button></div>
+  <h1 class="article-title">法國羽賽男雙馬來西亞內訌　萬偉聰／鄭凱文反勝吳世飛／諾伊祖丁奪冠</h1>
+  <p class="lead article-summary">馬來西亞組合萬偉聰／鄭凱文在法國羽毛球公開賽男雙決賽上演馬來西亞內訌，先失一局下以13：21、21：15、21：7反勝同胞吳世飛／諾伊祖丁奪冠。六號種子吳世飛／諾伊祖丁首局以21：13先拔頭籌，但萬偉聰／鄭凱文扳平後在決勝局以21：7大勝。萬偉聰／鄭凱文今屆表現出色，次圈擊敗日本前世界冠軍保木卓朗／小林優吾，四強以21：16、21：15擊敗印尼組合雷蒙／祖亞昆。吳世飛／諾伊祖丁八強以21：15、21：18擊敗世界第一組合金元昊／徐承宰，是今屆其中一場最大冷門。</p>
+  <div class="tags article-tags"><button class="tag">#法國公開賽</button><button class="tag">#男雙</button><button class="tag">#馬來西亞</button><button class="tag">#萬偉聰</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.badmintonplanet.com/badminton-news/man-wei-chong-tee-kai-wun-french-open-2026-title.html" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhksports.hk%2Fa%2F20261025-french-open-man-tee-win-doubles.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

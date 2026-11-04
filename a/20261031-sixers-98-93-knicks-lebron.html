@@ -17,20 +17,84 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://v4.dailysportspage.com/cumulus/image/882666/600/400/" alt="" referrerpolicy="no-referrer" onerror="this.closest('.article-hero').remove()"></div>
   <p style="font-size:13px;color:#888;margin:8px 0 0">占士（左）為七十六人攻入20分。（790 The Score）</p>
   <div class="card-top"><span class="sport-tag">basketball</span><span>2026-10-31 14:58</span><span> · 790 The Score</span></div>
-  <h1>NBA盃：占士末段發威　七十六人98:93險勝紐約人</h1>
-  <div class="alt-titles"><p>LeBron delivers late as 76ers edge Knicks 98-93 in NBA Cup opener</p><p>NBA杯：占士末段发威　七十六人98:93险胜纽约人</p></div>
-  <p class="lead">費城七十六人周五在NBA盃首戰，主場98比93險勝衛冕冠軍紐約人。41歲的占士攻入20分、9籃板、8助攻，完場前11.9秒補籃得手鎖定勝局，賽後獲教練拿斯盛讚為加盟以來最佳一戰。麥斯攻入全隊最高27分；紐約人方面，賓遜在完場前1分32秒射入三分反超90比89，可惜未能守住勝果，賓遜得24分，唐斯貢獻22分12籃板。</p>
-  <div class="tags"><button class="tag">#NBA</button><button class="tag">#七十六人</button><button class="tag">#占士</button><button class="tag">#NBA盃</button></div>
+  <h1 class="article-title">NBA盃：占士末段發威　七十六人98:93險勝紐約人</h1>
+  <p class="lead article-summary">費城七十六人周五在NBA盃首戰，主場98比93險勝衛冕冠軍紐約人。41歲的占士攻入20分、9籃板、8助攻，完場前11.9秒補籃得手鎖定勝局，賽後獲教練拿斯盛讚為加盟以來最佳一戰。麥斯攻入全隊最高27分；紐約人方面，賓遜在完場前1分32秒射入三分反超90比89，可惜未能守住勝果，賓遜得24分，唐斯貢獻22分12籃板。</p>
+  <div class="tags article-tags"><button class="tag">#NBA</button><button class="tag">#七十六人</button><button class="tag">#占士</button><button class="tag">#NBA盃</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.thescore790.com/2026/10/31/nba-roundup-lebron-james-delivers-late-as-sixers-get-by-knicks/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https://hksports.hk/a/20261031-sixers-98-93-knicks-lebron.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

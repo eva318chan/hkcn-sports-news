@@ -17,19 +17,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://media.formula1.com/image/upload/t_16by9South/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_United_States/2301984849.webp" alt="圖片：Formula 1" referrerpolicy="no-referrer" onerror="this.closest('.article-hero').remove()"></div>
   <div class="card-top"><span class="sport-tag">f1</span><span>2026-10-26 05:36</span><span> · Formula 1</span></div>
-  <h1>安東尼利贏美國站大獎賽　封王要等墨西哥站</h1>
-  <div class="alt-titles"><p>Antonelli wins United States Grand Prix but must wait to seal F1 world title</p><p>安东尼利赢美国站大奖赛　封王要等墨西哥站</p></div>
-  <p class="lead">20歲平治車手安東尼利星期日在美國大獎賽奪冠，今季第九場勝利，但要等到下星期墨西哥站先有望提前封王。安東尼利由頭位起步，憑一停策略力保領先，以13.078秒優勢擊敗法拉利的拿卡克，紅牛的韋斯達潘得第三。要在德州封王，安東尼利需要隊友羅素排第九或之後、咸美頓排第五或之後，但羅素得第八、咸美頓得第四，令冠軍懸念留到墨西哥。安東尼利現以365分領先車手榜，拋離羅素123分、咸美頓124分，餘下125分可爭；下星期在墨西哥只要以前九名完賽即可封王。</p>
-  <div class="tags"><button class="tag">#安東尼利</button><button class="tag">#美國大獎賽</button><button class="tag">#一級方程式</button><button class="tag">#平治</button></div>
+  <h1 class="article-title">安東尼利贏美國站大獎賽　封王要等墨西哥站</h1>
+  <p class="lead article-summary">20歲平治車手安東尼利星期日在美國大獎賽奪冠，今季第九場勝利，但要等到下星期墨西哥站先有望提前封王。安東尼利由頭位起步，憑一停策略力保領先，以13.078秒優勢擊敗法拉利的拿卡克，紅牛的韋斯達潘得第三。要在德州封王，安東尼利需要隊友羅素排第九或之後、咸美頓排第五或之後，但羅素得第八、咸美頓得第四，令冠軍懸念留到墨西哥。安東尼利現以365分領先車手榜，拋離羅素123分、咸美頓124分，餘下125分可爭；下星期在墨西哥只要以前九名完賽即可封王。</p>
+  <div class="tags article-tags"><button class="tag">#安東尼利</button><button class="tag">#美國大獎賽</button><button class="tag">#一級方程式</button><button class="tag">#平治</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.formula1.com/en/latest/article/antonelli-surges-to-dominant-victory-in-united-states-grand-prix-ahead-of-leclerc-and-verstappen.6kmBQv9FNTW7LzkDj8S34j" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhksports.hk%2Fa%2F20261026-f1-us-gp-antonelli-wins-title-wait.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

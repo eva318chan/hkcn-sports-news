@@ -16,18 +16,82 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="card-top"><span class="sport-tag">others</span><span>2026-10-20 17:13</span><span> · 體路 Sportsroad</span></div>
-  <h1>亞殘運女花團體決賽不敵中國摘銀　港隊連續三屆奪銀、五屆頒獎台</h1>
-  <div class="alt-titles"><p>Hong Kong women&#x27;s foil team takes silver at Asian Para Games, third straight Games final defeat to China</p><p>亚残运女花团体决赛不敌中国摘银　港队连续三届夺银、五届颁奖台</p></div>
-  <p class="lead">由林嘉雯、余翠怡、鍾婉萍及湯雅婷組成的港隊，在名古屋亞殘運輪椅劍擊女子花劍團體賽決賽以12比30不敵中國，奪得銀牌。今屆賽制改為6場30分制、僅5隊參賽，港隊直入4強對泰國——開局落後1比10下，余翠怡打出一段14比3攻勢反超前15比13；後備上陣的湯雅婷與對手打成5比5，第五場上陣的林嘉雯再打出5比1拉開至25比19，余翠怡「守尾門」保住勝局，港隊以30比23晉級。決賽面對中國，港隊全場被對手氣勢壓住，未能報卻上兩屆決賽之仇。這是港隊連續三屆奪得女花團體銀牌，亦是團體賽（不論劍種）連續五屆登上頒獎台，按「賽馬會優秀運動員獎勵計劃」可獲25萬元獎金。新增的混合花劍團體賽，港隊（陳曦、鄺遠興、余翠怡、湯雅婷）8強20比14挫日本、4強8比20負中國，銅牌戰在首三場領先下遭逆轉，以17比20落敗得第四。</p>
-  <div class="tags"><button class="tag">#亞殘運</button><button class="tag">#輪椅劍擊</button><button class="tag">#余翠怡</button><button class="tag">#女花團體</button></div>
+  <h1 class="article-title">亞殘運女花團體決賽不敵中國摘銀　港隊連續三屆奪銀、五屆頒獎台</h1>
+  <p class="lead article-summary">由林嘉雯、余翠怡、鍾婉萍及湯雅婷組成的港隊，在名古屋亞殘運輪椅劍擊女子花劍團體賽決賽以12比30不敵中國，奪得銀牌。今屆賽制改為6場30分制、僅5隊參賽，港隊直入4強對泰國——開局落後1比10下，余翠怡打出一段14比3攻勢反超前15比13；後備上陣的湯雅婷與對手打成5比5，第五場上陣的林嘉雯再打出5比1拉開至25比19，余翠怡「守尾門」保住勝局，港隊以30比23晉級。決賽面對中國，港隊全場被對手氣勢壓住，未能報卻上兩屆決賽之仇。這是港隊連續三屆奪得女花團體銀牌，亦是團體賽（不論劍種）連續五屆登上頒獎台，按「賽馬會優秀運動員獎勵計劃」可獲25萬元獎金。新增的混合花劍團體賽，港隊（陳曦、鄺遠興、余翠怡、湯雅婷）8強20比14挫日本、4強8比20負中國，銅牌戰在首三場領先下遭逆轉，以17比20落敗得第四。</p>
+  <div class="tags article-tags"><button class="tag">#亞殘運</button><button class="tag">#輪椅劍擊</button><button class="tag">#余翠怡</button><button class="tag">#女花團體</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.sportsroad.hk/archives/658601/愛知名古屋亞殘運・直擊｜女花港隊決賽惜負中國/" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-sports-news.vercel.app%2Fa%2F20261020-para-fencing-women-foil-team-silver.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

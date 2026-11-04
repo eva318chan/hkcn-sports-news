@@ -16,19 +16,83 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
 
   <div class="card-top"><span class="sport-tag">basketball</span><span>2026-10-30 15:53</span><span> · MENEE 米力</span></div>
-  <h1>菲爾斯 22 分 13 助攻　鵜鶘 132:120 挫國王奪今季首勝</h1>
-  <div class="alt-titles"><p>Fears' 22 points, 13 assists lift Pelicans past Kings 132-120 for first win</p><p>菲尔斯 22 分 13 助攻　鹈鹕 132:120 挫国王夺今季首胜</p></div>
-  <p class="lead">謝利美亞·菲爾斯交出 22 分、13 次助攻、8 個籃板，施安·威廉遜 12 投 10 中攻入 22 分，紐奧爾良鵜鶘主場以 132 比 120 擊敗沙加緬度國王，終止開季四連敗，戰績 1 勝 4 負，新帥莫斯利亦取得執教首勝。鵜鶘全場投籃命中率近六成，第二、三節各攻 39 分，第三節中段一波 16 比 2 鎖定勝局，梅菲 18 分，替補得分 41 比 8 完勝。國王開季五連敗，19 歲新秀戴利阿斯·阿克夫攻入全場最高 34 分生涯新高，成為近 40 季第三位生涯前五戰兩度得分 30+ 的球員；沙邦尼斯 15 個籃板但 7 次失誤，國王全隊 25 次失誤、禁區失 80 分。</p>
-  <div class="tags"><button class="tag">#NBA</button><button class="tag">#鵜鶘</button><button class="tag">#菲爾斯</button></div>
+  <h1 class="article-title">菲爾斯 22 分 13 助攻　鵜鶘 132:120 挫國王奪今季首勝</h1>
+  <p class="lead article-summary">謝利美亞·菲爾斯交出 22 分、13 次助攻、8 個籃板，施安·威廉遜 12 投 10 中攻入 22 分，紐奧爾良鵜鶘主場以 132 比 120 擊敗沙加緬度國王，終止開季四連敗，戰績 1 勝 4 負，新帥莫斯利亦取得執教首勝。鵜鶘全場投籃命中率近六成，第二、三節各攻 39 分，第三節中段一波 16 比 2 鎖定勝局，梅菲 18 分，替補得分 41 比 8 完勝。國王開季五連敗，19 歲新秀戴利阿斯·阿克夫攻入全場最高 34 分生涯新高，成為近 40 季第三位生涯前五戰兩度得分 30+ 的球員；沙邦尼斯 15 個籃板但 7 次失誤，國王全隊 25 次失誤、禁區失 80 分。</p>
+  <div class="tags article-tags"><button class="tag">#NBA</button><button class="tag">#鵜鶘</button><button class="tag">#菲爾斯</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://menee.com/posts/20459" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhksports.hk%2Fa%2F20261031-pelicans-beat-kings-132-120.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

@@ -17,21 +17,85 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="article-hero"><img src="https://www.crash.net/sites/default/files/2026-11/xpb_1450234_hires.jpg?width=1600" alt="" referrerpolicy="no-referrer" onerror="this.closest('.article-hero').remove()"></div>
 
   <p style="font-size:13px;color:#888;margin:8px 0 0">維斯塔潘（紅牛）喺墨西哥站力壓咸美頓（法拉利）奪冠，安東尼利季軍封王。（Crash.net／XPB Images）</p>
   <div class="card-top"><span class="sport-tag">motorsport</span><span>2026-11-02 06:30</span><span> · Crash.net</span></div>
-  <h1>維斯塔潘墨西哥站險勝咸美頓　安東尼利季軍加冕史上最年輕F1世界冠軍</h1>
-  <div class="alt-titles"><p>Antonelli seals F1 title with third in Mexico as Verstappen wins chaotic race</p><p>维斯塔潘墨西哥站险胜咸美顿　安东尼利季军加冕史上最年轻F1世界冠军</p></div>
-  <p class="lead">20歲嘅安東尼利喺戲劇性嘅墨西哥城大獎賽攞季軍，提前加冕2026年F1車手世界冠軍，成為史上最年輕嘅F1世界冠軍。維斯塔潘以0.799秒力壓法拉利嘅咸美頓奪冠，係今季第3勝、生涯第74勝；比賽因為保達斯第46圈大炒車而出示紅旗中斷。安東尼利今仗只需要第9名就封王，最終以季軍完成，係1953年阿斯卡利以嚟首位意大利世界冠軍，亦幫平治攞到自2020年咸美頓之後首個車手冠軍。法拉利雙雄咸美頓同勒克萊爾開賽圈相撞，勒克萊爾之後因為抄捷徑被罰5秒。</p>
-  <div class="tags"><button class="tag">#F1</button><button class="tag">#安東尼利</button><button class="tag">#墨西哥站</button></div>
+  <h1 class="article-title">維斯塔潘墨西哥站險勝咸美頓　安東尼利季軍加冕史上最年輕F1世界冠軍</h1>
+  <p class="lead article-summary">20歲嘅安東尼利喺戲劇性嘅墨西哥城大獎賽攞季軍，提前加冕2026年F1車手世界冠軍，成為史上最年輕嘅F1世界冠軍。維斯塔潘以0.799秒力壓法拉利嘅咸美頓奪冠，係今季第3勝、生涯第74勝；比賽因為保達斯第46圈大炒車而出示紅旗中斷。安東尼利今仗只需要第9名就封王，最終以季軍完成，係1953年阿斯卡利以嚟首位意大利世界冠軍，亦幫平治攞到自2020年咸美頓之後首個車手冠軍。法拉利雙雄咸美頓同勒克萊爾開賽圈相撞，勒克萊爾之後因為抄捷徑被罰5秒。</p>
+  <div class="tags article-tags"><button class="tag">#F1</button><button class="tag">#安東尼利</button><button class="tag">#墨西哥站</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://www.crash.net/f1/race-report/1109250/1/max-verstappen-defeats-lewis-hamilton-mexico-gp-kimi-antonelli-secures" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhksports.hk%2Fa%2F20261102-f1-mexico-antonelli-champion.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

@@ -16,18 +16,82 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}catch(e){}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="card-top"><span class="sport-tag">badminton</span><span>2026-10-18 19:00</span><span> · 維基百科（2026年丹麥羽毛球公開賽）</span></div>
-  <h1>丹麥羽毛球公開賽今晚決賽　安洗瑩鬥山口茜、國羽混雙內戰</h1>
-  <div class="alt-titles"><p>Denmark Open finals tonight: An Se-young vs Yamaguchi, all-Chinese mixed doubles showdown</p><p>丹麦羽毛球公开赛今晚决赛　安洗莹斗山口茜、国羽混双内战</p></div>
-  <p class="lead">丹麥羽毛球公開賽今日上演五場決賽，丹麥時間中午12時（香港時間晚上6時）開打，預計至晚上11時結束；賽事屬超級750級別，在歐登塞舉行，總獎金95萬美元。男單由法國7號種子拉尼耶對丹麥主場的5號種子安東森；女單頭號種子安洗瑩硬撼3號種子山口茜。男雙馬來西亞謝定峰／蘇偉譯對印尼法賈／菲克里；女雙日本鈴木陽向／山北奈緒對馬來西亞陳康樂／蒂娜；混雙則由頭號種子馮彥哲／黃東萍對2號種子蔣振邦／魏雅欣，上演國羽內戰。港將方面，伍家朗16強不敵丹麥的傑姆克，李卓耀首圈、吳英倫16強均敗於安東森拍下。</p>
-  <div class="tags"><button class="tag">#丹麥公開賽</button><button class="tag">#羽毛球</button><button class="tag">#安洗瑩</button></div>
+  <h1 class="article-title">丹麥羽毛球公開賽今晚決賽　安洗瑩鬥山口茜、國羽混雙內戰</h1>
+  <p class="lead article-summary">丹麥羽毛球公開賽今日上演五場決賽，丹麥時間中午12時（香港時間晚上6時）開打，預計至晚上11時結束；賽事屬超級750級別，在歐登塞舉行，總獎金95萬美元。男單由法國7號種子拉尼耶對丹麥主場的5號種子安東森；女單頭號種子安洗瑩硬撼3號種子山口茜。男雙馬來西亞謝定峰／蘇偉譯對印尼法賈／菲克里；女雙日本鈴木陽向／山北奈緒對馬來西亞陳康樂／蒂娜；混雙則由頭號種子馮彥哲／黃東萍對2號種子蔣振邦／魏雅欣，上演國羽內戰。港將方面，伍家朗16強不敵丹麥的傑姆克，李卓耀首圈、吳英倫16強均敗於安東森拍下。</p>
+  <div class="tags article-tags"><button class="tag">#丹麥公開賽</button><button class="tag">#羽毛球</button><button class="tag">#安洗瑩</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E4%B8%B9%E9%BA%A5%E7%BE%BD%E6%AF%9B%E7%90%83%E5%85%AC%E9%96%8B%E8%B3%BD" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhkcn-sports-news.vercel.app%2Fa%2F20261018-denmark-open-finals-preview.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>

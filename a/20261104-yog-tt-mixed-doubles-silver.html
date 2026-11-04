@@ -16,18 +16,82 @@
 <script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}</script>
 </head>
 <body>
+<div class="article-topbar">
 <a class="backlink" href="../">← 港體育</a>
+<div class="controls">
+<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+</div>
+</div>
 <main class="article-wrap">
   <div class="card-top"><span class="sport-tag">table_tennis</span><span>2026-11-04 16:29</span><span> · Metro HK 都巿日報</span></div>
-  <h1>達卡青奧運｜黎騏豪／蘇籽童混雙決賽1:3不敵日本組合　港隊添銀牌</h1>
-  <div class="alt-titles"><p>Dakar Youth Olympics: Li Ki-ho and So Tsz-tung take table tennis mixed doubles silver</p><p>达卡青奥运｜黎骐豪／苏籽童混双决赛1:3不敌日本组合　港队添银牌</p></div>
-  <p class="lead">港隊乒乓球混雙組合黎騏豪／蘇籽童在達卡青年奧運會乒乓球混合雙打決賽，以局數1:3不敵日本的川上流星／松島美空（11:9、10:12、11:6、13:11），為港隊添上銀牌。「黎蘇配」先後擊敗埃及、法國及泰國組合殺入決賽，是港隊今屆青奧第二面獎牌。文化體育及旅遊局局長羅淑佩向兩名小將致賀，同時祝賀武術金牌得主潘浩然及100米蛙泳銅牌得主文薈喬。</p>
-  <div class="tags"><button class="tag">#達卡青奧運</button><button class="tag">#黎騏豪</button><button class="tag">#蘇籽童</button><button class="tag">#乒乓球混雙</button><button class="tag">#銀牌</button></div>
+  <h1 class="article-title">達卡青奧運｜黎騏豪／蘇籽童混雙決賽1:3不敵日本組合　港隊添銀牌</h1>
+  <p class="lead article-summary">港隊乒乓球混雙組合黎騏豪／蘇籽童在達卡青年奧運會乒乓球混合雙打決賽，以局數1:3不敵日本的川上流星／松島美空（11:9、10:12、11:6、13:11），為港隊添上銀牌。「黎蘇配」先後擊敗埃及、法國及泰國組合殺入決賽，是港隊今屆青奧第二面獎牌。文化體育及旅遊局局長羅淑佩向兩名小將致賀，同時祝賀武術金牌得主潘浩然及100米蛙泳銅牌得主文薈喬。</p>
+  <div class="tags article-tags"><button class="tag">#達卡青奧運</button><button class="tag">#黎騏豪</button><button class="tag">#蘇籽童</button><button class="tag">#乒乓球混雙</button><button class="tag">#銀牌</button></div>
   <div style="margin:20px 0;display:flex;gap:10px;flex-wrap:wrap">
     <a class="abtn primary" style="font-size:15px;padding:10px 22px" href="https://metrohk.com.hk/體育/潘浩然青奧奪港隊首金-羅淑佩祝賀-d6ed38" target="_blank" rel="noopener">閱讀原文 →</a>
     <a class="abtn" style="font-size:15px;padding:10px 18px" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhksports.hk%2Fa%2F20261104-yog-tt-mixed-doubles-silver.html" target="_blank" rel="noopener">分享到 Facebook</a>
   </div>
 </main>
 <footer><p>摘要由本站重新編寫，圖片版權歸原新聞機構所有。</p></footer>
+<script>
+(function(){
+  var SITE='港體育';
+  function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  var LANG='zh_hant';
+  try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
+  var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
+  var d=aid.slice(0,8), durl='../data/'+d.slice(0,4)+'-'+d.slice(4,6)+'-'+d.slice(6,8)+'.json';
+  function pick(o){ return (o&&(o[LANG]||o.zh_hant))||''; }
+  function setActive(){
+    var btns=document.querySelectorAll('.lang-switch button');
+    for(var i=0;i<btns.length;i++) btns[i].classList.toggle('active', btns[i].getAttribute('data-lang')===LANG);
+  }
+  function apply(a){
+    setActive();
+    document.documentElement.lang = LANG==='en'?'en':(LANG==='zh_hans'?'zh-CN':'zh-Hant');
+    if(!a) return;
+    var h1=document.querySelector('h1.article-title');
+    var lead=document.querySelector('p.article-summary');
+    var tags=document.querySelector('.article-tags');
+    var t=pick(a.title), s=pick(a.summary);
+    if(h1&&t) h1.textContent=t;
+    if(lead&&s) lead.textContent=s;
+    if(tags&&a.tags){
+      var arr=a.tags[LANG]||a.tags.zh_hant||[];
+      if(typeof arr==='string') arr=[arr];
+      var h='';
+      for(var i=0;i<arr.length;i++) h+='<button class="tag">#'+esc(arr[i])+'</button>';
+      tags.innerHTML=h;
+    }
+    if(t) document.title=t+' | '+SITE;
+  }
+  var btns=document.querySelectorAll('.lang-switch button');
+  for(var i=0;i<btns.length;i++)(function(b){
+    b.addEventListener('click',function(){
+      LANG=b.getAttribute('data-lang');
+      try{ localStorage.setItem('hks_lang',LANG); }catch(e){}
+      apply(window.__ADATA||null);
+    });
+  })(btns[i]);
+  var tb=document.getElementById('themeBtn');
+  function setIcon(){ if(tb) tb.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'\u2600\uFE0F':'\uD83C\uDF19'; }
+  if(tb) tb.addEventListener('click',function(){
+    var cur=document.documentElement.getAttribute('data-theme')==='dark';
+    var t=cur?'light':'dark';
+    document.documentElement.setAttribute('data-theme',t);
+    try{ localStorage.setItem('hks_theme',t); }catch(e){}
+    setIcon();
+  });
+  setIcon(); setActive();
+  if(/^\d{8}$/.test(d)){
+    fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
+      var a=null;
+      for(var i=0;i<arr.length;i++) if(arr[i].id===aid){ a=arr[i]; break; }
+      window.__ADATA=a; apply(a);
+    }).catch(function(){});
+  }
+})();
+</script>
 </body>
 </html>
