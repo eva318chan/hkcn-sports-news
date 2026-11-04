@@ -690,7 +690,7 @@
    "zh_hans": "巴黎大师赛｜保尔7:5、6:4淘汰朗尼　保住年终赛争入希望"
   },
   "summary": {
-   "en": "America's Tommy Paul beat Denmark's Holger Rune 7-5, 6-4 in the Paris Masters first round, reaching the second round while keeping his hopes of qualifying for the ATP Finals in Turin alive. The 12th seed needed just 80 minutes in a composed display, and must reach at least the final to stay in contention. Rune, the 2022 Paris Masters champion, was playing his first event back after 11 months out with an Achilles injury and bowed out in the opening round. Paul next faces Spain's Jaume Munar.",
+   "en": "America's Tommy Paul beat Denmark's Holger Rune 7-5, 6-4 in the Paris Masters first round, reaching the second round while keeping his hopes of qualifying for the ATP Finals in Turin alive. The 12th seed needed just 80 minutes in a composed display, and must reach at least the final to stay in contention. Rune, the 2022 Paris Masters champion, was playing his first event back after 11 months out with an Achilles injury and bowed out in the opening round. Paul next faces Spain's Daniel Merida.",
    "zh_hant": "美國球手保爾在巴黎大師賽首圈以7:5、6:4擊敗丹麥的朗尼，晉級第二圈兼保住爭入都靈年終總決賽的希望。12號種子保爾今仗只用1小時20分鐘，表現沉著；要爭入年終賽，他至少要打入決賽。朗尼是2022年巴黎大師賽冠軍，今季因阿基里斯腱傷患休息11個月後復出，巴黎之旅首圈止步。保爾下圈將對西班牙的馬里達。",
    "zh_hans": "美国球手保尔在巴黎大师赛首圈以7:5、6:4击败丹麦的朗尼，晋级第二圈兼保住争入都灵年终总决赛的希望。12号种子保尔今仗只用1小时20分钟，表现沉着；要争入年终赛，他至少要打入决赛。朗尼是2022年巴黎大师赛冠军，今季因阿基里斯腱伤患休息11个月后复出，巴黎之旅首圈止步。保尔下圈将对西班牙的马里达。"
   },
@@ -750,6 +750,158 @@
     "浦项制铁",
     "大阪飞脚",
     "第4轮"
+   ]
+  }
+ },
+ {
+  "id": "20261104-paris-masters-musetti-zverev",
+  "sport": "tennis",
+  "published_at": "2026-11-04T22:38:00+08:00",
+  "image_url": null,
+  "source": "Tennis365",
+  "source_url": "https://www.tennis365.com/tennis-news/alexander-zverev-joins-carlos-alcaraz-unwanted-no-1-list-lorenzo-musetti-loss-paris-masters",
+  "title": {
+   "en": "Paris Masters: Lorenzo Musetti stuns new world No. 1 Alexander Zverev 7-6(5), 6-2",
+   "zh_hant": "巴黎大師賽｜梅錫迪直落兩盤淘汰世界第一薩維列夫　16強再添大冷門",
+   "zh_hans": "巴黎大师赛｜梅锡迪直落两盘淘汰世界第一萨维列夫　16强再添大冷门"
+  },
+  "summary": {
+   "en": "Lorenzo Musetti stunned newly-crowned world No. 1 Alexander Zverev 7-6(5), 6-2 in the Paris Masters round of 32, ending the German's first match as top seed in one hour and 40 minutes. The 24-year-old Italian rallied from 2-5 down in the first-set tiebreak before dominating the second set with his sliced backhand. Zverev, who took the No. 1 ranking from Jannik Sinner last week, became the fifth man in the Open Era to lose his first match as world No. 1, and his 3-9 record against top-10 players this season is the worst ever for a newly-minted No. 1. Musetti, the world No. 24, next faces France's Luca Van Assche in the last 16.",
+   "zh_hant": "意大利球手梅錫迪在巴黎大師賽32強以7:6(5)、6:2直落兩盤淘汰新登世界第一的德國球手薩維列夫，僅用1小時40分鐘便爆出賽事最大冷門。世界排名第24位的梅錫迪在首盤搶七落後2:5下連取5分反勝，第二盤更全面壓制對手。薩維列夫上周才從冼拿手上搶走世界第一寶座，成為公開賽年代第五位確認登頂後即輸波的球手；他今季對世界前十僅3勝9負，是新任世界第一歷來最差開局。梅錫迪晉級16強後將鬥法國的華亞舒。",
+   "zh_hans": "意大利球手梅锡迪在巴黎大师赛32强以7:6(5)、6:2直落两盘淘汰新登世界第一的德国球手萨维列夫，仅用1小时40分钟便爆出赛事最大冷门。世界排名第24位的梅锡迪在首盘抢七落后2:5下连取5分反胜，第二盘更全面压制对手。萨维列夫上周才从冼拿手上抢走世界第一宝座，成为公开赛年代第五位确认登顶后即输波的球手；他今季对世界前十仅3胜9负，是新任世界第一历来最差开局。梅锡迪晋级16强后将斗法国的华亚舒。"
+  },
+  "tags": {
+   "en": [
+    "Paris Masters",
+    "Lorenzo Musetti",
+    "Alexander Zverev",
+    "world No. 1"
+   ],
+   "zh_hant": [
+    "巴黎大師賽",
+    "梅錫迪",
+    "薩維列夫",
+    "世界第一"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "梅锡迪",
+    "萨维列夫",
+    "世界第一"
+   ]
+  }
+ },
+ {
+  "id": "20261104-paris-masters-halys-tiafoe",
+  "sport": "tennis",
+  "published_at": "2026-11-04T20:43:00+08:00",
+  "image_url": null,
+  "source": "SportsRation",
+  "source_url": "https://sportsration.com/quentin-halys-stuns-frances-tiafoe-at-paris-masters-after-saving-four-match-points/",
+  "title": {
+   "en": "Paris Masters: Quentin Halys saves four match points to stun Frances Tiafoe",
+   "zh_hant": "巴黎大師賽｜夏里斯決賽盤救4賽點反勝蒂亞福　開創生涯最大勝利",
+   "zh_hans": "巴黎大师赛｜夏里斯决赛盘救4赛点反胜蒂亚福　开创生涯最大胜利"
+  },
+  "summary": {
+   "en": "France's Quentin Halys saved four match points to beat seventh seed Frances Tiafoe 6-3, 1-6, 7-6(11-9) in the Paris Masters round of 32, the biggest win of his career. The 30-year-old world No. 46 broke back as Tiafoe served for the match at 5-4 in the decider, then took the tiebreak 11-9 on his first match point after one hour and 57 minutes on centre court. Tiafoe, seventh in the ATP Finals race, leaves the door open for Novak Djokovic and Alex de Minaur, while Arthur Fils sealed his first ATP Finals qualification thanks to Halys' win.",
+   "zh_hant": "法國球手夏里斯在巴黎大師賽32強上演大逆轉，以6:3、1:6、7:6(11:9)擊敗7號種子蒂亞福，取得職業生涯最大勝利。30歲的世界排名第46位球手在決勝盤蒂亞福5:4發球勝賽局時破發，之後在搶七救走4個賽點，激戰1小時57分鐘後以11:9拿下。在年終賽積分榜排第7的蒂亞福出局，令佐高域與迪文拿奧爭奪年終賽資格再添變數；費爾斯則憑夏里斯這場勝仗鎖定生涯首次年終賽席位。",
+   "zh_hans": "法国球手夏里斯在巴黎大师赛32强上演大逆转，以6:3、1:6、7:6(11:9)击败7号种子蒂亚福，取得职业生涯最大胜利。30岁的世界排名第46位球手在决胜盘蒂亚福5:4发球胜赛局时破发，之后在抢七救走4个赛点，激战1小时57分钟后以11:9拿下。在年终赛积分榜排第7的蒂亚福出局，令佐高域与迪文拿奥争夺年终赛资格再添变数；费尔斯则凭夏里斯这场胜仗锁定生涯首次年终赛席位。"
+  },
+  "tags": {
+   "en": [
+    "Paris Masters",
+    "Quentin Halys",
+    "Frances Tiafoe",
+    "match points"
+   ],
+   "zh_hant": [
+    "巴黎大師賽",
+    "夏里斯",
+    "蒂亞福",
+    "救賽點"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "夏里斯",
+    "蒂亚福",
+    "救赛点"
+   ]
+  }
+ },
+ {
+  "id": "20261104-paris-masters-paul-merida",
+  "sport": "tennis",
+  "published_at": "2026-11-04T22:02:00+08:00",
+  "image_url": null,
+  "source": "Tennis Majors",
+  "source_url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/ruthless-paul-routs-merida-to-reach-the-paris-round-of-16-865548.html",
+  "title": {
+   "en": "Paris Masters: Ruthless Tommy Paul routs Daniel Merida 6-1, 6-1 into last 16",
+   "zh_hant": "巴黎大師賽｜保爾48分鐘橫掃馬里達　晉級16強鬥夏里斯",
+   "zh_hans": "巴黎大师赛｜保尔48分钟横扫马里达　晋级16强斗夏里斯"
+  },
+  "summary": {
+   "en": "Twelfth seed Tommy Paul needed just 48 minutes to demolish Spain's Daniel Merida 6-1, 6-1 in the Paris Masters round of 32, storming into the last 16. The American, who beat Holger Rune earlier on Wednesday, was ruthless from the start and improves to 48-21 for the season. Paul next faces Frenchman Quentin Halys, who saved four match points to stun seventh seed Frances Tiafoe.",
+   "zh_hant": "12號種子保爾在巴黎大師賽32強只用48分鐘，以6:1、6:1橫掃西班牙的馬里達，強勢晉級16強。這位美國球手在周三較早時間才淘汰朗尼，今仗由頭帶到尾，今季戰績增至48勝21負。保爾16強將鬥法國的夏里斯，後者今晚救4賽點爆冷淘汰7號種子蒂亞福。",
+   "zh_hans": "12号种子保尔在巴黎大师赛32强只用48分钟，以6:1、6:1横扫西班牙的马里达，强势晋级16强。这位美国球手在周三较早时间才淘汰朗尼，今仗由头带到尾，今季战绩增至48胜21负。保尔16强将斗法国的夏里斯，后者今晚救4赛点爆冷淘汰7号种子蒂亚福。"
+  },
+  "tags": {
+   "en": [
+    "Paris Masters",
+    "Tommy Paul",
+    "Daniel Merida",
+    "round of 16"
+   ],
+   "zh_hant": [
+    "巴黎大師賽",
+    "保爾",
+    "馬里達",
+    "16強"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "保尔",
+    "马里达",
+    "16强"
+   ]
+  }
+ },
+ {
+  "id": "20261104-mavs-dumont-ownership",
+  "sport": "basketball",
+  "published_at": "2026-11-04T20:32:00+08:00",
+  "image_url": null,
+  "source": "Sports Business Journal",
+  "source_url": "https://www.sportsbusinessjournal.com/Articles/2026/11/04/dumont-family-gains-controlling-ownership-of-mavericks-with-adelson-share-purchase/",
+  "title": {
+   "en": "NBA: Dumont family buys out Adelson to take 69% controlling stake in Mavericks",
+   "zh_hant": "NBA｜杜蒙家族收購阿黛爾森股權　以69%成為獨行俠控股股東",
+   "zh_hans": "NBA｜杜蒙家族收购阿黛尔森股权　以69%成为独行侠控股股东"
+  },
+  "summary": {
+   "en": "Patrick Dumont and his wife Sivan have purchased Miriam Adelson's shares of the Dallas Mavericks, giving the Dumont family a 69% controlling stake in the franchise. The deal, completed last month and confirmed on Tuesday, keeps ownership within the family group that bought majority control from Mark Cuban in December 2023. Cuban retains 27%, while the Dumonts hold an option to buy another 20% from him at the original $3.5 billion valuation before the end of 2027. Dumont, the Mavericks' governor since 2023, said he plans to proceed with a new arena.",
+   "zh_hant": "達拉斯獨行俠班主柏德烈・杜蒙與妻子西凡已從米麗安・阿黛爾森手上購入其持有的獨行俠股份，杜蒙家族以69%股權成為球隊控股股東。交易在上月完成、周二正式確認，股權繼續留在2023年12月從馬克・古班手上收購大部份股權的家族集團內。古班保留27%股份，杜蒙家族可在2027年底前以當年35億美元估值再向古班購入額外20%。自2023年起擔任球隊總監的杜蒙表示，將推進興建新球場的計劃。",
+   "zh_hans": "达拉斯独行侠班主柏德烈・杜蒙与妻子西凡已从米丽安・阿黛尔森手上购入其持有的独行侠股份，杜蒙家族以69%股权成为球队控股股东。交易在上月完成、周二正式确认，股权继续留在2023年12月从马克・古班手上收购大部份股权的家族集团内。古班保留27%股份，杜蒙家族可在2027年底前以当年35亿美元估值再向古班购入额外20%。自2023年起担任球队总监的杜蒙表示，将推进兴建新球场的计划。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Dallas Mavericks",
+    "Patrick Dumont",
+    "ownership"
+   ],
+   "zh_hant": [
+    "NBA",
+    "獨行俠",
+    "杜蒙",
+    "股權"
+   ],
+   "zh_hans": [
+    "NBA",
+    "独行侠",
+    "杜蒙",
+    "股权"
    ]
   }
  }
