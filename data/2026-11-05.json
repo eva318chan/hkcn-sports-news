@@ -307,7 +307,7 @@
   "id": "20261105-afc-elite-buriram-kashima",
   "sport": "football",
   "published_at": "2026-11-04T22:30:00+08:00",
-  "image_url": null,
+  "image_url": "https://assets.the-afc.com/2026-27_ACL_Elite/Matches/League_Stage/East/MD4/Buriram_United-Kashima_Antlers/Album/Buriram-Kashima-Album.JPG",
   "source": "AFC",
   "source_url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md4-buriram-united-tha-0-0-kashima-antlers-jpn",
   "title": {
@@ -411,6 +411,44 @@
     "德约科维奇",
     "施迪卡塔",
     "ATP"
+   ]
+  }
+ },
+ {
+  "id": "20261105-paris-masters-fritz-molcan",
+  "sport": "tennis",
+  "published_at": "2026-11-05T01:56:00+08:00",
+  "image_url": null,
+  "source": "Flashscore",
+  "source_url": "https://www.flashscore.com/news/paris-masters-live-scores-updates-november-3-2026-zverev-alcaraz-djokovic-fils-medvedev-fritz-tiafoe/OK2I9aim/",
+  "title": {
+   "en": "Paris Masters: Fritz survives Molcan scare 6-7(8), 7-5, 7-6(5) with 37 aces",
+   "zh_hant": "巴黎大師賽｜費列斯 37 記 ACE 激戰三盤 6-7（8）、7-5、7-6（5）淘汰摩爾辛",
+   "zh_hans": "巴黎大师赛｜弗里茨 37 记 ACE 激战三盘 6-7（8）、7-5、7-6（5）淘汰摩尔辛"
+  },
+  "summary": {
+   "en": "Taylor Fritz survived a major scare in the Paris Masters second round on Wednesday, edging qualifier Alex Molcan 6-7(8), 7-5, 7-6(5) in two hours and 32 minutes. The 11th seed produced an extraordinary serving display, firing 37 aces to avoid joining fellow seeds in falling to qualifiers. Fritz keeps alive his slim ATP Finals hopes, but must reach the Paris final to qualify; he faces Quentin Halys in the third round.",
+   "zh_hant": "泰萊·費列斯周三在巴黎大師賽第二圈驚險過關，以 6-7（8）、7-5、7-6（5）激戰 2 小時 32 分鐘淘汰外圍賽球手摩爾辛。11 號種子全場轟出驚人的 37 記 ACE，發球表現無解，避開與其他種子一樣爆冷出局的命運。費列斯保住都靈年終賽的一線希望，但必須打入巴黎決賽才有望晉級；下一圈將對陣地主球手阿利斯。",
+   "zh_hans": "泰勒·弗里茨周三在巴黎大师赛第二圈惊险过关，以 6-7（8）、7-5、7-6（5）激战 2 小时 32 分钟淘汰外围赛球手摩尔辛。11 号种子全场轰出惊人的 37 记 ACE，发球表现无解，避开与其他种子一样爆冷出局的命运。弗里茨保住都灵年终赛的一线希望，但必须打入巴黎决赛才有望晋级；下一圈将对阵东道主球手阿利斯。"
+  },
+  "tags": {
+   "en": [
+    "Paris Masters",
+    "Taylor Fritz",
+    "Alex Molcan",
+    "ATP Finals race"
+   ],
+   "zh_hant": [
+    "巴黎大師賽",
+    "費列斯",
+    "摩爾辛",
+    "年終賽爭奪戰"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "弗里茨",
+    "摩尔辛",
+    "年终赛争夺战"
    ]
   }
  }
