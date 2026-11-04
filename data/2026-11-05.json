@@ -1,5 +1,186 @@
 [
  {
+  "id": "20261105-paris-masters-alcaraz-michelsen",
+  "sport": "tennis",
+  "published_at": "2026-11-05T04:26:00+08:00",
+  "image_url": null,
+  "source": "Tennis Majors",
+  "source_url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/alcaraz-edges-michelsen-in-a-tie-break-to-set-up-berrettini-clash-in-paris-865677.html",
+  "title": {
+   "en": "Paris Masters: Alcaraz beats Michelsen 7-6(4), 6-3 to set up Berrettini clash",
+   "zh_hant": "巴黎大師賽｜艾卡拉斯 7-6（4）、6-3 淘汰米切臣　晉級16強硬撼貝雷蒂尼",
+   "zh_hans": "巴黎大师赛｜艾卡拉斯 7-6（4）、6-3 淘汰米切臣　晋级16强硬撼贝雷蒂尼"
+  },
+  "summary": {
+   "en": "Second seed Carlos Alcaraz opened his Paris Masters campaign with a 7-6(4), 6-3 second-round win over American Alex Michelsen on Wednesday in 1 hour 42 minutes. The world No. 3 saved a break point at 3-3 in the second set before breaking to seal victory, striking 26 winners. Alcaraz will face Matteo Berrettini in the round of 16 after the Italian beat home hope Ugo Humbert 7-6(3), 7-5.",
+   "zh_hant": "2號種子艾卡拉斯周三在巴黎大師賽第二圈旗開得勝，以7-6（4）、6-3擊敗美國球手米切臣，耗時1小時42分鐘。世界排名第3的西班牙球手在首盤搶七勝出後，次盤3-3時化解破發點再破發奠勝，全場轟出26記致勝球。艾卡拉斯將在16強硬撼貝雷蒂尼，後者同日以7-6（3）、7-5淘汰地主球手安貝爾。",
+   "zh_hans": "2号种子艾卡拉斯周三在巴黎大师赛第二圈旗开得胜，以7-6（4）、6-3击败美国球手米切臣，耗时1小时42分钟。世界排名第3的西班牙球手在首盘抢七胜出后，次盘3-3时化解破发点再破发奠胜，全场轰出26记致胜球。艾卡拉斯将在16强硬撼贝雷蒂尼，后者同日以7-6（3）、7-5淘汰地主球手安贝尔。"
+  },
+  "tags": {
+   "en": [
+    "Paris Masters",
+    "Alcaraz",
+    "ATP"
+   ],
+   "zh_hant": [
+    "巴黎大師賽",
+    "艾卡拉斯",
+    "ATP"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "艾卡拉斯",
+    "ATP"
+   ]
+  }
+ },
+ {
+  "id": "20261105-paris-masters-berrettini-humbert",
+  "sport": "tennis",
+  "published_at": "2026-11-05T03:30:00+08:00",
+  "image_url": null,
+  "source": "Flashscore",
+  "source_url": "https://www.flashscore.com/news/paris-masters-live-scores-updates-november-3-2026-zverev-alcaraz-djokovic-fils-medvedev-fritz-tiafoe/OK2I9aim/",
+  "title": {
+   "en": "Paris Masters: Berrettini beats Humbert 7-6(3), 7-5, sets up Alcaraz clash",
+   "zh_hant": "巴黎大師賽｜貝雷蒂尼 7-6（3）、7-5 淘汰安貝爾　16強鬥艾卡拉斯",
+   "zh_hans": "巴黎大师赛｜贝雷蒂尼 7-6（3）、7-5 淘汰安贝尔　16强斗艾卡拉斯"
+  },
+  "summary": {
+   "en": "Matteo Berrettini beat French home hope Ugo Humbert 7-6(3), 7-5 in the Paris Masters second round on Wednesday in 1 hour 46 minutes to reach the last 16. The 2024 runner-up Humbert could not repeat his famous 2024 win over Carlos Alcaraz in front of the home crowd. Berrettini next faces second seed Alcaraz, who leads their head-to-head 3-1.",
+   "zh_hant": "意大利球手貝雷蒂尼周三在巴黎大師賽第二圈以7-6（3）、7-5力克法國地主球手安貝爾，耗時1小時46分鐘，晉級16強。2024年賽事亞軍安貝爾在主場觀眾面前，未能重演兩年前擊敗艾卡拉斯的戲碼。貝雷蒂尼下一圈將硬撼2號種子艾卡拉斯，雙方對賽往績艾卡拉斯以3勝1負領先。",
+   "zh_hans": "意大利球手贝雷蒂尼周三在巴黎大师赛第二圈以7-6（3）、7-5力克法国地主球手安贝尔，耗时1小时46分钟，晋级16强。2024年赛事亚军安贝尔在主场观众面前，未能重演两年前击败艾卡拉斯的戏码。贝雷蒂尼下一圈将硬撼2号种子艾卡拉斯，双方对赛往绩艾卡拉斯以3胜1负领先。"
+  },
+  "tags": {
+   "en": [
+    "Paris Masters",
+    "Berrettini",
+    "ATP"
+   ],
+   "zh_hant": [
+    "巴黎大師賽",
+    "貝雷蒂尼",
+    "ATP"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "贝雷蒂尼",
+    "ATP"
+   ]
+  }
+ },
+ {
+  "id": "20261105-paris-masters-fritz-molcan",
+  "sport": "tennis",
+  "published_at": "2026-11-05T01:56:00+08:00",
+  "image_url": null,
+  "source": "Flashscore",
+  "source_url": "https://www.flashscore.com/news/paris-masters-live-scores-updates-november-3-2026-zverev-alcaraz-djokovic-fils-medvedev-fritz-tiafoe/OK2I9aim/",
+  "title": {
+   "en": "Paris Masters: Fritz survives Molcan scare 6-7(8), 7-5, 7-6(5) with 37 aces",
+   "zh_hant": "巴黎大師賽｜費列斯 37 記 ACE 激戰三盤 6-7（8）、7-5、7-6（5）淘汰摩爾辛",
+   "zh_hans": "巴黎大师赛｜弗里茨 37 记 ACE 激战三盘 6-7（8）、7-5、7-6（5）淘汰摩尔辛"
+  },
+  "summary": {
+   "en": "Taylor Fritz survived a major scare in the Paris Masters second round on Wednesday, edging qualifier Alex Molcan 6-7(8), 7-5, 7-6(5) in two hours and 32 minutes. The 11th seed produced an extraordinary serving display, firing 37 aces to avoid joining fellow seeds in falling to qualifiers. Fritz keeps alive his slim ATP Finals hopes, but must reach the Paris final to qualify; he faces Quentin Halys in the third round.",
+   "zh_hant": "泰萊·費列斯周三在巴黎大師賽第二圈驚險過關，以 6-7（8）、7-5、7-6（5）激戰 2 小時 32 分鐘淘汰外圍賽球手摩爾辛。11 號種子全場轟出驚人的 37 記 ACE，發球表現無解，避開與其他種子一樣爆冷出局的命運。費列斯保住都靈年終賽的一線希望，但必須打入巴黎決賽才有望晉級；下一圈將對陣地主球手阿利斯。",
+   "zh_hans": "泰勒·弗里茨周三在巴黎大师赛第二圈惊险过关，以 6-7（8）、7-5、7-6（5）激战 2 小时 32 分钟淘汰外围赛球手摩尔辛。11 号种子全场轰出惊人的 37 记 ACE，发球表现无解，避开与其他种子一样爆冷出局的命运。弗里茨保住都灵年终赛的一线希望，但必须打入巴黎决赛才有望晋级；下一圈将对阵东道主球手阿利斯。"
+  },
+  "tags": {
+   "en": [
+    "Paris Masters",
+    "Taylor Fritz",
+    "Alex Molcan",
+    "ATP Finals race"
+   ],
+   "zh_hant": [
+    "巴黎大師賽",
+    "費列斯",
+    "摩爾辛",
+    "年終賽爭奪戰"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "弗里茨",
+    "摩尔辛",
+    "年终赛争夺战"
+   ]
+  }
+ },
+ {
+  "id": "20261105-paris-masters-djokovic-hijikata",
+  "sport": "tennis",
+  "published_at": "2026-11-05T01:45:00+08:00",
+  "image_url": null,
+  "source": "ATP Tour",
+  "source_url": "https://www.youtube.com/watch?v=mHOfMWGOL-s",
+  "title": {
+   "en": "Paris Masters: Qualifier Hijikata stuns Djokovic 2-6, 6-3, 6-3 to reach round of 16",
+   "zh_hant": "巴黎大師賽｜施迪卡塔 2-6、6-3、6-3 反勝祖高域　爆冷晉級 16 強",
+   "zh_hans": "巴黎大师赛｜施迪卡塔 2-6、6-3、6-3 反胜德约科维奇　爆冷晋级 16 强"
+  },
+  "summary": {
+   "en": "Australia's Rinky Hijikata, a 25-year-old qualifier ranked 83rd, pulled off the biggest win of his career on Wednesday, beating 10th seed Novak Djokovic 2-6, 6-3, 6-3 in the Paris Masters second round to reach the last 16. The 39-year-old Djokovic, a seven-time champion in Paris who needed at least a semi-final to keep his ATP Finals hopes alive, is out of the tournament. Hijikata, who came through qualifying without dropping a set and beat Luciano Darderi in the first round, becomes the new Australian No. 2.",
+   "zh_hant": "25 歲澳洲外圍賽球手施迪卡塔周三在巴黎大師賽第二圈爆出大冷門，以 2-6、6-3、6-3 反勝 10 號種子祖高域，取得職業生涯最大勝利，晉級 16 強。世界排名第 83 位的施迪卡塔今站從外圍賽起步未失一盤，首圈已淘汰達迪利。39 歲的祖高域是七屆巴黎冠軍，原本需要打入四強才有望爭逐都靈年終賽席位，如今提早出局；施迪卡塔亦將升上澳洲「二哥」。",
+   "zh_hans": "25 岁澳大利亚资格赛球手施迪卡塔周三在巴黎大师赛第二圈爆出大冷门，以 2-6、6-3、6-3 反胜 10 号种子德约科维奇，取得职业生涯最大胜利，晋级 16 强。世界排名第 83 位的施迪卡塔今站从资格赛起步未失一盘，首圈已淘汰达尔德里。39 岁的德约科维奇是七届巴黎冠军，原本需要打入四强才有望争夺都灵年终赛席位，如今提早出局；施迪卡塔亦将升上澳大利亚「二哥」。"
+  },
+  "tags": {
+   "en": [
+    "Paris Masters",
+    "Djokovic",
+    "Hijikata",
+    "ATP"
+   ],
+   "zh_hant": [
+    "巴黎大師賽",
+    "祖高域",
+    "施迪卡塔",
+    "ATP"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "德约科维奇",
+    "施迪卡塔",
+    "ATP"
+   ]
+  }
+ },
+ {
+  "id": "20261105-paris-masters-borges-khachanov",
+  "sport": "tennis",
+  "published_at": "2026-11-05T01:21:00+08:00",
+  "image_url": null,
+  "source": "Tennis Majors",
+  "source_url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/alcaraz-edges-michelsen-in-a-tie-break-to-set-up-berrettini-clash-in-paris-865677.html",
+  "title": {
+   "en": "Paris Masters: Lucky loser Borges stuns Khachanov 6-3, 6-4 to reach last 16",
+   "zh_hant": "巴黎大師賽｜幸運輸家博爾熱斯 6-3、6-4 淘汰卡查洛夫　首闖16強",
+   "zh_hans": "巴黎大师赛｜幸运输家博尔热斯 6-3、6-4 淘汰卡查洛夫　首闯16强"
+  },
+  "summary": {
+   "en": "Portugal's lucky loser Nuno Borges beat Karen Khachanov 6-3, 6-4 in the Paris Masters second round on Wednesday to reach the last 16 in Paris for the first time. Khachanov had advanced via his opponent's retirement in the first round but could not continue his run. Borges continues his strong week as a lucky loser at La Defense Arena.",
+   "zh_hant": "葡萄牙幸運輸家博爾熱斯周三在巴黎大師賽第二圈以6-3、6-4直落兩盤淘汰卡查洛夫，生涯首度晉級巴黎大師賽16強。卡查洛夫首圈因對手受傷退賽晉級，今仗未能延續走勢。博爾熱斯以幸運輸家身份在拉德芳斯體育館連場報捷。",
+   "zh_hans": "葡萄牙幸运输家博尔热斯周三在巴黎大师赛第二圈以6-3、6-4直落两盘淘汰卡查洛夫，生涯首度晋级巴黎大师赛16强。卡查洛夫首圈因对手受伤退赛晋级，今仗未能延续走势。博尔热斯以幸运输家身份在拉德芳斯体育馆连场报捷。"
+  },
+  "tags": {
+   "en": [
+    "Paris Masters",
+    "Borges",
+    "ATP"
+   ],
+   "zh_hant": [
+    "巴黎大師賽",
+    "博爾熱斯",
+    "ATP"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "博尔热斯",
+    "ATP"
+   ]
+  }
+ },
+ {
   "id": "20261105-paris-masters-buse-medvedev",
   "sport": "tennis",
   "published_at": "2026-11-04T23:45:00+08:00",
@@ -76,44 +257,6 @@
   }
  },
  {
-  "id": "20261105-atp-finals-fils-qualifies",
-  "sport": "tennis",
-  "published_at": "2026-11-04T21:40:00+08:00",
-  "image_url": "https://aapnews.imgdeliver.net/article/lead_image/231980/38adc5d8-1c7c-497f-9813-6cee43f48956.jpg?width=800",
-  "source": "AAP",
-  "source_url": "https://aapnews.aap.com.au/news/de-minaur-s-atp-finals-hopes-dynamited-in-paris-masters",
-  "title": {
-   "en": "Fils seals first ATP Finals berth as Halys win ends Tiafoe's hopes",
-   "zh_hant": "ATP 年終賽｜菲斯首度入圍都靈　成十年來首位法國球手",
-   "zh_hans": "ATP 年终赛｜菲斯首度入围都灵　成十年来首位法国球手"
-  },
-  "summary": {
-   "en": "France's Arthur Fils, 22, sealed his first ATP Finals qualification on Wednesday after compatriot Quentin Halys beat Frances Tiafoe 6-3, 1-6, 7-6(9) in the Paris Masters second round. The world No. 7 becomes the 10th Frenchman to play the season finale and the first since Gael Monfils in 2016. Fils won the Cincinnati Masters and Barcelona titles this year but missed the Australian and French Opens through injury. The Finals run November 15-22 in Turin, with two places still available.",
-   "zh_hant": "22 歲法國球手阿瑟・菲斯周三鎖定首個 ATP 年終賽參賽資格，受惠於同胞阿利斯在巴黎大師賽第二圈以 6-3、1-6、7-6（9）淘汰迪亞科爾。世界排名第 7 的菲斯成為第十位征戰年終賽的法國球手，亦是自 2016 年蒙菲斯後首人。他今年贏得辛辛那提大師賽及巴塞隆拿公開賽冠軍，但因傷缺席澳網及法網。年終賽將於 11 月 15 至 22 日在都靈舉行，目前尚餘兩個席位。",
-   "zh_hans": "22 岁法国球手阿瑟・菲斯周三锁定首个 ATP 年终赛参赛资格，受惠于同胞阿利斯在巴黎大师赛第二圈以 6-3、1-6、7-6（9）淘汰迪亚科尔。世界排名第 7 的菲斯成为第十位征战年终赛的法国球手，亦是自 2016 年蒙菲斯后首人。他今年赢得辛辛那提大师赛及巴塞隆拿公开赛冠军，但因伤缺席澳网及法网。年终赛将于 11 月 15 至 22 日在都灵举行，目前尚余两个席位。"
-  },
-  "tags": {
-   "en": [
-    "ATP Finals",
-    "Fils",
-    "Turin",
-    "Tennis"
-   ],
-   "zh_hant": [
-    "ATP年終賽",
-    "菲斯",
-    "都靈",
-    "網球"
-   ],
-   "zh_hans": [
-    "ATP年终赛",
-    "菲斯",
-    "都灵",
-    "网球"
-   ]
-  }
- },
- {
   "id": "20261105-paris-masters-r2-wednesday",
   "sport": "tennis",
   "published_at": "2026-11-04T23:20:00+08:00",
@@ -148,6 +291,117 @@
     "舒尔顿",
     "云阿沙",
     "ATP"
+   ]
+  }
+ },
+ {
+  "id": "20261105-afc-elite-buriram-kashima",
+  "sport": "football",
+  "published_at": "2026-11-04T22:30:00+08:00",
+  "image_url": "https://assets.the-afc.com/2026-27_ACL_Elite/Matches/League_Stage/East/MD4/Buriram_United-Kashima_Antlers/Album/Buriram-Kashima-Album.JPG",
+  "source": "AFC",
+  "source_url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md4-buriram-united-tha-0-0-kashima-antlers-jpn",
+  "title": {
+   "en": "AFC Champions League Elite: Kashima held by Buriram, drop first points",
+   "zh_hant": "亞冠精英聯賽｜鹿島作客武里南互交白卷　首度失分",
+   "zh_hans": "亚冠精英联赛｜鹿岛作客武里南互交白卷　首度失分"
+  },
+  "summary": {
+   "en": "Kashima Antlers dropped their first points of the AFC Champions League Elite league phase on Wednesday, held to a 0-0 draw by hosts Buriram United in Thailand on matchday four. In the day's other East Zone tie, FC Pohang Steelers and Gamba Osaka played out a dramatic 3-3 draw.",
+   "zh_hant": "亞冠精英聯賽東亞區第 4 輪周三賽事，日本的鹿島鹿角作客泰國武里南聯互交白卷，鹿島今季聯賽階段首度失分。武里南聯在主場力保不失，搶得寶貴一分。同日另一場，浦項製鐵與大阪飛腳合演 3-3 入球騷（本站昨日已報道）。",
+   "zh_hans": "亚冠精英联赛东亚区第 4 轮周三赛事，日本的鹿岛鹿角作客泰国武里南联互交白卷，鹿岛今季联赛阶段首度失分。武里南联在主场力保不失，抢得宝贵一分。同日另一场，浦项制铁与大阪飞脚合演 3-3 入球骚（本站昨日已报道）。"
+  },
+  "tags": {
+   "en": [
+    "AFC Champions League",
+    "Kashima",
+    "Buriram",
+    "Football"
+   ],
+   "zh_hant": [
+    "亞冠精英聯賽",
+    "鹿島鹿角",
+    "武里南聯",
+    "足球"
+   ],
+   "zh_hans": [
+    "亚冠精英联赛",
+    "鹿岛鹿角",
+    "武里南联",
+    "足球"
+   ]
+  }
+ },
+ {
+  "id": "20261105-school-football-shatin-west",
+  "sport": "football",
+  "published_at": "2026-11-04T22:00:00+08:00",
+  "image_url": null,
+  "source": "體路 Sportsroad",
+  "source_url": "https://www.sportsroad.hk/?p=661496",
+  "title": {
+   "en": "HK school football: Tung Chi Ying and Ti-I College reach Sha Tin West final",
+   "zh_hant": "學界足球｜董之英、體藝晉級沙西區決賽　雙雙奪精英賽資格",
+   "zh_hans": "学界足球｜董之英、体艺晋级沙西区决赛　双双夺精英赛资格"
+  },
+  "summary": {
+   "en": "Yan Chai Hospital Tung Chi Ying Memorial Secondary School and Jockey Club Ti-I College won their Sha Tin West inter-school football D1 semi-finals on Wednesday to reach the district final and qualify for the elite competition. Tung Chi Ying beat Pui Kiu College 3-0, while Ti-I College defeated defending champions Lam Tai Fai College 3-1. The final will be played at Kai Tak Youth Sports Ground on December 8.",
+   "zh_hant": "2026-27 年度沙西區中學校際足球比賽 D1 高級組四強周三在曾大屋遊樂場上演。重返 D1 的仁濟醫院董之英紀念中學憑姚子亮梅開二度及莫嘉宏建功，以 3-0 擊敗培僑書院；賽馬會體藝中學則憑韋丰兩球及梁皆上「世界波」，以 3-1 力退衛冕的林大輝中學。兩隊同獲精英賽資格，並將於 12 月 8 日在啟德青年運動場爭奪沙西區冠軍。",
+   "zh_hans": "2026-27 年度沙西区中学校际足球比赛 D1 高级组四强周三在曾大屋游乐场上演。重返 D1 的仁济医院董之英纪念中学凭姚子亮梅开二度及莫嘉宏建功，以 3-0 击败培侨书院；赛马会体艺中学则凭韦丰两球及梁皆上「世界波」，以 3-1 力退卫冕的林大辉中学。两队同获精英赛资格，并将于 12 月 8 日在启德青年运动场争夺沙西区冠军。"
+  },
+  "tags": {
+   "en": [
+    "School football",
+    "Sha Tin",
+    "Hong Kong"
+   ],
+   "zh_hant": [
+    "學界足球",
+    "沙西區",
+    "香港足球"
+   ],
+   "zh_hans": [
+    "学界足球",
+    "沙西区",
+    "香港足球"
+   ]
+  }
+ },
+ {
+  "id": "20261105-atp-finals-fils-qualifies",
+  "sport": "tennis",
+  "published_at": "2026-11-04T21:40:00+08:00",
+  "image_url": "https://aapnews.imgdeliver.net/article/lead_image/231980/38adc5d8-1c7c-497f-9813-6cee43f48956.jpg?width=800",
+  "source": "AAP",
+  "source_url": "https://aapnews.aap.com.au/news/de-minaur-s-atp-finals-hopes-dynamited-in-paris-masters",
+  "title": {
+   "en": "Fils seals first ATP Finals berth as Halys win ends Tiafoe's hopes",
+   "zh_hant": "ATP 年終賽｜菲斯首度入圍都靈　成十年來首位法國球手",
+   "zh_hans": "ATP 年终赛｜菲斯首度入围都灵　成十年来首位法国球手"
+  },
+  "summary": {
+   "en": "France's Arthur Fils, 22, sealed his first ATP Finals qualification on Wednesday after compatriot Quentin Halys beat Frances Tiafoe 6-3, 1-6, 7-6(9) in the Paris Masters second round. The world No. 7 becomes the 10th Frenchman to play the season finale and the first since Gael Monfils in 2016. Fils won the Cincinnati Masters and Barcelona titles this year but missed the Australian and French Opens through injury. The Finals run November 15-22 in Turin, with two places still available.",
+   "zh_hant": "22 歲法國球手阿瑟・菲斯周三鎖定首個 ATP 年終賽參賽資格，受惠於同胞阿利斯在巴黎大師賽第二圈以 6-3、1-6、7-6（9）淘汰迪亞科爾。世界排名第 7 的菲斯成為第十位征戰年終賽的法國球手，亦是自 2016 年蒙菲斯後首人。他今年贏得辛辛那提大師賽及巴塞隆拿公開賽冠軍，但因傷缺席澳網及法網。年終賽將於 11 月 15 至 22 日在都靈舉行，目前尚餘兩個席位。",
+   "zh_hans": "22 岁法国球手阿瑟・菲斯周三锁定首个 ATP 年终赛参赛资格，受惠于同胞阿利斯在巴黎大师赛第二圈以 6-3、1-6、7-6（9）淘汰迪亚科尔。世界排名第 7 的菲斯成为第十位征战年终赛的法国球手，亦是自 2016 年蒙菲斯后首人。他今年赢得辛辛那提大师赛及巴塞隆拿公开赛冠军，但因伤缺席澳网及法网。年终赛将于 11 月 15 至 22 日在都灵举行，目前尚余两个席位。"
+  },
+  "tags": {
+   "en": [
+    "ATP Finals",
+    "Fils",
+    "Turin",
+    "Tennis"
+   ],
+   "zh_hant": [
+    "ATP年終賽",
+    "菲斯",
+    "都靈",
+    "網球"
+   ],
+   "zh_hans": [
+    "ATP年终赛",
+    "菲斯",
+    "都灵",
+    "网球"
    ]
   }
  },
@@ -300,155 +554,6 @@
     "史杜萨夫列域",
     "姬宁",
     "WTA"
-   ]
-  }
- },
- {
-  "id": "20261105-afc-elite-buriram-kashima",
-  "sport": "football",
-  "published_at": "2026-11-04T22:30:00+08:00",
-  "image_url": "https://assets.the-afc.com/2026-27_ACL_Elite/Matches/League_Stage/East/MD4/Buriram_United-Kashima_Antlers/Album/Buriram-Kashima-Album.JPG",
-  "source": "AFC",
-  "source_url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md4-buriram-united-tha-0-0-kashima-antlers-jpn",
-  "title": {
-   "en": "AFC Champions League Elite: Kashima held by Buriram, drop first points",
-   "zh_hant": "亞冠精英聯賽｜鹿島作客武里南互交白卷　首度失分",
-   "zh_hans": "亚冠精英联赛｜鹿岛作客武里南互交白卷　首度失分"
-  },
-  "summary": {
-   "en": "Kashima Antlers dropped their first points of the AFC Champions League Elite league phase on Wednesday, held to a 0-0 draw by hosts Buriram United in Thailand on matchday four. In the day's other East Zone tie, FC Pohang Steelers and Gamba Osaka played out a dramatic 3-3 draw.",
-   "zh_hant": "亞冠精英聯賽東亞區第 4 輪周三賽事，日本的鹿島鹿角作客泰國武里南聯互交白卷，鹿島今季聯賽階段首度失分。武里南聯在主場力保不失，搶得寶貴一分。同日另一場，浦項製鐵與大阪飛腳合演 3-3 入球騷（本站昨日已報道）。",
-   "zh_hans": "亚冠精英联赛东亚区第 4 轮周三赛事，日本的鹿岛鹿角作客泰国武里南联互交白卷，鹿岛今季联赛阶段首度失分。武里南联在主场力保不失，抢得宝贵一分。同日另一场，浦项制铁与大阪飞脚合演 3-3 入球骚（本站昨日已报道）。"
-  },
-  "tags": {
-   "en": [
-    "AFC Champions League",
-    "Kashima",
-    "Buriram",
-    "Football"
-   ],
-   "zh_hant": [
-    "亞冠精英聯賽",
-    "鹿島鹿角",
-    "武里南聯",
-    "足球"
-   ],
-   "zh_hans": [
-    "亚冠精英联赛",
-    "鹿岛鹿角",
-    "武里南联",
-    "足球"
-   ]
-  }
- },
- {
-  "id": "20261105-school-football-shatin-west",
-  "sport": "football",
-  "published_at": "2026-11-04T22:00:00+08:00",
-  "image_url": null,
-  "source": "體路 Sportsroad",
-  "source_url": "https://www.sportsroad.hk/?p=661496",
-  "title": {
-   "en": "HK school football: Tung Chi Ying and Ti-I College reach Sha Tin West final",
-   "zh_hant": "學界足球｜董之英、體藝晉級沙西區決賽　雙雙奪精英賽資格",
-   "zh_hans": "学界足球｜董之英、体艺晋级沙西区决赛　双双夺精英赛资格"
-  },
-  "summary": {
-   "en": "Yan Chai Hospital Tung Chi Ying Memorial Secondary School and Jockey Club Ti-I College won their Sha Tin West inter-school football D1 semi-finals on Wednesday to reach the district final and qualify for the elite competition. Tung Chi Ying beat Pui Kiu College 3-0, while Ti-I College defeated defending champions Lam Tai Fai College 3-1. The final will be played at Kai Tak Youth Sports Ground on December 8.",
-   "zh_hant": "2026-27 年度沙西區中學校際足球比賽 D1 高級組四強周三在曾大屋遊樂場上演。重返 D1 的仁濟醫院董之英紀念中學憑姚子亮梅開二度及莫嘉宏建功，以 3-0 擊敗培僑書院；賽馬會體藝中學則憑韋丰兩球及梁皆上「世界波」，以 3-1 力退衛冕的林大輝中學。兩隊同獲精英賽資格，並將於 12 月 8 日在啟德青年運動場爭奪沙西區冠軍。",
-   "zh_hans": "2026-27 年度沙西区中学校际足球比赛 D1 高级组四强周三在曾大屋游乐场上演。重返 D1 的仁济医院董之英纪念中学凭姚子亮梅开二度及莫嘉宏建功，以 3-0 击败培侨书院；赛马会体艺中学则凭韦丰两球及梁皆上「世界波」，以 3-1 力退卫冕的林大辉中学。两队同获精英赛资格，并将于 12 月 8 日在启德青年运动场争夺沙西区冠军。"
-  },
-  "tags": {
-   "en": [
-    "School football",
-    "Sha Tin",
-    "Hong Kong"
-   ],
-   "zh_hant": [
-    "學界足球",
-    "沙西區",
-    "香港足球"
-   ],
-   "zh_hans": [
-    "学界足球",
-    "沙西区",
-    "香港足球"
-   ]
-  }
- },
- {
-  "id": "20261105-paris-masters-djokovic-hijikata",
-  "sport": "tennis",
-  "published_at": "2026-11-05T01:45:00+08:00",
-  "image_url": null,
-  "source": "ATP Tour",
-  "source_url": "https://www.youtube.com/watch?v=mHOfMWGOL-s",
-  "title": {
-   "en": "Paris Masters: Qualifier Hijikata stuns Djokovic 2-6, 6-3, 6-3 to reach round of 16",
-   "zh_hant": "巴黎大師賽｜施迪卡塔 2-6、6-3、6-3 反勝祖高域　爆冷晉級 16 強",
-   "zh_hans": "巴黎大师赛｜施迪卡塔 2-6、6-3、6-3 反胜德约科维奇　爆冷晋级 16 强"
-  },
-  "summary": {
-   "en": "Australia's Rinky Hijikata, a 25-year-old qualifier ranked 83rd, pulled off the biggest win of his career on Wednesday, beating 10th seed Novak Djokovic 2-6, 6-3, 6-3 in the Paris Masters second round to reach the last 16. The 39-year-old Djokovic, a seven-time champion in Paris who needed at least a semi-final to keep his ATP Finals hopes alive, is out of the tournament. Hijikata, who came through qualifying without dropping a set and beat Luciano Darderi in the first round, becomes the new Australian No. 2.",
-   "zh_hant": "25 歲澳洲外圍賽球手施迪卡塔周三在巴黎大師賽第二圈爆出大冷門，以 2-6、6-3、6-3 反勝 10 號種子祖高域，取得職業生涯最大勝利，晉級 16 強。世界排名第 83 位的施迪卡塔今站從外圍賽起步未失一盤，首圈已淘汰達迪利。39 歲的祖高域是七屆巴黎冠軍，原本需要打入四強才有望爭逐都靈年終賽席位，如今提早出局；施迪卡塔亦將升上澳洲「二哥」。",
-   "zh_hans": "25 岁澳大利亚资格赛球手施迪卡塔周三在巴黎大师赛第二圈爆出大冷门，以 2-6、6-3、6-3 反胜 10 号种子德约科维奇，取得职业生涯最大胜利，晋级 16 强。世界排名第 83 位的施迪卡塔今站从资格赛起步未失一盘，首圈已淘汰达尔德里。39 岁的德约科维奇是七届巴黎冠军，原本需要打入四强才有望争夺都灵年终赛席位，如今提早出局；施迪卡塔亦将升上澳大利亚「二哥」。"
-  },
-  "tags": {
-   "en": [
-    "Paris Masters",
-    "Djokovic",
-    "Hijikata",
-    "ATP"
-   ],
-   "zh_hant": [
-    "巴黎大師賽",
-    "祖高域",
-    "施迪卡塔",
-    "ATP"
-   ],
-   "zh_hans": [
-    "巴黎大师赛",
-    "德约科维奇",
-    "施迪卡塔",
-    "ATP"
-   ]
-  }
- },
- {
-  "id": "20261105-paris-masters-fritz-molcan",
-  "sport": "tennis",
-  "published_at": "2026-11-05T01:56:00+08:00",
-  "image_url": null,
-  "source": "Flashscore",
-  "source_url": "https://www.flashscore.com/news/paris-masters-live-scores-updates-november-3-2026-zverev-alcaraz-djokovic-fils-medvedev-fritz-tiafoe/OK2I9aim/",
-  "title": {
-   "en": "Paris Masters: Fritz survives Molcan scare 6-7(8), 7-5, 7-6(5) with 37 aces",
-   "zh_hant": "巴黎大師賽｜費列斯 37 記 ACE 激戰三盤 6-7（8）、7-5、7-6（5）淘汰摩爾辛",
-   "zh_hans": "巴黎大师赛｜弗里茨 37 记 ACE 激战三盘 6-7（8）、7-5、7-6（5）淘汰摩尔辛"
-  },
-  "summary": {
-   "en": "Taylor Fritz survived a major scare in the Paris Masters second round on Wednesday, edging qualifier Alex Molcan 6-7(8), 7-5, 7-6(5) in two hours and 32 minutes. The 11th seed produced an extraordinary serving display, firing 37 aces to avoid joining fellow seeds in falling to qualifiers. Fritz keeps alive his slim ATP Finals hopes, but must reach the Paris final to qualify; he faces Quentin Halys in the third round.",
-   "zh_hant": "泰萊·費列斯周三在巴黎大師賽第二圈驚險過關，以 6-7（8）、7-5、7-6（5）激戰 2 小時 32 分鐘淘汰外圍賽球手摩爾辛。11 號種子全場轟出驚人的 37 記 ACE，發球表現無解，避開與其他種子一樣爆冷出局的命運。費列斯保住都靈年終賽的一線希望，但必須打入巴黎決賽才有望晉級；下一圈將對陣地主球手阿利斯。",
-   "zh_hans": "泰勒·弗里茨周三在巴黎大师赛第二圈惊险过关，以 6-7（8）、7-5、7-6（5）激战 2 小时 32 分钟淘汰外围赛球手摩尔辛。11 号种子全场轰出惊人的 37 记 ACE，发球表现无解，避开与其他种子一样爆冷出局的命运。弗里茨保住都灵年终赛的一线希望，但必须打入巴黎决赛才有望晋级；下一圈将对阵东道主球手阿利斯。"
-  },
-  "tags": {
-   "en": [
-    "Paris Masters",
-    "Taylor Fritz",
-    "Alex Molcan",
-    "ATP Finals race"
-   ],
-   "zh_hant": [
-    "巴黎大師賽",
-    "費列斯",
-    "摩爾辛",
-    "年終賽爭奪戰"
-   ],
-   "zh_hans": [
-    "巴黎大师赛",
-    "弗里茨",
-    "摩尔辛",
-    "年终赛争夺战"
    ]
   }
  }
