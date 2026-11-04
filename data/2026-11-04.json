@@ -302,5 +302,40 @@
         "唐西奇"
       ]
     }
+  },
+  {
+    "id": "20261104-nba-rwanda-letter",
+    "sport": "basketball",
+    "published_at": "2026-11-04T10:42:00+08:00",
+    "image_url": null,
+    "source": "TSNA 體育新聞團隊",
+    "source_url": "https://tsna.com/article/205241",
+    "title": {
+      "en": "NBA caught in Rwanda human rights row; Tatum replies to senators: league follows government policy",
+      "zh_hant": "NBA捲入盧安達人權爭議　塔圖姆回函參議員：聯盟遵循政府政策",
+      "zh_hans": "NBA卷入卢旺达人权争议　塔图姆回函参议员：联盟遵循政府政策"
+    },
+    "summary": {
+      "en": "Democratic Senator Jeff Merkley and Republican Senator Marsha Blackburn wrote to NBA commissioner Adam Silver last month questioning the league's commercial partnership with Rwandan President Paul Kagame's government, warning it risked becoming a \"sportswashing\" tool for human rights abuses and demanding a reassessment. Deputy commissioner Mark Tatum replied in a letter defending the partnership, saying the NBA follows U.S. government policy wherever it operates, and cited the Rwanda military-backed team's removal from the Basketball Africa League after U.S. sanctions on Rwanda's defence forces in March as evidence the league adjusts its business in line with sanctions. Tatum did not, however, offer a clear standard for accepting funds from foreign governments, and said the league has no plans to end the cooperation — Rwanda pays roughly US$6-7 million a year for event hosting and marketing cooperation.",
+      "zh_hant": "美國民主黨參議員默克利（Jeff Merkley）與共和黨參議員布萊克本（Marsha Blackburn）上月致函NBA總裁施佛（Adam Silver），質疑聯盟與盧安達總統卡加梅（Paul Kagame）政府的商業合作關係，恐成為替侵犯人權行為美化形象的「運動漂白」工具，要求NBA重新評估雙方關係。NBA副總裁塔圖姆（Mark Tatum）近日正式回函辯護，強調聯盟在全球各地經營業務時均遵循美國政府政策；又以今年3月美國制裁盧安達國防軍後、該國軍方支持的球隊已退出非洲籃球聯賽為例，說明已依制裁措施調整業務。不過塔圖姆未就接受外國政府資金的底線提出明確標準，並表明目前無意終止與盧安達的合作；盧安達每年支付約600萬至700萬美元作為賽事舉辦及行銷合作費用。",
+      "zh_hans": "美国民主党参议员默克利（Jeff Merkley）与共和党参议员布莱克本（Marsha Blackburn）上月致函NBA总裁施佛（Adam Silver），质疑联盟与卢旺达总统卡加梅（Paul Kagame）政府的商业合作关系，恐成为替侵犯人权行为美化形象的「运动漂白」工具，要求NBA重新评估双方关系。NBA副总裁塔图姆（Mark Tatum）近日正式回函辩护，强调联盟在全球各地经营业务时均遵循美国政府政策；又以今年3月美国制裁卢旺达国防军后、该国军方支持的球队已退出非洲篮球联赛为例，说明已依制裁措施调整业务。不过塔图姆未就接受外国政府资金的底线提出明确标准，并表明目前无意终止与卢旺达的合作；卢旺达每年支付约600万至700万美元作为赛事举办及行销合作费用。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "Mark Tatum",
+        "Rwanda"
+      ],
+      "zh_hant": [
+        "NBA",
+        "塔圖姆",
+        "盧安達"
+      ],
+      "zh_hans": [
+        "NBA",
+        "塔图姆",
+        "卢旺达"
+      ]
+    }
   }
 ]
