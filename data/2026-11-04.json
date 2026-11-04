@@ -337,5 +337,154 @@
         "卢旺达"
       ]
     }
+  },
+  {
+    "id": "20261104-yog-pan-haoran-gold",
+    "sport": "others",
+    "published_at": "2026-11-04T09:14:00+08:00",
+    "image_url": null,
+    "source": "體路 Sportsroad",
+    "source_url": "",
+    "title": {
+      "en": "Dakar Youth Olympics: 潘浩然 wins men's taijiquan all-around gold — Hong Kong's first Youth Olympic gold",
+      "zh_hant": "達卡青奧運｜潘浩然奪男子太極拳全能金牌　港隊史上首面青奧金牌",
+      "zh_hans": "达卡青奥运｜潘浩然夺男子太极拳全能金牌　港队史上首面青奥金牌"
+    },
+    "summary": {
+      "en": "Hong Kong's 15-year-old wushu exponent 潘浩然 won the men's taijiquan and taijiquan fan all-around final at the Dakar Youth Olympic Games, claiming Hong Kong's first-ever Youth Olympic gold medal. Having led the preliminaries, he held his form in the final at the Dakar Exhibition Centre to top the podium. Wushu is appearing as an official Olympic-series sport for the first time, with four all-around titles — men's and women's changquan and taijiquan — decided over November 1–3.",
+      "zh_hant": "15歲的香港武術代表潘浩然在達卡青年奧運會男子太極拳／太極扇全能決賽中奪得金牌，為港隊贏得歷來第一面青年奧運金牌。潘浩然在初賽已暫列第一，決賽延續穩定發揮，力壓群雄登上頒獎台最高一級。今屆青奧是武術首次成為奧運系列賽事的正式項目，11月1日至3日在達卡展覽中心決出男女長拳及太極拳全能四面金牌。",
+      "zh_hans": "15岁的香港武术代表潘浩然在达卡青年奥运会男子太极拳／太极扇全能决赛中夺得金牌，为港队赢得历来第一面青年奥运金牌。潘浩然在初赛已暂列第一，决赛延续稳定发挥，力压群雄登上颁奖台最高一级。今届青奥是武术首次成为奥运系列赛事的正式项目，11月1日至3日在达卡展览中心决出男女长拳及太极拳全能四面金牌。"
+    },
+    "tags": {
+      "en": [
+        "Dakar 2026",
+        "Youth Olympics",
+        "wushu",
+        "Hong Kong"
+      ],
+      "zh_hant": [
+        "達卡青奧運",
+        "潘浩然",
+        "武術",
+        "港隊首金"
+      ],
+      "zh_hans": [
+        "达卡青奥运",
+        "潘浩然",
+        "武术",
+        "港队首金"
+      ]
+    }
+  },
+  {
+    "id": "20261104-yog-man-wai-kiu-bronze",
+    "sport": "swimming",
+    "published_at": "2026-11-04T00:09:31+08:00",
+    "image_url": null,
+    "source": "體路 Sportsroad",
+    "source_url": "https://www.sportsroad.hk/archives/661498/達卡青奧運｜文薈喬100蛙摘銅-奪港隊今屆首面獎牌/",
+    "title": {
+      "en": "Dakar Youth Olympics: 文薈喬 takes 100m breaststroke bronze — Hong Kong's first medal of the Games",
+      "zh_hant": "達卡青奧運｜文薈喬100米蛙泳摘銅　港隊今屆首面獎牌",
+      "zh_hans": "达卡青奥运｜文薈乔100米蛙泳摘铜　港队今届首面奖牌"
+    },
+    "summary": {
+      "en": "Hong Kong swimmer 文薈喬 clocked 1:10.33 to take bronze in the women's 100m breaststroke final at the Dakar Youth Olympic Games — the Hong Kong team's first medal of the Games. The opening-ceremony flag bearer had qualified second overall in 1:10.70 and went faster again in the final. Japan's Mana Ishikawa won gold in 1:08.81, with Chanel Veldsman second in 1:09.48.",
+      "zh_hant": "香港游泳女將文薈喬在達卡青年奧運會女子100米蛙泳決賽游出1分10秒33，奪得銅牌，為港隊贏得今屆青奧第一面獎牌。這位開幕禮持旗手在初賽已游出1分10秒70，以總成績第二名晉級，決賽再將成績推前。金牌由日本的石川真菜以1分08秒81奪得，Chanel Veldsman以1分09秒48得銀牌。",
+      "zh_hans": "香港游泳女将文薈乔在达卡青年奥运会女子100米蛙泳决赛游出1分10秒33，夺得铜牌，为港队赢得今届青奥第一面奖牌。这位开幕礼持旗手在初赛已游出1分10秒70，以总成绩第二名晋级，决赛再将成绩推前。金牌由日本的石川真菜以1分08秒81夺得，Chanel Veldsman以1分09秒48得银牌。"
+    },
+    "tags": {
+      "en": [
+        "Dakar 2026",
+        "Youth Olympics",
+        "swimming",
+        "Hong Kong"
+      ],
+      "zh_hant": [
+        "達卡青奧運",
+        "文薈喬",
+        "游泳",
+        "100米蛙泳"
+      ],
+      "zh_hans": [
+        "达卡青奥运",
+        "文薈乔",
+        "游泳",
+        "100米蛙泳"
+      ]
+    }
+  },
+  {
+    "id": "20261104-wta-finals-draw",
+    "sport": "tennis",
+    "published_at": "2026-11-04T08:53:00+08:00",
+    "image_url": "https://photoresources.wtatennis.com/photo-resources/2026/11/04/4f6673d7-2731-4ecf-a1ba-559205ee487a/Singles-Group-1-16x9.png?width=850&height=450",
+    "source": "WTA",
+    "source_url": "https://www.wtatennis.com/news/4603196/2026-wta-finals-group-breakdown-who-will-rybakina-and-sabalenka-face",
+    "title": {
+      "en": "WTA Finals draw: Rybakina grouped with Gauff and Pegula; Sabalenka faces Andreeva at Indian Wells",
+      "zh_hant": "WTA年終賽分組出爐　萊巴金娜與高芙同組　薩巴倫卡硬撼安德烈娃",
+      "zh_hans": "WTA年终赛分组出炉　莱巴金娜与高芙同组　萨巴伦卡硬撼安德烈娃"
+    },
+    "summary": {
+      "en": "The groups for the 2026 WTA Finals have been drawn, with the season-ending tournament set for November 8–15 at Indian Wells. World No. 1 Elena Rybakina heads Group 1 alongside Coco Gauff, Jessica Pegula and Wimbledon champion Linda Noskova, opening her title defence against Noskova. World No. 2 Aryna Sabalenka leads Group 2 with 19-year-old Mirra Andreeva, former champion Elina Svitolina and Karolina Muchova. The top two in each round-robin group reach the semi-finals.",
+      "zh_hant": "2026年WTA年終賽分組抽籤揭盅，賽事將於11月8日至15日在印第安韋爾斯上演。世界第一萊巴金娜列小組第一，與高芙、佩古拉及溫網冠軍洛絲高娃同組，首戰即鬥洛絲高娃；世界第二薩巴倫卡則與19歲的安德烈娃、前冠軍絲維杜蓮娜及梅高娃同組。每組四人單循環，前兩名晉級四強。",
+      "zh_hans": "2026年WTA年终赛分组抽签揭盅，赛事将于11月8日至15日在印第安韦尔斯上演。世界第一莱巴金娜列小组第一，与高芙、佩古拉及温网冠军洛丝高娃同组，首战即斗洛丝高娃；世界第二萨巴伦卡则与19岁的安德烈娃、前冠军丝维杜莲娜及梅高娃同组。每组四人单循环，前两名晋级四强。"
+    },
+    "tags": {
+      "en": [
+        "WTA Finals",
+        "Rybakina",
+        "Sabalenka",
+        "Indian Wells"
+      ],
+      "zh_hant": [
+        "WTA年終賽",
+        "萊巴金娜",
+        "薩巴倫卡",
+        "印第安韋爾斯"
+      ],
+      "zh_hans": [
+        "WTA年终赛",
+        "莱巴金娜",
+        "萨巴伦卡",
+        "印第安韦尔斯"
+      ]
+    }
+  },
+  {
+    "id": "20261104-asian-cup-postponed",
+    "sport": "football",
+    "published_at": "2026-11-03T16:11:09+08:00",
+    "image_url": null,
+    "source": "LiveScore",
+    "source_url": "https://www.livescore.com/en/news/football/more/asian-cup-postponed-following-houthi-attacks-on-saudi-arabia-the-independent/",
+    "title": {
+      "en": "2027 Asian Cup postponed to December 2027 after Houthi attacks on Saudi Arabia",
+      "zh_hant": "亞洲盃延期　沙特受襲擊影響　2027亞洲盃押後至年底舉行",
+      "zh_hans": "亚洲杯延期　沙特受袭击影响　2027亚洲杯押后至年底举行"
+    },
+    "summary": {
+      "en": "The Asian Football Confederation has postponed the 2027 Asian Cup in Saudi Arabia by almost a year, moving it from January 7–February 5, 2027 to December 23, 2027–January 21, 2028. The AFC cited 'exceptional circumstances' including 'substantial logistical complexities and travel disruptions' after Houthi attacks on the kingdom, including an October strike on Riyadh's international airport that killed at least 12 people and wounded more than 300. The new dates will be submitted to FIFA for approval.",
+      "zh_hant": "亞洲足協宣布，原定明年1月7日在沙特揭幕的2027年亞洲盃，將押後近一年至2027年12月23日至2028年1月21日舉行。亞洲足協指區內局勢出現「特殊情況」，帶來嚴重的物流及交通阻礙；10月胡塞武裝襲擊利雅得國際機場造成至少12死逾300傷。新賽期將提交國際足協審批。",
+      "zh_hans": "亚洲足协宣布，原定明年1月7日在沙特揭幕的2027年亚洲杯，将押后近一年至2027年12月23日至2028年1月21日举行。亚洲足协指区内局势出现「特殊情况」，带来严重的物流及交通阻碍；10月胡塞武装袭击利雅得国际机场造成至少12死逾300伤。新赛期将提交国际足协审批。"
+    },
+    "tags": {
+      "en": [
+        "Asian Cup",
+        "Saudi Arabia",
+        "AFC"
+      ],
+      "zh_hant": [
+        "亞洲盃",
+        "沙特阿拉伯",
+        "亞洲足協"
+      ],
+      "zh_hans": [
+        "亚洲杯",
+        "沙特阿拉伯",
+        "亚洲足协"
+      ]
+    }
   }
 ]
