@@ -27,7 +27,7 @@
 
 - 分類欄叫 `sport` 而唔係 `category`；16 個合法 key（見 `assets/app.js` 的 `SPORTS`）：`football`、`basketball`、`badminton`、`table_tennis`、`tennis`、`athletics`、`swimming`、`volleyball`、`cycling`、`rugby`、`golf`、`snooker`、`boxing_mma`、`esports`、`racing`、`others`。唔好自創 key。
 - 來源欄位：`source` 係字串（機構名）＋ `source_url`（原文連結），唔係 `{name, url}` object。
-- 文章頁用 `sport-tag` 樣式，backlink 文字係「← 港體育」。
+- 文章頁用 `sport-tag` 樣式，backlink 文字係「← 港體育」。文章頁結構（2026-11-04 更新）：頂部 `.article-topbar`（左邊 backlink；右邊同首頁一樣嘅語言切換 EN／繁／简＋深色模式掣）；`h1` 標題、`p.lead` 摘要、tags 三者靜態內容為繁體，inline script 讀 `localStorage hks_lang`（同首頁共用語言偏好）再 fetch `data/YYYY-MM-DD.json` 做三語即時切換。
 - 去重靠 `data/unknown.json`：每加一篇新文章，就要將其 id 加入呢個清單。
 
 ## 文章資料格式
