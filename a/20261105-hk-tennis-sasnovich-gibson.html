@@ -13,16 +13,21 @@
 <meta name="twitter:card" content="summary">
 <link rel="icon" href="../assets/favicon.png">
 <link rel="stylesheet" href="../assets/style.css">
-<script>try{const t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=t;}</script>
+<script>try{var _t=localStorage.getItem("hks_theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.dataset.theme=_t;}catch(e){}
+function logoFallback(){var b=document.getElementById("brandName");if(b)b.style.display="flex";["logoLight","logoDark"].forEach(function(id){var e=document.getElementById(id);if(e)e.style.display="none";});}</script>
 </head>
 <body>
-<div class="article-topbar">
-<a class="backlink" href="../">← 港體育</a>
-<div class="controls">
-<div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
-<button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
-</div>
-</div>
+<header class="topbar">
+  <a class="brand" href="../" aria-label="home">
+    <img id="logoLight" class="logo-img" src="../assets/logo-light.png" alt="港體育 Hong Kong Sports" onerror="logoFallback()">
+    <img id="logoDark" class="logo-img" src="../assets/logo-dark.png" alt="港體育 Hong Kong Sports" style="display:none" onerror="logoFallback()">
+    <span class="brand-name" id="brandName" style="display:none"><strong>港體育</strong><small>HONG KONG SPORTS</small></span>
+  </a>
+  <div class="controls">
+    <div class="lang-switch" role="group" aria-label="language"><button data-lang="en">EN</button><button data-lang="zh_hant">繁</button><button data-lang="zh_hans">简</button></div>
+    <button id="themeBtn" class="icon-btn" aria-label="theme">🌙</button>
+  </div>
+</header>
 <main class="article-wrap">
   <div class="card-top"><span class="sport-tag">tennis</span><span>2026-11-04 18:55</span><span> · Tennis Up To Date</span></div>
   <h1 class="article-title">香港網球公開賽｜薩斯諾域治激戰淘汰 5 號種子吉遜</h1>
@@ -38,6 +43,7 @@
 (function(){
   var SITE='港體育';
   function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
+  function setLogo(){var dark=document.documentElement.getAttribute('data-theme')==='dark';var bn=document.getElementById('brandName');if(bn&&bn.style.display==='flex')return;var l=document.getElementById('logoLight'),d=document.getElementById('logoDark');if(l&&d){l.style.display=dark?'none':'';d.style.display=dark?'':'none';}}
   var LANG='zh_hant';
   try{ LANG=localStorage.getItem('hks_lang')||'zh_hant'; }catch(e){}
   var aid=location.pathname.split('/').pop().replace(/\.html$/,'');
@@ -81,9 +87,9 @@
     var t=cur?'light':'dark';
     document.documentElement.setAttribute('data-theme',t);
     try{ localStorage.setItem('hks_theme',t); }catch(e){}
-    setIcon();
+    setIcon(); setLogo();
   });
-  setIcon(); setActive();
+  setIcon(); setActive(); setLogo();
   if(/^\d{8}$/.test(d)){
     fetch(durl).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(arr){
       var a=null;
