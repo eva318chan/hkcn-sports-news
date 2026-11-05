@@ -1,5 +1,110 @@
 [
  {
+  "id": "20261105-paris-masters-shelton-rinderknech",
+  "sport": "tennis",
+  "published_at": "2026-11-05T22:20:00+08:00",
+  "image_url": null,
+  "source": "Tennis Majors",
+  "source_url": "https://www.tennismajors.com/matches/atp/rolex-paris-masters/ben-shelton-vs-arthur-rinderknech",
+  "title": {
+   "zh_hant": "巴黎大師賽｜舒爾頓先失一盤反勝連迪尼治　八強硬撼保羅",
+   "en": "Paris Masters: Shelton fights back from a set down to beat Rinderknech and set up Paul quarter-final",
+   "zh_hans": "巴黎大师赛｜舒尔顿先失一盘反胜连迪尼治　八强硬撼保罗"
+  },
+  "summary": {
+   "zh_hant": "巴黎大師賽男單16強，3號種子舒爾頓先失一盤下反勝法國球手連迪尼治，3-6、6-4、7-6晉級八強。舒爾頓在決勝盤搶七頂住主場觀眾壓力，耗時逾兩小時取勝，將與同胞保羅爭奪四強席位，保羅較早前以7-6、6-4淘汰法國球手哈利斯。舒爾頓早已鎖定年終賽資格，今仗勝利進一步鞏固他在巴黎的爭標形勢。",
+   "en": "Third seed Ben Shelton came from a set down to beat Frenchman Arthur Rinderknech 3-6, 6-4, 7-6 in the round of 16 at the Rolex Paris Masters, holding his nerve in a deciding-set tiebreak in front of a home crowd to win in just over two hours. He will face fellow American Tommy Paul in the quarter-finals after Paul beat France's Quentin Halys 7-6(3), 6-4 earlier in the day. Shelton has already secured his place at the ATP Finals, and the win keeps his title hopes in Paris alive.",
+   "zh_hans": "巴黎大师赛男单16强，3号种子舒尔顿先失一盘下反胜法国球手连迪尼治，3-6、6-4、7-6晋级八强。舒尔顿在决胜盘抢七顶住主场观众压力，耗时逾两小时取胜，将与同胞保罗争夺四强席位，保罗较早前以7-6、6-4淘汰法国球手哈利斯。舒尔顿早已锁定年终赛资格，今仗胜利进一步巩固他在巴黎的争标形势。"
+  },
+  "tags": {
+   "zh_hant": [
+    "巴黎大師賽",
+    "舒爾頓",
+    "保羅"
+   ],
+   "en": [
+    "Paris Masters",
+    "Shelton",
+    "Paul"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "舒尔顿",
+    "保罗"
+   ]
+  }
+ },
+ {
+  "id": "20261105-hk-tennis-eala-valentova",
+  "sport": "tennis",
+  "published_at": "2026-11-05T22:00:00+08:00",
+  "image_url": null,
+  "source": "ESPN",
+  "source_url": "https://www.espn.ph/tennis/story/_/id/50388508/alex-eala-tereza-valentova-hong-kong-open-quarterfinal",
+  "title": {
+   "zh_hant": "香港賽｜艾拿6-4、7-6力克華倫杜娃　第三次交手終報一箭之仇",
+   "en": "Hong Kong Open: Eala beats Valentova 6-4, 7-6(7) at third attempt to reach quarter-finals",
+   "zh_hans": "香港赛｜艾拿6-4、7-6力克华伦杜娃　第三次交手终报一箭之仇"
+  },
+  "summary": {
+   "zh_hant": "香港網球公開賽女單16強，2號種子、菲律賓球手艾拿以6-4、7-6（7）擊敗捷克球手華倫杜娃，晉級八強。這是艾拿第三次與華倫杜娃交手，之前兩次分別在去年大阪及今年初多哈落敗，今次終於取得首勝。艾拿在次盤搶七頂住壓力取勝，八強將對克羅地亞球手魯錫治，後者以6-3、4-6、6-2淘汰中國球手王欣瑜。",
+   "en": "Second seed Alexandra Eala of the Philippines beat Czech teenager Tereza Valentova 6-4, 7-6(7) in the round of 16 at the Prudential Hong Kong Tennis Open to reach the quarter-finals. It was Eala's first win over Valentova at the third attempt, having lost to her in Osaka late last year and in Doha early this year. Eala held her nerve in the second-set tiebreak, and will next face Croatia's Antonia Ruzic, who beat China's Wang Xinyu 6-3, 4-6, 6-2.",
+   "zh_hans": "香港网球公开赛女单16强，2号种子、菲律宾球手艾拿以6-4、7-6（7）击败捷克球手华伦杜娃，晋级八强。这是艾拿第三次与华伦杜娃交手，之前两次分别在去年大阪及今年初多哈落败，今次终于取得首胜。艾拿在次盘抢七顶住压力取胜，八强将对克罗地亚球手鲁锡治，后者以6-3、4-6、6-2淘汰中国球手王欣瑜。"
+  },
+  "tags": {
+   "zh_hant": [
+    "香港網球公開賽",
+    "艾拿",
+    "華倫杜娃"
+   ],
+   "en": [
+    "Hong Kong Tennis Open",
+    "Eala",
+    "Valentova"
+   ],
+   "zh_hans": [
+    "香港网球公开赛",
+    "艾拿",
+    "华伦杜娃"
+   ]
+  }
+ },
+ {
+  "id": "20261105-hk-tennis-ruzic-wang-xinyu",
+  "sport": "tennis",
+  "published_at": "2026-11-05T14:00:00+08:00",
+  "image_url": null,
+  "source": "SPIN.ph",
+  "source_url": "https://www.spin.ph/tennis/gritty-eala-finally-overcomes-valentova-to-reach-hk-open-quarters-a2437-20261105",
+  "title": {
+   "zh_hant": "香港賽｜魯錫治三盤淘汰王欣瑜　八強鬥艾拿",
+   "en": "Hong Kong Open: Ruzic ousts Wang Xinyu in three sets to set up Eala quarter-final",
+   "zh_hans": "香港赛｜鲁锡治三盘淘汰王欣瑜　八强斗艾拿"
+  },
+  "summary": {
+   "zh_hant": "香港網球公開賽女單16強，世界排名第81位的克羅地亞球手魯錫治以6-3、4-6、6-2擊敗6號種子、中國球手王欣瑜，晉級八強。王欣瑜在次盤扳回一城，但決勝盤未能延續氣勢。魯錫治八強將對2號種子、菲律賓球手艾拿，雙方將是首次交手。",
+   "en": "World No. 81 Antonia Ruzic of Croatia beat sixth seed Wang Xinyu of China 6-3, 4-6, 6-2 in the round of 16 at the Prudential Hong Kong Tennis Open to reach the quarter-finals. Wang took the second set to level the match but could not sustain the momentum in the decider. Ruzic will face second seed Alexandra Eala of the Philippines in the last eight, their first meeting.",
+   "zh_hans": "香港网球公开赛女单16强，世界排名第81位的克罗地亚球手鲁锡治以6-3、4-6、6-2击败6号种子、中国球手王欣瑜，晋级八强。王欣瑜在次盘扳回一城，但决胜盘未能延续气势。鲁锡治八强将对2号种子、菲律宾球手艾拿，双方将是首次交手。"
+  },
+  "tags": {
+   "zh_hant": [
+    "香港網球公開賽",
+    "魯錫治",
+    "王欣瑜"
+   ],
+   "en": [
+    "Hong Kong Tennis Open",
+    "Ruzic",
+    "Wang Xinyu"
+   ],
+   "zh_hans": [
+    "香港网球公开赛",
+    "鲁锡治",
+    "王欣瑜"
+   ]
+  }
+ },
+ {
   "id": "20261105-ronaldo-portugal-retirement",
   "sport": "football",
   "published_at": "2026-11-05T19:16:00+08:00",
