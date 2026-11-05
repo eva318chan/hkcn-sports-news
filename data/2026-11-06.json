@@ -1,5 +1,110 @@
 [
  {
+  "id": "20261106-paris-masters-ruud-struff",
+  "sport": "tennis",
+  "published_at": "2026-11-06T04:45:00+08:00",
+  "image_url": null,
+  "source": "Rolex Paris Masters",
+  "source_url": "https://www.rolexparismasters.com/en/news/article/round-of-16-casper-ruud-success-jan-lennard-struff",
+  "title": {
+   "zh_hant": "巴黎大師賽｜魯迪直落兩盤輕取史卓夫　不失一盤晉級八強　硬撼博爾熱斯",
+   "en": "Paris Masters: Ruud eases past Struff in straight sets to reach the quarter-finals without dropping a set; faces Borges next",
+   "zh_hans": "巴黎大师赛｜鲁迪直落两盘轻取史卓夫　不失一盘晋级八强　硬撼博尔热斯"
+  },
+  "summary": {
+   "zh_hant": "巴黎大師賽男單16強最後一場，挪威球手魯迪以6-3、6-3直落兩盤擊敗德國球手史卓夫，僅用1小時3分鐘晉級八強。魯迪全場發出8個Ace，表現穩定，首盤更以一記精彩挑高球鎖定勝局；他今屆賽事至今一盤未失。這是魯迪繼2021年後第二次晉級巴黎大師賽八強，八強將對葡萄牙「幸運輸家」博爾熱斯。比賽原定在1號場舉行，因貝利天尼退賽而改到中央場。",
+   "en": "In the final match of the Paris Masters men's singles round of 16, Norway's Casper Ruud beat Germany's Jan-Lennard Struff 6-3, 6-3 in just 1 hour 3 minutes to reach the quarter-finals. Ruud fired eight aces and was solid throughout, sealing the opening set with a superb lob; he has yet to drop a set in Paris this year. It is the second time Ruud has reached the Paris Masters quarter-finals, after his run in 2021, and he will face Portuguese lucky loser Nuno Borges next. The match was originally scheduled for Court 1 before being moved to centre court following Matteo Berrettini's withdrawal.",
+   "zh_hans": "巴黎大师赛男单16强最后一场，挪威球手鲁迪以6-3、6-3直落两盘击败德国球手史卓夫，仅用1小时3分钟晋级八强。鲁迪全场发出8个Ace，表现稳定，首盘更以一记精彩挑高球锁定胜局；他今届赛事至今一盘未失。这是鲁迪继2021年后第二次晋级巴黎大师赛八强，八强将对葡萄牙「幸运输家」博尔热斯。比赛原定在1号场举行，因贝利天尼退赛而改到中央场。"
+  },
+  "tags": {
+   "zh_hant": [
+    "巴黎大師賽",
+    "魯迪",
+    "史卓夫"
+   ],
+   "en": [
+    "Paris Masters",
+    "Ruud",
+    "Struff"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "鲁迪",
+    "史卓夫"
+   ]
+  }
+ },
+ {
+  "id": "20261106-paris-masters-shelton-rinderknech",
+  "sport": "tennis",
+  "published_at": "2026-11-05T21:58:00+08:00",
+  "image_url": null,
+  "source": "Sportsnet",
+  "source_url": "https://www.sportsnet.ca/atp/article/alcaraz-advances-to-paris-masters-quarterfinals-after-berrettini-withdraws/",
+  "title": {
+   "zh_hant": "巴黎大師賽｜舒爾頓決勝盤搶七險勝連迪克尼治　第43勝創賽季新高　八強鬥保羅",
+   "en": "Paris Masters: Shelton edges Rinderknech in a deciding-set tie-break for a season-best 43rd win; faces Paul in the quarter-finals",
+   "zh_hans": "巴黎大师赛｜舒尔顿决胜盘抢七险胜连迪克尼治　第43胜创赛季新高　八强斗保罗"
+  },
+  "summary": {
+   "zh_hant": "巴黎大師賽男單16強，3號種子、美國球手舒爾頓先失一盤下以3-6、6-4、7-6（5）反勝法國球手連迪克尼治，激戰2小時3分鐘晉級八強。這是舒爾頓今季第43場勝仗，創個人賽季新高。八強他將對同胞、12號種子保羅，是兩人第五次交手，雙方各勝兩場，對上一次交手是2024年。舒爾頓已鎖定都靈年終賽席位，保羅則仍在爭奪餘下兩個席位。",
+   "en": "In the Paris Masters men's singles round of 16, third seed Ben Shelton of the United States recovered from a set down to beat France's Arthur Rinderknech 3-6, 6-4, 7-6 (5) in 2 hours 3 minutes and reach the quarter-finals. It was Shelton's 43rd win of the season, a personal season best. In the last eight he faces compatriot and 12th seed Tommy Paul in their fifth career meeting, with two wins each, the first since 2024. Shelton has already qualified for the ATP Finals in Turin, while Paul is still chasing one of the two remaining spots.",
+   "zh_hans": "巴黎大师赛男单16强，3号种子、美国球手舒尔顿先失一盘下以3-6、6-4、7-6（5）反胜法国球手连迪克尼治，激战2小时3分钟晋级八强。这是舒尔顿今季第43场胜仗，创个人赛季新高。八强他将对同胞、12号种子保罗，是两人第五次交手，双方各胜两场，对上一次交手是2024年。舒尔顿已锁定都灵年终赛席位，保罗则仍在争夺余下两个席位。"
+  },
+  "tags": {
+   "zh_hant": [
+    "巴黎大師賽",
+    "舒爾頓",
+    "連迪克尼治"
+   ],
+   "en": [
+    "Paris Masters",
+    "Shelton",
+    "Rinderknech"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "舒尔顿",
+    "连迪克尼治"
+   ]
+  }
+ },
+ {
+  "id": "20261106-paris-masters-alcaraz-walkover",
+  "sport": "tennis",
+  "published_at": "2026-11-05T20:23:00+08:00",
+  "image_url": null,
+  "source": "SuperSport",
+  "source_url": "https://supersport.com/tennis/news/a8a9ead9-c76d-4795-92f8-1dc164867908/alcaraz-into-paris-masters-quarters-after-berrettini-withdraws",
+  "title": {
+   "zh_hant": "巴黎大師賽｜貝利天尼手肘傷退賽　艾卡拿斯不戰而勝晉級八強　硬撼費斯",
+   "en": "Paris Masters: Berrettini withdraws with an elbow injury, sending Alcaraz into the quarter-finals by walkover; faces Fritz next",
+   "zh_hans": "巴黎大师赛｜贝利天尼手肘伤退赛　艾卡拿斯不战而胜晋级八强　硬撼费斯"
+  },
+  "summary": {
+   "zh_hant": "巴黎大師賽男單16強，2號種子艾卡拿斯不戰而勝晉級八強，對手意大利球手貝利天尼因手肘受傷退賽。貝利天尼在社交平台表示，過去幾日手臂一直疼痛，無法上場。艾卡拿斯今屆在巴黎只打過一場比賽，次圈直落兩盤擊敗米捷臣。八強他將對美國球手費斯，費斯以6-3、6-4擊敗6號種子菲斯晉級。艾卡拿斯從未贏過巴黎大師賽，是賽事餘下球手中排名最高的一位，此前頭號種子施華利夫已在星期三出局。",
+   "en": "In the Paris Masters men's singles round of 16, second seed Carlos Alcaraz advanced to the quarter-finals by walkover after his opponent, Italy's Matteo Berrettini, withdrew with an elbow injury. Berrettini said on social media that he had been in pain in his arm for the past few days and could not take to the court. Alcaraz has played only one match in Paris this year, beating Alex Michelsen in straight sets in the second round. In the quarter-finals he faces American Taylor Fritz, who beat sixth seed Arthur Fils 6-3, 6-4. Alcaraz has never won the Paris Masters and is the top-ranked player remaining in the draw after top seed Alexander Zverev lost on Wednesday.",
+   "zh_hans": "巴黎大师赛男单16强，2号种子艾卡拿斯不战而胜晋级八强，对手意大利球手贝利天尼因手肘受伤退赛。贝利天尼在社交平台表示，过去几日手臂一直疼痛，无法上场。艾卡拿斯今届在巴黎只打过一场比赛，次圈直落两盘击败米捷臣。八强他将对美国球手费斯，费斯以6-3、6-4击败6号种子菲斯晋级。艾卡拿斯从未赢过巴黎大师赛，是赛事余下球手中排名最高的一位，此前头号种子施华利夫已在星期三出局。"
+  },
+  "tags": {
+   "zh_hant": [
+    "巴黎大師賽",
+    "艾卡拿斯",
+    "貝利天尼"
+   ],
+   "en": [
+    "Paris Masters",
+    "Alcaraz",
+    "Berrettini"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "艾卡拿斯",
+    "贝利天尼"
+   ]
+  }
+ },
+ {
   "id": "20261106-paris-masters-fritz-fils",
   "sport": "tennis",
   "published_at": "2026-11-06T03:15:00+08:00",
