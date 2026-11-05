@@ -731,5 +731,110 @@
    "zh_hans": "NBA｜夏特右足踝酸痛缺阵　纽约人主场迎战公牛",
    "zh_hant": "NBA｜夏特右足踝痠痛缺陣　紐約人主場迎戰公牛"
   }
+ },
+ {
+  "id": "20261105-paris-masters-musetti-zverev",
+  "sport": "tennis",
+  "published_at": "2026-11-05T00:30:00+08:00",
+  "source": "Tennis Majors",
+  "source_url": "https://www.tennismajors.com/matches/atp/rolex-paris-masters/alexander-zverev-vs-lorenzo-musetti-2",
+  "image_url": null,
+  "title": {
+   "en": "Paris Masters: Musetti stuns Zverev 7-6, 6-2 as new world No. 1 falls at first hurdle",
+   "zh_hant": "巴黎大師賽｜梅斯迪 7-6、6-2 爆冷淘汰施華利夫　新任「世一」首戰即出局",
+   "zh_hans": "巴黎大师赛｜梅斯迪 7-6、6-2 爆冷淘汰施华利夫　新任「世一」首战即出局"
+  },
+  "summary": {
+   "en": "Lorenzo Musetti beat Alexander Zverev 7-6, 6-2 at the Rolex Paris Masters on November 4 in one hour 40 minutes. Zverev, playing his first match since rising to world No. 1, lost in straight sets, becoming the first player to debut at the top of the rankings with a straight-sets defeat. Musetti advances in Paris while Zverev's early exit shakes up the closing weeks of the season.",
+   "zh_hant": "梅斯迪 11 月 4 日在巴黎大師賽以 7-6、6-2 直落兩盤淘汰施華利夫，全場耗時 1 小時 40 分鐘。剛登上世界第一的施華利夫，以「世一」身份出戰首場比賽即直落兩盤落敗，成為史上首位以直落兩盤敗仗展開「世一」生涯的球手。梅斯迪順利晉級，施華利夫提早出局亦為季尾爭奪戰增添變數。",
+   "zh_hans": "梅斯迪 11 月 4 日在巴黎大师赛以 7-6、6-2 直落两盘淘汰施华利夫，全场耗时 1 小时 40 分钟。刚登上世界第一的施华利夫，以「世一」身份出战首场比赛即直落两盘落败，成为史上首位以直落两盘败仗展开「世一」生涯的球手。梅斯迪顺利晋级，施华利夫提早出局亦为季尾争夺战增添变数。"
+  },
+  "tags": {
+   "en": [
+    "Paris Masters",
+    "Musetti",
+    "Zverev"
+   ],
+   "zh_hant": [
+    "巴黎大師賽",
+    "梅斯迪",
+    "施華利夫"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "梅斯迪",
+    "施华利夫"
+   ]
+  }
+ },
+ {
+  "id": "20261105-paris-masters-paul-merida",
+  "sport": "tennis",
+  "published_at": "2026-11-05T01:00:00+08:00",
+  "source": "Tennis Majors",
+  "source_url": "https://www.tennismajors.com/matches/atp/rolex-paris-masters/tommy-paul-vs-daniel-merida",
+  "image_url": null,
+  "title": {
+   "en": "Paris Masters: Paul races past Merida 6-1, 6-1 in just 50 minutes",
+   "zh_hant": "巴黎大師賽｜保羅 50 分鐘 6-1、6-1 橫掃梅里達",
+   "zh_hans": "巴黎大师赛｜保罗 50 分钟 6-1、6-1 横扫梅里达"
+  },
+  "summary": {
+   "en": "Tommy Paul beat Spain's Daniel Merida Aguilar 6-1, 6-1 at the Rolex Paris Masters on November 4, wrapping up the win in just 50 minutes. The American keeps his ATP Finals hopes alive, having come into Paris needing a deep run to stay in contention for Turin.",
+   "zh_hant": "保羅 11 月 4 日在巴黎大師賽以 6-1、6-1 直落兩盤擊敗西班牙球手梅里達，僅用 50 分鐘便結束戰鬥。美國球手保住爭逐都靈年終賽的一線希望，今站需要走得夠遠才有望躋身年終賽。",
+   "zh_hans": "保罗 11 月 4 日在巴黎大师赛以 6-1、6-1 直落两盘击败西班牙球手梅里达，仅用 50 分钟便结束战斗。美国球手保住争夺都灵年终赛的一线希望，今站需要走得够远才有望跻身年终赛。"
+  },
+  "tags": {
+   "en": [
+    "Paris Masters",
+    "Tommy Paul",
+    "Merida"
+   ],
+   "zh_hant": [
+    "巴黎大師賽",
+    "保羅",
+    "梅里達"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "保罗",
+    "梅里达"
+   ]
+  }
+ },
+ {
+  "id": "20261105-paris-masters-struff-tirante",
+  "sport": "tennis",
+  "published_at": "2026-11-05T02:00:00+08:00",
+  "source": "Tennis Majors",
+  "source_url": "https://www.tennismajors.com/matches/atp/rolex-paris-masters/thiago-agustin-tirante-vs-jan-lennard-struff",
+  "image_url": null,
+  "title": {
+   "en": "Paris Masters: Struff outlasts Tirante 6-7, 6-3, 7-6 in two hours 23 minutes",
+   "zh_hant": "巴黎大師賽｜史卓夫激戰 2 小時 23 分鐘　6-7、6-3、7-6 反勝提蘭迪",
+   "zh_hans": "巴黎大师赛｜史卓夫激战 2 小时 23 分钟　6-7、6-3、7-6 反胜提兰迪"
+  },
+  "summary": {
+   "en": "Jan-Lennard Struff beat Thiago Agustin Tirante 6-7, 6-3, 7-6 at the Rolex Paris Masters on November 4 in two hours 23 minutes. The German dropped the first set in a tie-break before fighting back to take the next two and advance in Paris.",
+   "zh_hant": "史卓夫 11 月 4 日在巴黎大師賽激戰 2 小時 23 分鐘，以 6-7、6-3、7-6 反勝提蘭迪。德國球手首盤搶七失利後連追兩盤，成功晉級下一圈。",
+   "zh_hans": "史卓夫 11 月 4 日在巴黎大师赛激战 2 小时 23 分钟，以 6-7、6-3、7-6 反胜提兰迪。德国球手首盘抢七失利后连追两盘，成功晋级下一圈。"
+  },
+  "tags": {
+   "en": [
+    "Paris Masters",
+    "Struff",
+    "Tirante"
+   ],
+   "zh_hant": [
+    "巴黎大師賽",
+    "史卓夫",
+    "提蘭迪"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "史卓夫",
+    "提兰迪"
+   ]
+  }
  }
 ]
