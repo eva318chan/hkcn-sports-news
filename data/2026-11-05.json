@@ -1,5 +1,215 @@
 [
  {
+  "id": "20261105-nba-lakers-doncic-40",
+  "sport": "basketball",
+  "published_at": "2026-11-05T13:30:00+08:00",
+  "image_url": null,
+  "source": "Parlae",
+  "source_url": "https://parlae.io/news/nba/2026/11/luka-doncic-lakers-kings-116-103",
+  "title": {
+   "en": "Doncic's 40 points power Lakers past Kings 116-103",
+   "zh_hant": "當錫40分領湖人116:103擊敗帝王　湖人7勝2負",
+   "zh_hans": "当锡40分领湖人116:103击败帝王　湖人7胜2负"
+  },
+  "summary": {
+   "en": "Luka Doncic scored 40 points with nine rebounds and seven assists as the Los Angeles Lakers beat the Sacramento Kings 116-103 on the road. The Lakers led 61-54 at half-time after winning the second quarter 33-26, with Doncic already on 23 points at the break. The win lifts the Lakers to 7-2, while the Kings fall to 1-7 and remain winless at home. Kings rookie Darius Acuff Jr. scored 22 points.",
+   "zh_hant": "盧卡·當錫攻入40分、搶下9個籃板並送出7次助攻，帶領洛杉磯湖人作客以116:103擊敗薩克拉門托帝王。湖人半場領先61:54，第二節贏33:26奠定優勢；當錫上半場已攻入23分。湖人戰績提升至7勝2負，帝王跌至1勝7負，主場三戰全敗。帝王新秀阿卡夫攻入22分。",
+   "zh_hans": "卢卡·当锡攻入40分、抢下9个篮板并送出7次助攻，带领洛杉矶湖人作客以116:103击败萨克拉门托帝王。湖人半场领先61:54，第二节赢33:26奠定优势；当锡上半场已攻入23分。湖人战绩提升至7胜2负，帝王跌至1胜7负，主场三战全败。帝王新秀阿卡夫攻入22分。"
+  },
+  "tags": {
+   "en": [
+    "Luka Doncic",
+    "Lakers",
+    "NBA"
+   ],
+   "zh_hant": [
+    "當錫",
+    "湖人",
+    "NBA"
+   ],
+   "zh_hans": [
+    "当锡",
+    "湖人",
+    "NBA"
+   ]
+  }
+ },
+ {
+  "id": "20261105-nba-spurs-wembanyama-52",
+  "sport": "basketball",
+  "published_at": "2026-11-05T13:00:00+08:00",
+  "image_url": null,
+  "source": "Outsiders Sports",
+  "source_url": "https://outsiderssports.com/2026/11/05/notes-on-an-nba-scorecard-11-4-2026-spurs-112-mavericks-111/",
+  "title": {
+   "en": "Wembanyama's 52 points, 24 rebounds and 8 blocks lift Spurs past Mavericks 112-111",
+   "zh_hant": "雲班耶馬52分24籃板8封阻　馬刺112:111險勝獨行俠",
+   "zh_hans": "云班耶马52分24篮板8封阻　马刺112:111险胜独行侠"
+  },
+  "summary": {
+   "en": "Victor Wembanyama scored 52 points, grabbed 24 rebounds and blocked eight shots as the San Antonio Spurs edged the Dallas Mavericks 112-111 at home. The Spurs led by 17 at half-time and by as many as 19, but Dallas fought back in the second half and moved ahead in the fourth quarter before Wembanyama's two free throws with 24 seconds left sealed the win. Dylan Harper added 21 points for San Antonio, while Kyrie Irving led Dallas with 29 points, Naji Marshall had 22 and P.J. Washington 21.",
+   "zh_hant": "雲班耶馬攻入52分、搶下24個籃板並送出8次封阻，帶領聖安東尼奧馬刺主場以112:111險勝達拉斯獨行俠。馬刺半場領先17分，一度領先19分，但獨行俠下半場反撲，第四節一度反超；雲班耶馬在最後24秒兩罰全中鎖定勝局。夏柏為馬刺貢獻21分；獨行俠方面艾榮攻入29分，馬素爾22分，華盛頓21分。",
+   "zh_hans": "云班耶马攻入52分、抢下24个篮板并送出8次封阻，带领圣安东尼奥马刺主场以112:111险胜达拉斯独行侠。马刺半场领先17分，一度领先19分，但独行侠下半场反扑，第四节一度反超；云班耶马在最后24秒两罚全中锁定胜局。夏柏为马刺贡献21分；独行侠方面艾荣攻入29分，马素尔22分，华盛顿21分。"
+  },
+  "tags": {
+   "en": [
+    "Wembanyama",
+    "Spurs",
+    "NBA"
+   ],
+   "zh_hant": [
+    "雲班耶馬",
+    "馬刺",
+    "NBA"
+   ],
+   "zh_hans": [
+    "云班耶马",
+    "马刺",
+    "NBA"
+   ]
+  }
+ },
+ {
+  "id": "20261105-nba-knicks-bulls-brunson",
+  "sport": "basketball",
+  "published_at": "2026-11-05T11:00:00+08:00",
+  "image_url": null,
+  "source": "Fox Sports Australia",
+  "source_url": "https://www.foxsports.com.au/basketball/nba/nba-2026-dyson-daniels-careerbest-rebounds-for-atlanta-hawks-josh-giddey-struggles-for-chicago-bulls-new-york-knicks-washington-wizards-results-scores-and-highlights/news-story/1c1a7c790c045cf9d33cc3fdb1c6e240",
+  "title": {
+   "en": "Brunson's 22-point first quarter powers Knicks to 135-105 rout of Bulls",
+   "zh_hant": "紐約人135:105大勝公牛　白蘭遜首節獨取22分　公牛五連敗",
+   "zh_hans": "纽约人135:105大胜公牛　白兰逊首节独取22分　公牛五连败"
+  },
+  "summary": {
+   "en": "The New York Knicks thrashed the Chicago Bulls 135-105 at home, handing Chicago a fifth straight defeat. Jalen Brunson scored 22 points in the first quarter alone, shooting 80 per cent from the field and outscoring the entire Bulls team, as New York led 43-21 after the first quarter and 84-52 at half-time. Chicago's Josh Giddey finished with 10 points, six assists and just one rebound with three turnovers; the Bulls have lost their past five games by an average of 19.2 points and fall to 1-7, while the Knicks improve to 4-4.",
+   "zh_hant": "紐約人主場以135:105大勝芝加哥公牛，送對方五連敗。白蘭遜首節獨取22分，命中率高達八成，個人得分比公牛全隊還多；紐約人首節領先43:21，半場拋離84:52。公牛基迪只得10分、6次助攻及1個籃板，另有3次失誤；公牛近五場平均輸19.2分，戰績跌至1勝7負，紐約人則為4勝4負。",
+   "zh_hans": "纽约人主场以135:105大胜芝加哥公牛，送对方五连败。白兰逊首节独取22分，命中率高达八成，个人得分比公牛全队还多；纽约人首节领先43:21，半场抛离84:52。公牛基迪只得10分、6次助攻及1个篮板，另有3次失误；公牛近五场平均输19.2分，战绩跌至1胜7负，纽约人则为4胜4负。"
+  },
+  "tags": {
+   "en": [
+    "Knicks",
+    "Bulls",
+    "Jalen Brunson"
+   ],
+   "zh_hant": [
+    "紐約人",
+    "公牛",
+    "白蘭遜"
+   ],
+   "zh_hans": [
+    "纽约人",
+    "公牛",
+    "白兰逊"
+   ]
+  }
+ },
+ {
+  "id": "20261105-ucl-fenerbahce-liverpool",
+  "sport": "football",
+  "published_at": "2026-11-05T05:00:00+08:00",
+  "image_url": null,
+  "source": "Fanzine",
+  "source_url": "https://www.fanzine.com/football/liverpool-fc/champions-league-results-standings-fabregas-como-score-nine-liverpool-beaten-madrid-net-stunning-winner",
+  "title": {
+   "en": "Fenerbahce fight back to beat Liverpool 3-2 as Reds blow two leads",
+   "zh_hant": "費倫巴治3:2反勝利物浦　紅軍兩度領先反輸　歐聯首敗",
+   "zh_hans": "费伦巴治3:2反胜利物浦　红军两度领先反输　欧联首败"
+  },
+  "summary": {
+   "en": "Fenerbahce came from behind to beat Liverpool 3-2 at home in the Champions League, ending the Reds' perfect start to the competition. Nineteen-year-old Trey Nyoni volleyed Liverpool ahead in the 25th minute before Mason Greenwood's deflected free kick levelled four minutes later; substitute Alexander Isak headed in Cody Gakpo's cross in the 69th minute, Archie Brown tapped in an equaliser after a mix-up between Gakpo and Alisson in the 73rd, and Vedat Muriqi headed home a long throw in the 79th to win it. Liverpool held each lead for only four minutes, and coach Andoni Iraola called the goals \"cheap\" and \"messy\", with all three conceded from set pieces. Fenerbahce, managed by former Liverpool striker Dirk Kuyt, claimed their first league-phase win of the season.",
+   "zh_hant": "費倫巴治在歐聯主場以3:2反勝利物浦，終結紅軍今季歐聯全勝紀錄。19歲小將尼奧尼25分鐘窩利首開紀錄，格連活特29分鐘罰球折射扳平；後備入替的伊薩克69分鐘接加普傳中頂入，布朗73分鐘把握加普與艾利臣配合失誤扳平，梅里基79分鐘接長界外球頂入奠勝。利物浦兩度領先都只維持四分鐘，主帥伊拉奧拿賽後直言失球「廉價又混亂」，三個失球全部來自死球。費倫巴治由前利物浦射手古治帶領，取得今季聯賽階段首勝。",
+   "zh_hans": "费伦巴治在欧联主场以3:2反胜利物浦，终结红军今季欧联全胜纪录。19岁小将尼奥尼25分钟窝利首开纪录，格连活特29分钟罚球折射扳平；后备入替的伊萨克69分钟接加普传中顶入，布朗73分钟把握加普与艾利臣配合失误扳平，梅里基79分钟接长界外球顶入奠胜。利物浦两度领先都只维持四分钟，主帅伊拉奥拿赛后直言失球「廉价又混乱」，三个失球全部来自死球。费伦巴治由前利物浦射手古治带领，取得今季联赛阶段首胜。"
+  },
+  "tags": {
+   "en": [
+    "Fenerbahce",
+    "Liverpool",
+    "Champions League"
+   ],
+   "zh_hant": [
+    "費倫巴治",
+    "利物浦",
+    "歐聯"
+   ],
+   "zh_hans": [
+    "费伦巴治",
+    "利物浦",
+    "欧联"
+   ]
+  }
+ },
+ {
+  "id": "20261105-ucl-aek-real-madrid",
+  "sport": "football",
+  "published_at": "2026-11-05T05:00:00+08:00",
+  "image_url": null,
+  "source": "Fanzine",
+  "source_url": "https://www.fanzine.com/football/liverpool-fc/champions-league-results-standings-fabregas-como-score-nine-liverpool-beaten-madrid-net-stunning-winner",
+  "title": {
+   "en": "Valverde's stoppage-time stunner keeps Real Madrid perfect in 3-2 win at AEK Athens",
+   "zh_hant": "皇馬補時絕殺雅典AEK 3:2　華維迪92分鐘世界波　四戰全勝",
+   "zh_hans": "皇马补时绝杀雅典AEK 3:2　华维迪92分钟世界波　四战全胜"
+  },
+  "summary": {
+   "en": "Real Madrid came from behind twice to beat AEK Athens 3-2 away in the Champions League, with Federico Valverde's long-range strike in the 92nd minute sealing victory and a fourth straight win in the league phase. Aboubakary Koita put the hosts ahead in the 12th minute before Jude Bellingham levelled with an improvised back-heel flick in the 32nd; Stavros Pilios restored AEK's lead in the 75th, Kylian Mbappe equalised three minutes later, and Valverde won it from distance in stoppage time. Madrid join Paris Saint-Germain as the only teams with a perfect record after four games, sitting second behind PSG on goal difference. Coach Jose Mourinho said afterwards he was very lucky to have players of such quality.",
+   "zh_hant": "皇家馬德里在歐聯作客兩度落後下反勝雅典AEK 3:2，補時階段由華維迪遠射奠勝，聯賽階段四戰全勝。主隊高達12分鐘先開紀錄，比寧咸32分鐘後踭妙射扳平；派利奧斯75分鐘再為AEK領先，麥巴比三分鐘後扳平，華維迪92分鐘遠射破網。皇馬與巴黎聖日耳門同為今季唯一四戰全勝的球隊，皇馬憑得失球差排第二。主帥摩連奴賽後笑言，自己非常幸運擁有如此高質素的球員。",
+   "zh_hans": "皇家马德里在欧联作客两度落后下反胜雅典AEK 3:2，补时阶段由华维迪远射奠胜，联赛阶段四战全胜。主队高达12分钟先开纪录，比宁咸32分钟后踭妙射扳平；派利奥斯75分钟再为AEK领先，麦巴比三分钟后扳平，华维迪92分钟远射破网。皇马与巴黎圣日耳门同为今季唯一四战全胜的球队，皇马凭得失球差排第二。主帅摩连奴赛后笑言，自己非常幸运拥有如此高质素的球员。"
+  },
+  "tags": {
+   "en": [
+    "Real Madrid",
+    "AEK Athens",
+    "Champions League"
+   ],
+   "zh_hant": [
+    "皇家馬德里",
+    "雅典AEK",
+    "歐聯"
+   ],
+   "zh_hans": [
+    "皇家马德里",
+    "雅典AEK",
+    "欧联"
+   ]
+  }
+ },
+ {
+  "id": "20261105-ucl-lens-como-nine",
+  "sport": "football",
+  "published_at": "2026-11-05T05:00:00+08:00",
+  "image_url": null,
+  "source": "Fanzine",
+  "source_url": "https://www.fanzine.com/football/liverpool-fc/champions-league-results-standings-fabregas-como-score-nine-liverpool-beaten-madrid-net-stunning-winner",
+  "title": {
+   "en": "Como hit nine in historic 9-1 Champions League rout at Lens",
+   "zh_hant": "科莫歐聯狂轟9:1橫掃朗斯　杜維卡斯戴帽　史上第二隊單場入9球",
+   "zh_hans": "科莫欧联狂轰9:1横扫朗斯　杜维卡斯戴帽　史上第二队单场入9球"
+  },
+  "summary": {
+   "en": "Como thrashed Lens 9-1 away in the Champions League, becoming only the second side ever to score nine goals in a single game in the competition. Anastasios Douvikas completed a hat-trick with goals in the 7th, 32nd and 57th minutes, scoring in all four of Como's matches this season, while Nico Paz also found the net and held up a T-shirt bearing the image of Jesus de Miguel, the Tenerife forward who died after an on-field collision. Como led 3-0 at half-time and scored six more after the break, with seven different players on the scoresheet. In their debut Champions League campaign, Como have won three of four matches and sit fourth, with 19 goals scored.",
+   "zh_hant": "科莫在歐聯作客以9:1大勝朗斯，成為歐聯史上第二支單場攻入九球的球隊。杜維卡斯7、32及57分鐘上演帽子戲法，今季四場歐聯場場有入球；尼高柏斯40分鐘亦有入球，入球後舉起印有已故特內里費前鋒迪美基爾肖像的T恤致意。科莫半場已領先3:0，下半場再入六球，全隊七名不同球員取得入球。科莫今季歐聯首度亮相，四戰三勝，現排第四，共入19球。",
+   "zh_hans": "科莫在欧联作客以9:1大胜朗斯，成为欧联史上第二支单场攻入九球的球队。杜维卡斯7、32及57分钟上演帽子戏法，今季四场欧联场场有入球；尼高柏斯40分钟亦有入球，入球后举起印有已故特内里费前锋迪美基尔肖像的T恤致意。科莫半场已领先3:0，下半场再入六球，全队七名不同球员取得入球。科莫今季欧联首度亮相，四战三胜，现排第四，共入19球。"
+  },
+  "tags": {
+   "en": [
+    "Como",
+    "Lens",
+    "Champions League"
+   ],
+   "zh_hant": [
+    "科莫",
+    "朗斯",
+    "歐聯"
+   ],
+   "zh_hans": [
+    "科莫",
+    "朗斯",
+    "欧联"
+   ]
+  }
+ },
+ {
   "id": "20261105-paris-masters-alcaraz-michelsen",
   "sport": "tennis",
   "published_at": "2026-11-05T04:26:00+08:00",
