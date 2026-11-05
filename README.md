@@ -36,8 +36,8 @@
 
 ## 新聞更新流程（自動化）
 
-- 排程 `hkcn-news-4h-update` 每 4 小時執行一次（約 00／04／08／12／16／20 HKT），同綜合新聞站一齊跑。
-- 流程：搜尋近數小時體育新聞 → 摘要用自己文字重寫（三語）→ 寫入 `data/今日日期.json`、產生 `a/{id}.html`、更新 `manifest.json`、將新 id 加入 `data/unknown.json` → 經 GitHub PAT commit＋push 上 `main` → Vercel 自動 deploy。
+- 排程 `hkcn-news-4h-update` 每 2 小時執行一次，同綜合新聞站一齊跑。
+- 流程：搜尋近數小時體育新聞 → 摘要用自己文字重寫（三語）→ 寫入 `data/今日日期.json`、產生 `a/{id}.html`、更新 `manifest.json`、將新 id 加入 `data/unknown.json` → 嗰輪全部改動經 GitHub API 一次過一個 commit 推上 `main`（2026-11-05 江仔拍板：每輪一個 commit，慳 Vercel deploy 配額）→ Vercel 自動 deploy。
 - **版權要求**：摘要必須重新編寫，唔好大段複製原文。
 - 目標每日約 25–40 篇，寧缺勿濫。
 
