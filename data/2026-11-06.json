@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261106-eala-valentova-hong-kong-qf",
+  "sport": "tennis",
+  "published_at": "2026-11-05T20:51:00+08:00",
+  "image_url": "https://photoresources.wtatennis.com/wta/photo/2026/11/05/bbc64c6a-925b-4bbb-b787-c4f6fdc45bab/Alexandra-Eala-Hong-Kong-2026.jpg",
+  "source": "WTA",
+  "source_url": "https://www.wtatennis.com/news/4605051/eala-holds-off-valentova-challenge-to-reach-hong-kong-quarterfinals",
+  "title": {
+   "zh_hant": "香港賽｜伊雅娜6：4、7：6險勝華蘭杜娃　首勝宿敵晉級八強　今晚硬撼魯西奇",
+   "en": "Hong Kong Open: Eala beats Valentova 6-4, 7-6 for first win over her rival to reach quarter-finals; faces Ruzic tonight",
+   "zh_hans": "香港赛｜伊雅娜6：4、7：6险胜华兰杜娃　首胜宿敌晋级八强　今晚硬撼鲁西奇"
+  },
+  "summary": {
+   "zh_hant": "保誠香港網球公開賽周四繼續上演賽事，菲律賓二號種子伊雅娜以6：4、7：6（9：7）擊敗捷克球手華蘭杜娃，晉身女單八強。伊雅娜開局領先3：0，首盤在第九局挽救三個破發分後破發，以6：4先下一城；次盤一度落後2：4，追平後在搶七領先5：0，雖然被對手挽救三個賽末點，仍以9：7拿下搶七，全場耗時1小時54分鐘。這是伊雅娜三度交手首次擊敗華蘭杜娃，亦是她職業生涯首次在巡迴賽擊敗捷克球手，兼本季第七次打入巡迴賽八強。她將於周五八強戰對克羅地亞球手魯西奇，爭奪四強席位。",
+   "en": "Second seed Alexandra Eala of the Philippines beat Czech teenager Tereza Valentova 6-4, 7-6 (9-7) on Thursday to reach the quarter-finals of the Prudential Hong Kong Tennis Open. Eala raced to a 3-0 lead and saved three break points in the ninth game before breaking to take the first set 6-4; in the second she recovered from 2-4 down and led 5-0 in the tiebreak, surviving three saved match points before closing it out 9-7 in one hour and 54 minutes. It was her first win over Valentova in three meetings and her first career tour-level win over a Czech opponent, as well as her seventh tour-level quarter-final of the season. She faces Croatia's Antonia Ruzic in Friday's quarter-finals.",
+   "zh_hans": "保诚香港网球公开赛周四继续上演赛事，菲律宾二号种子伊雅娜以6：4、7：6（9：7）击败捷克球手华兰杜娃，晋身女单八强。伊雅娜开局领先3：0，首盘在第九局挽救三个破发分后破发，以6：4先下一城；次盘一度落后2：4，追平后在抢七领先5：0，虽然被对手挽救三个赛末点，仍以9：7拿下抢七，全场耗时1小时54分钟。这是伊雅娜三度交手首次击败华兰杜娃，亦是她职业生涯首次在巡回赛击败捷克球手，兼本季第七次打入巡回赛八强。她将于周五八强战对克罗地亚球手鲁西奇，争夺四强席位。"
+  },
+  "tags": {
+   "zh_hant": [
+    "香港網球公開賽",
+    "伊雅娜",
+    "女單"
+   ],
+   "en": [
+    "Hong Kong Tennis Open",
+    "Alexandra Eala",
+    "women's singles"
+   ],
+   "zh_hans": [
+    "香港网球公开赛",
+    "伊雅娜",
+    "女单"
+   ]
+  }
+ },
+ {
   "id": "20261106-nba-suns-magic-117-104",
   "sport": "basketball",
   "published_at": "2026-11-06T12:35:00+08:00",
