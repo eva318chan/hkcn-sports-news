@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261107-alcaraz-saves-match-points-beats-fritz-paris-sf",
+  "sport": "tennis",
+  "published_at": "2026-11-07T05:54:00+08:00",
+  "image_url": "https://www.tennismajors.com/app/uploads/2026/11/Carlos_Alcaraz_RPM_2026.jpg",
+  "source": "Tennis Majors",
+  "source_url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/alcaraz-saves-two-match-points-to-beat-fritz-and-reach-his-first-paris-semi-final-866105.html",
+  "title": {
+   "zh_hant": "救兩個賽點反勝！艾卡拿斯 6-7、7-5、6-3 挫費斯　首闖巴黎大師賽四強",
+   "en": "Alcaraz saves two match points to beat Fritz 6-7, 7-5, 6-3 and reach his first Paris Masters semi-final",
+   "zh_hans": "救两个赛点反胜！艾卡拿斯 6-7、7-5、6-3 挫费斯　首闯巴黎大师赛四强"
+  },
+  "summary": {
+   "zh_hant": "西班牙球手艾卡拿斯在巴黎大師賽男單八強，救回兩個賽點後以6-7（10）、7-5、6-3反勝美國球手費斯，生涯首次打入巴黎大師賽四強，全場耗時2小時43分鐘。費斯在首盤搶七以12-10先拔頭籌，第二盤一度領先5-3，之後更手握發球勝賽局；艾卡拿斯在絕境下連救兩個賽點並破發扳平，再以7-5追回一盤，決勝盤以6-3鎖定勝局。費斯落敗後無緣年終賽，八個都靈年終賽席位亦隨之全部確定；艾卡拿斯將在四強迎戰魯迪與保加斯之間的勝方。",
+   "en": "Spain's Carlos Alcaraz saved two match points to beat American Taylor Fritz 6-7 (10), 7-5, 6-3 in the Paris Masters quarter-finals and reach the semi-finals of the tournament for the first time in his career, in a match lasting two hours and 43 minutes. Fritz won the first-set tiebreak 12-10 and led 5-3 in the second set before holding a service game to win the match, but Alcaraz saved two match points, broke back to level the set and took it 7-5, then closed out the decider 6-3. Fritz's defeat ends his hopes of reaching the season-ending ATP Finals, with all eight Turin places now confirmed; Alcaraz will face the winner of the Casper Ruud-Nuno Borges quarter-final in the semi-finals.",
+   "zh_hans": "西班牙球手艾卡拿斯在巴黎大师赛男单八强，救回两个赛点后以6-7（10）、7-5、6-3反胜美国球手费斯，生涯首次打入巴黎大师赛四强，全场耗时2小时43分钟。费斯在首盘抢七以12-10先拔头筹，第二盘一度领先5-3，之后更手握发球胜赛局；艾卡拿斯在绝境下连救两个赛点并破发扳平，再以7-5追回一盘，决胜盘以6-3锁定胜局。费斯落败后无缘年终赛，八个都灵年终赛席位亦随之全部确定；艾卡拿斯将在四强迎战鲁迪与保加斯之间的胜方。"
+  },
+  "tags": {
+   "zh_hant": [
+    "艾卡拿斯",
+    "巴黎大師賽",
+    "費斯"
+   ],
+   "en": [
+    "Carlos Alcaraz",
+    "Paris Masters",
+    "Taylor Fritz"
+   ],
+   "zh_hans": [
+    "艾卡拿斯",
+    "巴黎大师赛",
+    "费斯"
+   ]
+  }
+ },
+ {
   "id": "20261107-van-assche-beats-hijikata-paris-sf",
   "sport": "tennis",
   "published_at": "2026-11-07T02:11:00+08:00",
