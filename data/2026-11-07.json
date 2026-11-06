@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261107-van-assche-beats-hijikata-paris-sf",
+  "sport": "tennis",
+  "published_at": "2026-11-07T02:11:00+08:00",
+  "image_url": "https://www.tennismajors.com/app/uploads/2026/11/LucasVanAssche_semi-Paris.jpg",
+  "source": "Tennis Majors",
+  "source_url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/van-assche-beats-hijikata-to-reach-his-first-masters-1000-semi-final-in-paris-sets-up-shelton-clash-866059.html",
+  "title": {
+   "zh_hant": "雲艾沙治絕地反擊！決勝盤0-2落後連贏5局　淘汰希哲卡達　生涯首闖大師賽四強鬥舒爾頓",
+   "en": "Van Assche fights back from 2-0 down in the decider to beat Hijikata 6-4, 6-7(4), 7-5 and reach his first Masters 1000 semi-final against Shelton",
+   "zh_hans": "云艾沙治绝地反击！决胜盘0-2落后连赢5局　淘汰希哲卡达　生涯首闯大师赛四强斗舒尔顿"
+  },
+  "summary": {
+   "zh_hant": "法國球手雲艾沙治在巴黎大師賽男單八強，以6-4、6-7（4）、7-5擊敗澳洲資格賽球手希哲卡達，生涯首次打入大師賽四強。雲艾沙治在決勝盤一度落後0-2，之後連贏五局反超，最終以7-5鎖定勝局，全場耗時2小時44分鐘。世界排名第47位的雲艾沙治是今屆賽事僅餘的法國球手，繼八強前一輪淘汰梅斯迪後再過一關，賽後世界排名將升入前40位。他將在四強迎戰三號種子舒爾頓，後者以6-4、4-6、6-3擊敗保羅晉級。",
+   "en": "Frenchman Luca Van Assche beat Australian qualifier Rinky Hijikata 6-4, 6-7 (4), 7-5 in the Paris Masters quarter-finals to reach the semi-finals of a Masters 1000 event for the first time in his career. Van Assche trailed 2-0 in the deciding set before winning five straight games to turn the match around, closing it out 7-5 after two hours and 44 minutes. The world No. 47 is the last Frenchman left in the draw, having already beaten Lorenzo Musetti in the previous round, and will move into the world's top 40 after this run. He will face third seed Ben Shelton in the semi-final; Shelton beat Tommy Paul 6-4, 4-6, 6-3 to advance.",
+   "zh_hans": "法国球手云艾沙治在巴黎大师赛男单八强，以6-4、6-7（4）、7-5击败澳洲资格赛球手希哲卡达，生涯首次打入大师赛四强。云艾沙治在决胜盘一度落后0-2，之后连赢五局反超，最终以7-5锁定胜局，全场耗时2小时44分钟。世界排名第47位的云艾沙治是今届赛事仅余的法国球手，继八强前一轮淘汰梅斯迪后再过一关，赛后世界排名将升入前40位。他将在四强迎战三号种子舒尔顿，后者以6-4、4-6、6-3击败保罗晋级。"
+  },
+  "tags": {
+   "zh_hant": [
+    "雲艾沙治",
+    "巴黎大師賽",
+    "希哲卡達"
+   ],
+   "en": [
+    "Luca Van Assche",
+    "Paris Masters",
+    "Rinky Hijikata"
+   ],
+   "zh_hans": [
+    "云艾沙治",
+    "巴黎大师赛",
+    "希哲卡达"
+   ]
+  }
+ },
+ {
   "id": "20261107-eala-beats-ruzic-hong-kong-sf",
   "sport": "tennis",
   "published_at": "2026-11-06T23:55:00+08:00",
