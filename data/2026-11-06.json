@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261106-europa-league-english-clubs",
+  "sport": "football",
+  "published_at": "2026-11-06T07:38:00+08:00",
+  "image_url": null,
+  "source": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1876751-20261106.htm",
+  "title": {
+   "zh_hant": "歐霸盃｜般尼茅夫反勝布拉格斯巴達　四連勝兼七連勝　水晶宮補時絕平　新特蘭主場輸波",
+   "en": "Europa League: Bournemouth fight back to beat Sparta Prague for a fourth straight win and seventh in all competitions; Palace snatch a late draw, Sunderland lose at home",
+   "zh_hans": "欧霸杯｜般尼茅夫反胜布拉格斯巴达　四连胜兼七连胜　水晶宫补时绝平　新特兰主场输波"
+  },
+  "summary": {
+   "zh_hant": "歐霸盃賽事，三支英超球隊各有勝和負。般尼茅夫作客3:1反勝捷克球隊布拉格斯巴達，經過四場比賽保持全勝，兼在各項賽事取得七連勝；球隊上半場35分鐘先失守，但主隊及後有球員領第二張黃牌被逐，泰拿阿當斯57分鐘追成1:1，伊雲尼遜在比賽餘下9分鐘時攻入反先一球，完場前再入一球鎖定勝局。水晶宮主場面對賀芬咸，開賽7分鐘就落後，下半場更有禾頓兩黃一紅被逐，但日本球員鐮田大地在補時2分鐘攻入扳平入球，艱苦地取回1分。英超榜尾球隊新特蘭主場0:2不敵薩格勒布戴拿模。",
+   "en": "In the Europa League, the three Premier League sides finished with a win, a draw and a defeat. Bournemouth came from behind to win 3-1 away to Czech side Sparta Prague, staying perfect after four matches and extending their winning run to seven in all competitions; they fell behind in the 35th minute, but the hosts then had a player sent off for a second yellow card, Tyler Adams equalised in the 57th minute, Evanilson put them ahead with nine minutes left and a late third goal sealed the win. Crystal Palace fell behind to Hoffenheim after seven minutes at home and had Adam Wharton sent off for a second yellow in the 77th minute, but Japan's Daichi Kamada scored a stoppage-time equaliser to rescue a point. Bottom-of-the-table Sunderland lost 0-2 at home to Dinamo Zagreb.",
+   "zh_hans": "欧霸杯赛事，三支英超球队各有胜和负。般尼茅夫作客3:1反胜捷克球队布拉格斯巴达，经过四场比赛保持全胜，兼在各项赛事取得七连胜；球队上半场35分钟先失守，但主队及后有球员领第二张黄牌被逐，泰拿阿当斯57分钟追成1:1，伊云尼逊在比赛余下9分钟时攻入反先一球，完场前再入一球锁定胜局。水晶宫主场面对贺芬咸，开赛7分钟就落后，下半场更有禾顿两黄一红被逐，但日本球员镰田大地在补时2分钟攻入扳平入球，艰苦地取回1分。英超榜尾球队新特兰主场0:2不敌萨格勒布戴拿模。"
+  },
+  "tags": {
+   "zh_hant": [
+    "歐霸盃",
+    "般尼茅夫",
+    "水晶宮"
+   ],
+   "en": [
+    "Europa League",
+    "Bournemouth",
+    "Crystal Palace"
+   ],
+   "zh_hans": [
+    "欧霸杯",
+    "般尼茅夫",
+    "水晶宫"
+   ]
+  }
+ },
+ {
   "id": "20261106-paris-masters-ruud-struff",
   "sport": "tennis",
   "published_at": "2026-11-06T04:45:00+08:00",
