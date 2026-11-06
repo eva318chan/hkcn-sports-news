@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261106-sakkari-beats-sasnovich-hong-kong-sf",
+  "sport": "tennis",
+  "published_at": "2026-11-06T19:45:00+08:00",
+  "image_url": null,
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/2026_Hong_Kong_Tennis_Open_%E2%80%93_Singles",
+  "title": {
+   "zh_hant": "薩卡里直落兩盤輕取薩斯諾維奇　闖香港賽四強　將鬥伊娜或魯齊克勝方",
+   "en": "Sakkari powers past Sasnovich 6-2, 6-3 to reach Hong Kong semi-finals, where the Eala–Ruzic winner awaits",
+   "zh_hans": "萨卡里直落两盘轻取萨斯诺维奇　闯香港赛四强　将斗伊娜或鲁齐克胜方"
+  },
+  "summary": {
+   "zh_hant": "4號種子、希臘球手薩卡里（Maria Sakkari）在香港網球公開賽女單八強，以6-2、6-3直落兩盤擊敗資格賽球手、世界排名101位的薩斯諾維奇（Aliaksandra Sasnovich），晉級四強。世界排名30位的薩卡里今站先後淘汰 Carol Young Suh Lee 及 Maya Joint，八強再下一城；薩斯諾維奇則在上一圈經過逾3小時激戰，才淘汰5號種子 Talia Gibson。兩人對賽往績改寫成薩卡里2比0領先，薩卡里將於星期六的四強，對2號種子 Eala 與克羅地亞球手 Ruzic 八強戰的勝方。",
+   "en": "Fourth seed Maria Sakkari of Greece beat qualifier Aliaksandra Sasnovich 6-2, 6-3 in the women's singles quarter-finals of the Prudential Hong Kong Tennis Open to reach the semi-finals. World No. 30 Sakkari had beaten Carol Young Suh Lee and Maya Joint earlier in the week, while world No. 101 Sasnovich needed more than three hours to get past fifth seed Talia Gibson in the previous round. The win takes Sakkari's head-to-head lead over Sasnovich to 2-0. She will face the winner of the quarter-final between second seed Alexandra Eala and Croatia's Antonia Ruzic in Saturday's semi-final.",
+   "zh_hans": "4号种子、希腊球手萨卡里（Maria Sakkari）在香港网球公开赛女单八强，以6-2、6-3直落两盘击败资格赛球手、世界排名101位的萨斯诺维奇（Aliaksandra Sasnovich），晋级四强。世界排名30位的萨卡里今站先后淘汰 Carol Young Suh Lee 及 Maya Joint，八强再下一城；萨斯诺维奇则在上一圈经过逾3小时激战，才淘汰5号种子 Talia Gibson。两人对赛往绩改写成萨卡里2比0领先，萨卡里将于星期六的四强，对2号种子 Eala 与克罗地亚球手 Ruzic 八强战的胜方。"
+  },
+  "tags": {
+   "zh_hant": [
+    "薩卡里",
+    "薩斯諾維奇",
+    "香港網球公開賽"
+   ],
+   "en": [
+    "Maria Sakkari",
+    "Aliaksandra Sasnovich",
+    "Hong Kong Tennis Open"
+   ],
+   "zh_hans": [
+    "萨卡里",
+    "萨斯诺维奇",
+    "香港网球公开赛"
+   ]
+  }
+ },
+ {
   "id": "20261106-shubladze-stuns-cirstea-hong-kong-qf",
   "sport": "tennis",
   "published_at": "2026-11-06T18:00:00+08:00",
