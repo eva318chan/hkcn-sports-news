@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261108-alcaraz-beats-ruud-paris-final",
+  "sport": "tennis",
+  "published_at": "2026-11-08T02:02:20+08:00",
+  "image_url": "https://www.tennismajors.com/app/uploads/2026/11/carlos_alcaraz_2026_Semi_RPM.jpg",
+  "source": "Tennis Majors",
+  "source_url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/alcaraz-reaches-his-first-paris-final-without-facing-a-break-point-sets-up-us-open-rematch-with-shelton-866287.html",
+  "title": {
+   "zh_hant": "艾卡拿斯直落兩盤挫魯迪　首闖巴黎大師賽決賽鬥舒爾頓",
+   "en": "Alcaraz beats Ruud in straight sets to reach first Paris Masters final against Shelton",
+   "zh_hans": "艾卡拿斯直落两盘挫鲁迪　首闯巴黎大师赛决赛斗舒尔顿"
+  },
+  "summary": {
+   "zh_hant": "二號種子、世界排名第三的西班牙球手艾卡拿斯，在巴黎大師賽男單四強以6:4、6:4直落兩盤擊敗挪威的魯迪，首次打入巴黎大師賽決賽，全場僅用1小時27分鐘。艾卡拿斯全場未曾面對破發點，在第二個賽點以發球直得鎖定勝局，連勝場數增至八場。星期日的決賽他將迎戰舒爾頓，兩人繼美網八強後再度交鋒，當時由舒爾頓勝出；艾卡拿斯在對賽往績仍以3勝1負領先。",
+   "en": "Second seed Carlos Alcaraz, ranked world No. 3, beat Norway's Casper Ruud 6-4, 6-4 in the Paris Masters semi-finals to reach the final in Paris for the first time, needing only 1 hour 27 minutes. Alcaraz did not face a break point all match and sealed victory with an ace on his second match point, extending his winning streak to eight matches. He will face Ben Shelton in Sunday's final, a rematch of their US Open quarter-final, which Shelton won; Alcaraz still leads their head-to-head 3-1.",
+   "zh_hans": "二号种子、世界排名第三的西班牙球手艾卡拿斯，在巴黎大师赛男单四强以6:4、6:4直落两盘击败挪威的鲁迪，首次打入巴黎大师赛决赛，全场仅用1小时27分钟。艾卡拿斯全场未曾面对破发点，在第二个赛点以发球直得锁定胜局，连胜场数增至八场。星期日的决赛他将迎战舒尔顿，两人继美网八强后再度交锋，当时由舒尔顿胜出；艾卡拿斯在对赛往绩仍以3胜1负领先。"
+  },
+  "tags": {
+   "zh_hant": [
+    "艾卡拿斯",
+    "巴黎大師賽",
+    "魯迪"
+   ],
+   "en": [
+    "Carlos Alcaraz",
+    "Paris Masters",
+    "Casper Ruud"
+   ],
+   "zh_hans": [
+    "艾卡拿斯",
+    "巴黎大师赛",
+    "鲁迪"
+   ]
+  }
+ },
+ {
   "id": "20261108-shelton-beats-van-assche-paris-final",
   "sport": "tennis",
   "published_at": "2026-11-08T00:02:14+08:00",
