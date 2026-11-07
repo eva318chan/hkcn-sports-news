@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261107-eala-beats-sakkari-hong-kong-final",
+  "sport": "tennis",
+  "published_at": "2026-11-07T20:11:00+08:00",
+  "image_url": null,
+  "source": "Fastbreak",
+  "source_url": "https://fastbreak.com.ph/alex-eala-outlasts-maria-sakkari-advances-to-hong-kong-open-final/sports-galore/",
+  "title": {
+   "zh_hant": "艾拿激戰三盤擊敗莎卡莉　闖港網公開賽決賽鬥劉晴樺",
+   "en": "Eala outlasts Sakkari in three sets to reach Hong Kong Open final against Liu",
+   "zh_hans": "艾拿激战三盘击败莎卡莉　闯港网公开赛决赛斗刘晴桦"
+  },
+  "summary": {
+   "zh_hant": "菲律賓球手艾拿在香港網球公開賽女單四強，經過三盤激戰，以7:5、3:6、6:4擊敗希臘四號種子莎卡莉，晉級決賽。比賽多次因雨暫停，歷時2小時43分鐘。艾拿全場共贏得119分，多過莎卡莉的108分；她把握22個破發機會中的5個，莎卡莉則把握9個中的4個。莎卡莉雖然發出12個發球直接得分，但同時出現6次雙發失誤；艾拿一發得分率達79%，全場只有一次雙發失誤。艾拿將在星期日的決賽迎戰美國球手劉晴樺，爭奪個人今季第二個巡迴賽冠軍；劉晴樺稍早以7:5、6:4擊敗舒伯拉迪晉級。",
+   "en": "Filipina Alexandra Eala beat fourth seed Maria Sakkari of Greece 7-5, 3-6, 6-4 in a three-set semi-final at the Hong Kong Open women's singles to reach the final. The match was interrupted several times by rain and lasted 2 hours 43 minutes. Eala won 119 points in total, more than Sakkari's 108; she converted five of her 22 break-point chances, while Sakkari converted four of nine. Sakkari hit 12 aces but also committed six double faults; Eala's first-serve rate reached 79 per cent, with only one double fault in the whole match. Eala will face American Claire Liu in Sunday's final, chasing a second tour title of the season; Liu advanced earlier with a 7-5, 6-4 win over Alexandra Shubladze.",
+   "zh_hans": "菲律宾球手艾拿在香港网球公开赛女单四强，经过三盘激战，以7:5、3:6、6:4击败希腊四号种子莎卡莉，晋级决赛。比赛多次因雨暂停，历时2小时43分钟。艾拿全场共赢得119分，多过莎卡莉的108分；她把握22个破发机会中的5个，莎卡莉则把握9个中的4个。莎卡莉虽然发出12个发球直接得分，但同时出现6次双发失误；艾拿一发得分率达79%，全场只有一次双发失误。艾拿将在星期日的决赛迎战美国球手刘晴桦，争夺个人今季第二个巡回赛冠军；刘晴桦稍早以7:5、6:4击败舒伯拉迪晋级。"
+  },
+  "tags": {
+   "zh_hant": [
+    "艾拿",
+    "香港網球公開賽",
+    "網球"
+   ],
+   "en": [
+    "Alexandra Eala",
+    "Hong Kong Open",
+    "tennis"
+   ],
+   "zh_hans": [
+    "艾拿",
+    "香港网球公开赛",
+    "网球"
+   ]
+  }
+ },
+ {
   "id": "20261107-claire-liu-beats-shubladze-hong-kong-final",
   "sport": "tennis",
   "published_at": "2026-11-07T16:45:00+08:00",
