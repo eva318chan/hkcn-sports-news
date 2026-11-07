@@ -1,5 +1,75 @@
 [
  {
+  "id": "20261107-ruud-beats-borges-paris-sf-alcaraz",
+  "sport": "tennis",
+  "published_at": "2026-11-07T07:59:00+08:00",
+  "image_url": "https://www.tennismajors.com/app/uploads/2026/11/casper-ruud-scoreplay-133060861-scaled.jpg",
+  "source": "Tennis Majors",
+  "source_url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/ruud-ends-lucky-loser-borgess-paris-run-to-set-up-alcaraz-semi-final-866140.html",
+  "title": {
+   "zh_hant": "復仇成功！魯迪 7-6、6-4 挫保加斯　四強硬撼艾卡拿斯",
+   "en": "Ruud beats Borges 7-6, 6-4 to end the lucky loser's Paris run and set up an Alcaraz semi-final",
+   "zh_hans": "复仇成功！鲁迪 7-6、6-4 挫保加斯　四强硬撼艾卡拿斯"
+  },
+  "summary": {
+   "zh_hant": "挪威球手魯迪在巴黎大師賽男單八強，以7-6（5）、6-4擊敗幸運落敗者保加斯，晉級四強，報卻上周在巴塞爾落敗之仇，全場耗時1小時34分鐘。魯迪第11次打入大師賽1000四強，也是今季第二次（之前在羅馬打入決賽），兼且是繼2022年邁阿密和蒙特利爾之後，第三次在硬地大師賽打入四強；勝仗令他在ATP即時排名升至第18位。保加斯此前在主抽籤的25個發球局全部保住，首盤雙方都未能破發，魯迪在搶七把握第三個盤點以7-5先拔頭籌；第二盤魯迪在2-3落後時化解兩個破發點，隨即把握全場唯一一個破發點破發，5-4發球直落保住勝局。魯迪將在四強迎戰二號種子艾卡拿斯，雙方交手魯迪1勝6負，唯一勝仗是2024年ATP年終賽小組賽6-1、7-5；最近一次交手是今年3月印第安韋爾斯16強，艾卡拿斯以6-1、7-6（2）勝出。",
+   "en": "Norway's Casper Ruud beat lucky loser Nuno Borges 7-6 (5), 6-4 in the Paris Masters quarter-finals to reach the semi-finals, avenging his defeat in Basel last week, in a match lasting one hour and 34 minutes. Ruud is through to his 11th ATP Masters 1000 semi-final and his second of the season, after reaching the final in Rome, and his third on hard courts after Miami and Montreal in 2022; the win lifts him to No. 18 in the PIF ATP Live Rankings. Borges had held all 25 of his service games in the main draw before Friday, and the opening set went without a break before Ruud took the tiebreak 7-5 on his third set point. In the second set Ruud saved two break points at 2-3, then converted his first and only break point of the match and served it out to love at 5-4. Ruud will face second seed Carlos Alcaraz in the semi-finals, trailing their head-to-head 1-6; his only win came 6-1, 7-5 in the round robin of the 2024 ATP Finals, while Alcaraz won their latest meeting 6-1, 7-6 (2) in the last 16 at Indian Wells in March.",
+   "zh_hans": "挪威球手鲁迪在巴黎大师赛男单八强，以7-6（5）、6-4击败幸运落败者保加斯，晋级四强，报却上周在巴塞尔落败之仇，全场耗时1小时34分钟。鲁迪第11次打入大师赛1000四强，也是今季第二次（之前在罗马打入决赛），兼且是继2022年迈阿密和蒙特利尔之后，第三次在硬地大师赛打入四强；胜仗令他在ATP即时排名升至第18位。保加斯此前在主抽签的25个发球局全部保住，首盘双方都未能破发，鲁迪在抢七把握第三个盘点以7-5先拔头筹；第二盘鲁迪在2-3落后时化解两个破发点，随即把握全场唯一一个破发点破发，5-4发球直落保住胜局。鲁迪将在四强迎战二号种子艾卡拿斯，双方交手鲁迪1胜6负，唯一胜仗是2024年ATP年终赛小组赛6-1、7-5；最近一次交手是今年3月印第安韦尔斯16强，艾卡拿斯以6-1、7-6（2）胜出。"
+  },
+  "tags": {
+   "zh_hant": [
+    "魯迪",
+    "巴黎大師賽",
+    "艾卡拿斯"
+   ],
+   "en": [
+    "Casper Ruud",
+    "Paris Masters",
+    "Carlos Alcaraz"
+   ],
+   "zh_hans": [
+    "鲁迪",
+    "巴黎大师赛",
+    "艾卡拿斯"
+   ]
+  }
+ },
+ {
+  "id": "20261107-everton-beat-coventry-3-1-chalobah",
+  "sport": "football",
+  "published_at": "2026-11-07T07:19:00+08:00",
+  "image_url": null,
+  "source": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1876901-20261107.htm",
+  "title": {
+   "zh_hant": "查路巴利兩球一助攻！愛華頓主場反勝高雲地利 3:1　暫升第五",
+   "en": "Chalobah scores twice and sets up another as Everton come from behind to beat Coventry 3-1 and climb to fifth",
+   "zh_hans": "查路巴利两球一助攻！爱华顿主场反胜高云地利 3:1　暂升第五"
+  },
+  "summary": {
+   "zh_hant": "英超獨腳戲，愛華頓憑狀態大勇的查路巴利交出兩入球一助攻，主場反勝升班馬高雲地利3:1。四個入球都在下半場出現：格保奧在52分鐘與隊友一次配合後，禁區內快腳篤入，協助客隊領先1:0；不過高雲地利很快便落後，查路巴利先在56分鐘接應米哥倫哥傳中頂入扳平，5分鐘後更為主隊攻入反先一球；這位法國籍前鋒在比賽末段更助攻迪斯貝利賀爾埋齋，今季入球數目達到10個，超越上季總數。愛華頓贏波後十戰有16分，暫時升上聯賽榜第五位；林柏特領軍的高雲地利近四場輸三場，9分排第十六位。",
+   "en": "In the Premier League's standalone fixture, Everton came from behind to beat promoted Coventry 3-1 at home, inspired by an in-form Trevoh Chalobah, who scored twice and set up another. All four goals came in the second half: Coventry took the lead in the 52nd minute with a quick finish inside the box after a neat exchange, but the visitors were soon behind as Chalobah headed in Mykolenko's cross to level in the 56th minute and put the hosts ahead five minutes later. The French forward then set up Kiernan Dewsbury-Hall to complete the scoring late on, taking his tally for the season to 10 goals, already more than last season's total. Everton move up to fifth on 16 points from 10 games, while Frank Lampard's Coventry have lost three of their last four and sit 16th on nine points.",
+   "zh_hans": "英超独脚戏，爱华顿凭状态大勇的查路巴利交出两入球一助攻，主场反胜升班马高云地利3:1。四个入球都在下半场出现：格保奥在52分钟与队友一次配合后，禁区内快脚笃入，协助客队领先1:0；不过高云地利很快便落后，查路巴利先在56分钟接应米哥伦哥传中顶入扳平，5分钟后更为入反先一球；这位法国籍前锋在比赛末段更助攻迪斯贝利贺尔埋斋，今季入球数目达到10个，超越上季总数。爱华顿赢波后十战有16分，暂时升上联赛榜第五位；林柏特领军的高云地利近四场输三场，9分排第十六位。"
+  },
+  "tags": {
+   "zh_hant": [
+    "愛華頓",
+    "英超",
+    "查路巴利"
+   ],
+   "en": [
+    "Everton",
+    "Premier League",
+    "Trevoh Chalobah"
+   ],
+   "zh_hans": [
+    "爱华顿",
+    "英超",
+    "查路巴利"
+   ]
+  }
+ },
+ {
   "id": "20261107-alcaraz-saves-match-points-beats-fritz-paris-sf",
   "sport": "tennis",
   "published_at": "2026-11-07T05:54:00+08:00",
