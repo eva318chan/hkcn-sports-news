@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261107-triathlon-world-cup-hong-kong",
+  "sport": "others",
+  "published_at": "2026-11-07T14:32:00+08:00",
+  "image_url": null,
+  "source": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1876941-20261107.htm",
+  "title": {
+   "zh_hant": "三鐵世界盃香港站　蔡欣妍女子組第37港隊最佳　曾祥星男子組第58",
+   "en": "Triathlon World Cup Hong Kong: Hilda Choi finishes 37th, best of home team; best Hong Kong man 58th",
+   "zh_hans": "三铁世界杯香港站　蔡欣妍女子组第37港队最佳　曾祥星男子组第58"
+  },
+  "summary": {
+   "zh_hant": "三項鐵人世界盃香港站一連兩日在中環灣仔海濱上演，今日上午先舉行男、女子精英組個人賽。賽事全程超過24公里，選手先於維港游一圈750米，之後沿博覽道、國際金融中心及中環碼頭踩18.5公里單車，再經政府總部及立法會跑5公里，最終在龍和道衝線。女子組早上約8時45分開始，頭三名分別由來自俄羅斯、盧森堡和國家隊的選手奪得；港隊當中以蔡欣妍成績最好，排第37位，韋祺排第39，彭詩雅排第50。男子組三甲分別來自法國、澳洲和西班牙，港隊的曾祥星排第58。蔡欣妍賽後表示滿意表現和成績，達到預期目標；彭詩雅表示在轉換區找不到自己的單車，形容是低級錯誤；曾祥星表示游泳及單車表現理想，但跑步不及對手。混合接力賽明日舉行。",
+   "en": "The Triathlon World Cup Hong Kong leg is being held over two days at the Central and Wan Chai waterfront, with the elite men's and women's individual races held this morning. The course covers more than 24km: a 750m swim in Victoria Harbour, an 18.5km bike ride along Expo Drive, the International Finance Centre and Central Ferry Piers, and a 5km run past the Central Government Offices and the Legislative Council, finishing on Lung Wo Road. The women's race started at about 8:45am, with the top three going to athletes from Russia, Luxembourg and the national team; Hong Kong's Hilda Choi was the best of the home team in 37th, followed by two teammates in 39th and 50th. In the men's race, the top three came from France, Australia and Spain, with Hong Kong's best-placed athlete finishing 58th. Choi said after the race she was satisfied with her performance and result, having met her target; another Hong Kong woman said she could not find her bike in the transition area, calling it a basic mistake; Hong Kong's best-placed man said his swim and bike were strong but his run could not match his rivals. The mixed relay takes place tomorrow.",
+   "zh_hans": "三项铁人世界杯香港站一连两日在中环湾仔海滨上演，今日上午先举行男、女子精英组个人赛。赛事全程超过24公里，选手先于维港游一圈750米，之后沿博览道、国际金融中心及中环码头踩18.5公里单车，再经政府总部及立法会跑5公里，最终在龙和道冲线。女子组早上约8时45分开始，头三名分别由来自俄罗斯、卢森堡和国家队的选手夺得；港队当中以蔡欣妍成绩最好，排第37位，韦祺排第39，彭诗雅排第50。男子组三甲分别来自法国、澳洲和西班牙，港队的曾祥星排第58。蔡欣妍赛后表示满意表现和成绩，达到预期目标；彭诗雅表示在转换区找不到自己的单车，形容是低级错误；曾祥星表示游泳及单车表现理想，但跑步不及对手。混合接力赛明日举行。"
+  },
+  "tags": {
+   "zh_hant": [
+    "三項鐵人世界盃",
+    "蔡欣妍",
+    "曾祥星"
+   ],
+   "en": [
+    "Triathlon World Cup",
+    "Hilda Choi",
+    "Hong Kong"
+   ],
+   "zh_hans": [
+    "三项铁人世界杯",
+    "蔡欣妍",
+    "曾祥星"
+   ]
+  }
+ },
+ {
   "id": "20261107-ruud-beats-borges-paris-sf-alcaraz",
   "sport": "tennis",
   "published_at": "2026-11-07T07:59:00+08:00",
