@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261108-alcaraz-beats-shelton-paris-masters-champion",
+  "sport": "tennis",
+  "published_at": "2026-11-08T23:57:00+08:00",
+  "image_url": null,
+  "source": "ATP",
+  "source_url": "https://www.atptour.com/en/scores/current/paris/352/results?matchType=singles",
+  "title": {
+   "zh_hant": "巴黎大師賽男單決賽　艾卡拿斯直落兩盤擊敗舒爾頓首奪冠軍",
+   "en": "Paris Masters singles final: Alcaraz beats Shelton in straight sets to win first title in Paris",
+   "zh_hans": "巴黎大师赛男单决赛　艾卡拿斯直落两盘击败舒尔顿首夺冠军"
+  },
+  "summary": {
+   "zh_hant": "巴黎大師賽男單決賽，艾卡拿斯以7:6（7:5）、7:5直落兩盤擊敗舒爾頓，首次奪得巴黎大師賽冠軍，亦是他第九個大師賽冠軍。首盤艾卡拿斯救回六個破發點，搶七一度落後下反勝；次盤他一度落後一個破發，隨即回破反勝，全場用時1小時57分鐘。舒爾頓兩個月前在美網八強五盤擊敗艾卡拿斯，今次未能再下一城。艾卡拿斯維持世界排名第三，兩人下星期轉戰都靈ATP年終賽。",
+   "en": "In the Paris Masters men's singles final, Carlos Alcaraz beat Ben Shelton 7-6 (7-5), 7-5 in straight sets to win the Paris Masters for the first time — the ninth Masters 1000 title of his career. Alcaraz saved six break points in the first set and came back from behind in the tiebreak; after falling a break down in the second set, he broke back immediately and closed out the match in one hour and 57 minutes. Shelton had beaten Alcaraz in five sets in the US Open quarter-finals two months ago, but could not repeat the feat. Alcaraz remains world No. 3, and both players now head to Turin for the ATP Finals next week.",
+   "zh_hans": "巴黎大师赛男单决赛，艾卡拿斯以7:6（7:5）、7:5直落两盘击败舒尔顿，首次夺得巴黎大师赛冠军，亦是他第九个大师赛冠军。首盘艾卡拿斯救回六个破发点，抢七一度落后下反胜；次盘他一度落后一个破发，随即回破反胜，全场用时1小时57分钟。舒尔顿两个月前在美网八强五盘击败艾卡拿斯，今次未能再下一城。艾卡拿斯维持世界排名第三，两人下星期转战都灵ATP年终赛。"
+  },
+  "tags": {
+   "zh_hant": [
+    "巴黎大師賽",
+    "艾卡拿斯",
+    "舒爾頓"
+   ],
+   "en": [
+    "Paris Masters",
+    "Carlos Alcaraz",
+    "Ben Shelton"
+   ],
+   "zh_hans": [
+    "巴黎大师赛",
+    "艾卡拿斯",
+    "舒尔顿"
+   ]
+  }
+ },
+ {
   "id": "20261108-dalian-yingbo-csl-champions",
   "sport": "football",
   "published_at": "2026-11-08T21:56:00+08:00",
