@@ -1,5 +1,110 @@
 [
  {
+  "id": "20261108-hk-open-singles-liu-beats-eala",
+  "sport": "tennis",
+  "published_at": "2026-11-08T17:53:00+08:00",
+  "image_url": null,
+  "source": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1877024-20261108.htm",
+  "title": {
+   "zh_hant": "香港網球公開賽：劉婧文直落兩盤擊敗伊雅娜奪女單冠軍",
+   "en": "Hong Kong Tennis Open: Claire Liu beats Alexandra Eala in straight sets to win singles title",
+   "zh_hans": "香港网球公开赛：刘婧文直落两盘击败伊雅娜夺女单冠军"
+  },
+  "summary": {
+   "zh_hant": "下午在維園舉行的香港網球公開賽女單決賽，美國球手劉婧文直落兩盤，以6:3、6:0擊敗菲律賓新生代表伊雅娜，奪得女單冠軍，全場用時1小時33分鐘。首盤打成3:3後，劉婧文連贏九局鎖定勝局；伊雅娜在比賽中段右膝不適，一度接受治療。劉婧文奪得職業生涯首個WTA巡迴賽冠軍，今站五場比賽未失一盤，將獲得250個排名積分及37,390美元獎金；伊雅娜屈居亞軍，獲得163分及22,125美元。文化體育及旅遊局局長羅淑佩在賽前和賽後分別擔任擲毫和頒獎嘉賓。",
+   "en": "In the women's singles final of the Hong Kong Tennis Open at Victoria Park this afternoon, American Claire Liu beat the Philippines' Alexandra Eala 6-3, 6-0 in one hour and 33 minutes to win the title. With the first set level at 3-3, Liu won the last nine games of the match; Eala needed treatment for a right knee problem midway through the match. It is Liu's first WTA Tour title, won without dropping a set in five matches this week, and she will earn 250 ranking points and US$37,390 in prize money; runner-up Eala takes 163 points and US$22,125. Secretary for Culture, Sports and Tourism Rosanna Law performed the coin toss before the match and presented the trophy afterwards.",
+   "zh_hans": "下午在维园举行的香港网球公开赛女单决赛，美国球手刘婧文直落两盘，以6:3、6:0击败菲律宾新生代表伊雅娜，夺得女单冠军，全场用时1小时33分钟。首盘打成3:3后，刘婧文连赢九局锁定胜局；伊雅娜在比赛中段右膝不适，一度接受治疗。刘婧文夺得职业生涯首个WTA巡回赛冠军，今站五场比赛未失一盘，将获得250个排名积分及37,390美元奖金；伊雅娜屈居亚军，获得163分及22,125美元。文化体育及旅游局局长罗淑佩在赛前和赛后分别担任掷毫和颁奖嘉宾。"
+  },
+  "tags": {
+   "zh_hant": [
+    "香港網球公開賽",
+    "劉婧文",
+    "伊雅娜"
+   ],
+   "en": [
+    "Hong Kong Tennis Open",
+    "Claire Liu",
+    "Alexandra Eala"
+   ],
+   "zh_hans": [
+    "香港网球公开赛",
+    "刘婧文",
+    "伊雅娜"
+   ]
+  }
+ },
+ {
+  "id": "20261108-triathlon-hk-mixed-relay-switzerland-gold",
+  "sport": "others",
+  "published_at": "2026-11-08T17:28:00+08:00",
+  "image_url": "https://cms.triathlon.org/assets/4674ef2c-f762-4845-aee1-2e145c057a5d?width=1200&height=630&fit=cover&format=jpg",
+  "source": "World Triathlon",
+  "source_url": "https://triathlon.org/news/max-studer-delivers-fierce-final-leg-as-swiss-take-hong-kong-relay-gold",
+  "title": {
+   "zh_hant": "三鐵世界盃香港站混合接力　瑞士隊末棒反勝奪金",
+   "en": "Triathlon World Cup Hong Kong mixed relay: Switzerland snatch gold with storming final leg",
+   "zh_hans": "三铁世界杯香港站混合接力　瑞士队末棒反胜夺金"
+  },
+  "summary": {
+   "zh_hant": "三項鐵人世界盃香港站混合接力賽今日下午在中環海濱舉行，瑞士隊憑 Max Studer 在最後一棒強勢反勝，奪得金牌。瑞士隊四棒依次為 Anouk Danna、Simon Westermann、Alissa Konig 及 Studer；Studer 接棒時落後領先的中國隊35秒，而且要罰停10秒，但他在單車段追上對手，最後以七秒優勢力壓俄羅斯隊衝線，中國隊得銅牌，意大利隊得第四，西班牙及荷蘭分列第五、第六。",
+   "en": "Switzerland won gold in the mixed team relay at the Triathlon World Cup in Hong Kong on Sunday afternoon at the Central harbourfront, with Max Studer producing a storming final leg. The Swiss quartet of Anouk Danna, Simon Westermann, Alissa Konig and Studer saw Studer take over 35 seconds behind leaders China and with a 10-second penalty to serve, but he caught the leaders on the bike and crossed the line seven seconds ahead of Russia, with China taking bronze, Italy fourth, and Spain and the Netherlands fifth and sixth.",
+   "zh_hans": "三项铁人世界杯香港站混合接力赛今日下午在中环海滨举行，瑞士队凭 Max Studer 在最后一棒强势反胜，夺得金牌。瑞士队四棒依次为 Anouk Danna、Simon Westermann、Alissa Konig 及 Studer；Studer 接棒时落后领先的中国队35秒，而且要罚停10秒，但他在单车段追上对手，最后以七秒优势力压俄罗斯队冲线，中国队得铜牌，意大利队得第四，西班牙及荷兰分列第五、第六。"
+  },
+  "tags": {
+   "zh_hant": [
+    "三項鐵人",
+    "混合接力",
+    "瑞士隊"
+   ],
+   "en": [
+    "triathlon",
+    "mixed relay",
+    "Switzerland"
+   ],
+   "zh_hans": [
+    "三项铁人",
+    "混合接力",
+    "瑞士队"
+   ]
+  }
+ },
+ {
+  "id": "20261108-korea-open-badminton-lai-champion",
+  "sport": "badminton",
+  "published_at": "2026-11-08T16:59:00+08:00",
+  "image_url": null,
+  "source": "BWF World Tour",
+  "source_url": "https://bwfworldtour.bwfbadminton.com/news-single/2026/11/08/korea-open-indomitable-an-equals-greatest-season",
+  "title": {
+   "zh_hant": "韓國羽毛球公開賽男單決賽　賴浩俊擊敗港將奪冠　安洗瑩女單封后",
+   "en": "Korea Open: Victor Lai beats Hong Kong's Jason Gunawan to win men's singles; An Se-young takes women's title",
+   "zh_hans": "韩国羽毛球公开赛男单决赛　赖浩俊击败港将夺冠　安洗莹女单封后"
+  },
+  "summary": {
+   "zh_hant": "韓國羽毛球公開賽在麗水落幕，加拿大二號種子賴浩俊在男單決賽以21:11、21:14直落兩局擊敗香港球手 Jason Gunawan，首次奪得韓國公開賽冠軍。另一港將李卓耀在四強以21:19、15:21、12:21不敵賴浩俊，無緣決賽；吳英倫則在八強以15:21、16:21不敵印尼的 Ginting。女單方面，世界排名第一的安洗瑩在主場以21:12、15:21、21:16擊敗日本的山口茜，奪得今年第11個冠軍，追平自己去年創下的單季紀錄，自3月以來保持不敗。",
+   "en": "The Korea Open in Yeosu ended with Canada's second seed Victor Lai beating Hong Kong's Jason Gunawan 21-11, 21-14 in the men's singles final to win his first Korea Open title. Hong Kong's Lee Cheuk Yiu lost the semi-final to Lai 21-19, 15-21, 12-21, while Ng Ka Long went out in the quarter-finals, losing 15-21, 16-21 to Indonesia's Ginting. In the women's singles, world No. 1 An Se-young beat Japan's Akane Yamaguchi 21-12, 15-21, 21-16 on home soil to claim her 11th title of the year, equalling the single-season record she set last year, and she remains unbeaten since March.",
+   "zh_hans": "韩国羽毛球公开赛在丽水落幕，加拿大二号种子赖浩俊在男单决赛以21:11、21:14直落两局击败香港球手 Jason Gunawan，首次夺得韩国公开赛冠军。另一港将李卓耀在四强以21:19、15:21、12:21不敌赖浩俊，无缘决赛；吴英伦则在八强以15:21、16:21不敌印尼的 Ginting。女单方面，世界排名第一的安洗莹在主场以21:12、15:21、21:16击败日本的山口茜，夺得今年第11个冠军，追平自己去年创下的单季纪录，自3月以来保持不败。"
+  },
+  "tags": {
+   "zh_hant": [
+    "韓國羽毛球公開賽",
+    "賴浩俊",
+    "安洗瑩"
+   ],
+   "en": [
+    "Korea Open",
+    "Victor Lai",
+    "An Se-young"
+   ],
+   "zh_hans": [
+    "韩国羽毛球公开赛",
+    "赖浩俊",
+    "安洗莹"
+   ]
+  }
+ },
+ {
   "id": "20261108-hk-open-doubles-chan-kato-champions",
   "sport": "tennis",
   "published_at": "2026-11-08T15:24:31+08:00",
