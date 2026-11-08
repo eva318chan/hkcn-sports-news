@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261108-premier-league-man-city-lose-forest-arsenal-win",
+  "sport": "football",
+  "published_at": "2026-11-08T07:12:00+08:00",
+  "image_url": null,
+  "source": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1876985-20261108.htm",
+  "title": {
+   "zh_hant": "英超：曼城作客1:3不敵諾定咸森林　聯賽三連敗　阿仙奴1:0小勝侯城續居榜首",
+   "en": "Premier League: Man City lose 3-1 at Nottingham Forest for third straight defeat; Arsenal beat Hull 1-0 to stay top",
+   "zh_hans": "英超：曼城作客1:3不敌诺定咸森林　联赛三连败　阿仙奴1:0小胜侯城续居榜首"
+  },
+  "summary": {
+   "zh_hant": "英格蘭超級足球聯賽，曼城作客1:3不敵諾定咸森林，聯賽三連敗。主隊的森林先後憑查爾古亞和戴納的入球，在上半場領先2:0；換邊後，曼城雖然在52分鐘由卓基扳回一球，但無法扭轉劣勢，戴納73分鐘在一次反擊中攻入個人今仗第二個入球，協助森林取勝。阿仙奴主場1:0擊敗侯城，奧迪哥特72分鐘攻入全場唯一入球。其餘賽果，列斯聯憑後備入替的前鋒奧卡科在79分鐘一錘定音，主場1:0擊敗熱刺；富咸就在主場與紐卡素踢成1:1。在積分榜，阿仙奴10戰27分繼續排在榜首，領先第二的曼城6分，諾定咸森林就9分，升至第16位，暫時脫離降班區。",
+   "en": "In the English Premier League, Manchester City lost 3-1 away to Nottingham Forest, their third straight league defeat. Forest led 2-0 at half-time through goals from Jair Cunha and Liam Delap; City pulled one back through Rayan Cherki in the 52nd minute but could not turn the game around, and Delap scored his second of the match on a counter-attack in the 73rd minute to seal the win. Arsenal beat Hull City 1-0 at home, with Martin Odegaard scoring the only goal in the 72nd minute. In the other results, Leeds United beat Tottenham Hotspur 1-0 at home thanks to a 79th-minute winner from substitute striker Noah Okafor, while Fulham drew 1-1 at home with Newcastle United. In the table, Arsenal stay top with 27 points from 10 games, six ahead of second-placed City; Nottingham Forest move up to 16th on nine points, for now out of the relegation zone.",
+   "zh_hans": "英格兰超级足球联赛，曼城作客1:3不敌诺定咸森林，联赛三连败。主队的森林先后凭查尔古亚和戴纳的入球，在上半场领先2:0；换边后，曼城虽然在52分钟由卓基扳回一球，但无法扭转劣势，戴纳73分钟在一次反击中攻入个人今仗第二个入球，协助森林取胜。阿仙奴主场1:0击败侯城，奥迪哥特72分钟攻入全场唯一入球。其余赛果，列斯联凭后备入替的前锋奥卡科在79分钟一锤定音，主场1:0击败热刺；富咸就在主场与纽卡素踢成1:1。在积分榜，阿仙奴10战27分继续排在榜首，领先第二的曼城6分，诺定咸森林就9分，升至第16位，暂时脱离降班区。"
+  },
+  "tags": {
+   "zh_hant": [
+    "英超",
+    "曼城",
+    "阿仙奴"
+   ],
+   "en": [
+    "Premier League",
+    "Man City",
+    "Arsenal"
+   ],
+   "zh_hans": [
+    "英超",
+    "曼城",
+    "阿仙奴"
+   ]
+  }
+ },
+ {
   "id": "20261108-alcaraz-beats-ruud-paris-final",
   "sport": "tennis",
   "published_at": "2026-11-08T02:02:20+08:00",
