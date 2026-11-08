@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261108-hk-open-doubles-chan-kato-champions",
+  "sport": "tennis",
+  "published_at": "2026-11-08T15:24:31+08:00",
+  "image_url": null,
+  "source": "GoTennis.ru",
+  "source_url": "https://gotennis.ru/read/news/gonkong_wta_250__chan_haotsin_i_miyu_kato_stali_chempionkami_parnyh_sorevnovaniji.html",
+  "title": {
+   "zh_hant": "香港網球公開賽：詹皓晴／加藤未唯直落兩盤奪女雙冠軍",
+   "en": "Hong Kong Tennis Open: Chan Hao-ching and Miyu Kato win doubles title in straight sets",
+   "zh_hans": "香港网球公开赛：詹皓晴／加藤未唯直落两盘夺女双冠军"
+  },
+  "summary": {
+   "zh_hant": "WTA250香港網球公開賽女雙決賽，2號種子詹皓晴／加藤未唯以6:4、6:4直落兩盤擊敗澳洲組合泰莉雅吉遜／麥迪遜恩格莉絲，奪得冠軍，全場用時1小時31分鐘。這是詹皓晴職業生涯第24個雙打冠軍，也是加藤未唯第7個雙打冠軍，兩人將獲得250個排名積分及13,600美元獎金。港將王康怡夥拍蔣欣玗在4強不敵詹皓晴／加藤未唯，無緣決賽。",
+   "en": "In the women's doubles final of the WTA 250 Hong Kong Tennis Open, second seeds Chan Hao-ching and Miyu Kato beat Australia's Talia Gibson and Maddison Inglis 6-4, 6-4 to claim the title in one hour and 31 minutes. It is the 24th career doubles title for Chan and the seventh for Kato, and the pair will earn 250 ranking points and US$13,600 in prize money. Hong Kong's Cody Wong, partnering Jiang Xinyu, lost to Chan and Kato in the semi-finals.",
+   "zh_hans": "WTA250香港网球公开赛女双决赛，2号种子詹皓晴／加藤未唯以6:4、6:4直落两盘击败澳洲组合泰莉雅吉逊／麦迪逊恩格莉丝，夺得冠军，全场用时1小时31分钟。这是詹皓晴职业生涯第24个双打冠军，也是加藤未唯第7个双打冠军，两人将获得250个排名积分及13,600美元奖金。港将王康怡伙拍蒋欣玗在4强不敌詹皓晴／加藤未唯，无缘决赛。"
+  },
+  "tags": {
+   "zh_hant": [
+    "香港網球公開賽",
+    "詹皓晴",
+    "加藤未唯"
+   ],
+   "en": [
+    "Hong Kong Tennis Open",
+    "Chan Hao-ching",
+    "Miyu Kato"
+   ],
+   "zh_hans": [
+    "香港网球公开赛",
+    "詹皓晴",
+    "加藤未唯"
+   ]
+  }
+ },
+ {
   "id": "20261108-premier-league-man-city-lose-forest-arsenal-win",
   "sport": "football",
   "published_at": "2026-11-08T07:12:00+08:00",
