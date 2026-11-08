@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261108-triathlon-hk-mixed-relay-hk-11th",
+  "sport": "others",
+  "published_at": "2026-11-08T19:09:00+08:00",
+  "image_url": null,
+  "source": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1877031-20261108.htm",
+  "title": {
+   "zh_hant": "三鐵世界盃香港站混合接力　港隊第11名完成",
+   "en": "Triathlon World Cup Hong Kong mixed relay: Hong Kong team finish 11th",
+   "zh_hans": "三铁世界杯香港站混合接力　港队第11名完成"
+  },
+  "summary": {
+   "zh_hant": "三項鐵人世界盃香港站今日下午在中環灣仔海濱進行混合接力賽，港隊以1小時31分39秒完成，取得第11名。混合接力賽每隊由兩男兩女合共四名隊員組成，每名隊員須各完成300米游泳、7.4公里單車及2公里跑步後交棒；港隊派出名古屋亞運奪得混合接力銅牌的羅競賓、韋祺，和蔡欣妍及葉德朗參賽。瑞士隊以1小時28分51秒奪得第一名，俄羅斯隊得第二名，國家隊取得第三名。",
+   "en": "Hong Kong finished 11th in the mixed team relay at the Triathlon World Cup in Hong Kong on Sunday afternoon at the Central-Wan Chai harbourfront, completing the course in one hour, 31 minutes and 39 seconds. Each mixed relay team has four athletes, two men and two women, with each completing a 300-metre swim, a 7.4km bike ride and a 2km run before handing over. Hong Kong fielded 羅競賓 and 韋祺, who won mixed relay bronze at the Nagoya Asian Games, together with 蔡欣妍 and 葉德朗. Switzerland won in one hour, 28 minutes and 51 seconds, with Russia second and China third.",
+   "zh_hans": "三项铁人世界杯香港站今日下午在中环湾仔海滨进行混合接力赛，港队以1小时31分39秒完成，取得第11名。混合接力赛每队由两男两女合共四名队员组成，每名队员须各完成300米游泳、7.4公里单车及2公里跑步后交棒；港队派出名古屋亚运夺得混合接力铜牌的罗竞宾、韦祺，和蔡欣妍及叶德朗参赛。瑞士队以1小时28分51秒夺得第一名，俄罗斯队得第二名，国家队取得第三名。"
+  },
+  "tags": {
+   "zh_hant": [
+    "三項鐵人",
+    "混合接力",
+    "港隊"
+   ],
+   "en": [
+    "triathlon",
+    "mixed relay",
+    "Hong Kong team"
+   ],
+   "zh_hans": [
+    "三项铁人",
+    "混合接力",
+    "港队"
+   ]
+  }
+ },
+ {
   "id": "20261108-hk-open-singles-liu-beats-eala",
   "sport": "tennis",
   "published_at": "2026-11-08T17:53:00+08:00",
