@@ -1,5 +1,75 @@
 [
  {
+  "id": "20261109-barcelona-beat-atletico-fermin-brace",
+  "sport": "football",
+  "published_at": "2026-11-09T06:07:00+08:00",
+  "image_url": null,
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/news/3649397/lopez-double-helps-barca-beat-atletico-move-3-points-clear-as-la-liga-leaders",
+  "title": {
+   "zh_hant": "西甲：費明梅開二度　巴塞隆拿2:1反勝馬德里體育會　領先皇馬3分",
+   "en": "La Liga: Fermin Lopez brace as Barcelona come from behind to beat Atletico Madrid 2-1 and move three points clear",
+   "zh_hans": "西甲：费明梅开二度　巴塞罗那2:1反胜马德里竞技　领先皇马3分"
+  },
+  "summary": {
+   "zh_hant": "西甲第12輪，巴塞隆拿作客馬德里體育會，施蒙尼在10分鐘接應阿爾華利斯傳送先開紀錄，費明在45分鐘扳平，66分鐘接應亞馬爾直線傳送射入致勝球，梅開二度助巴塞以2:1反勝。巴塞以33分續居榜首，領先次席皇家馬德里3分，馬體會28分排第三。亞馬爾交出致勝助攻，以19歲118日成為西甲史上最年輕累積40次助攻的球員。",
+   "en": "In La Liga's 12th round, Barcelona came from behind to beat Atletico Madrid 2-1 away. Giuliano Simeone put the hosts ahead in the 10th minute from a Julian Alvarez pass, Fermin Lopez equalised in the 45th minute and scored the winner in the 66th minute from a Lamine Yamal through ball to complete his brace. Barcelona stay top with 33 points, three clear of second-placed Real Madrid, while Atletico are third on 28 points. Yamal, who set up the winner, became the youngest player in La Liga history to reach 40 assists, aged 19 years and 118 days.",
+   "zh_hans": "西甲第12轮，巴塞罗那作客马德里竞技，施蒙尼在10分钟接应阿尔瓦雷斯传送先开纪录，费明在45分钟扳平，66分钟接应亚马尔直线传送射入致胜球，梅开二度助巴塞以2:1反胜。巴塞以33分续居榜首，领先次席皇家马德里3分，马体会28分排第三。亚马尔交出致胜助攻，以19岁118日成为西甲史上最年轻累积40次助攻的球员。"
+  },
+  "tags": {
+   "zh_hant": [
+    "西甲",
+    "巴塞隆拿",
+    "費明盧比斯"
+   ],
+   "en": [
+    "La Liga",
+    "Barcelona",
+    "Fermin Lopez"
+   ],
+   "zh_hans": [
+    "西甲",
+    "巴塞罗那",
+    "费明卢比斯"
+   ]
+  }
+ },
+ {
+  "id": "20261109-serie-a-week-11-napoli-lazio-inter-como",
+  "sport": "football",
+  "published_at": "2026-11-09T05:45:00+08:00",
+  "image_url": null,
+  "source": "Football Italia",
+  "source_url": "https://football-italia.net/serie-a-napoli-lazio-inter-como-milan-fio-juve/",
+  "title": {
+   "zh_hant": "意甲：拿玻里1:1逼和榜首拉素　國際米蘭2:0勝科莫升第二",
+   "en": "Serie A: Napoli hold leaders Lazio 1-1; Inter beat Como 2-0 to go second",
+   "zh_hans": "意甲：那不勒斯1:1逼和榜首拉齐奥　国际米兰2:0胜科莫升第二"
+  },
+  "summary": {
+   "zh_hant": "意甲第11輪，拿玻里主場1:1逼和榜首拉素；國際米蘭主場2:0擊敗科莫，升上第二位，落後拉素1分；AC米蘭作客2:1擊敗熱那亞；阿特蘭大作客1:0小勝蒙沙；費倫天拿主場2:2逼和祖雲達斯。拉素以29分續居榜首，國際米蘭28分排第二。",
+   "en": "In Serie A's 11th round, Napoli held leaders Lazio 1-1 at home, while Inter beat Como 2-0 at home to move up to second, one point behind Lazio. AC Milan won 2-1 away at Genoa, Atalanta won 1-0 away at Monza, and Fiorentina drew 2-2 with Juventus at home. Lazio stay top with 29 points, with Inter second on 28.",
+   "zh_hans": "意甲第11轮，那不勒斯主场1:1逼和榜首拉齐奥；国际米兰主场2:0击败科莫，升上第二位，落后拉齐奥1分；AC米兰作客2:1击败热那亚；亚特兰大作客1:0小胜蒙扎；佛罗伦萨主场2:2逼和尤文图斯。拉齐奥以29分续居榜首，国际米兰28分排第二。"
+  },
+  "tags": {
+   "zh_hant": [
+    "意甲",
+    "拉素",
+    "國際米蘭"
+   ],
+   "en": [
+    "Serie A",
+    "Lazio",
+    "Inter"
+   ],
+   "zh_hans": [
+    "意甲",
+    "拉齐奥",
+    "国际米兰"
+   ]
+  }
+ },
+ {
   "id": "20261109-premier-league-sunday-brighton-liverpool-sunderland-bournemouth-win",
   "sport": "football",
   "published_at": "2026-11-09T04:46:00+08:00",
