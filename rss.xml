@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>港體育</title><link>https://hksports.hk</link><description>港體育最新新聞</description><language>zh-hk</language><lastBuildDate>Mon, 09 Nov 2026 02:56:32 +0800</lastBuildDate>
+<title>港體育</title><link>https://hksports.hk</link><description>港體育最新新聞</description><language>zh-hk</language><lastBuildDate>Mon, 09 Nov 2026 08:49:20 +0800</lastBuildDate>
+<item>
+<title>英超：白禮頓2:0勝賓福特升上第二　利物浦3:1勝水晶宮　新特蘭爆冷挫車路士</title>
+<link>https://hksports.hk/a/20261109-premier-league-sunday-brighton-liverpool-sunderland-bournemouth-win.html</link>
+<guid>https://hksports.hk/a/20261109-premier-league-sunday-brighton-liverpool-sunderland-bournemouth-win.html</guid>
+<pubDate>Mon, 09 Nov 2026 04:46:00 +0800</pubDate>
+<description>英超周日四場賽事，白禮頓主場憑高美斯及葛斯的入球，以2:0擊敗賓福特，升上聯賽第二位。利物浦作客水晶宮，憑麥亞里士打、華斯及伊沙克建功，以3:1取勝，升上第四位。新特蘭主場憑李菲的十二碼，以1:0爆冷擊敗車路士，脫離榜尾位置。般尼茅夫作客以2:1擊敗葉士域治，升上第七位。</description>
+</item>
 <item>
 <title>英超：曼聯兩度落後兩球　補時連入兩球4:4逼和維拉</title>
 <link>https://hksports.hk/a/20261109-man-utd-aston-villa-4-4-draw.html</link>
@@ -344,13 +351,6 @@
 <guid>https://hksports.hk/a/20261105-hk-tennis-ruzic-wang-xinyu.html</guid>
 <pubDate>Thu, 05 Nov 2026 14:00:00 +0800</pubDate>
 <description>香港網球公開賽女單16強，世界排名第81位的克羅地亞球手魯錫治以6-3、4-6、6-2擊敗6號種子、中國球手王欣瑜，晉級八強。王欣瑜在次盤扳回一城，但決勝盤未能延續氣勢。魯錫治八強將對2號種子、菲律賓球手艾拿，雙方將是首次交手。</description>
-</item>
-<item>
-<title>當錫40分領湖人116:103擊敗帝王　湖人7勝2負</title>
-<link>https://hksports.hk/a/20261105-nba-lakers-doncic-40.html</link>
-<guid>https://hksports.hk/a/20261105-nba-lakers-doncic-40.html</guid>
-<pubDate>Thu, 05 Nov 2026 13:30:00 +0800</pubDate>
-<description>盧卡·當錫攻入40分、搶下9個籃板並送出7次助攻，帶領洛杉磯湖人作客以116:103擊敗薩克拉門托帝王。湖人半場領先61:54，第二節贏33:26奠定優勢；當錫上半場已攻入23分。湖人戰績提升至7勝2負，帝王跌至1勝7負，主場三戰全敗。帝王新秀阿卡夫攻入22分。</description>
 </item>
 </channel>
 </rss>

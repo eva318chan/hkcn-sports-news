@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261109-premier-league-sunday-brighton-liverpool-sunderland-bournemouth-win",
+  "sport": "football",
+  "published_at": "2026-11-09T04:46:00+08:00",
+  "image_url": null,
+  "source": "Sports Mole",
+  "source_url": "https://www.sportsmole.co.uk/football/brighton-and-hove-albion/feature/brilliant-brighton-climb-to-second-as-chelsea-suffer-shock-sunderland-loss-sundays-premier-league-roundup_608735.html",
+  "title": {
+   "zh_hant": "英超：白禮頓2:0勝賓福特升上第二　利物浦3:1勝水晶宮　新特蘭爆冷挫車路士",
+   "en": "Premier League: Brighton beat Brentford 2-0 to go second; Liverpool win 3-1 at Crystal Palace; Sunderland stun Chelsea",
+   "zh_hans": "英超：布莱顿2:0胜布伦特福德升上第二　利物浦3:1胜水晶宫　桑德兰爆冷挫切尔西"
+  },
+  "summary": {
+   "zh_hant": "英超周日四場賽事，白禮頓主場憑高美斯及葛斯的入球，以2:0擊敗賓福特，升上聯賽第二位。利物浦作客水晶宮，憑麥亞里士打、華斯及伊沙克建功，以3:1取勝，升上第四位。新特蘭主場憑李菲的十二碼，以1:0爆冷擊敗車路士，脫離榜尾位置。般尼茅夫作客以2:1擊敗葉士域治，升上第七位。",
+   "en": "In Sunday's four Premier League matches, Brighton beat Brentford 2-0 at home through goals from Diego Gomez and Pascal Gross to move up to second. Liverpool won 3-1 away at Crystal Palace through Alexis Mac Allister, Florian Wirtz and Alexander Isak to climb to fourth. Sunderland stunned Chelsea 1-0 at home with an Enzo Le Fee penalty to move off the foot of the table. Bournemouth won 2-1 away at Ipswich Town to go seventh.",
+   "zh_hans": "英超周日四场赛事，布莱顿主场凭高美斯及葛斯的入球，以2:0击败布伦特福德，升上联赛第二位。利物浦作客水晶宫，凭麦亚里士打、华斯及伊沙克建功，以3:1取胜，升上第四位。桑德兰主场凭李菲的十二码，以1:0爆冷击败切尔西，脱离榜尾位置。般尼茅夫作客以2:1击败叶士域治，升上第七位。"
+  },
+  "tags": {
+   "zh_hant": [
+    "英超",
+    "白禮頓",
+    "利物浦"
+   ],
+   "en": [
+    "Premier League",
+    "Brighton",
+    "Liverpool"
+   ],
+   "zh_hans": [
+    "英超",
+    "布莱顿",
+    "利物浦"
+   ]
+  }
+ },
+ {
   "id": "20261109-man-utd-aston-villa-4-4-draw",
   "sport": "football",
   "published_at": "2026-11-09T02:25:00+08:00",
