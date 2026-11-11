@@ -1,72 +1,107 @@
 [
- {
-  "id": "20261111-kompany-returns-bayern-training-ground",
-  "sport": "football",
-  "published_at": "2026-11-11T06:48:00+08:00",
-  "source": "香港電台",
-  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1877333-20261111.htm",
-  "image_url": "https://img.fcbayern.com/image/upload/f_auto/q_auto/ar_2:1,c_fill,g_custom:face,w_1280/v1794314554/cms/public/images/fcbayern-com/homepage/Saison-26-27/Trainer/Kompany/261021-kompany-fcb.jpg",
-  "title": {
-   "zh_hant": "拜仁教練甘賓尼自上月底暈倒後重返訓練基地",
-   "en": "Bayern coach Kompany returns to training ground after collapse last month",
-   "zh_hans": "拜仁教练甘宾尼自上月底晕倒后重返训练基地"
+  {
+    "id": "20261111-kompany-returns-bayern-training-ground",
+    "sport": "football",
+    "published_at": "2026-11-11T06:48:00+08:00",
+    "source": "香港電台",
+    "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1877333-20261111.htm",
+    "image_url": "https://img.fcbayern.com/image/upload/f_auto/q_auto/ar_2:1,c_fill,g_custom:face,w_1280/v1794314554/cms/public/images/fcbayern-com/homepage/Saison-26-27/Trainer/Kompany/261021-kompany-fcb.jpg",
+    "title": {
+      "zh_hant": "拜仁教練甘賓尼自上月底暈倒後重返訓練基地",
+      "en": "Bayern coach Kompany returns to training ground after collapse last month",
+      "zh_hans": "拜仁教练甘宾尼自上月底晕倒后重返训练基地"
+    },
+    "summary": {
+      "zh_hant": "德甲拜仁慕尼黑表示，教練甘賓尼已重返訓練基地，是他上月底在訓練期間暈倒後首次回歸。甘賓尼上月底在觀看拜仁二隊訓練時暈倒，隨後送院，其後證實受到腦膜炎影響，目前康復情況良好，並會繼續接受肩部傷勢的康復治療。由於多名球員前往國家隊報到，拜仁並未進行完整的全隊訓練；球隊下一場比賽將於11月20日主場迎戰科隆。",
+      "en": "Bundesliga side Bayern Munich said head coach Vincent Kompany has returned to the training ground, his first time back since collapsing during a training session late last month. Kompany collapsed while watching Bayern's second team train and was taken to hospital, where he was later confirmed to have meningitis; he is recovering well and will continue rehabilitation on a shoulder injury. With many players away on international duty, Bayern did not hold a full squad session; their next match is at home to Cologne on November 20.",
+      "zh_hans": "德甲拜仁慕尼黑表示，教练甘宾尼已重返训练基地，是他上月底在训练期间晕倒后首次回归。甘宾尼上月底在观看拜仁二队训练时晕倒，随后送院，其后证实受到脑膜炎影响，目前康复情况良好，并会继续接受肩部伤势的康复治疗。由于多名球员前往国家队报到，拜仁并未进行完整的全队训练；球队下一场比赛将于11月20日主场迎战科隆。"
+    },
+    "tags": {
+      "zh_hant": [
+        "拜仁",
+        "甘賓尼",
+        "德甲"
+      ],
+      "en": [
+        "Bayern Munich",
+        "Kompany",
+        "Bundesliga"
+      ],
+      "zh_hans": [
+        "拜仁",
+        "甘宾尼",
+        "德甲"
+      ]
+    }
   },
-  "summary": {
-   "zh_hant": "德甲拜仁慕尼黑表示，教練甘賓尼已重返訓練基地，是他上月底在訓練期間暈倒後首次回歸。甘賓尼上月底在觀看拜仁二隊訓練時暈倒，隨後送院，其後證實受到腦膜炎影響，目前康復情況良好，並會繼續接受肩部傷勢的康復治療。由於多名球員前往國家隊報到，拜仁並未進行完整的全隊訓練；球隊下一場比賽將於11月20日主場迎戰科隆。",
-   "en": "Bundesliga side Bayern Munich said head coach Vincent Kompany has returned to the training ground, his first time back since collapsing during a training session late last month. Kompany collapsed while watching Bayern's second team train and was taken to hospital, where he was later confirmed to have meningitis; he is recovering well and will continue rehabilitation on a shoulder injury. With many players away on international duty, Bayern did not hold a full squad session; their next match is at home to Cologne on November 20.",
-   "zh_hans": "德甲拜仁慕尼黑表示，教练甘宾尼已重返训练基地，是他上月底在训练期间晕倒后首次回归。甘宾尼上月底在观看拜仁二队训练时晕倒，随后送院，其后证实受到脑膜炎影响，目前康复情况良好，并会继续接受肩部伤势的康复治疗。由于多名球员前往国家队报到，拜仁并未进行完整的全队训练；球队下一场比赛将于11月20日主场迎战科隆。"
+  {
+    "id": "20261111-man-utd-decide-carrick-future-wednesday",
+    "sport": "football",
+    "published_at": "2026-11-11T07:20:00+08:00",
+    "source": "香港電台",
+    "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1877335-20261111.htm",
+    "image_url": null,
+    "title": {
+      "zh_hant": "英媒稱曼聯料周三決定領隊卡域克去留",
+      "en": "Man Utd expected to decide Carrick's future on Wednesday, British media report",
+      "zh_hans": "英媒称曼联料周三决定领队卡域克去留"
+    },
+    "summary": {
+      "zh_hant": "有英國傳媒報道，曼聯預計在當地星期三決定領隊卡域克的去留。曼聯股東拉傑夫星期三會在摩納哥，與行政總裁貝拉達及足球總監韋確斯會面，討論球會未來策略，會議將主要決定卡域克的前途，預計貝拉達和韋確斯會提出卡域克離任。曼聯上仗以4:4逼和阿士東維拉，10戰1勝5和4負得8分，排尾三，與新特蘭和水晶宮同處降班區。",
+      "en": "British media report that Manchester United are expected to decide head coach Michael Carrick's future on Wednesday. United shareholder Sir Jim Ratcliffe will meet chief executive Omar Berrada and football director Jason Wilcox in Monaco on Wednesday to discuss the club's future strategy, with the meeting set to focus on Carrick's position; Berrada and Wilcox are expected to recommend his departure. United drew 4-4 with Aston Villa last time out and sit third from bottom with 8 points from 10 games — one win, five draws and four defeats — in the relegation zone alongside Sunderland and Crystal Palace.",
+      "zh_hans": "有英国传媒报道，曼联预计在当地星期三决定领队卡域克的去留。曼联股东拉杰夫星期三会在摩纳哥，与行政总裁贝拉达及足球总监韦确斯会面，讨论球会未来策略，会议将主要决定卡域克的前途，预计贝拉达和韦确斯会提出卡域克离任。曼联上仗以4:4逼和阿士东维拉，10战1胜5和4负得8分，排尾三，与新特兰和水晶宫同处降班区。"
+    },
+    "tags": {
+      "zh_hant": [
+        "曼聯",
+        "卡域克",
+        "英超"
+      ],
+      "en": [
+        "Manchester United",
+        "Carrick",
+        "Premier League"
+      ],
+      "zh_hans": [
+        "曼联",
+        "卡域克",
+        "英超"
+      ]
+    }
   },
-  "tags": {
-   "zh_hant": [
-    "拜仁",
-    "甘賓尼",
-    "德甲"
-   ],
-   "en": [
-    "Bayern Munich",
-    "Kompany",
-    "Bundesliga"
-   ],
-   "zh_hans": [
-    "拜仁",
-    "甘宾尼",
-    "德甲"
-   ]
+  {
+    "id": "20261111-hk-bulls-nbl-2026-27",
+    "sport": "basketball",
+    "published_at": "2026-11-11T13:30:00+08:00",
+    "source": "香港金牛",
+    "source_url": null,
+    "image_url": "https://hksports.hk/assets/20261111-hk-bulls-nbl-schedule.jpg",
+    "title": {
+      "zh_hant": "NBL新季11月28日開鑼　香港金牛揭幕戰作客長沙勇勝　12月21日回歸啟德主場",
+      "en": "NBL 2026-27 season tips off on November 28; Hong Kong Bulls open away at Changsha Yongsheng and return to Kai Tak on December 21",
+      "zh_hans": "NBL新季11月28日开锣　香港金牛揭幕战作客长沙勇胜　12月21日回归启德主场"
+    },
+    "summary": {
+      "zh_hant": "2026-2027賽季全國男子籃球聯賽（NBL）將於11月28日展開，衛冕的香港金牛會在揭幕戰作客長沙勇勝，力爭以勝仗為新球季打響頭炮，朝著四連霸及來季CBA席位邁進。今季NBL共有13支球隊參賽，常規賽以雙循環進行，首8名晉身季後賽；中國籃球協會早前公布，NBL前兩名球隊將與CBA常規賽最後兩名球隊進行升降班附加賽，勝方經CBA聯盟評估後可升入CBA。香港金牛首場主場賽事將於12月5日上演，對手為杭州經緯；球會在啟德體育園協助下，成功爭取6場常規賽移師啟德體藝館舉行，首場啟德主場賽事於12月21日上演，對手為新軍煙台白燕，其餘主場賽事則在廣東省中山體育館舉行。香港金牛已連續三季奪得NBL總冠軍，作為全港唯一參賽代表，球隊在原有冠軍陣容基礎上再作補強，以實現四連霸及衝擊CBA席位為目標。總經理孫欣偉感謝啟德體育園的配合，並表示球會會全力爭取季後賽、總決賽及升降班附加賽席位；他亦提到，球會一直爭取把所有主場落戶香港，但受場地檔期所限，部分主場賽事無奈移師中山，希望在中山工作及生活的香港球迷親臨支持，並透過大灣區籃球合作推動區域體育產業發展。",
+      "en": "The 2026-27 National Basketball League (NBL) season tips off on November 28, with defending champions the Hong Kong Bulls opening away at Changsha Yongsheng, aiming to start the new season with a win as they chase a fourth straight title and a CBA place next season. Thirteen teams will contest this season's NBL, playing a double round-robin regular season, with the top eight advancing to the playoffs; the Chinese Basketball Association has announced that the top two NBL teams will face the bottom two CBA teams in a promotion-relegation playoff, with the winners assessed by the CBA league for promotion. The Bulls' first home game is on December 5 against Hangzhou Jingwei; with the support of Kai Tak Sports Park, the club has secured six regular-season home games at Kai Tak Arena, the first on December 21 against newcomers Yantai Baiyan, while its remaining home games will be played at Zhongshan Sports Center in Guangdong. The Bulls have won three straight NBL championships and, as Hong Kong's only representative, have further strengthened their title-winning core with a fourth straight crown and a CBA berth as their targets. General manager Sun Xinwei thanked Kai Tak Sports Park for its cooperation and said the club will fight for playoff, finals and promotion-playoff places; he added that the club had worked hard to bring all home games to Hong Kong but, limited by venue availability, had to move some to Zhongshan, and he hopes Hong Kong fans working and living in Zhongshan will come out to support the team while Greater Bay Area basketball cooperation drives regional sports industry development.",
+      "zh_hans": "2026-2027赛季全国男子篮球联赛（NBL）将于11月28日展开，卫冕的香港金牛会在揭幕战作客长沙勇胜，力争以胜仗为新球季打响头炮，朝着四连霸及来季CBA席位迈进。今季NBL共有13支球队参赛，常规赛以双循环进行，首8名晋身季后赛；中国篮球协会早前公布，NBL前两名球队将与CBA常规赛最后两名球队进行升降班附加赛，胜方经CBA联盟评估后可升入CBA。香港金牛首场主场赛事将于12月5日上演，对手为杭州经纬；球会在启德体育园协助下，成功争取6场常规赛移师启德体艺馆举行，首场启德主场赛事于12月21日上演，对手为新军烟台白燕，其余主场赛事则在广东省中山体育馆举行。香港金牛已连续三季夺得NBL总冠军，作为全港唯一参赛代表，球队在原有冠军阵容基础上再作补强，以实现四连霸及冲击CBA席位为目标。总经理孙欣伟感谢启德体育园的配合，并表示球会会全力争取季后赛、总决赛及升降班附加赛席位；他亦提到，球会一直争取把所有主场落户香港，但受场地档期所限，部分主场赛事无奈移师中山，希望在中山工作及生活的香港球迷亲临支持，并透过大湾区篮球合作推动区域体育产业发展。"
+    },
+    "tags": {
+      "zh_hant": [
+        "香港金牛",
+        "NBL",
+        "籃球"
+      ],
+      "en": [
+        "Hong Kong Bulls",
+        "NBL",
+        "basketball"
+      ],
+      "zh_hans": [
+        "香港金牛",
+        "NBL",
+        "篮球"
+      ]
+    }
   }
- },
- {
-  "id": "20261111-man-utd-decide-carrick-future-wednesday",
-  "sport": "football",
-  "published_at": "2026-11-11T07:20:00+08:00",
-  "source": "香港電台",
-  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1877335-20261111.htm",
-  "image_url": null,
-  "title": {
-   "zh_hant": "英媒稱曼聯料周三決定領隊卡域克去留",
-   "en": "Man Utd expected to decide Carrick's future on Wednesday, British media report",
-   "zh_hans": "英媒称曼联料周三决定领队卡域克去留"
-  },
-  "summary": {
-   "zh_hant": "有英國傳媒報道，曼聯預計在當地星期三決定領隊卡域克的去留。曼聯股東拉傑夫星期三會在摩納哥，與行政總裁貝拉達及足球總監韋確斯會面，討論球會未來策略，會議將主要決定卡域克的前途，預計貝拉達和韋確斯會提出卡域克離任。曼聯上仗以4:4逼和阿士東維拉，10戰1勝5和4負得8分，排尾三，與新特蘭和水晶宮同處降班區。",
-   "en": "British media report that Manchester United are expected to decide head coach Michael Carrick's future on Wednesday. United shareholder Sir Jim Ratcliffe will meet chief executive Omar Berrada and football director Jason Wilcox in Monaco on Wednesday to discuss the club's future strategy, with the meeting set to focus on Carrick's position; Berrada and Wilcox are expected to recommend his departure. United drew 4-4 with Aston Villa last time out and sit third from bottom with 8 points from 10 games — one win, five draws and four defeats — in the relegation zone alongside Sunderland and Crystal Palace.",
-   "zh_hans": "有英国传媒报道，曼联预计在当地星期三决定领队卡域克的去留。曼联股东拉杰夫星期三会在摩纳哥，与行政总裁贝拉达及足球总监韦确斯会面，讨论球会未来策略，会议将主要决定卡域克的前途，预计贝拉达和韦确斯会提出卡域克离任。曼联上仗以4:4逼和阿士东维拉，10战1胜5和4负得8分，排尾三，与新特兰和水晶宫同处降班区。"
-  },
-  "tags": {
-   "zh_hant": [
-    "曼聯",
-    "卡域克",
-    "英超"
-   ],
-   "en": [
-    "Manchester United",
-    "Carrick",
-    "Premier League"
-   ],
-   "zh_hans": [
-    "曼联",
-    "卡域克",
-    "英超"
-   ]
-  }
- }
 ]
