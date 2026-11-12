@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261112-man-utd-carrick-leaves",
+  "sport": "football",
+  "published_at": "2026-11-12T18:44:00+08:00",
+  "source": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1877566-20261112.htm",
+  "image_url": null,
+  "title": {
+   "zh_hant": "曼聯宣布領隊卡域克離任",
+   "en": "Manchester United announce head coach Michael Carrick's departure",
+   "zh_hans": "曼联宣布领队卡域克离任"
+  },
+  "summary": {
+   "zh_hant": "英超球隊曼聯在當地星期四宣布，領隊卡域克離任。曼聯今季10戰僅贏1場，位列尾三的降班區，是自1986至1987球季以來最差的開季成績。英國廣播公司早前報道，曼聯已與曾經執教熱刺和車路士的現任美國國家隊主教練普捷天奴達成原則上的口頭協議，將會執教曼聯；普捷天奴據報已準備好接受曼聯邀請，出任新領隊。",
+   "en": "Premier League club Manchester United announced on Thursday local time that head coach Michael Carrick has left the club. United have won only one of 10 matches this season and sit third from bottom in the relegation zone, their worst start to a season since 1986-87. The BBC had earlier reported that United had reached a verbal agreement in principle with Mauricio Pochettino, the current United States national team head coach who previously managed Tottenham Hotspur and Chelsea, to take over at United, and Pochettino is reportedly ready to accept the invitation to become the new head coach.",
+   "zh_hans": "英超球队曼联在当地星期四宣布，领队卡域克离任。曼联今季10战仅赢1场，位列尾三的降班区，是自1986至1987球季以来最差的开季成绩。英国广播公司早前报道，曼联已与曾经执教热刺和车路士的现任美国国家队主教练普捷天奴达成原则上的口头协议，将会执教曼联；普捷天奴据报已准备好接受曼联邀请，出任新领队。"
+  },
+  "tags": {
+   "zh_hant": [
+    "曼聯",
+    "卡域克",
+    "普捷天奴"
+   ],
+   "en": [
+    "Manchester United",
+    "Michael Carrick",
+    "Mauricio Pochettino"
+   ],
+   "zh_hans": [
+    "曼联",
+    "卡域克",
+    "普捷天奴"
+   ]
+  }
+ },
+ {
   "id": "20261112-hk-dodgeball-world-championships",
   "sport": "others",
   "published_at": "2026-11-12T16:27:00+08:00",
