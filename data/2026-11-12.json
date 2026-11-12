@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261112-m-mark-three-events",
+  "sport": "others",
+  "published_at": "2026-11-12T11:00:00+08:00",
+  "source": "政府新聞處",
+  "source_url": "https://www.info.gov.hk/gia/general/202611/12/P2026111200195.htm",
+  "image_url": null,
+  "title": {
+   "zh_hant": "三項國際賽事獲「M」品牌　羽球公開賽等11月底起陸續上演",
+   "en": "Three international events awarded 'M' Mark status, with Hong Kong Open badminton among them from late November",
+   "zh_hans": "三项国际赛事获「M」品牌　羽球公开赛等11月底起陆续上演"
+  },
+  "summary": {
+   "zh_hant": "大型體育活動事務委員會向三項國際體育賽事授予「M」品牌認可，包括李寧2026香港羽毛球公開賽（11月17至22日，滙豐世界羽聯世界巡迴賽超級500賽）、FIBA 3x3世界巡迴賽—香港2026（11月28至29日），以及Milwaukee香港壁球公開賽2026（11月30日至12月6日）。委員會主席吳守基表示，香港羽毛球公開賽將匯聚全球頂尖球手，FIBA 3x3世界巡迴賽香港站將再次帶來節奏明快的街頭籃球對決，香港壁球公開賽則有世界級球手強陣出戰。「M」品牌制度旨在鼓勵及協助本地體育總會及民間機構舉辦更多大型國際體育活動，符合評審準則的賽事可獲「M」品牌認可，部分更可獲資助，以提升香港作為國際體壇盛事之都的形象，並為社區帶來實質經濟效益。",
+   "en": "The Major Sports Events Committee has awarded 'M' Mark status to three international sports events: the LI-NING Hong Kong Open Badminton Championships 2026 (November 17 to 22, part of the HSBC BWF World Tour Super 500), the FIBA 3x3 World Tour Hong Kong 2026 (November 28 to 29) and the Milwaukee Hong Kong Squash Open 2026 (November 30 to December 6). Committee chairman Wilfred Ng said the Hong Kong Open Badminton Championships will bring together top global players, the FIBA 3x3 World Tour Hong Kong will once again offer fast-paced street basketball showdowns, and the Hong Kong Squash Open will feature a strong lineup of world-class players. The 'M' Mark System aims to encourage and help local national sports associations and private organisations to organise more major international sports events; events meeting the criteria can receive 'M' Mark status, with some also receiving funding support, to promote Hong Kong's image as a centre for major international sports events and bring tangible economic benefits to the community.",
+   "zh_hans": "大型体育活动事务委员会向三项国际体育赛事授予「M」品牌认可，包括李宁2026香港羽毛球公开赛（11月17至22日，汇丰世界羽联世界巡回赛超级500赛）、FIBA 3x3世界巡回赛—香港2026（11月28至29日），以及Milwaukee香港壁球公开赛2026（11月30日至12月6日）。委员会主席吴守基表示，香港羽毛球公开赛将汇聚全球顶尖球手，FIBA 3x3世界巡回赛香港站将再次带来节奏明快的街头篮球对决，香港壁球公开赛则有世界级球手强阵出战。「M」品牌制度旨在鼓励及协助本地体育总会及民间机构举办更多大型国际体育活动，符合评审准则的赛事可获「M」品牌认可，部分更可获资助，以提升香港作为国际体坛盛事之都的形象，并为社区带来实质经济效益。"
+  },
+  "tags": {
+   "zh_hant": [
+    "M品牌",
+    "香港羽毛球公開賽",
+    "FIBA 3x3"
+   ],
+   "en": [
+    "M Mark",
+    "Hong Kong Open Badminton Championships",
+    "FIBA 3x3"
+   ],
+   "zh_hans": [
+    "M品牌",
+    "香港羽毛球公开赛",
+    "FIBA 3x3"
+   ]
+  }
+ },
+ {
   "id": "20261112-bbc-pochettino-ready-to-accept-man-utd",
   "sport": "football",
   "published_at": "2026-11-12T02:38:00+08:00",
