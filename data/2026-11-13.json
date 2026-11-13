@@ -82,6 +82,44 @@
   }
  },
  {
+  "id": "20261113-76ers-rally-raptors-maxey-27",
+  "sport": "basketball",
+  "published_at": "2026-11-13T10:59:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/nba/news/3653777/maxey-embiid-lead-le-bron-less-76-ers-to-win-over-raptors",
+  "image_url": null,
+  "title": {
+   "en": "76ers erase 16-point deficit to beat Raptors 123-112 as Maxey scores 27",
+   "zh_hant": "76人半場落後16分大逆轉！麥斯27分領軍 123：112力克速龍",
+   "zh_hans": "76人半场落后16分大逆转！麦斯27分领军 123：112力克速龙"
+  },
+  "summary": {
+   "en": "Tyrese Maxey scored 27 points and Joel Embiid had 20 as the Philadelphia 76ers beat the Toronto Raptors 123-112 while playing without LeBron James, who sat out with a back problem for a third straight game. The 76ers trailed by as many as 16 points in the first half before taking control late in the third quarter, outscoring Toronto 36-27 in the period to lead 96-87 entering the fourth. Jaylen Brown added 18 points for Philadelphia, which improved to 10-3 and bounced back from Tuesday's 123-101 loss to the Celtics. RJ Barrett scored 31 points and Immanuel Quickley added 25 for the short-handed Raptors, who were without Kawhi Leonard and Scottie Barnes and have now lost four of five.",
+   "zh_hant": "費城76人上半場最多落後16分之下大逆轉，主場以123：112擊敗多倫多速龍。泰利斯·麥斯攻入27分另加8次助攻，祖爾·艾比迪貢獻20分，76人在第三節尾段發力，單節打出36：27，帶著96：87進入第四節。勒邦·占士因背部問題連續第三場缺陣，謝倫·布朗為76人添18分，球隊戰績提升至10勝3負，一掃周二以101：123不敵塞爾特人的頹勢。速龍方面，巴列特攻入31分，奎克利添25分，但球隊缺少尼納特和班尼斯，近五場輸了四場。",
+   "zh_hans": "费城76人上半场最多落后16分之下大逆转，主场以123：112击败多伦多速龙。泰利斯·麦斯攻入27分另加8次助攻，祖尔·艾比迪贡献20分，76人在第三节尾段发力，单节打出36：27，带着96：87进入第四节。勒邦·占士因背部问题连续第三场缺阵，谢伦·布朗为76人添18分，球队战绩提升至10胜3负，一扫周二以101：123不敌塞尔特人的颓势。速龙方面，巴列特攻入31分，奎克利添25分，但球队缺少尼纳特和班尼斯，近五场输了四场。"
+  },
+  "tags": {
+   "en": [
+    "76ers",
+    "Raptors",
+    "NBA",
+    "Tyrese Maxey"
+   ],
+   "zh_hant": [
+    "76人",
+    "速龍",
+    "NBA",
+    "麥斯"
+   ],
+   "zh_hans": [
+    "76人",
+    "速龙",
+    "NBA",
+    "麦斯"
+   ]
+  }
+ },
+ {
   "id": "20261113-nations-league-matchday5-roundup",
   "sport": "football",
   "published_at": "2026-11-13T05:30:00+08:00",
