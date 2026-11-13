@@ -41,6 +41,47 @@
   }
  },
  {
+  "id": "20261113-nba-cunningham-52-pistons-wizards",
+  "sport": "basketball",
+  "published_at": "2026-11-13T11:42:00+08:00",
+  "source": "ESPN",
+  "source_url": "https://www.espn.ph/nba/story/_/id/50468039/cade-cunningham-ausar-thompson-power-pistons-wizards",
+  "image_url": null,
+  "title": {
+   "zh_hant": "康寧漢姆52分創生涯新高　活塞雙加時144-140險勝巫師　史上首人50+10零失誤",
+   "en": "Cade Cunningham scores career-high 52 in Pistons' 144-140 double-overtime win over Wizards — first 50-point, 10-assist, zero-turnover game since 1977-78",
+   "zh_hans": "康宁汉姆52分创生涯新高　活塞双加时144-140险胜巫师　史上首人50+10零失误"
+  },
+  "summary": {
+   "zh_hant": "底特律活塞作客華盛頓巫師，憑藉康寧漢姆攻入生涯新高52分及11次助攻，經過兩次加時以144-140險勝。康寧漢姆全場25投16中，罰球18投17中，另有5個籃板、1次偷波及1次封阻，且全場零失誤，成為自1977-78賽季有失誤統計以來，首位單場取得最少50分及10次助攻而零失誤的球員。巫師兩度在完場前憑藉入球追平比分，將比賽拖入加時，特雷楊格完場前射入三分球追平，迫入第一個加時；新秀戴班沙在第二個加時前亦射入中距離，將比賽拖入第二個加時。康寧漢姆在第四節及兩個加時合共攻入30分。",
+   "en": "Cade Cunningham scored a career-high 52 points and added 11 assists as the visiting Detroit Pistons outlasted the Washington Wizards 144-140 in double overtime. Cunningham shot 16 of 25 from the field and 17 of 18 from the free-throw line, adding five rebounds, one steal and one block with zero turnovers, becoming the first player since individual turnovers began being tracked in 1977-78 to record at least 50 points and 10 assists without a turnover. Washington twice extended the game with last-second shots: Trae Young hit a three-pointer at the buzzer to force the first overtime, and rookie AJ Dybantsa hit a mid-range shot to force a second overtime. Cunningham scored 30 of his points in the fourth quarter and the two overtimes.",
+   "zh_hans": "底特律活塞作客华盛顿巫师，凭借康宁汉姆攻入生涯新高52分及11次助攻，经过两次加时以144-140险胜。康宁汉姆全场25投16中，罚球18投17中，另有5个篮板、1次偷波及1次封阻，且全场零失误，成为自1977-78赛季有失误统计以来，首位单场取得最少50分及10次助攻而零失误的球员。巫师两度在完场前凭借入球追平比分，将比赛拖入加时，特雷杨格完场前射入三分球追平，迫入第一个加时；新秀戴班沙在第二个加时前亦射入中距离，将比赛拖入第二个加时。康宁汉姆在第四节及两个加时合共攻入30分。"
+  },
+  "tags": {
+   "zh_hant": [
+    "NBA",
+    "康寧漢姆",
+    "活塞",
+    "巫師",
+    "雙加時"
+   ],
+   "en": [
+    "NBA",
+    "Cade Cunningham",
+    "Pistons",
+    "Wizards",
+    "double overtime"
+   ],
+   "zh_hans": [
+    "NBA",
+    "康宁汉姆",
+    "活塞",
+    "巫师",
+    "双加时"
+   ]
+  }
+ },
+ {
   "id": "20261113-nations-league-matchday5-roundup",
   "sport": "football",
   "published_at": "2026-11-13T05:30:00+08:00",
