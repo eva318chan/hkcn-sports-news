@@ -1,5 +1,46 @@
 [
  {
+  "id": "20261113-hzmb-half-marathon-platinum",
+  "sport": "others",
+  "published_at": "2026-11-13T16:49:00+08:00",
+  "source": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1877710-20261113.htm",
+  "image_url": null,
+  "title": {
+   "zh_hant": "港珠澳大橋半馬升格白金級　香港首個　全球第四個頂級半馬　名額增至1萬",
+   "en": "Hong Kong-Zhuhai-Macao Bridge half marathon upgraded to Platinum Label: Hong Kong's first, the world's fourth top-tier half marathon; entries up to 10,000",
+   "zh_hans": "港珠澳大桥半马升格白金级　香港首个　全球第四个顶级半马　名额增至1万"
+  },
+  "summary": {
+   "zh_hant": "港珠澳大橋（香港段）半馬拉松2026周日舉行，今屆賽事升格為世界田徑聯會認可的「白金級道路賽事」，屬香港首個白金級道路賽，亦是全球第四個獲該最高級別認證的半馬賽事；有4男3女白金級跑手參與角逐。大會表示，賽事總名額增至1萬個，設有半馬拉松挑戰組、公開組及新增的10公里挑戰組；另外將設「2公里榮譽盃」供社會賢達參與，亞博館則設有「親子MAX Fun一起跑」。",
+   "en": "The Hong Kong-Zhuhai-Macao Bridge (Hong Kong Section) Half Marathon 2026 takes place on Sunday, with this year's race upgraded to a World Athletics \"Platinum Label Road Race\" — Hong Kong's first platinum road race and the world's fourth half marathon to earn the top-level certification. Four male and three female platinum-label runners will compete. Organisers said total entries have risen to 10,000, with a half marathon challenge group, an open group and a new 10 km challenge group; there will also be a \"2 km Honour Cup\" for community leaders, and a \"Family MAX Fun Run\" at AsiaWorld-Expo.",
+   "zh_hans": "港珠澳大桥（香港段）半马拉松2026周日举行，今届赛事升格为世界田联认可的「白金级道路赛事」，属香港首个白金级道路赛，亦是全球第四个获该最高级别认证的半马赛事；有4男3女白金级跑手参与角逐。大会表示，赛事总名额增至1万个，设有半马拉松挑战组、公开组及新增的10公里挑战组；另外将设「2公里荣誉杯」供社会贤达参与，亚博馆则设有「亲子MAX Fun一起跑」。"
+  },
+  "tags": {
+   "zh_hant": [
+    "港珠澳大橋",
+    "半馬拉松",
+    "白金級",
+    "田徑",
+    "跑步"
+   ],
+   "en": [
+    "Hong Kong-Zhuhai-Macao Bridge",
+    "half marathon",
+    "Platinum Label",
+    "athletics",
+    "running"
+   ],
+   "zh_hans": [
+    "港珠澳大桥",
+    "半马拉松",
+    "白金级",
+    "田径",
+    "跑步"
+   ]
+  }
+ },
+ {
   "id": "20261113-nations-league-matchday5-roundup",
   "sport": "football",
   "published_at": "2026-11-13T05:30:00+08:00",
