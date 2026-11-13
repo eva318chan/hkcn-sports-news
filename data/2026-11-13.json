@@ -1,5 +1,43 @@
 [
  {
+  "id": "20261113-pochettino-man-utd-official",
+  "sport": "football",
+  "published_at": "2026-11-13T23:41:00+08:00",
+  "source": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1877750-20261113.htm",
+  "image_url": null,
+  "title": {
+   "en": "Manchester United confirm Pochettino as head coach on a two-and-a-half-year deal",
+   "zh_hant": "曼聯官宣普捷天奴執教 簽約兩年半 普帥：生涯最艱難決定",
+   "zh_hans": "曼联官宣普捷天奴执教 签约两年半 普帅：生涯最艰难决定"
+  },
+  "summary": {
+   "en": "Manchester United have officially confirmed that Argentine Mauricio Pochettino will become the club's head coach from November 18, succeeding the departed Michael Carrick, on a two-and-a-half-year contract running to June 2029. United said they have reached an agreement with the United States Soccer Federation, with Pochettino and his coaching team to leave after completing their duties with the US national team. Pochettino was in tears as he thanked US Soccer officials at a press conference, describing the move to United as one of the hardest decisions of his career, but an opportunity that does not come often. His first Premier League match in charge will be the trip to Liverpool on November 22.",
+   "zh_hant": "英超曼聯正式宣布，阿根廷籍的普捷天奴將於本月18日起擔任球隊主教練，接替日前離任的卡域克，雙方簽約兩年半至2029年6月。曼聯表示已與美國足協達成協議，普捷天奴及教練團隊完成美國國家隊執教任務後離隊。普捷天奴在記者會上向美國足協高層致謝時落淚，形容轉投曼聯是生涯中最艱難決定之一，但如此執教機會不多。根據賽程，普捷天奴執教曼聯後首場英超比賽，將於本月22日作客挑戰利物浦。",
+   "zh_hans": "英超曼联正式宣布，阿根廷籍的普捷天奴将于本月18日起担任球队主教练，接替日前离任的卡域克，双方签约两年半至2029年6月。曼联表示已与美国足协达成协议，普捷天奴及教练团队完成美国国家队执教任务后离队。普捷天奴在记者会上向美国足协高层致谢时落泪，形容转投曼联是生涯中最艰难决定之一，但如此执教机会不多。根据赛程，普捷天奴执教曼联后首场英超比赛，将于本月22日作客挑战利物浦。"
+  },
+  "tags": {
+   "en": [
+    "Mauricio Pochettino",
+    "Manchester United",
+    "Premier League",
+    "Liverpool"
+   ],
+   "zh_hant": [
+    "普捷天奴",
+    "曼聯",
+    "英超",
+    "利物浦"
+   ],
+   "zh_hans": [
+    "普捷天奴",
+    "曼联",
+    "英超",
+    "利物浦"
+   ]
+  }
+ },
+ {
   "id": "20261113-hzmb-half-marathon-platinum",
   "sport": "others",
   "published_at": "2026-11-13T16:49:00+08:00",
