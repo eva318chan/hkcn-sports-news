@@ -1,5 +1,43 @@
 [
  {
+  "id": "20261114-dsa-asian-dancesport-hk-2026",
+  "sport": "others",
+  "published_at": "2026-11-14T18:35:00+08:00",
+  "source": "中國香港體育舞蹈總會",
+  "source_url": "https://www.dancesport.org.hk",
+  "image_url": "assets/design/20261114-dsa-dancesport-foxtrot-podium.jpg",
+  "title": {
+   "en": "Lee Yuet Sum and Egor Nikolaev Win Foxtrot Gold as Hong Kong Takes 1 Gold, 2 Silver, 2 Bronze on Day One of DSA Asian Championships; Greater Bay Area DanceSport Alliance Signed",
+   "zh_hant": "李悅琛拍檔Egor狐步舞奪金 港隊DSA亞錦賽首日1金2銀2銅 粵港澳三地簽署體育舞蹈聯盟",
+   "zh_hans": "李悦琛拍档Egor狐步舞夺金 港队DSA亚锦赛首日1金2银2铜 粤港澳三地签署体育舞蹈联盟"
+  },
+  "summary": {
+   "en": "The DSA Asian Single Dance Championship – Hong Kong 2026 opened at Queen Elizabeth Stadium, Wan Chai, with Hong Kong winning 1 gold, 2 silver and 2 bronze in the adult Standard events on day one. The gold came from Egor Nikolaev and Lee Yuet Sum in the Foxtrot, the pair having won World Cup bronze in Portugal earlier this month. The Hong Kong DanceSport Association also signed a Greater Bay Area DanceSport Alliance memorandum with Guangdong and Macao, with a joint three-region festival planned for next year.",
+   "zh_hant": "「DSA亞洲專項體育舞蹈錦標賽──香港2026」首日在灣仔伊利沙伯體育館揭幕，港隊在成人組標準舞五個專項共奪1金2銀2銅。金牌由合作三年的Egor Nikolaev及李悅琛在狐步舞奪得，兩人今個月在葡萄牙世界盃奪銅後再創佳績。同場中國香港體育舞蹈總會與廣東及澳門簽署「粵港澳大灣區體育舞蹈聯盟」合作備忘錄，明年將合辦三地體育舞蹈節。",
+   "zh_hans": "「DSA亚洲专项体育舞蹈锦标赛──香港2026」首日在湾仔伊利沙伯体育馆揭幕，港队在成人组标准舞五个专项共夺1金2银2铜。金牌由合作三年的Egor Nikolaev及李悦琛在狐步舞夺得，两人今个月在葡萄牙世界杯夺铜后再创佳绩。同场中国香港体育舞蹈总会与广东及澳门签署「粤港澳大湾区体育舞蹈联盟」合作备忘录，明年将合办三地体育舞蹈节。"
+  },
+  "tags": {
+   "en": [
+    "DanceSport",
+    "DSA Asian Championship",
+    "Lee Yuet Sum",
+    "Egor Nikolaev"
+   ],
+   "zh_hant": [
+    "體育舞蹈",
+    "DSA亞洲錦標賽",
+    "李悅琛",
+    "Egor Nikolaev"
+   ],
+   "zh_hans": [
+    "体育舞蹈",
+    "DSA亚洲锦标赛",
+    "李悦琛",
+    "Egor Nikolaev"
+   ]
+  }
+ },
+ {
   "id": "20261114-hk-cycling-team-meet-carnival",
   "sport": "cycling",
   "published_at": "2026-11-14T18:20:00+08:00",
