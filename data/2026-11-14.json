@@ -1,5 +1,43 @@
 [
  {
+  "id": "20261114-hk-cycling-team-meet-carnival",
+  "sport": "cycling",
+  "published_at": "2026-11-14T18:20:00+08:00",
+  "source": "中國香港單車總會",
+  "source_url": "https://www.cycling.org.hk",
+  "image_url": "assets/design/20261114-hk-cycling-carnival-hero.jpg",
+  "title": {
+   "en": "Hong Kong Cycling Team Meets Fans at Tsuen Wan Carnival as World No. 1 Lee Sze Wing Targets Home World Cup and LA 2028",
+   "zh_hant": "港隊單車嘉年華荃灣開鑼 李思穎升世界第一後首度會市民 明年4月世界盃主場爭奧運資格",
+   "zh_hans": "港队单车嘉年华荃湾开锣 李思颖升世界第一后首度会市民 明年4月世界杯主场争奥运资格"
+  },
+  "summary": {
+   "en": "The Cycling Association of Hong Kong, China staged a Cycling Carnival and Hong Kong, China Cycling Team Meet-and-Greet at D·PARK, Tsuen Wan today, with head coach Hervé Dagorne and Lee Sze Wing leading eight riders to meet students and the public. The free carnival runs from November 13 to 15 with eight interactive zones. Lee became the UCI women's elite endurance world No. 1 in October; the team will race the home World Cup on April 23–25 next year as it chases qualification for the 2028 Los Angeles Olympics.",
+   "zh_hant": "中國香港單車總會今日喺荃灣愉景新城舉行「單車嘉年華」及「中國香港單車隊見面會」，港隊總教練達海飛聯同李思穎及一眾車手與學生及市民交流。嘉年華由11月13至15日舉行，設八大動感關卡，免費開放。李思穎今年10月首登UCI場地單車女子中長距離世界排名第一；港隊明年4月23至25日主場出戰世界盃，目標爭取2028年洛杉磯奧運入場券。",
+   "zh_hans": "中国香港单车总会今日在荃湾愉景新城举行「单车嘉年华」及「中国香港单车队见面会」，港队总教练达海飞联同李思颖及一众车手与学生及市民交流。嘉年华由11月13至15日举行，设八大动感关卡，免费开放。李思颖今年10月首登UCI场地单车女子中长距离世界排名第一；港队明年4月23至25日主场出战世界杯，目标争取2028年洛杉矶奥运入场券。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Cycling",
+    "Cycling Carnival",
+    "Lee Sze Wing",
+    "Track Cycling"
+   ],
+   "zh_hant": [
+    "中國香港單車隊",
+    "單車嘉年華",
+    "李思穎",
+    "場地單車"
+   ],
+   "zh_hans": [
+    "中国香港单车队",
+    "单车嘉年华",
+    "李思颖",
+    "场地单车"
+   ]
+  }
+ },
+ {
   "id": "20261114-canada-guatemala-3-2-nations-league",
   "sport": "football",
   "published_at": "2026-11-14T18:35:00+08:00",
