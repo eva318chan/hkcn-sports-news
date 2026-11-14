@@ -1,5 +1,46 @@
 [
  {
+  "id": "20261114-nba-sengun-43-rockets-jazz",
+  "sport": "basketball",
+  "published_at": "2026-11-14T12:16:00+08:00",
+  "source": "Yardbarker",
+  "source_url": "https://www.yardbarker.com/nba/articles/rockets_beat_jazz_125_118_as_sengun_and_durant_combine_for_65/s1_17668_44558987",
+  "image_url": null,
+  "title": {
+   "en": "Sengun drops 43 points and 12 rebounds as Rockets edge Jazz 125-118; Durant adds 22",
+   "zh_hant": "辛古恩43分12籃板 火箭125:118險勝爵士 杜蘭特添22分",
+   "zh_hans": "辛古恩43分12篮板 火箭125:118险胜爵士 杜兰特添22分"
+  },
+  "summary": {
+   "en": "The Houston Rockets edged the Utah Jazz 125-118 at home. Alperen Sengun scored 43 points, 12 rebounds and five assists on 17-of-24 shooting, close to his career high, while Kevin Durant added 22 points and six assists and Fred VanVleet contributed 17 points. The win keeps Houston third in the Western Conference on a three-game winning streak, while Utah suffered an 11th straight defeat.",
+   "zh_hant": "休斯頓火箭主場以125:118險勝猶他爵士。辛古恩攻入43分、12個籃板及5次助攻，全場24投17中，接近個人生涯新高；杜蘭特添22分6次助攻，雲維利特貢獻17分。火箭勝出後位列西岸第三，取得三連勝；爵士吞下11連敗。",
+   "zh_hans": "休斯顿火箭主场以125:118险胜犹他爵士。辛古恩攻入43分、12个篮板及5次助攻，全场24投17中，接近个人生涯新高；杜兰特添22分6次助攻，云维利特贡献17分。火箭胜出后位列西岸第三，取得三连胜；爵士吞下11连败。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Rockets",
+    "Jazz",
+    "Sengun",
+    "Durant"
+   ],
+   "zh_hant": [
+    "NBA",
+    "火箭",
+    "爵士",
+    "辛古恩",
+    "杜蘭特"
+   ],
+   "zh_hans": [
+    "NBA",
+    "火箭",
+    "爵士",
+    "辛古恩",
+    "杜兰特"
+   ]
+  }
+ },
+ {
   "id": "20261114-netherlands-greece-7-0-nations-league",
   "sport": "football",
   "published_at": "2026-11-14T07:36:00+08:00",
@@ -37,6 +78,47 @@
     "欧洲国家联赛",
     "赖达斯",
     "帽子戏法"
+   ]
+  }
+ },
+ {
+  "id": "20261114-nations-league-friday-roundup",
+  "sport": "football",
+  "published_at": "2026-11-14T06:14:00+08:00",
+  "source": "歐洲足協",
+  "source_url": "https://www.uefa.com/uefanationsleague/news/02a2-1fea7079900a-801b2c5f6c9e-1000--2026-27-uefa-nations-league-league-phase-fixtures-by-team/",
+  "image_url": null,
+  "title": {
+   "en": "Nations League Friday round-up: Germany beat Serbia 3-1 as Scotland edge North Macedonia 2-1",
+   "zh_hant": "歐國聯周五戰報 德國3:1挫塞爾維亞 蘇格蘭2:1北馬其頓",
+   "zh_hans": "欧国联周五战报 德国3:1挫塞尔维亚 苏格兰2:1北马其顿"
+  },
+  "summary": {
+   "en": "In the UEFA Nations League matchday five Friday fixtures, Germany won 3-1 away to Serbia: an own goal by Babic after three minutes and goals from Wirtz in the 14th minute and Gruda in the 50th put Germany 3-0 up, before Babic pulled one back for Serbia in the 56th minute. The Netherlands’ 7-0 thrashing of Greece is covered in a separate article. Scotland beat North Macedonia 2-1 at home, Iceland thrashed Bulgaria 5-0 away, Slovakia drew 2-2 with the Faroe Islands, and Slovenia and Switzerland played out a goalless draw. Elsewhere Andorra beat Gibraltar 2-0, Azerbaijan won 1-0 away to Liechtenstein, Estonia won 1-0 away to Luxembourg, and Moldova beat Kazakhstan 2-1 at home.",
+   "zh_hant": "歐洲國家聯賽第5輪周五賽事，德國作客以3:1擊敗塞爾維亞：巴比治開賽3分鐘擺烏龍，韋斯14分鐘及古達50分鐘先後建功，助德國領先至3:0，巴比治56分鐘為塞爾維亞追回一球。同日荷蘭7:0大勝希臘，已經另文報道。蘇格蘭主場2:1擊敗北馬其頓；冰島作客5:0大勝保加利亞；斯洛伐克與法羅群島2:2握手言和；斯洛文尼亞與瑞士互交白卷。另外安道爾2:0勝直布羅陀；阿塞拜疆作客1:0小勝列支敦士登；愛沙尼亞作客1:0挫盧森堡；摩爾多瓦主場2:1擊敗哈薩克。",
+   "zh_hans": "欧洲国家联赛第5轮周五赛事，德国作客以3:1击败塞尔维亚：巴比治开赛3分钟摆乌龙，韦斯14分钟及古达50分钟先后建功，助德国领先至3:0，巴比治56分钟为塞尔维亚追回一球。同日荷兰7:0大胜希腊，已经另文报道。苏格兰主场2:1击败北马其顿；冰岛作客5:0大胜保加利亚；斯洛伐克与法罗群岛2:2握手言和；斯洛文尼亚与瑞士互交白卷。另外安道尔2:0胜直布罗陀；阿塞拜疆作客1:0小胜列支敦士登；爱沙尼亚作客1:0挫卢森堡；摩尔多瓦主场2:1击败哈萨克。"
+  },
+  "tags": {
+   "en": [
+    "Nations League",
+    "Germany",
+    "Serbia",
+    "Scotland",
+    "UEFA"
+   ],
+   "zh_hant": [
+    "歐國聯",
+    "德國",
+    "塞爾維亞",
+    "蘇格蘭",
+    "歐洲國家聯賽"
+   ],
+   "zh_hans": [
+    "欧国联",
+    "德国",
+    "塞尔维亚",
+    "苏格兰",
+    "欧洲国家联赛"
    ]
   }
  }
