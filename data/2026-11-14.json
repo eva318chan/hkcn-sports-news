@@ -1,5 +1,43 @@
 [
  {
+  "id": "20261114-special-olympics-football-50th",
+  "sport": "football",
+  "published_at": "2026-11-14T16:26:44+08:00",
+  "source": "香港特殊奧運會",
+  "source_url": "https://www.hkso.org.hk",
+  "image_url": "assets/design/20261114-sohk-50th-football-hero.jpg",
+  "title": {
+   "en": "50th Special Olympics Football Competition Wraps Up After Four Days as Athletes Shine, District Athletics Next in December",
+   "zh_hant": "第五十屆特奧足球賽圓滿落幕 運動員綠茵場勇敢拼搏 12月田徑賽再燃熱血",
+   "zh_hans": "第五十届特奥足球赛圆满落幕 运动员绿茵场勇敢拼搏 12月田径赛再燃热血"
+  },
+  "summary": {
+   "en": "The four-day 50th Hong Kong Special Olympics Football Competition has concluded, with Special Olympics athletes and unified partners showcasing fighting spirit and sportsmanship on the pitch — precise passing, crucial saves and seamless teamwork — living the motto \"Be Brave, Try Your Best, Strive for Victory\". The organisers thanked the guests who attended the opening ceremony and the referees, coaches, teachers, parents and volunteers who worked behind the scenes. District athletics competitions follow in December.",
+   "zh_hant": "為期4日的第五十屆香港特殊奧運會足球比賽圓滿落幕，特奧運動員與融合伙伴在綠茵場上並肩作戰，精準傳球、關鍵撲救，展現鬥志與體育精神，體現「勇敢嘗試，爭取勝利」的特奧信念。大會感謝蒞臨開幕禮的嘉賓，以及默默付出的球證、教練、老師、家長與義工；12月將舉行分區田徑賽，精彩陸續有來。",
+   "zh_hans": "为期4日的第五十届香港特殊奥运会足球比赛圆满落幕，特奥运动员与融合伙伴在绿茵场上并肩作战，精准传球、关键扑救，展现斗志与体育精神，体现「勇敢尝试，争取胜利」的特奥信念。大会感谢莅临开幕礼的嘉宾，以及默默付出的球证、教练、老师、家长与义工；12月将举行分区田径赛，精彩陆续有来。"
+  },
+  "tags": {
+   "en": [
+    "Special Olympics",
+    "Hong Kong Special Olympics",
+    "Football",
+    "SOHK"
+   ],
+   "zh_hant": [
+    "特殊奧運會",
+    "香港特殊奧運會",
+    "足球",
+    "特奧"
+   ],
+   "zh_hans": [
+    "特殊奥运会",
+    "香港特殊奥运会",
+    "足球",
+    "特奥"
+   ]
+  }
+ },
+ {
   "id": "20261114-nba-sengun-43-rockets-jazz",
   "sport": "basketball",
   "published_at": "2026-11-14T12:16:00+08:00",
