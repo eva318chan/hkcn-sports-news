@@ -1,5 +1,78 @@
 [
   {
+    "id": "20261115-eastern-district-1-0-eastern-league-cup",
+    "sport": "football",
+    "published_at": "2026-11-15T17:15:00+08:00",
+    "source": "商業電台",
+    "source_url": "https://www.881903.com/news/sports/2659602",
+    "image_url": null,
+    "title": {
+      "en": "Eastern District edge Eastern 1-0 in League Cup as 23rd-minute header seals third-round spot",
+      "zh_hant": "聯賽盃東區1:0小勝東方 馬卡雷拿23分鐘頭槌建功 晉級第三圈",
+      "zh_hans": "联赛杯东区1:0小胜东方 马卡雷拿23分钟头槌建功 晋级第三圈"
+    },
+    "summary": {
+      "en": "Eastern District beat Eastern 1-0 in the second round of the League Cup advancement group at Aberdeen Sports Ground this afternoon, advancing to the third round. The only goal of the game came in the 23rd minute of the first half, a header from a cross that sealed the win for Eastern District.",
+      "zh_hant": "下午在香港仔運動場舉行的聯賽盃晉級組次圈賽事，東區以1:0擊敗東方，晉級第三圈。馬卡雷拿在上半場23分鐘接應雷仙奴傳中，頂入全場唯一入球，協助東區致勝。",
+      "zh_hans": "下午在香港仔运动场举行的联赛杯晋级组次圈赛事，东区以1:0击败东方，晋级第三圈。马卡雷拿在上半场23分钟接应雷仙奴传中，顶入全场唯一入球，协助东区致胜。"
+    },
+    "tags": {
+      "en": [
+        "Eastern District",
+        "Eastern",
+        "League Cup"
+      ],
+      "zh_hant": [
+        "東區",
+        "東方",
+        "聯賽盃"
+      ],
+      "zh_hans": [
+        "东区",
+        "东方",
+        "联赛杯"
+      ]
+    }
+  },
+  {
+    "id": "20261115-wta-finals-andreeva-svitolina",
+    "sport": "tennis",
+    "published_at": "2026-11-15T15:50:00+08:00",
+    "source": "商業電台",
+    "source_url": "https://www.881903.com/news/sports/2659587",
+    "image_url": null,
+    "title": {
+      "en": "Andreeva and Svitolina to meet in WTA Finals decider as French Open champion stays unbeaten",
+      "zh_hant": "WTA年終賽安祖列娃與施維杜蓮娜會師決賽 法網冠軍小組賽全勝未失一局",
+      "zh_hans": "WTA年终赛安祖列娃与施维杜莲娜会师决赛 法网冠军小组赛全胜未失一局"
+    },
+    "summary": {
+      "en": "The WTA Finals in Indian Wells, United States, will be contested by Russia's Mirra Andreeva and Ukraine's Elina Svitolina. French Open champion Andreeva beat American Jessica Pegula 6-3, 6-4 in the semi-finals to reach her first Finals decider, having won all her group matches without dropping a set. 2018 champion Svitolina beat Czech player Linda Noskova 6-2, 6-1 in the other semi-final to reach her third Finals decider; she lost to Andreeva 4-6, 0-6 in the group stage.",
+      "zh_hant": "在美國印第安韋爾斯舉行的WTA年終賽，將由俄羅斯的安祖列娃與烏克蘭的施維杜蓮娜爭奪冠軍。在今屆法網封后的安祖列娃，準決賽以6:3、6:4戰勝美國的柏古娜，首度闖入年終賽決賽，小組賽至今保持全勝兼未失一局。2018年冠軍施維杜蓮娜在另一場準決賽以6:2、6:1輕取捷克的露絲高娃，第三次躋身年終賽決賽；她在小組賽曾連輸兩盤4:6及0:6，不敵安祖列娃。",
+      "zh_hans": "在美国印第安韦尔斯举行的WTA年终赛，将由俄罗斯的安祖列娃与乌克兰的施维杜莲娜争夺冠军。在今届法网封后的安祖列娃，准决赛以6:3、6:4战胜美国的柏古娜，首度闯入年终赛决赛，小组赛至今保持全胜兼未失一局。2018年冠军施维杜莲娜在另一场准决赛以6:2、6:1轻取捷克的露丝高娃，第三次跻身年终赛决赛；她在小组赛曾连输两盘4:6及0:6，不敌安祖列娃。"
+    },
+    "tags": {
+      "en": [
+        "WTA Finals",
+        "Andreeva",
+        "Svitolina",
+        "tennis"
+      ],
+      "zh_hant": [
+        "WTA年終賽",
+        "安祖列娃",
+        "施維杜蓮娜",
+        "網球"
+      ],
+      "zh_hans": [
+        "WTA年终赛",
+        "安祖列娃",
+        "施维杜莲娜",
+        "网球"
+      ]
+    }
+  },
+  {
     "id": "20261115-nba-sunday-roundup",
     "sport": "basketball",
     "published_at": "2026-11-15T13:05:00+08:00",
