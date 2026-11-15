@@ -1,5 +1,75 @@
 [
   {
+    "id": "20261115-harbour-swim-leisure-cancelled",
+    "sport": "swimming",
+    "published_at": "2026-11-15T10:39:00+08:00",
+    "source": "香港電台",
+    "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1877869-20261115.htm",
+    "image_url": null,
+    "title": {
+      "zh_hant": "維港泳優悠組最後一組賽事取消 約700泳手受影響",
+      "en": "Final leisure-category session of Victoria Harbour Swim cancelled, affecting about 700 swimmers",
+      "zh_hans": "维港泳优悠组最后一组赛事取消 约700泳手受影响"
+    },
+    "summary": {
+      "zh_hant": "維港泳2026今早舉行，優悠組最後一組賽事取消，影響約700名參加者。賽事今早由灣仔金紫荊廣場公眾碼頭出發，游往尖沙咀星光大道，競賽組約300名選手早上7時半率先開賽，優悠組約3,700人參與，分組出發。灣仔北及尖沙咀實施特別交通及運輸安排，期間水上的士及渡輪航線暫停服務。",
+      "en": "The 2026 Victoria Harbour Swim was held this morning, but the final session of the leisure category was cancelled, affecting about 700 participants. The race started from the Golden Bauhinia Square public pier in Wan Chai and finished at the Avenue of Stars in Tsim Sha Tsui; about 300 swimmers in the racing category set off first at 7:30am, while around 3,700 people took part in the leisure category in separate groups. Special traffic and transport arrangements were in place in Wan Chai North and Tsim Sha Tsui, with water taxi and ferry services suspended during the event.",
+      "zh_hans": "维港泳2026今早举行，优悠组最后一组赛事取消，影响约700名参加者。赛事今早由湾仔金紫荆广场公众码头出发，游往尖沙咀星光大道，竞赛组约300名选手早上7时半率先开赛，优悠组约3,700人参与，分组出发。湾仔北及尖沙咀实施特别交通及运输安排，期间水上的士及渡轮航线暂停服务。"
+    },
+    "tags": {
+      "zh_hant": [
+        "維港泳",
+        "優悠組",
+        "賽事取消"
+      ],
+      "en": [
+        "Victoria Harbour Swim",
+        "leisure category",
+        "cancellation"
+      ],
+      "zh_hans": [
+        "维港泳",
+        "优悠组",
+        "赛事取消"
+      ]
+    }
+  },
+  {
+    "id": "20261115-harbour-swim-champions-defend",
+    "sport": "swimming",
+    "published_at": "2026-11-15T09:25:00+08:00",
+    "source": "香港電台",
+    "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1877860-20261115.htm",
+    "image_url": null,
+    "title": {
+      "zh_hant": "維港泳冼展霆15分35秒七度封王 聶芷彥16分55秒成功衛冕",
+      "en": "Sin Chin-ting wins Victoria Harbour Swim for a seventh time in 15:35 as Nip Tsz-yin defends women's title in 16:55",
+      "zh_hans": "维港泳冼展霆15分35秒七度封王 聂芷彦16分55秒成功卫冕"
+    },
+    "summary": {
+      "zh_hant": "維港泳2026今早舉行，競賽組早上7時半率先開賽，冼展霆和聶芷彥分別衛冕男子組和女子組冠軍。冼展霆以15分35秒完成，第七次奪得冠軍，他表示導航浮波放置位置理想，水溫舒適；他自評今年表現合格，因賽前生病，未能以最佳狀態比賽。聶芷彥就以16分55秒奪冠，她形容個人狀態理想，對手實力增強，而現場指示較去年清晰。賽事亦吸引不同年齡泳手參與，有14歲泳手首次出戰競賽組，強調今次是學習而非爭取名次；有60歲深圳旅客參與優悠組，形容能參加維港泳是榮幸。",
+      "en": "The 2026 Victoria Harbour Swim was held this morning, with the racing category setting off first at 7:30am. Sin Chin-ting and Nip Tsz-yin defended the men's and women's titles respectively. Sin finished in 15 minutes 35 seconds to win his seventh title, saying the guide buoys were well placed and the water temperature comfortable; he rated his own performance as acceptable because illness before the race kept him from his best. Nip won in 16 minutes 55 seconds, describing herself as in good form, her rivals stronger, and the on-site directions clearer than last year. Swimmers of all ages took part: a 14-year-old raced in the competitive category for the first time, saying it was about learning rather than placing, while a 60-year-old visitor from Shenzhen swam in the leisure category and called taking part an honour.",
+      "zh_hans": "维港泳2026今早举行，竞赛组早上7时半率先开赛，冼展霆和聂芷彦分别卫冕男子组和女子组冠军。冼展霆以15分35秒完成，第七次夺得冠军，他表示导航浮波放置位置理想，水温舒适；他自评今年表现合格，因赛前生病，未能以最佳状态比赛。聂芷彦就以16分55秒夺冠，她形容个人状态理想，对手实力增强，而现场指示较去年清晰。赛事亦吸引不同年龄泳手参与，有14岁泳手首次出战竞赛组，强调今次是学习而非争取名次；有60岁深圳旅客参与优悠组，形容能参加维港泳是荣幸。"
+    },
+    "tags": {
+      "zh_hant": [
+        "維港泳",
+        "冼展霆",
+        "聶芷彥"
+      ],
+      "en": [
+        "Victoria Harbour Swim",
+        "Sin Chin-ting",
+        "Nip Tsz-yin"
+      ],
+      "zh_hans": [
+        "维港泳",
+        "冼展霆",
+        "聂芷彦"
+      ]
+    }
+  },
+  {
     "id": "20261115-nations-league-saturday-evening-roundup",
     "image_url": null,
     "published_at": "2026-11-15T05:34:00+08:00",
