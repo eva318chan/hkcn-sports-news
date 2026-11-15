@@ -1,5 +1,46 @@
 [
   {
+    "id": "20261115-hzmb-half-marathon-local-winners",
+    "sport": "athletics",
+    "published_at": "2026-11-15T12:03:00+08:00",
+    "source": "香港電台",
+    "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1877874-20261115.htm",
+    "image_url": null,
+    "title": {
+      "en": "HZMB Half Marathon Local Titles Decided as Cheung Yiu-leung Wins Men's Race in 68 Minutes and Law Ying-chiu Takes Women's Crown",
+      "zh_hant": "港珠澳大橋半馬本地組揭盅 張耀樑68分鐘封王 羅映潮女子組稱后",
+      "zh_hans": "港珠澳大桥半马本地组揭盅 张耀梁68分钟封王 罗映潮女子组称后"
+    },
+    "summary": {
+      "en": "The Hong Kong-Zhuhai-Macao Bridge (Hong Kong Section) Half Marathon was held this morning, with Cheung Yiu-leung and Law Ying-chiu winning the local men's and women's categories respectively. Cheung clocked 68 minutes, the first time he has gone under 70 minutes in a Hong Kong half marathon, saying the course was windy but had fewer slopes than before. Law said her overall performance was satisfactory after battling injuries for much of the past six months. This year's race has been upgraded to a World Athletics Platinum Label road race, the first in Hong Kong.",
+      "zh_hant": "港珠澳大橋（香港段）半馬拉松今早舉行，張耀樑和羅映潮分別勝出本地男女子組別。張耀樑跑出68分鐘成績，是他首次在香港半馬賽事跑入70分鐘內，他形容賽道風勢較大，但斜路較以往減少。羅映潮表示自己過去大半年受傷患困擾，整體表現合格；今屆賽事升格為世界田徑聯會認可的「白金級道路賽事」，是香港首個白金級道路賽。",
+      "zh_hans": "港珠澳大桥（香港段）半马拉松今早举行，张耀梁和罗映潮分别胜出本地男女子组别。张耀梁跑出68分钟成绩，是他首次在香港半马赛事跑入70分钟内，他形容赛道风势较大，但斜路较以往减少。罗映潮表示自己过去大半年受伤患困扰，整体表现合格；今届赛事升格为世界田径联会认可的「白金级道路赛事」，是香港首个白金级道路赛。"
+    },
+    "tags": {
+      "en": [
+        "HZMB Half Marathon",
+        "Cheung Yiu-leung",
+        "Law Ying-chiu",
+        "half marathon",
+        "Platinum Label"
+      ],
+      "zh_hant": [
+        "港珠澳大橋半馬",
+        "張耀樑",
+        "羅映潮",
+        "半馬拉松",
+        "白金級道路賽"
+      ],
+      "zh_hans": [
+        "港珠澳大桥半马",
+        "张耀梁",
+        "罗映潮",
+        "半马拉松",
+        "白金级道路赛"
+      ]
+    }
+  },
+  {
     "id": "20261115-harbour-swim-leisure-cancelled",
     "sport": "swimming",
     "published_at": "2026-11-15T10:39:00+08:00",
@@ -31,6 +72,47 @@
         "维港泳",
         "优悠组",
         "赛事取消"
+      ]
+    }
+  },
+  {
+    "id": "20261115-blg-s16-champions",
+    "sport": "esports",
+    "published_at": "2026-11-15T10:11:00+08:00",
+    "source": "新京報",
+    "source_url": "https://news.sina.cn/2026-11-15/detail-iniyupue9823964.d.html",
+    "image_url": null,
+    "title": {
+      "en": "BLG Beat GEN 3-1 to Win LoL S16 Title, Sweeping All Four LCK Teams as LPL Returns to the Top After Five Years",
+      "zh_hant": "BLG 3:1力克GEN勇奪S16冠軍 一穿四橫掃LCK LPL時隔五年再登頂",
+      "zh_hans": "BLG 3:1力克GEN勇夺S16冠军 一穿四横扫LCK LPL时隔五年再登顶"
+    },
+    "summary": {
+      "en": "The League of Legends 2026 World Championship (S16) ended in New York early this morning, with China's LPL team BLG coming back from a game down to beat South Korea's LCK team GEN 3-1 and lift the Summoner's Cup for the first time in the club's history. BLG defeated HLE, DK, T1 and GEN in turn, becoming the first team to eliminate every LCK side in a single World Championship and go on to win the title. It is also the LPL's first world title since EDG's triumph in 2021, ending a five-year wait.",
+      "zh_hant": "《英雄聯盟》2026全球總決賽今日凌晨在美國紐約落幕，中國LPL賽區BLG戰隊在先失一局下連贏三局，以3:1擊敗韓國LCK賽區GEN戰隊，隊史首次捧起召喚師杯。BLG今屆先後擊敗HLE、DK、T1及GEN四支韓國隊伍，成為首支在單屆總決賽淘汰全部LCK隊伍並奪冠的戰隊。這亦是LPL賽區自2021年EDG奪冠以來，時隔五年再度登上世界之巔。",
+      "zh_hans": "《英雄联盟》2026全球总决赛今日凌晨在美国纽约落幕，中国LPL赛区BLG战队在先失一局下连赢三局，以3:1击败韩国LCK赛区GEN战队，队史首次捧起召唤师杯。BLG今届先后击败HLE、DK、T1及GEN四支韩国队伍，成为首支在单届总决赛淘汰全部LCK队伍并夺冠的战队。这亦是LPL赛区自2021年EDG夺冠以来，时隔五年再度登上世界之巅。"
+    },
+    "tags": {
+      "en": [
+        "BLG",
+        "League of Legends",
+        "S16",
+        "GEN",
+        "LPL"
+      ],
+      "zh_hant": [
+        "BLG",
+        "英雄聯盟",
+        "S16",
+        "GEN",
+        "LPL"
+      ],
+      "zh_hans": [
+        "BLG",
+        "英雄联盟",
+        "S16",
+        "GEN",
+        "LPL"
       ]
     }
   },
