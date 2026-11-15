@@ -1,5 +1,46 @@
 [
   {
+    "id": "20261115-nba-sunday-roundup",
+    "sport": "basketball",
+    "published_at": "2026-11-15T13:05:00+08:00",
+    "source": "新浪體育",
+    "source_url": "https://sports.sina.cn/nba/other/2026-11-15/detail-iniyuykf3208836.d.html",
+    "image_url": null,
+    "title": {
+      "en": "Cavaliers Beat Mavericks 127-117 Despite All Five Starters Out as Heat Rout Pistons 137-117",
+      "zh_hant": "NBA戰報 騎士五主力缺陣照贏127:117挫獨行俠 熱火137:117大勝活塞",
+      "zh_hans": "NBA战报 骑士五主力缺阵照赢127:117挫独行侠 热火137:117大胜活塞"
+    },
+    "summary": {
+      "en": "In NBA regular-season action, the Cleveland Cavaliers beat the Dallas Mavericks 127-117 despite all five regular starters being unavailable, with Thomas Bryant scoring 20 points and the team showing great energy and pace, according to head coach Kenny Atkinson. The Miami Heat routed the Detroit Pistons 137-117, led by Giannis Antetokounmpo with 34 points, while Cade Cunningham scored 33 for Detroit. Elsewhere, the Denver Nuggets beat the New Orleans Pelicans 116-108, the Memphis Grizzlies beat the Brooklyn Nets 129-110, and the Chicago Bulls beat the Minnesota Timberwolves 117-106.",
+      "zh_hant": "NBA常規賽，騎士在五大常規正選全部缺陣下，仍以127:117擊敗獨行俠，湯馬士白蘭特攻入20分，主教練阿特金森讚揚球隊打出能量和速度。熱火以137:117大勝活塞，艾迪杜高普攻入34分，活塞的康寧漢姆則攻入33分。其他賽果：金塊116:108擊敗塘鵝，灰熊129:110擊敗籃網，公牛117:106擊敗木狼。",
+      "zh_hans": "NBA常规赛，骑士在五大常规正选全部缺阵下，仍以127:117击败独行侠，汤马士白兰特攻入20分，主教练阿特金森赞扬球队打出能量和速度。热火以137:117大胜活塞，艾迪杜高普攻入34分，活塞的康宁汉姆则攻入33分。其他赛果：金块116:108击败塘鹅，灰熊129:110击败篮网，公牛117:106击败木狼。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "Cavaliers",
+        "Mavericks",
+        "Heat",
+        "Pistons"
+      ],
+      "zh_hant": [
+        "NBA",
+        "騎士",
+        "獨行俠",
+        "熱火",
+        "活塞"
+      ],
+      "zh_hans": [
+        "NBA",
+        "骑士",
+        "独行侠",
+        "热火",
+        "活塞"
+      ]
+    }
+  },
+  {
     "id": "20261115-hzmb-half-marathon-local-winners",
     "sport": "athletics",
     "published_at": "2026-11-15T12:03:00+08:00",
