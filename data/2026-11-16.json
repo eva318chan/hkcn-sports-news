@@ -35,6 +35,41 @@
     }
   },
   {
+    "id": "20261116-lions-35-10-patriots-munich",
+    "sport": "others",
+    "published_at": "2026-11-16T01:37:00+08:00",
+    "source": "theScore",
+    "source_url": "https://www.thescore.com/nfl/news/3656032/gibbs-powers-lions-to-blowout-win-over-patriots-in-germany",
+    "image_url": null,
+    "title": {
+      "en": "Lions rout Patriots 35-10 in Munich as Gibbs piles up 252 yards and breaks a Hall of Famer's record",
+      "zh_hant": "獅隊慕尼黑35:10大勝愛國者 吉布斯252碼兩達陣破名宿紀錄",
+      "zh_hans": "狮队慕尼黑35:10大胜爱国者 吉布斯252码两达阵破名宿纪录"
+    },
+    "summary": {
+      "en": "The Detroit Lions thrashed the New England Patriots 35-10 in Munich, Germany, extending their winning streak to five games. Running back Jahmyr Gibbs rushed for 153 yards and two touchdowns and added seven catches for 99 yards, totalling 252 yards from scrimmage, and his 62nd career touchdown broke a record held by Hall of Famer Terrell Davis. Wide receiver Amon-Ra St. Brown, whose mother is from Leverkusen, caught two touchdown passes in his first NFL game in Germany. Patriots quarterback Drake Maye left with an ankle injury on the opening drive after being sacked, and Lions defensive end Aidan Hutchinson hurt his knee on the same play while celebrating the sack. The Lions improved to 7-2 and sit top of the NFC North, with 70,225 fans at the Allianz Arena.",
+      "zh_hant": "底特律雄獅在德國慕尼黑35:10大勝新英倫愛國者，取得五連勝。跑衛吉布斯衝出153碼及兩次達陣，另接球7次推進99碼，全場共252碼，生涯第62次達陣打破名人堂名宿泰瑞爾·戴維斯保持的紀錄；外接手聖布朗在首次德國作賽即兩次接球達陣，他的母親來自利華古遜。愛國者四分衛梅耶在開賽首個進攻回合被擒殺後足踝受傷退場，雄獅防守端赫捷臣亦在同一回合慶祝擒殺時膝部受傷。雄獅7勝2負升上國聯北區榜首，逾7萬名球迷在安聯球場觀戰。",
+      "zh_hans": "底特律雄狮在德国慕尼黑35:10大胜新英伦爱国者，取得五连胜。跑卫吉布斯冲出153码及两次达阵，另接球7次推进99码，全场共252码，生涯第62次达阵打破名人堂名宿泰瑞尔·戴维斯保持的纪录；外接手圣布朗在首次德国作赛即两次接球达阵，他的母亲来自利华古逊。爱国者四分卫梅耶在开赛首个进攻回合被擒杀后足踝受伤退场，雄狮防守端赫捷臣亦在同一回合庆祝擒杀时膝部受伤。雄狮7胜2负升上国联北区榜首，逾7万名球迷在安联球场观战。"
+    },
+    "tags": {
+      "en": [
+        "NFL",
+        "Lions",
+        "Munich"
+      ],
+      "zh_hant": [
+        "NFL",
+        "雄獅",
+        "慕尼黑"
+      ],
+      "zh_hans": [
+        "NFL",
+        "雄狮",
+        "慕尼黑"
+      ]
+    }
+  },
+  {
     "id": "20261116-hk-fencing-bronze-cairo-sabre-world-cup",
     "sport": "others",
     "published_at": "2026-11-16T00:21:00+08:00",
