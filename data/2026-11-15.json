@@ -1,5 +1,43 @@
 [
   {
+    "id": "20261115-victoria-harbour-race-2026",
+    "sport": "swimming",
+    "published_at": "2026-11-15T23:56:00+08:00",
+    "source": "中國香港游泳總會",
+    "source_url": "https://www.hkharbourrace.com/",
+    "image_url": "assets/design/20261115-victoria-harbour-race-2026-cover.jpg",
+    "title": {
+      "en": "Victoria Harbour Race 2026: Record 4,000 Swimmers Cross the Harbour as Keith Sin Wins Seventh Title and Nip Tsz-yin Defends Crown",
+      "zh_hant": "維港泳2026 四千泳手橫渡維港 冼展霆第七度封王 聶芷彥成功衛冕",
+      "zh_hans": "维港泳2026 四千泳手横渡维港 冼展霆第七度封王 聂芷彦成功卫冕"
+    },
+    "summary": {
+      "en": "The Victoria Harbour Race 2026 was held in Victoria Harbour on Sunday morning (15 November), with nearly 4,000 local and overseas swimmers crossing from the Golden Bauhinia Square Public Pier in Wan Chai to the Avenue of Stars in Tsim Sha Tsui, a record turnout since the race resumed. In the racing group, 300 elite swimmers battled it out: Keith Sin won the men's title in 15:35.0 — his seventh Victoria Harbour Race crown — ahead of 葉丞軒 (15:39.5) and 陳浚軒 (15:42.8), with 蘇冠華 (15:44.7) and 賴敬和 (15:52.3) fourth and fifth; Nip Tsz-yin defended the women's title in 16:55.1, followed by 林倬如 (16:59.2) and 林柏彤 (16:59.8), with 梁穎溦 (18:00.1) and 方鄙嘉 (18:01.9) fourth and fifth. With the harbour current strengthening during the race, organisers cancelled the final leisure-group wave on safety grounds; Hong Kong China Swimming Association president Ronnie Wong apologised and confirmed full refunds for the affected swimmers.",
+      "zh_hant": "維港泳2026今早（11月15日）在維多利亞港舉行，近四千名本地及海外泳手由灣仔金紫荊廣場公眾碼頭出發，游往尖沙咀星光大道，全程約一公里，人數再創復辦以來新高。競賽組三百名頂尖泳手同場較量，冼展霆以15分35秒0第七度封王，葉丞軒（15分39秒5）及陳浚軒（15分42秒8）分列亞、季軍，蘇冠華（15分44秒7）與賴敬和（15分52秒3）分列第四、五名；女子組聶芷彥以16分55秒1成功衛冕，林倬如（16分59秒2）及林柏彤（16分59秒8）緊隨其後，梁穎溱（18分00秒1）與方鄯嘉（18分01秒9）分列第四、五名。由於賽事期間維港水流變急，大會基於安全考慮取消優悠組最後一組出發，泳總會長王敏超致歉，並承諾向受影響參加者全數退款。",
+      "zh_hans": "维港泳2026今早（11月15日）在维多利亚港举行，近四千名本地及海外泳手由湾仔金紫荆广场公众码头出发，游往尖沙咀星光大道，全程约一公里，人数再创复办以来新高。竞赛组三百名顶尖泳手同场较量，冼展霆以15分35秒0第七度封王，叶丞轩（15分39秒5）及陈浚轩（15分42秒8）分列亚、季军，苏冠华（15分44秒7）与赖敬和（15分52秒3）分列第四、五名；女子组聂芷彦以16分55秒1成功卫冕，林倬如（16分59秒2）及林柏彤（16分59秒8）紧随其后，梁颖溱（18分00秒1）与方鄯嘉（18分01秒9）分列第四、五名。由于赛事期间维港水流变急，大会基于安全考虑取消优悠组最后一组出发，泳总会长王敏超致歉，并承诺向受影响参加者全数退款。"
+    },
+    "tags": {
+      "en": [
+        "Victoria Harbour Race",
+        "Keith Sin",
+        "Nip Tsz-yin",
+        "Hong Kong China Swimming Association"
+      ],
+      "zh_hant": [
+        "維港泳",
+        "冼展霆",
+        "聶芷彥",
+        "中國香港游泳總會"
+      ],
+      "zh_hans": [
+        "维港泳",
+        "冼展霆",
+        "聂芷彦",
+        "中国香港游泳总会"
+      ]
+    }
+  },
+  {
     "id": "20261115-la-salle-first-d1-handball-title",
     "sport": "handball",
     "published_at": "2026-11-15T20:41:00+08:00",
