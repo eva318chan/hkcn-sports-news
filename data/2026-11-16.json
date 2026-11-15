@@ -35,6 +35,88 @@
     }
   },
   {
+    "id": "20261116-76ers-131-124-pacers-brown-31-maxey-27",
+    "sport": "basketball",
+    "published_at": "2026-11-16T04:33:00+08:00",
+    "source": "NBC Sports Philadelphia",
+    "source_url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-vs-pacers-analysis-lebron-james-tyrese-maxey/767006/",
+    "image_url": null,
+    "title": {
+      "en": "76ers Beat Pacers 131-124 as Brown Scores 31, Maxey 27; James Passes Kidd for Third All-Time in Assists",
+      "zh_hant": "76人131:124挫溜馬 布朗31分麥斯27分 占士11助攻超基特史上第三",
+      "zh_hans": "76人131:124挫溜马 布朗31分麦斯27分 詹姆斯11助攻超基德史上第三"
+    },
+    "summary": {
+      "en": "The Philadelphia 76ers beat the Indiana Pacers 131-124 at home to improve to 11-3. Jaylen Brown scored a game-high 31 points and Tyrese Maxey added 27, while LeBron James posted 15 points and 11 assists, passing Jason Kidd for third place on the NBA's all-time assists list with 12,092. Pascal Siakam scored 31 for the Pacers, including 19 in the fourth quarter, but could not turn the game around. Without Joel Embiid, the Sixers pulled away with a 39-30 third quarter.",
+      "zh_hant": "費城76人主場131:124擊敗印第安納溜馬，戰績提升至11勝3負。謝倫布朗攻入全場最高31分，泰利斯麥斯貢獻27分，勒邦占士交出15分11次助攻，生涯助攻總數超越傑森傑特升上歷史第三位。溜馬的施亞甘攻入31分，包括第四節19分，但未能扭轉敗局。76人今場缺少祖爾艾比迪，仍憑第三節39:30拉開分差奠定勝局。",
+      "zh_hans": "费城76人主场131:124击败印第安纳溜马，战绩提升至11胜3负。杰伦布朗攻入全场最高31分，泰瑞斯麦斯贡献27分，勒布朗詹姆斯交出15分11次助攻，生涯助攻总数超越杰森基德升上历史第三位。溜马的西亚卡姆攻入31分，包括第四节19分，但未能扭转败局。76人今场缺少乔尔恩比德，仍凭第三节39:30拉开分差奠定胜局。"
+    },
+    "tags": {
+      "en": [
+        "76ers",
+        "Pacers",
+        "NBA",
+        "Jaylen Brown",
+        "LeBron James"
+      ],
+      "zh_hant": [
+        "76人",
+        "溜馬",
+        "NBA",
+        "謝倫布朗",
+        "勒邦占士"
+      ],
+      "zh_hans": [
+        "76人",
+        "溜马",
+        "NBA",
+        "杰伦布朗",
+        "勒布朗詹姆斯"
+      ]
+    }
+  },
+  {
+    "id": "20261116-hk-women-12-10-germany-rugby",
+    "sport": "rugby",
+    "published_at": "2026-11-16T02:45:00+08:00",
+    "source": "Hong Kong China Rugby",
+    "source_url": "https://www.hkrugby.com/news/details/belgium-women-7-15-hong-kong-china-xvs-select-match-report",
+    "image_url": null,
+    "title": {
+      "en": "Hong Kong China Women Edge Germany 12-10 to Open European Tour With a Win",
+      "zh_hant": "港女欖歐洲之旅開門紅 12:10險勝德國 三國盃首戰告捷",
+      "zh_hans": "港女榄欧洲之旅开门红 12:10险胜德国 三国杯首战告捷"
+    },
+    "summary": {
+      "en": "Hong Kong China's women's XVs Select side beat hosts Germany 12-10 in Heidelberg to open their European tour with a win in the 3 Nations Cup. Hong Kong China, ranked 16th in the world, faced 22nd-ranked Germany in an uncapped friendly during the November international window. The team next faces Belgium at the same venue on November 22.",
+      "zh_hant": "中國香港女子十五人欖球隊在德國海德堡舉行的三國盃首仗，以12:10險勝東道主德國，歐洲之旅取得開門紅。港隊目前世界排名第16位，德國排第22位，今場是雙方在11月國際賽窗口期的非計分友賽。港隊下一仗將於11月22日在同一場地迎戰比利時。",
+      "zh_hans": "中国香港女子十五人榄球队在德国海德堡举行的三国杯首仗，以12:10险胜东道主德国，欧洲之旅取得开门红。港队目前世界排名第16位，德国排第22位，今场是双方在11月国际赛窗口期的非计分友赛。港队下一仗将于11月22日在同一场地迎战比利时。"
+    },
+    "tags": {
+      "en": [
+        "Women's Rugby",
+        "Hong Kong China",
+        "Germany",
+        "3 Nations Cup",
+        "Heidelberg"
+      ],
+      "zh_hant": [
+        "女子欖球",
+        "中國香港",
+        "德國",
+        "三國盃",
+        "海德堡"
+      ],
+      "zh_hans": [
+        "女子榄球",
+        "中国香港",
+        "德国",
+        "三国杯",
+        "海德堡"
+      ]
+    }
+  },
+  {
     "id": "20261116-lions-35-10-patriots-munich",
     "sport": "others",
     "published_at": "2026-11-16T01:37:00+08:00",
@@ -101,6 +183,47 @@
         "剑击",
         "港队",
         "世界杯"
+      ]
+    }
+  },
+  {
+    "id": "20261116-hk-u20-sevens-double-crown-bhubaneswar",
+    "sport": "rugby",
+    "published_at": "2026-11-15T23:39:00+08:00",
+    "source": "The News Hashtag",
+    "source_url": "https://thenewshashtag.com/hong-kong-china-clinch-double-crown-at-asia-rugby-u20-sevens-championship-in-bhubaneswar/",
+    "image_url": null,
+    "title": {
+      "en": "Hong Kong China Sweep Both Titles at Asia Rugby U20 Sevens as Malaysia Finish Runners-Up in Both",
+      "zh_hant": "香港U20七人欖球男女雙冠 馬來西亞兩組皆屈居亞軍",
+      "zh_hans": "香港U20七人榄球男女双冠 马来西亚两组皆屈居亚军"
+    },
+    "summary": {
+      "en": "Hong Kong China won both the men's and women's titles at the Asia Rugby Emirates U20 Sevens Championship 2026 in Bhubaneswar, India. Malaysia finished runners-up in both categories, while Chinese Taipei took third in the men's event and hosts India claimed third in the women's competition. The championship at Kalinga Stadium featured 17 teams from 10 countries.",
+      "zh_hant": "中國香港在印度布巴內斯瓦爾舉行的亞洲欖球U20七人錦標賽包攬男女子組冠軍，成為今屆雙料冠軍。馬來西亞在兩個組別都屈居亞軍，中華台北奪得男子組季軍，東道主印度則奪得女子組季軍。今屆賽事在卡林加體育場舉行，共有來自10個國家及地區的17支球隊參賽。",
+      "zh_hans": "中国香港在印度布巴内斯瓦尔举行的亚洲榄球U20七人锦标赛包揽男女子组冠军，成为今届双料冠军。马来西亚在两个组别都屈居亚军，中华台北夺得男子组季军，东道主印度则夺得女子组季军。今届赛事在卡林加体育场举行，共有来自10个国家及地区的17支球队参赛。"
+    },
+    "tags": {
+      "en": [
+        "U20 Sevens",
+        "Hong Kong China",
+        "Asia Rugby",
+        "Bhubaneswar",
+        "Double Champions"
+      ],
+      "zh_hant": [
+        "U20七人欖球",
+        "中國香港",
+        "亞洲欖球",
+        "布巴內斯瓦爾",
+        "雙冠軍"
+      ],
+      "zh_hans": [
+        "U20七人榄球",
+        "中国香港",
+        "亚洲榄球",
+        "布巴内斯瓦尔",
+        "双冠军"
       ]
     }
   },
