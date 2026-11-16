@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261116-hk-u17-thailand-decisive-tuesday",
+    "sport": "football",
+    "published_at": "2026-11-16T19:00:00+08:00",
+    "source": "AFC",
+    "source_url": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html/news/qualifiers-group-b-maldives-0-9-hong-kong-china-chinese-taipei-1-4-thailand",
+    "image_url": "https://www.the-afc.com/image/2027_AFC_U17_Asian_Cup/Qualifiers/MD2/Group_B/Maldives-Hong-Kong/Match/lead.jpg?w=2400&h=1350&q=80",
+    "title": {
+      "zh_hant": "港隊U17 9:0大勝馬爾代夫後 周二硬撼東道主泰國爭出線 贏波即反超登榜首",
+      "en": "Hong Kong U17 Face Hosts Thailand in Tuesday Decider After 9-0 Rout of Maldives | Win Would Take Them Top of Group B",
+      "zh_hans": "港队U17 9:0大胜马尔代夫后 周二硬撼东道主泰国争出线 赢波即反超登榜首"
+    },
+    "summary": {
+      "zh_hant": "香港U17代表隊在U17亞洲盃外圍賽B組，繼首仗1:1逼和伊拉克後，次仗以9:0大勝馬爾代夫，取得外圍賽首勝。Aiden Cheung 及 Jayden Lee 各入兩球，Zheyang Lu 梅開二度，另有 Jonas Lam、Zachary Lu Li Feng 各建一功，對手擺烏龍。B組兩輪後，泰國兩戰全勝6分排榜首，港隊及伊拉克同得4分，港隊憑較佳得失球差（+9對+1）排第2，中華台北3分，馬爾代夫0分。港隊將於星期二硬撼東道主泰國，贏波即可反超登上榜首；由於只有小組首名可以晉身明年5月烏茲別克決賽周，今仗對出線形勢至關重要。港隊上一次躋身U17亞洲盃決賽周是2014年。",
+      "en": "Hong Kong's under-17 team recorded their first win of the AFC U17 Asian Cup Qualifiers Group B campaign, cruising 9-0 past Maldives in Buriram after opening with a 1-1 draw against Iraq. Aiden Cheung and Jayden Lee scored twice each, Zheyang Lu also bagged a brace, Jonas Lam and Zachary Lu Li Feng added one apiece, and Maldives turned one into their own net. After two rounds, Thailand top Group B with six points from two games, Hong Kong and Iraq both have four, with Hong Kong second on goal difference (+9 against +1); Chinese Taipei have three and Maldives none. Hong Kong face hosts Thailand on Tuesday, when a win would take them top of the group; with only the group winners advancing to the finals in Uzbekistan next May, the match is pivotal to qualification. Hong Kong last reached the U17 Asian Cup finals in 2014.",
+      "zh_hans": "香港U17代表队在U17亚洲杯外围赛B组，继首仗1:1逼和伊拉克后，次仗以9:0大胜马尔代夫，取得外围赛首胜。Aiden Cheung 及 Jayden Lee 各入两球，Zheyang Lu 梅开二度，另有 Jonas Lam、Zachary Lu Li Feng 各建一功，对手摆乌龙。B组两轮后，泰国两战全胜6分排榜首，港队及伊拉克同得4分，港队凭较佳得失球差（+9对+1）排第2，中华台北3分，马尔代夫0分。港队将于星期二硬撼东道主泰国，赢波即可反超登上榜首；由于只有小组首名可以晋身明年5月乌兹别克决赛周，今仗对出线形势至关重要。港队上一次跻身U17亚洲杯决赛周是2014年。"
+    },
+    "tags": {
+      "zh_hant": [
+        "U17亞洲盃",
+        "港隊",
+        "泰國"
+      ],
+      "en": [
+        "U17 Asian Cup",
+        "Hong Kong",
+        "Thailand"
+      ],
+      "zh_hans": [
+        "U17亚洲杯",
+        "港队",
+        "泰国"
+      ]
+    }
+  },
+  {
     "id": "20261116-hk-women-sabre-team-bronze-cairo",
     "sport": "fencing",
     "published_at": "2026-11-16T11:00:00+08:00",
@@ -861,6 +896,76 @@
         "年终赛",
         "施维列夫",
         "祖达"
+      ]
+    }
+  },
+  {
+    "id": "20261116-india-nz-odi-series-3-1",
+    "sport": "others",
+    "published_at": "2026-11-15T18:35:00+08:00",
+    "source": "Farm Online",
+    "source_url": "https://www.farmonline.com.au/story/9391953/india-clinch-odi-series-after-nz-collapse/",
+    "image_url": null,
+    "title": {
+      "zh_hant": "印度22分險勝新西蘭鎖定系列賽3:1 終結主隊11場主場連勝紀錄",
+      "en": "India Edge New Zealand by 22 Runs to Seal ODI Series 3-1 | Arshdeep's 3-30 Ends Hosts' 11-Series Home Streak",
+      "zh_hans": "印度22分险胜新西兰锁定系列赛3:1 终结主队11场主场连胜纪录"
+    },
+    "summary": {
+      "zh_hant": "印度在陶朗加灣畔球場第五場一日國際賽，以22分險勝新西蘭，鎖定五場系列賽3:1。印度先擊球僅得209分，Axar Patel 及 Ishan Kishan 各得46分；新西蘭一度以1人出局得64分佔盡優勢，其後連失5個 wicket 僅得55分，最終187分全部出局。Arshdeep Singh 以3個 wicket 失30分領軍反撲，兼在尾段以4球擊出14分，包括兩支六分打，膺全場最佳球員；Mohammed Siraj 及 Axar Patel 各取2個 wicket。這是印度自2019年以來首次在新西蘭贏得一日賽系列賽，亦終結主隊連續11個主場系列賽不敗紀錄。兩隊將於11月19日起展開兩場測試賽。",
+      "en": "India beat New Zealand by 22 runs in the fifth one-day international at Bay Oval in Tauranga to seal the five-match series 3-1. Batting first, India were bowled out for 209, with Axar Patel and Ishan Kishan scoring 46 each; New Zealand cruised to 64 for one before losing five wickets for 55 runs and crashing out for 187. Arshdeep Singh led the fightback with three wickets for 30 runs and struck 14 off four balls with two sixes late in India's innings, earning Player of the Match; Mohammed Siraj and Axar Patel took two wickets apiece. It is India's first ODI series win in New Zealand since 2019 and ends the hosts' run of 11 consecutive home bilateral series wins. The sides meet again in a two-Test series starting November 19.",
+      "zh_hans": "印度在陶朗加湾畔球场第五场一日国际赛，以22分险胜新西兰，锁定五场系列赛3:1。印度先击球仅得209分，Axar Patel 及 Ishan Kishan 各得46分；新西兰一度以1人出局得64分占尽优势，其后连失5个 wicket 仅得55分，最终187分全部出局。Arshdeep Singh 以3个 wicket 失30分领军反扑，兼在尾段以4球击出14分，包括两支六分打，膺全场最佳球员；Mohammed Siraj 及 Axar Patel 各取2个 wicket。这是印度自2019年以来首次在新西兰赢得一日赛系列赛，亦终结主队连续11个主场系列赛不败纪录。两队将于11月19日起展开两场测试赛。"
+    },
+    "tags": {
+      "zh_hant": [
+        "板球",
+        "印度",
+        "新西蘭"
+      ],
+      "en": [
+        "Cricket",
+        "India",
+        "New Zealand"
+      ],
+      "zh_hans": [
+        "板球",
+        "印度",
+        "新西兰"
+      ]
+    }
+  },
+  {
+    "id": "20261116-lakshya-sen-japan-masters-champion",
+    "sport": "others",
+    "published_at": "2026-11-15T14:02:00+08:00",
+    "source": "Revsportz",
+    "source_url": "https://revsportz.in/japan-masters-2026-lakshya-sen-credits-self-belief-for-back-to-back-titles-and-sets-sights-on-hong-kong-open/",
+    "image_url": null,
+    "title": {
+      "zh_hant": "印度一哥反勝渡邊航貴封王 連贏兩站衝擊年終賽",
+      "en": "Lakshya Sen Beats Watanabe to Win Japan Masters | First Indian Champion, Second Straight Title Boosts Finals Bid",
+      "zh_hans": "印度一哥反胜渡边航贵封王 连赢两站冲击年终赛"
+    },
+    "summary": {
+      "zh_hant": "印度羽毛球一哥 Lakshya Sen 在日本熊本大師賽男單決賽，先失一局13:21下連贏兩局21:18、21:14，反勝東道主渡邊航貴封王，歷時64分鐘。這是 Sen 連續第二站奪冠，繼德國海洛公開賽後再下一城，亦是首位贏得日本大師賽的印度球手。世界排名第13位、列8號種子的 Sen，憑今站9,200分將升上年終賽積分榜第6位，排名更新後將以74,180分排第6。香港公開賽將於11月17至22日在九龍舉行，是年終賽最後一站資格賽。",
+      "en": "India's Lakshya Sen came from a game down to beat home favourite Koki Watanabe 13-21, 21-18, 21-14 in 64 minutes to win the Kumamoto Masters Japan men's singles title on Sunday. It is Sen's second consecutive title after the Hylo Open in Germany, and he is the first Indian to win the Japan Masters. The world No. 13 and eighth seed earns 9,200 points, which will lift him to sixth in the Race to the BWF World Tour Finals with 74,180 points when the standings are updated on Tuesday. The Hong Kong Open, from November 17 to 22 in Kowloon, is the last qualifying event for the Finals.",
+      "zh_hans": "印度羽毛球一哥 Lakshya Sen 在日本熊本大师赛男单决赛，先失一局13:21下连赢两局21:18、21:14，反胜东道主渡边航贵封王，历时64分钟。这是 Sen 连续第二站夺冠，继德国海洛公开赛后再下一城，亦是首位赢得日本大师赛的印度球手。世界排名第13位、列8号种子的 Sen，凭今站9,200分将升上年终赛积分榜第6位，排名更新后将以74,180分排第6。香港公开赛将于11月17至22日在九龙举行，是年终赛最后一站资格赛。"
+    },
+    "tags": {
+      "zh_hant": [
+        "羽毛球",
+        "Lakshya Sen",
+        "日本大師賽"
+      ],
+      "en": [
+        "Badminton",
+        "Lakshya Sen",
+        "Japan Masters"
+      ],
+      "zh_hans": [
+        "羽毛球",
+        "Lakshya Sen",
+        "日本大师赛"
       ]
     }
   },
