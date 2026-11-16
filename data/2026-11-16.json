@@ -1,5 +1,49 @@
 [
   {
+    "id": "20261116-hk-women-sabre-team-bronze-cairo",
+    "sport": "fencing",
+    "published_at": "2026-11-16T11:00:00+08:00",
+    "source": "體路",
+    "source_url": "https://www.sportsroad.hk/archives/663722/劍擊世界盃｜女佩港隊銅牌戰挫美國-隊史首踏頒獎/",
+    "image_url": "assets/design/20261116-hk-women-sabre-team-bronze-cairo-cover.jpg",
+    "title": {
+      "en": "Hong Kong Women's Sabre Team Wins World Cup Bronze in Cairo | 45-39 Win Over USA Seals Historic First Podium",
+      "zh_hant": "女佩港隊開羅世界盃勇奪銅牌 ｜ 45:39挫美國 隊史首踏頒獎台",
+      "zh_hans": "女佩港队开罗世界杯勇夺铜牌 ｜ 45:39挫美国 队史首踏颁奖台"
+    },
+    "summary": {
+      "en": "Hong Kong's women's sabre team — Chu Wing Kiu, Sit Summer Fay, Lau Yee Ching and Tsang Yuet Ching — beat the United States 45-39 in the bronze-medal match at the Sabre World Cup in Cairo on Sunday (15 Nov), winning the team's first-ever World Cup medal and becoming only the second Hong Kong team, after the men's foil squad, to reach a World Cup team podium.",
+      "zh_hant": "由朱詠翹、薛雅齊、劉綺程及曾悅澄組成的香港女子佩劍隊，周日（15日）在埃及開羅舉行的佩劍世界盃團體賽，銅牌戰以45:39勇挫美國，贏得隊史首面世界盃銅牌，成為繼男子花劍隊後，另一支在世界盃團體賽踏上頒獎台的港隊。",
+      "zh_hans": "由朱咏翘、薛雅齐、刘绮程及曾悦澄组成的香港女子佩剑队，周日（15日）在埃及开罗举行的佩剑世界杯团体赛，铜牌战以45:39勇挫美国，赢得队史首面世界杯铜牌，成为继男子花剑队后，另一支在世界杯团体赛踏上颁奖台的港队。"
+    },
+    "tags": {
+      "en": [
+        "fencing",
+        "Hong Kong",
+        "World Cup",
+        "Cairo",
+        "women's sabre",
+        "bronze medal"
+      ],
+      "zh_hant": [
+        "劍擊",
+        "香港",
+        "世界盃",
+        "開羅",
+        "女子佩劍",
+        "銅牌"
+      ],
+      "zh_hans": [
+        "剑击",
+        "香港",
+        "世界杯",
+        "开罗",
+        "女子佩剑",
+        "铜牌"
+      ]
+    }
+  },
+  {
     "id": "20261116-usa-6-0-haiti-nations-league",
     "sport": "football",
     "published_at": "2026-11-15T08:34:00+08:00",
