@@ -84,6 +84,76 @@
     }
   },
   {
+    "id": "20261116-nba-sunday-thunder-knicks-hawks-roundup",
+    "sport": "basketball",
+    "published_at": "2026-11-16T13:09:00+08:00",
+    "source": "The Herald Review",
+    "source_url": "https://www.theheraldreview.com/sports/article/lebron-james-steps-into-3rd-on-nba-s-career-22532710.php",
+    "image_url": null,
+    "title": {
+      "zh_hant": "NBA｜雷霆尼克斯鷹隊齊報捷 亞歷山大37分止三連敗 公鹿十連敗52年最差開局",
+      "en": "NBA: Thunder, Knicks and Hawks All Win | Gilgeous-Alexander's 37 Ends Losing Streak as Bucks Suffer Worst Start in 52 Years",
+      "zh_hans": "NBA｜雷霆尼克斯鹰队齐报捷 亚历山大37分止三连败 公鹿十连败52年最差开局"
+    },
+    "summary": {
+      "zh_hant": "NBA周日賽事，奧克拉荷馬雷霆以125:103擊敗薩克拉門托帝王，謝伊基爾吉斯阿歷山大三節攻入37分，助球隊終止三連敗。紐約尼克斯加時以112:108險勝多倫多速龍，賓遜與唐斯各得28分，賓遜在加時尚餘33秒射入致勝三分。阿特蘭大鷹隊則在第二節落後22分下反勝密爾沃基公鹿113:106，公鹿吞下十連敗，創下52年來最差開局。侯斯頓火箭亦以147:119大勝華盛頓巫師。",
+      "en": "In Sunday's NBA action, the Oklahoma City Thunder beat the Sacramento Kings 125-103, with Shai Gilgeous-Alexander scoring 37 points in three quarters to end a three-game losing streak. The New York Knicks edged the Toronto Raptors 112-108 in overtime, with Jalen Brunson and Karl-Anthony Towns scoring 28 points each and Brunson hitting the tiebreaking three-pointer with 33 seconds left in overtime. The Atlanta Hawks rallied from a 22-point second-quarter deficit to beat the Milwaukee Bucks 113-106, handing the Bucks a tenth straight loss and their worst start in 52 years. The Houston Rockets also routed the Washington Wizards 147-119.",
+      "zh_hans": "NBA周日赛事，奥克拉荷马雷霆以125:103击败萨克拉门托帝王，谢伊基尔吉斯阿历山大三节攻入37分，助球队终止三连败。纽约尼克斯加时以112:108险胜多伦多速龙，宾逊与唐斯各得28分，宾逊在加时尚余33秒射入致胜三分。阿特兰大鹰队则在第二节落后22分下反胜密尔沃基公鹿113:106，公鹿吞下十连败，创下52年来最差开局。侯斯顿火箭亦以147:119大胜华盛顿巫师。"
+    },
+    "tags": {
+      "zh_hant": [
+        "NBA",
+        "雷霆",
+        "尼克斯"
+      ],
+      "en": [
+        "NBA",
+        "Thunder",
+        "Knicks"
+      ],
+      "zh_hans": [
+        "NBA",
+        "雷霆",
+        "尼克斯"
+      ]
+    }
+  },
+  {
+    "id": "20261116-bengals-38-18-steelers-burrow-409",
+    "sport": "football",
+    "published_at": "2026-11-16T12:24:00+08:00",
+    "source": "theScore",
+    "source_url": "https://www.thescore.com/nfl/news/3656612/bengals-ambush-steelers-coast-to-top-of-afc-north",
+    "image_url": null,
+    "title": {
+      "zh_hant": "NFL｜孟加拉虎38:18大炒鋼人獨佔美聯北區榜首 布魯409碼4達陣追平名宿紀錄",
+      "en": "NFL: Bengals Rout Steelers 38-18 to Take Sole AFC North Lead | Burrow's 409 Yards and 4 TDs Tie Manning's Record",
+      "zh_hans": "NFL｜孟加拉虎38:18大炒钢人独占美联北区榜首 布鲁409码4达阵追平名宿纪录"
+    },
+    "summary": {
+      "zh_hant": "辛辛那提孟加拉虎在周日晚場美式足球以38:18大勝匹茲堡鋼人，獨佔美聯北區榜首。四分衛祖布魯35傳44中，攻入409碼及4次達陣，半場已傳出302碼，追平名宿培頓文寧連續五場至少4次達陣的紀錄。接球手查斯接球11次攻入231碼，創個人生涯新高。鋼人四分衛羅渣士直至第二節4分31秒才完成首次傳球，全場僅傳出129碼。38:18亦是NFL史上首次出現的比數。",
+      "en": "The Cincinnati Bengals routed the Pittsburgh Steelers 38-18 on Sunday Night Football to move into sole possession of first place in the AFC North. Quarterback Joe Burrow completed 35 of 44 passes for 409 yards and four touchdowns, throwing for 302 yards in the first half alone to tie Peyton Manning's record of five consecutive games with at least four total touchdowns. Receiver Ja'Marr Chase caught 11 passes for 231 yards, a career high. Steelers quarterback Aaron Rodgers did not complete his first pass until 4:31 of the second quarter and finished with just 129 yards. The 38-18 final was the first such score in NFL history.",
+      "zh_hans": "辛辛那提孟加拉虎在周日晚场美式足球以38:18大胜匹兹堡钢人，独占美联北区榜首。四分卫祖布鲁35传44中，攻入409码及4次达阵，半场已传出302码，追平名宿培顿文宁连续五场至少4次达阵的纪录。接球手查斯接球11次攻入231码，创个人生涯新高。钢人四分卫罗渣士直至第二节4分31秒才完成首次传球，全场仅传出129码。38:18亦是NFL史上首次出现的比数。"
+    },
+    "tags": {
+      "zh_hant": [
+        "NFL",
+        "孟加拉虎",
+        "祖布魯"
+      ],
+      "en": [
+        "NFL",
+        "Bengals",
+        "Joe Burrow"
+      ],
+      "zh_hans": [
+        "NFL",
+        "孟加拉虎",
+        "祖布鲁"
+      ]
+    }
+  },
+  {
     "id": "20261116-celtics-131-94-mavericks-tatum-32",
     "sport": "basketball",
     "published_at": "2026-11-16T09:37:00+08:00",
@@ -340,6 +410,41 @@
         "方博",
         "WTT",
         "伊斯坦布尔"
+      ]
+    }
+  },
+  {
+    "id": "20261116-shelton-first-atp-finals-win-fils",
+    "sport": "tennis",
+    "published_at": "2026-11-16T07:14:00+08:00",
+    "source": "Ubitennis",
+    "source_url": "https://www.ubitennis.net/2026/11/ben-shelton-sees-off-fills-to-clinch-first-atp-finals-win-of-career/",
+    "image_url": null,
+    "title": {
+      "zh_hant": "ATP年終賽｜舒爾頓三盤挫菲斯取首勝 去年三戰全敗雪恥 周二硬撼薛斯華利夫",
+      "en": "ATP Finals: Shelton Beats Fils in Three Sets for First Win | Avenges Winless Debut, Faces Zverev Next",
+      "zh_hans": "ATP年终赛｜舒尔顿三盘挫菲斯取首胜 去年三战全败雪耻 周二硬撼兹维列夫"
+    },
+    "summary": {
+      "zh_hant": "美國球手本舒爾頓在都靈ATP年終賽首場分組賽，以6:2、3:6、6:3擊敗法國球手阿瑟菲斯，取得個人在年終賽的首場勝仗。舒爾頓去年首次參賽三戰全敗，今次在決勝盤初段連贏三局奠定勝局，全場耗時約兩小時。菲斯是十年來首位打入年終賽的法國球手。舒爾頓將於周二迎戰世界第一薛斯華利夫。",
+      "en": "American Ben Shelton beat France's Arthur Fils 6-2, 3-6, 6-3 in his opening group match at the ATP Finals in Turin, earning his first win at the season-ending event. Shelton went winless in three matches on his debut last year, but this time won the first three games of the deciding set to seal victory in about two hours. Fils is the first Frenchman to qualify for the Finals in a decade. Shelton will face world No. 1 Alexander Zverev on Tuesday.",
+      "zh_hans": "美国球手本舒尔顿在都灵ATP年终赛首场分组赛，以6:2、3:6、6:3击败法国球手阿瑟菲斯，取得个人在年终赛的首场胜仗。舒尔顿去年首次参赛三战全败，今次在决胜盘初段连赢三局奠定胜局，全场耗时约两小时。菲斯是十年来首位打入年终赛的法国球手。舒尔顿将于周二迎战世界第一薛斯华利夫。"
+    },
+    "tags": {
+      "zh_hant": [
+        "ATP年終賽",
+        "舒爾頓",
+        "菲斯"
+      ],
+      "en": [
+        "ATP Finals",
+        "Ben Shelton",
+        "Arthur Fils"
+      ],
+      "zh_hans": [
+        "ATP年终赛",
+        "舒尔顿",
+        "菲斯"
       ]
     }
   },
