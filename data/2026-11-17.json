@@ -1,5 +1,40 @@
 [
  {
+  "id": "20261117-hk-u17-lose-thailand-1-2",
+  "sport": "football",
+  "published_at": "2026-11-17T22:00:00+08:00",
+  "image_url": "https://images.hksports.hk/design/202611/20261117-hk-u17-lose-thailand-1-2.jpg",
+  "source": "AFC",
+  "source_url": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html/news/qualifiers-group-b-iraq-5-0-maldives-hong-kong-china-1-2-thailand",
+  "title": {
+   "en": "Hong Kong U17 fall 2-1 to Thailand in Asian Cup qualifiers as finals hopes fade",
+   "zh_hant": "港隊U17亞洲盃外圍賽1:2不敵泰國 三戰得4分 晉級決賽周希望渺茫",
+   "zh_hans": "港队U17亚洲杯外围赛1:2不敌泰国 三战得4分 晋级决赛周希望渺茫"
+  },
+  "summary": {
+   "en": "Hong Kong, China's Under-17s lost 2-1 to hosts Thailand in their AFC U17 Asian Cup Qualifiers Group B match in Buriram. Thailand took the lead through Marlon Mueller's close-range finish in the 27th minute and doubled it when substitute Siriwat Hwaaied curled home in the 83rd minute; Hong Kong pulled one back a minute later through Yu Ching Kok but could not find an equaliser. Thailand top the group with nine points from three wins, two ahead of Iraq, while Hong Kong sit third on four points with only one matchday left and their hopes of reaching the finals fading.",
+   "zh_hant": "香港U17足球代表隊在泰國武里南舉行的亞洲盃外圍賽B組賽事，以1:2不敵東道主泰國。泰國憑Marlon Mueller在27分鐘近門建功先開紀錄，83分鐘再由後備入替的Siriwat Hwaaied擴大比數；港隊一分鐘後由Yu Ching Kok追回一球，但未能扳平。泰國三戰全勝得9分領先，伊拉克7分排第二；港隊三戰得4分，晉級決賽周希望渺茫。",
+   "zh_hans": "香港U17足球代表队在泰国武里南举行的亚洲杯外围赛B组赛事，以1:2不敌东道主泰国。泰国凭Marlon Mueller在27分钟近门建功先开纪录，83分钟再由后备入替的Siriwat Hwaaied扩大比分；港队一分钟后由Yu Ching Kok追回一球，但未能扳平。泰国三战全胜得9分领先，伊拉克7分排第二；港队三战得4分，晋级决赛周希望渺茫。"
+  },
+  "tags": {
+   "en": [
+    "AFC U17 Asian Cup",
+    "Hong Kong U17",
+    "Thailand"
+   ],
+   "zh_hant": [
+    "U17亞洲盃",
+    "香港U17",
+    "泰國"
+   ],
+   "zh_hans": [
+    "U17亚洲杯",
+    "香港U17",
+    "泰国"
+   ]
+  }
+ },
+ {
   "id": "20261117-hk-bowling-doubles-gold-doha",
   "sport": "others",
   "published_at": "2026-11-17T10:07:45+08:00",
