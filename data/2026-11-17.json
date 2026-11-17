@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261117-magic-beat-celtics-115-105",
+    "sport": "basketball",
+    "published_at": "2026-11-17T10:30:00+08:00",
+    "source": "Sports Illustrated",
+    "source_url": "https://www.si.com/nba/magic/onsi/4-winners-1-loser-in-magic-upset-victory-vs-celtics",
+    "image_url": null,
+    "title": {
+      "en": "Magic Storm Back with 40-Point Fourth to Stun Celtics 115-105 | Six-Game Win Streak Snapped",
+      "zh_hant": "魔術末節40:28逆轉塞爾特人 115:105爆冷取勝 終止六連勝兼八連敗",
+      "zh_hans": "魔术末节40:28逆转塞尔特人 115:105爆冷取胜 终止六连胜兼八连败"
+    },
+    "summary": {
+      "en": "The Orlando Magic fought back with a 40-point fourth quarter to beat the Boston Celtics 115-105 at TD Garden and end the hosts' six-game winning streak. Franz Wagner led Orlando with 21 points, eight rebounds and nine assists, while Desmond Bane hit key baskets down the stretch after Boston had led 77-75 at the end of the third quarter. It was the Magic's first win in Boston since 2022, snapping an eight-game losing streak there, and it came with star Paolo Banchero still sidelined by an ankle injury. Boston fell to 11-3, while Orlando improved to 6-7.",
+      "zh_hant": "奧蘭多魔術在末節轟入40分，作客115:105反勝波士頓塞爾特人，終止對手六連勝。法蘭斯華格拿攻入21分、8個籃板、9次助攻，班尼在末段連續命中關鍵投籃；塞爾特人在第三節完結時曾以77:75領先。魔術是自2022年以來首次在波士頓贏波，終止作客八連敗；球隊在主將班捷羅因足踝受傷缺陣下取勝。塞爾特人戰績跌至11勝3負，魔術則提升至6勝7負。",
+      "zh_hans": "奥兰多魔术在末节轰入40分，作客115:105反胜波士顿塞尔特人，终止对手六连胜。法兰斯华格拿攻入21分、8个篮板、9次助攻，班尼在末段连续命中关键投篮；塞尔特人在第三节完结时曾以77:75领先。魔术是自2022年以来首次在波士顿赢波，终止作客八连败；球队在主将班捷罗因足踝受伤缺阵下取胜。塞尔特人战绩跌至11胜3负，魔术则提升至6胜7负。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "Orlando Magic",
+        "Boston Celtics"
+      ],
+      "zh_hant": [
+        "NBA",
+        "魔術",
+        "塞爾特人"
+      ],
+      "zh_hans": [
+        "NBA",
+        "魔术",
+        "塞尔特人"
+      ]
+    }
+  },
+  {
     "id": "20261117-alcaraz-tiafoe-atp-finals",
     "sport": "tennis",
     "published_at": "2026-11-17T07:21:00+08:00",
