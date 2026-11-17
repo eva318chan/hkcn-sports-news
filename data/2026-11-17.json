@@ -1,5 +1,42 @@
 [
  {
+  "id": "20261117-fils-beats-jodar-atp-finals",
+  "sport": "tennis",
+  "published_at": "2026-11-17T23:40:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/atp/news/3657938/fils-beats-jodar-for-1-st-win-at-atp-finals",
+  "image_url": "https://images.hksports.hk/design/202611/20261117-fils-beats-jodar-atp-finals-v2.jpg",
+  "title": {
+   "en": "Fils rallies past Jodar for first ATP Finals win — first Frenchman to do so in 15 years — and sets up Zverev decider",
+   "zh_hant": "菲斯逆轉約達首奪年終賽勝利 法國15年來第一人 下仗硬撼施華利夫爭出線",
+   "zh_hans": "菲斯逆转约达首夺年终赛胜利 法国15年来第一人 下仗硬撼施华利夫争出线"
+  },
+  "summary": {
+   "en": "Arthur Fils claimed his first win at the ATP Finals, rallying past fellow debutant Rafael Jodar 4-6, 6-2, 6-2 in Turin in one hour and 52 minutes. Fils is the first Frenchman to win a match at the season-ending event since Jo-Wilfried Tsonga in 2011, and the first man born in 2004 or later to win there. Jodar took the first set before fading physically and needing several medical timeouts, dropping both remaining sets. Fils, who lost his opener to Ben Shelton, will face world No. 1 Alexander Zverev on Thursday with a semi-final place on the line; Jodar, winless in two, is out of contention.",
+   "zh_hant": "法國球手菲斯在都靈年終總決賽小組賽反勝西班牙新星約達，4:6、6:2、6:2取得個人在年終賽的首場勝利，耗時1小時52分鐘。菲斯成為自2011年松加以來，首位在年終賽贏波的法國球手，亦是首位在該賽事取勝的2004年或之後出生的球手。約達先贏一盤後體力下滑，多次接受治療，最終連輸兩盤，小組兩戰全敗。菲斯早前首仗不敵舒爾頓，星期四將與世界第一施華利夫交手，爭奪出線資格。",
+   "zh_hans": "法国球手菲斯在都灵年终总决赛小组赛反胜西班牙新星约达，4:6、6:2、6:2取得个人在年终赛的首场胜利，耗时1小时52分钟。菲斯成为自2011年松加以来的首位在年终赛赢球的法国球手，亦是首位在该赛事取胜的2004年或之后出生的球手。约达先赢一盘后体力下滑，多次接受治疗，最终连输两盘，小组两战全败。菲斯早前首仗不敌舒尔顿，星期四将与世界第一施华利夫交手，争夺出线资格。"
+  },
+  "tags": {
+   "en": [
+    "ATP Finals",
+    "Arthur Fils",
+    "Rafael Jodar"
+   ],
+   "zh_hant": [
+    "ATP年終賽",
+    "菲斯",
+    "約達"
+   ],
+   "zh_hans": [
+    "ATP年终赛",
+    "菲斯",
+    "约达"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-fils-beats-jodar-atp-finals-v2.jpg",
+  "card_time": "2026-11-17 23:40"
+ },
+ {
   "id": "20261117-hk-u17-lose-thailand-1-2",
   "sport": "football",
   "published_at": "2026-11-17T22:00:00+08:00",
@@ -66,41 +103,6 @@
     "保龄球",
     "麦卓贤",
     "黄钧源"
-   ]
-  }
- },
- {
-  "id": "20261117-fils-beats-jodar-atp-finals",
-  "sport": "tennis",
-  "published_at": "2026-11-17T23:40:00+08:00",
-  "source": "theScore",
-  "source_url": "https://www.thescore.com/atp/news/3657938/fils-beats-jodar-for-1-st-win-at-atp-finals",
-  "image_url": null,
-  "title": {
-   "en": "Fils rallies past Jodar for first ATP Finals win — first Frenchman to do so in 15 years — and sets up Zverev decider",
-   "zh_hant": "菲斯逆轉約達首奪年終賽勝利 法國15年來第一人 下仗硬撼施華利夫爭出線",
-   "zh_hans": "菲斯逆转约达首夺年终赛胜利 法国15年来第一人 下仗硬撼施华利夫争出线"
-  },
-  "summary": {
-   "en": "Arthur Fils claimed his first win at the ATP Finals, rallying past fellow debutant Rafael Jodar 4-6, 6-2, 6-2 in Turin in one hour and 52 minutes. Fils is the first Frenchman to win a match at the season-ending event since Jo-Wilfried Tsonga in 2011, and the first man born in 2004 or later to win there. Jodar took the first set before fading physically and needing several medical timeouts, dropping both remaining sets. Fils, who lost his opener to Ben Shelton, will face world No. 1 Alexander Zverev on Thursday with a semi-final place on the line; Jodar, winless in two, is out of contention.",
-   "zh_hant": "法國球手菲斯在都靈年終總決賽小組賽反勝西班牙新星約達，4:6、6:2、6:2取得個人在年終賽的首場勝利，耗時1小時52分鐘。菲斯成為自2011年松加以來，首位在年終賽贏波的法國球手，亦是首位在該賽事取勝的2004年或之後出生的球手。約達先贏一盤後體力下滑，多次接受治療，最終連輸兩盤，小組兩戰全敗。菲斯早前首仗不敵舒爾頓，星期四將與世界第一施華利夫交手，爭奪出線資格。",
-   "zh_hans": "法国球手菲斯在都灵年终总决赛小组赛反胜西班牙新星约达，4:6、6:2、6:2取得个人在年终赛的首场胜利，耗时1小时52分钟。菲斯成为自2011年松加以来的首位在年终赛赢球的法国球手，亦是首位在该赛事取胜的2004年或之后出生的球手。约达先赢一盘后体力下滑，多次接受治疗，最终连输两盘，小组两战全败。菲斯早前首仗不敌舒尔顿，星期四将与世界第一施华利夫交手，争夺出线资格。"
-  },
-  "tags": {
-   "en": [
-    "ATP Finals",
-    "Arthur Fils",
-    "Rafael Jodar"
-   ],
-   "zh_hant": [
-    "ATP年終賽",
-    "菲斯",
-    "約達"
-   ],
-   "zh_hans": [
-    "ATP年终赛",
-    "菲斯",
-    "约达"
    ]
   }
  },
