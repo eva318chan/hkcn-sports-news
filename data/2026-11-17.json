@@ -1,457 +1,492 @@
 [
-  {
-    "id": "20261117-suns-beat-nuggets-117-105-booker-20",
-    "sport": "basketball",
-    "published_at": "2026-11-17T13:01:00+08:00",
-    "source": "theScore",
-    "source_url": "https://www.thescore.com/nba/news/3657707/devin-booker-scores-20-points-suns-beat-nuggets-117-105-for-their-1-st-road-win-of-the-season",
-    "image_url": null,
-    "title": {
-      "en": "Suns Beat Nuggets 117-105 for First Road Win of Season | Seven Score in Double Figures as Jokic's 28 Points Go in Vain",
-      "zh_hant": "太陽117:105擊敗金塊奪今季作客首勝 七人得分上雙 約基治28分15板空砍",
-      "zh_hans": "太阳117:105击败金块夺今季作客首胜 七人得分上双 约基治28分15板空砍"
-    },
-    "summary": {
-      "en": "The Phoenix Suns beat the Denver Nuggets 117-105 on the road for their first away win of the season. Playing on the second night of a back-to-back, Phoenix won with a balanced attack as seven players scored in double figures, led by Devin Booker's team-high 20 points and eight assists, with Jalen Green and Miles Bridges adding 16 each. Denver's Nikola Jokic posted 28 points, 15 rebounds and seven assists, while Jamal Murray also scored 28, including 18 in the fourth quarter, but it was not enough. Phoenix hit 16 of 36 three-pointers, outrebounded Denver 51-35, turned 18 Nuggets turnovers into 31 points and outscored Denver's bench 42-19. The Suns improved to 6-7, while the Nuggets fell to 7-5, losing three of their last four home games.",
-      "zh_hant": "鳳凰城太陽作客117:105擊敗丹佛金塊，取得今季首場作客勝利。太陽在背靠背第二晚出戰，憑藉平均的進攻火力取勝，全隊七人得分上雙，布卡攻入全隊最高的20分，另加8次助攻；格連及布里奇斯各得16分，布祿斯15分。金塊的約基治攻入28分、15個籃板及7次助攻，梅利同樣攻入28分，其中18分來自第四節，但仍未能阻止球隊落敗。太陽三分球36投16中，籃板以51:35佔優，並利用金塊18次失誤攻入31分；後備球員得分以42:19大幅領先。太陽戰績改寫為6勝7負，金塊則為7勝5負，近四場主場輸了三場。",
-      "zh_hans": "凤凰城太阳作客117:105击败丹佛金块，取得今季首场作客胜利。太阳在背靠背第二晚出战，凭借平均的进攻火力取胜，全队七人得分上双，布卡攻入全队最高的20分，另加8次助攻；格连及布里奇斯各得16分，布禄斯15分。金块的约基治攻入28分、15个篮板及7次助攻，梅利同样攻入28分，其中18分来自第四节，但仍未能阻止球队落败。太阳三分球36投16中，篮板以51:35占优，并利用金块18次失误攻入31分；后备球员得分以42:19大幅领先。太阳战绩改写为6胜7负，金块则为7胜5负，近四场主场输了三场。"
-    },
-    "tags": {
-      "en": [
-        "Suns",
-        "Nuggets",
-        "NBA"
-      ],
-      "zh_hant": [
-        "太陽",
-        "金塊",
-        "NBA"
-      ],
-      "zh_hans": [
-        "太阳",
-        "金块",
-        "NBA"
-      ]
-    }
+ {
+  "id": "20261117-hk-bowling-doubles-gold-doha",
+  "sport": "others",
+  "published_at": "2026-11-17T10:07:45+08:00",
+  "source": "New Straits Times",
+  "source_url": "https://www.nst.com.my/sports/others/2026/11/1579449/rafiqs-perfect-game-not-enough-doubles-medal-doha",
+  "image_url": "https://images.hksports.hk/design/202611/20261117-hk-bowling-doubles-gold-doha.jpg",
+  "title": {
+   "en": "Hong Kong strike doubles gold in Doha as Mak and Wong top 2,839 pins to beat UAE",
+   "zh_hant": "港隊保齡球男雙多哈奪金 麥卓賢黃鈞源2839瓶力壓阿聯酋 麥卓賢單人賽再添銅牌",
+   "zh_hans": "港队保龄球男双多哈夺金 麦卓贤黄钧源2839瓶力压阿联酋 麦卓贤单人赛再添铜牌"
   },
-  {
-    "id": "20261117-chargers-beat-ravens-23-20-first-win",
-    "sport": "others",
-    "published_at": "2026-11-17T12:33:00+08:00",
-    "source": "NBC Sports",
-    "source_url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-chargers-run-past-ravens-23-20-for-first-win-of-2026",
-    "image_url": null,
-    "title": {
-      "en": "Chargers Edge Ravens 23-20 for First Win of the Season | Baltimore Loses Fifth Straight as Flowers Fumbles Late",
-      "zh_hant": "閃電隊23:20險勝烏鴉奪今季首勝 終止八連敗 烏鴉五連敗",
-      "zh_hans": "闪电队23:20险胜乌鸦夺今季首胜 终止八连败 乌鸦五连败"
-    },
-    "summary": {
-      "en": "The Los Angeles Chargers held off the Baltimore Ravens 23-20 on Monday Night Football at M&T Bank Stadium to claim their first win of the season and snap an eight-game losing streak. Omarion Hampton ran for 105 yards and a touchdown, while Justin Herbert scored on a 22-yard run and threw for 129 yards with no turnovers, as Los Angeles outrushed Baltimore 160-16. The Ravens had a late chance to tie or take the lead, but Zay Flowers fumbled with just over two minutes left and Elijah Molden recovered to seal the win. Derrick Henry was held to 10 rushing yards, his worst since joining the Ravens, though he scored twice; Jacoby Brissett made his first start for Baltimore since his November 6 trade. The Chargers improved to 1-8, while the Ravens fell to 4-6 with a fifth straight defeat, their first such run since 2021.",
-      "zh_hant": "洛杉磯閃電隊在周一晚美式足球作客23:20險勝巴爾的摩烏鴉，取得今季首勝，終止八連敗。漢普頓衝球105碼及一次達陣，靴拔特衝球22碼達陣，傳球129碼且零失誤；閃電隊地面進攻以160碼對16碼壓倒烏鴉。烏鴉在比賽末段本有機會追平甚至反超，但花斯在最後兩分鐘左右掉球，摩頓接回鎖定勝局。亨利僅衝得10碼，是加盟烏鴉以來最差，但仍攻入兩次達陣；比錫特自11月6日轉會後首次為烏鴉正選上陣。閃電隊戰績提升至1勝8負，烏鴉則跌至4勝6負，吞下五連敗，是自2021年以來首次。",
-      "zh_hans": "洛杉矶闪电队在周一晚美式足球作客23:20险胜巴尔的摩乌鸦，取得今季首胜，终止八连败。汉普顿冲球105码及一次达阵，靴拔特冲球22码达阵，传球129码且零失误；闪电队地面进攻以160码对16码压倒乌鸦。乌鸦在比赛末段本有机会追平甚至反超，但花斯在最后两分钟左右掉球，摩顿接回锁定胜局。亨利仅冲得10码，是加盟乌鸦以来最差，但仍攻入两次达阵；比锡特自11月6日转会后首次为乌鸦正选上阵。闪电队战绩提升至1胜8负，乌鸦则跌至4胜6负，吞下五连败，是自2021年以来首次。"
-    },
-    "tags": {
-      "en": [
-        "NFL",
-        "Chargers",
-        "Ravens"
-      ],
-      "zh_hant": [
-        "NFL",
-        "閃電隊",
-        "烏鴉隊"
-      ],
-      "zh_hans": [
-        "NFL",
-        "闪电队",
-        "乌鸦队"
-      ]
-    }
+  "summary": {
+   "en": "Hong Kong's Michael Mak Cheuk-yin and Tony Wong won the men's doubles gold at the 28th Asian Tenpin Bowling Championships in Doha with 2,839 pins, ahead of the United Arab Emirates pair on 2,795. Malaysia's Rafiq Ismail bowled a perfect 300 in his final game but still finished fifth with partner Izz Naqiuddin on 2,768, 20 pins short of bronze. Mak had earlier taken bronze in the men's singles with 1,381 pins.",
+   "zh_hant": "香港保齡球代表麥卓賢與黃鈞源在多哈舉行的第28屆亞洲保齡球錦標賽男子雙人賽，以2839瓶奪得金牌，阿聯酋組合以2795瓶得銀牌。馬來西亞名將拉菲克在最後一局打出300分滿分，仍與拍檔以2768瓶排第五，與銅牌擦身而過。麥卓賢早前亦在男子單人賽以1381瓶奪得銅牌。",
+   "zh_hans": "香港保龄球代表麦卓贤与黄钧源在多哈举行的第28届亚洲保龄球锦标赛男子双人赛，以2839瓶夺得金牌，阿联酋组合以2795瓶得银牌。马来西亚名将拉菲克在最后一局打出300分满分，仍与拍档以2768瓶排第五，与铜牌擦身而过。麦卓贤早前亦在男子单人赛以1381瓶夺得铜牌。"
   },
-  {
-    "id": "20261117-timberwolves-beat-blazers-106-98-shannon-34",
-    "sport": "basketball",
-    "published_at": "2026-11-17T12:00:00+08:00",
-    "source": "theScore",
-    "source_url": "https://www.thescore.com/nba/news/3657649/terrence-shannon-jr-scores-career-high-34-points-as-timberwolves-beat-trail-blazers-106-98",
-    "image_url": null,
-    "title": {
-      "en": "Timberwolves Edge Trail Blazers 106-98 | Shannon Jr. Comes Off the Bench for Career-High 34 as Edwards Sits Out",
-      "zh_hant": "木狼106:98力克拓荒者 香農後備轟生涯新高34分 缺愛德華茲照贏波",
-      "zh_hans": "木狼106:98力克拓荒者 香农后备轰生涯新高34分 缺爱德华兹照赢波"
-    },
-    "summary": {
-      "en": "The Minnesota Timberwolves beat the Portland Trail Blazers 106-98 at home in the opener of a two-game set. Terrence Shannon Jr. came off the bench to score a career-high 34 points, including 12 in the second quarter, and added six assists, while Rudy Gobert posted 18 points and 15 rebounds. Minnesota improved to 7-3 without star Anthony Edwards, who is recovering from an arthroscopic procedure on his right knee; Shannon's 34 points tied the most by a Timberwolves reserve in the past 10 years. The two teams meet again on Tuesday night in Minneapolis.",
-      "zh_hant": "明尼蘇達木狼主場106:98擊敗波特蘭拓荒者，贏得兩場系列賽首仗。泰倫斯·香農以後備身份攻入生涯新高的34分，其中12分來自第二節，另加6次助攻；魯迪·高拔攻入18分及15個籃板。木狼在明星球員安東尼·愛德華茲因膝部手術缺陣下，戰績改寫為7勝3負；香農34分追平木狼後備球員近十年最高得分紀錄。兩隊明日將在明尼阿波利斯再戰一場。",
-      "zh_hans": "明尼苏达木狼主场106:98击败波特兰拓荒者，赢得两场系列赛首仗。泰伦斯·香农以后备身份攻入生涯新高的34分，其中12分来自第二节，另加6次助攻；鲁迪·高拔攻入18分及15个篮板。木狼在明星球员安东尼·爱德华兹因膝部手术缺阵下，战绩改写为7胜3负；香农34分追平木狼后备球员近十年最高得分纪录。两队明日将在明尼阿波利斯再战一场。"
-    },
-    "tags": {
-      "en": [
-        "Timberwolves",
-        "Trail Blazers",
-        "NBA"
-      ],
-      "zh_hant": [
-        "木狼",
-        "拓荒者",
-        "NBA"
-      ],
-      "zh_hans": [
-        "木狼",
-        "拓荒者",
-        "NBA"
-      ]
-    }
-  },
-  {
-    "id": "20261117-pelicans-beat-warriors-115-94-fears-triple-double",
-    "sport": "basketball",
-    "published_at": "2026-11-17T11:57:00+08:00",
-    "source": "theScore",
-    "source_url": "https://www.thescore.com/nba/event/2462890/recap",
-    "image_url": null,
-    "title": {
-      "en": "Pelicans Rout Warriors 115-94 to End Six-Game Slide | Fears Records First Career Triple-Double as Bey Scores 23",
-      "zh_hant": "塘鵝115:94大炒勇士止六連敗 菲爾斯生涯首三雙 比伊23分 勇士缺居里慘敗",
-      "zh_hans": "塘鹅115:94大炒勇士止六连败 菲尔斯生涯首三双 比伊23分 勇士缺居里惨败"
-    },
-    "summary": {
-      "en": "The New Orleans Pelicans routed the Golden State Warriors 115-94 at home to snap a six-game losing streak. Jeremiah Fears recorded his first career triple-double with 19 points, 10 rebounds and 10 assists, while Saddiq Bey scored a team-high 23 points, including five three-pointers, and Zion Williamson added 16. New Orleans led 35-11 after the first quarter and stretched the lead to as many as 31 points, avenging a 51-point defeat in San Francisco a week earlier. Golden State, playing without Stephen Curry, struggled offensively, and rookie Yaxel Lendeborg's team-high 28 points were not enough. The Pelicans improved to 5-10.",
-      "zh_hant": "新奧爾良塘鵝主場115:94大炒金州勇士，終止六連敗。謝利美亞·菲爾斯取得生涯首次三雙，攻入19分、10個籃板及10次助攻；比伊攻入全隊最高的23分，包括5個三分球，威廉臣加添16分。塘鵝首節已打出35:11的攻勢，領先優勢一度擴大至31分，報卻上星期作客慘敗51分之仇。勇士今仗缺少居里，進攻乏力，陣中新秀攻入全隊最高的28分亦無補於事。塘鵝戰績改寫為5勝10負。",
-      "zh_hans": "新奥尔良塘鹅主场115:94大炒金州勇士，终止六连败。谢利美亚·菲尔斯取得生涯首次三双，攻入19分、10个篮板及10次助攻；比伊攻入全队最高的23分，包括5个三分球，威廉臣加添16分。塘鹅首节已打出35:11的攻势，领先优势一度扩大至31分，报却上星期作客惨败51分之仇。勇士今仗缺少居里，进攻乏力，阵中新秀攻入全队最高的28分亦无补于事。塘鹅战绩改写为5胜10负。"
-    },
-    "tags": {
-      "en": [
-        "Pelicans",
-        "Warriors",
-        "NBA"
-      ],
-      "zh_hant": [
-        "塘鵝",
-        "勇士",
-        "NBA"
-      ],
-      "zh_hans": [
-        "塘鹅",
-        "勇士",
-        "NBA"
-      ]
-    }
-  },
-  {
-    "id": "20261117-76ers-beat-nets-135-123-embiid-37",
-    "sport": "basketball",
-    "published_at": "2026-11-17T11:37:00+08:00",
-    "source": "theScore",
-    "source_url": "https://www.thescore.com/nba/news/3657626/embiid-drops-season-high-37-points-as-76-ers-beat-nets-without-le-bron",
-    "image_url": null,
-    "title": {
-      "en": "76ers Beat Nets 135-123 as Embiid Drops Season-High 37 | Trio Combines for 92 Points in Fourth Straight Win Without LeBron",
-      "zh_hant": "76人135:123擊敗籃網 恩比德今季新高37分 缺勒邦占士照贏四連勝",
-      "zh_hans": "76人135:123击败篮网 恩比德今季新高37分 缺勒邦占士照赢四连胜"
-    },
-    "summary": {
-      "en": "The Philadelphia 76ers beat the Brooklyn Nets 135-123 on the road. Joel Embiid scored a season-high 37 points, with 24 by halftime, while Jaylen Brown added 31 points and a season-best 13 rebounds, and Tyrese Maxey contributed 24 points and nine assists, the trio combining for 92 points. Philadelphia led by as many as 24 points and scored a season-best 78 points in the first half; Brooklyn fought back in the second half, with Julius Randle scoring 33 points and Michael Porter Jr. adding 25. Brown left the game in the fourth quarter after a collision with Randle opened a cut on his head. The 76ers improved to 12-3 and are now 4-0 without LeBron James, who rested on the second night of a back-to-back; the Nets fell to 3-10.",
-      "zh_hant": "費城76人作客135:123擊敗布魯克林籃網。祖爾·恩比德攻入今季新高的37分，半場已得24分；杰倫·布朗攻入31分及13個籃板，創今季籃板新高；泰利斯·麥斯加添24分及9次助攻，三人合共攻入92分。76人上半場一度領先24分，半場攻入今季新高的78分；籃網下半場反撲，朱利葉斯·蘭度攻入33分，米高·波特添上25分。布朗第四節與蘭度碰撞，頭部受傷提早退場。76人戰績改寫為12勝3負，在勒邦占士缺陣下四戰全勝；籃網跌至3勝10負。",
-      "zh_hans": "费城76人作客135:123击败布鲁克林篮网。祖尔·恩比德攻入今季新高的37分，半场已得24分；杰伦·布朗攻入31分及13个篮板，创今季篮板新高；泰利斯·麦斯加添24分及9次助攻，三人合共攻入92分。76人上半场一度领先24分，半场攻入今季新高的78分；篮网下半场反扑，朱利叶斯·兰度攻入33分，米高·波特添上25分。布朗第四节与兰度碰撞，头部受伤提早退场。76人战绩改写为12胜3负，在勒邦占士缺阵下四战全胜；篮网跌至3胜10负。"
-    },
-    "tags": {
-      "en": [
-        "76ers",
-        "Nets",
-        "NBA"
-      ],
-      "zh_hant": [
-        "76人",
-        "籃網",
-        "NBA"
-      ],
-      "zh_hans": [
-        "76人",
-        "篮网",
-        "NBA"
-      ]
-    }
-  },
-  {
-    "id": "20261117-heat-beat-rockets-128-110-giannis-20-13",
-    "sport": "basketball",
-    "published_at": "2026-11-17T11:17:00+08:00",
-    "source": "theScore",
-    "source_url": "https://www.thescore.com/nba/news/3657608/heat-roll-past-rockets-for-8-th-win-in-10-games",
-    "image_url": null,
-    "title": {
-      "en": "Heat Roll Past Rockets 128-110 for Fifth Straight Win | Giannis Posts 20 and 13 as Eight Players Score in Double Figures",
-      "zh_hant": "熱火128:110大勝火箭五連勝 安迪杜宮普20分13板 全隊八人得分上雙",
-      "zh_hans": "热火128:110大胜火箭五连胜 安迪杜宫普20分13板 全队八人得分上双"
-    },
-    "summary": {
-      "en": "The Miami Heat beat the Houston Rockets 128-110 at home for their fifth straight victory. Giannis Antetokounmpo scored 20 points and grabbed 13 rebounds, Andrew Wiggins and Klay Thompson each scored 17, Davion Mitchell had 16 points and 10 assists, and Bobby Portis Jr. added 16; the Heat never trailed and had eight players score in double figures. Miami has now won eight of its last 10 games after starting the season 0-4, improving to 8-6, while Houston fell to 11-4.",
-      "zh_hant": "邁阿密熱火主場128:110擊敗侯斯頓火箭，取得五連勝。安迪杜宮普攻入20分、13個籃板及6次助攻，安德魯·域堅斯及基利·湯臣各得17分，戴維安·米切爾攻入16分及10次助攻，波蒂斯加添16分；熱火全場從未落後，全隊八人得分上雙。熱火開季四連敗後，近十場贏了八場，戰績改寫為8勝6負；火箭跌至11勝4負。",
-      "zh_hans": "迈阿密热火主场128:110击败侯斯顿火箭，取得五连胜。安迪杜宫普攻入20分、13个篮板及6次助攻，安德鲁·域坚斯及基利·汤臣各得17分，戴维安·米切尔攻入16分及10次助攻，波蒂斯加添16分；热火全场从未落后，全队八人得分上双。热火开季四连败后，近十场赢了八场，战绩改写为8胜6负；火箭跌至11胜4负。"
-    },
-    "tags": {
-      "en": [
-        "Heat",
-        "Rockets",
-        "NBA"
-      ],
-      "zh_hant": [
-        "熱火",
-        "火箭",
-        "NBA"
-      ],
-      "zh_hans": [
-        "热火",
-        "火箭",
-        "NBA"
-      ]
-    }
-  },
-  {
-    "id": "20261117-cavaliers-beat-bulls-126-115-mitchell-39",
-    "sport": "basketball",
-    "published_at": "2026-11-17T11:00:00+08:00",
-    "source": "Sports Illustrated",
-    "source_url": "https://www.si.com/nba/cavaliers/onsi/3-game-changing-numbers-from-cavaliers-win-against-chicago-bulls-01m7knaq1t3g",
-    "image_url": null,
-    "title": {
-      "en": "Mitchell Scores 39 as Cavaliers Beat Bulls 126-115 | Cleveland Back Over .500 with Second Straight Win",
-      "zh_hant": "米曹轟39分騎士126:115擊退公牛 主場兩連勝 公牛兩連勝告終",
-      "zh_hans": "米曹轰39分骑士126:115击退公牛 主场两连胜 公牛两连胜告终"
-    },
-    "summary": {
-      "en": "Donovan Mitchell scored a season-high 39 points, including 30 in the second half, to lead the Cleveland Cavaliers to a 126-115 home win over the Chicago Bulls at Rocket Arena. Jarrett Allen added 13 points and 14 rebounds, while Tyrese Proctor scored 17, as the Cavaliers overturned a 31-25 first-quarter deficit with a 32-17 second quarter and led by as many as 17 early in the third. Norman Powell scored 27 points for the Bulls, who had won two in a row. Cleveland improved to 8-7 with a second straight win, while Chicago fell to 3-10.",
-      "zh_hant": "米曹攻入全場最高的39分，包括下半場30分，帶領克利夫蘭騎士主場126:115擊退芝加哥公牛。阿倫貢獻13分、14個籃板，普洛克特攻入17分；騎士在首節落後31:25後，第二節打出32:17反超，第三節初段一度領先17分。公牛方面，鮑威爾攻入27分，球隊兩連勝告終。騎士戰績提升至8勝7負，取得兩連勝；公牛跌至3勝10負。",
-      "zh_hans": "米曹攻入全场最高的39分，包括下半场30分，带领克利夫兰骑士主场126:115击退芝加哥公牛。阿伦贡献13分、14个篮板，普洛克特攻入17分；骑士在首节落后31:25后，第二节打出32:17反超，第三节初段一度领先17分。公牛方面，鲍威尔攻入27分，球队两连胜告终。骑士战绩提升至8胜7负，取得两连胜；公牛跌至3胜10负。"
-    },
-    "tags": {
-      "en": [
-        "NBA",
-        "Cavaliers",
-        "Bulls"
-      ],
-      "zh_hant": [
-        "NBA",
-        "騎士",
-        "公牛"
-      ],
-      "zh_hans": [
-        "NBA",
-        "骑士",
-        "公牛"
-      ]
-    }
-  },
-  {
-    "id": "20261117-grizzlies-beat-wizards-136-120-boozer-29",
-    "sport": "basketball",
-    "published_at": "2026-11-17T10:56:00+08:00",
-    "source": "theScore",
-    "source_url": "https://www.thescore.com/nba/news/3657587",
-    "image_url": null,
-    "title": {
-      "en": "Grizzlies Rally Past Wizards 136-120 | Rookie Boozer's Career-High 29 Caps 42-18 Third-Quarter Surge",
-      "zh_hant": "灰熊136:120反勝巫師 博澤生涯新高29分 第三節42:18一舉逆轉",
-      "zh_hans": "灰熊136:120反胜巫师 博泽生涯新高29分 第三节42:18一举逆转"
-    },
-    "summary": {
-      "en": "The Memphis Grizzlies rallied from 12 points down to beat the Washington Wizards 136-120 on the road. Rookie Cameron Boozer scored a career-high 29 points, including seven three-pointers, and added seven rebounds and seven assists, while Zach Edey posted 23 points and 10 rebounds. Memphis trailed 69-57 late in the first half before outscoring Washington 42-18 in the third quarter to take control. The Grizzlies improved to 7-0 on the road and have won four of their last five. Washington suffered an eighth straight loss, with Anthony Davis scoring a team-high 23 points and top draft pick AJ Dybantsa adding 21.",
-      "zh_hant": "孟菲斯灰熊作客136:120反勝華盛頓巫師。新秀卡梅隆·博澤攻入生涯新高29分，包括7個三分球，另加7個籃板及7次助攻；扎克·埃迪攻入23分及10個籃板。灰熊半場結束前曾落後69:57，第三節打出42:18反超，一舉控制戰局。灰熊作客戰績改寫為7勝0負，近五場贏了四場。巫師遭遇八連敗，安東尼·戴維斯攻入全隊最高的23分，狀元艾·戴班沙加添21分。",
-      "zh_hans": "孟菲斯灰熊作客136:120反胜华盛顿巫师。新秀卡梅隆·博泽攻入生涯新高29分，包括7个三分球，另加7个篮板及7次助攻；扎克·埃迪攻入23分及10个篮板。灰熊半场结束前曾落后69:57，第三节打出42:18反超，一举控制战局。灰熊作客战绩改写为7胜0负，近五场赢了四场。巫师遭遇八连败，安东尼·戴维斯攻入全队最高的23分，状元艾·戴班沙加添21分。"
-    },
-    "tags": {
-      "en": [
-        "Grizzlies",
-        "Wizards",
-        "NBA"
-      ],
-      "zh_hant": [
-        "灰熊",
-        "巫師",
-        "NBA"
-      ],
-      "zh_hans": [
-        "灰熊",
-        "巫师",
-        "NBA"
-      ]
-    }
-  },
-  {
-    "id": "20261117-magic-beat-celtics-115-105",
-    "sport": "basketball",
-    "published_at": "2026-11-17T10:30:00+08:00",
-    "source": "Sports Illustrated",
-    "source_url": "https://www.si.com/nba/magic/onsi/4-winners-1-loser-in-magic-upset-victory-vs-celtics",
-    "image_url": null,
-    "title": {
-      "en": "Magic Storm Back with 40-Point Fourth to Stun Celtics 115-105 | Six-Game Win Streak Snapped",
-      "zh_hant": "魔術末節40:28逆轉塞爾特人 115:105爆冷取勝 終止六連勝兼八連敗",
-      "zh_hans": "魔术末节40:28逆转塞尔特人 115:105爆冷取胜 终止六连胜兼八连败"
-    },
-    "summary": {
-      "en": "The Orlando Magic fought back with a 40-point fourth quarter to beat the Boston Celtics 115-105 at TD Garden and end the hosts' six-game winning streak. Franz Wagner led Orlando with 21 points, eight rebounds and nine assists, while Desmond Bane hit key baskets down the stretch after Boston had led 77-75 at the end of the third quarter. It was the Magic's first win in Boston since 2022, snapping an eight-game losing streak there, and it came with star Paolo Banchero still sidelined by an ankle injury. Boston fell to 11-3, while Orlando improved to 6-7.",
-      "zh_hant": "奧蘭多魔術在末節轟入40分，作客115:105反勝波士頓塞爾特人，終止對手六連勝。法蘭斯華格拿攻入21分、8個籃板、9次助攻，班尼在末段連續命中關鍵投籃；塞爾特人在第三節完結時曾以77:75領先。魔術是自2022年以來首次在波士頓贏波，終止作客八連敗；球隊在主將班捷羅因足踝受傷缺陣下取勝。塞爾特人戰績跌至11勝3負，魔術則提升至6勝7負。",
-      "zh_hans": "奥兰多魔术在末节轰入40分，作客115:105反胜波士顿塞尔特人，终止对手六连胜。法兰斯华格拿攻入21分、8个篮板、9次助攻，班尼在末段连续命中关键投篮；塞尔特人在第三节完结时曾以77:75领先。魔术是自2022年以来首次在波士顿赢波，终止作客八连败；球队在主将班捷罗因足踝受伤缺阵下取胜。塞尔特人战绩跌至11胜3负，魔术则提升至6胜7负。"
-    },
-    "tags": {
-      "en": [
-        "NBA",
-        "Orlando Magic",
-        "Boston Celtics"
-      ],
-      "zh_hant": [
-        "NBA",
-        "魔術",
-        "塞爾特人"
-      ],
-      "zh_hans": [
-        "NBA",
-        "魔术",
-        "塞尔特人"
-      ]
-    }
-  },
-  {
-    "id": "20261117-alcaraz-tiafoe-atp-finals",
-    "sport": "tennis",
-    "published_at": "2026-11-17T07:21:00+08:00",
-    "source": "香港電台",
-    "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878067-20261117.htm",
-    "image_url": null,
-    "title": {
-      "en": "Alcaraz Crushes Tiafoe 6-2, 6-2 in ATP Finals Opener | Ten Straight Wins and Counting",
-      "zh_hant": "艾卡拿斯年終賽旗開得勝 直落兩盤輕取迪亞科 10連勝劍指首冠",
-      "zh_hans": "艾卡拿斯年终赛旗开得胜 直落两盘轻取迪亚科 10连胜剑指首冠"
-    },
-    "summary": {
-      "en": "Spain's Carlos Alcaraz opened his ATP Finals campaign in Turin with a straight-sets 6-2, 6-2 win over American Frances Tiafoe. Alcaraz hit 21 winners against just nine unforced errors and needed only 69 minutes to seal the win. It was his tenth consecutive victory, following titles in Vienna and Paris. Alcaraz said afterwards that he was very happy with his performance. He tops the Ivan Lendl Group with Daniil Medvedev, who also won on Monday, and the pair meet on Wednesday.",
-      "zh_hant": "西班牙球星艾卡拿斯直落兩盤6:2擊敗美國對手迪亞科，在ATP年終賽旗開得勝。他全場21次主動得分，只有9次無壓力犯錯，僅用了69分鐘就解決對手。這是艾卡拿斯連續第10場勝利，之前先後在維也納及巴黎奪冠。艾卡拿斯賽後說，對自己的表現感到非常滿意。他與同日取勝的米迪維夫並列蘭度組榜首，星期三將正面交鋒。",
-      "zh_hans": "西班牙球星艾卡拿斯直落两盘6:2击败美国对手迪亚科，在ATP年终赛旗开得胜。他全场21次主动得分，只有9次无压力犯错，仅用了69分钟就解决对手。这是艾卡拿斯连续第10场胜利，之前先后在维也纳及巴黎夺冠。艾卡拿斯赛后说，对自己的表现感到非常满意。他与同日取胜的梅德韦杰夫并列兰度组榜首，星期三将正面交锋。"
-    },
-    "tags": {
-      "en": [
-        "ATP Finals",
-        "Alcaraz",
-        "Tiafoe"
-      ],
-      "zh_hant": [
-        "年終賽",
-        "艾卡拿斯",
-        "迪亞科"
-      ],
-      "zh_hans": [
-        "年终赛",
-        "艾卡拿斯",
-        "迪亚科"
-      ]
-    }
-  },
-  {
-    "id": "20261117-germany-beat-netherlands-5-0-nations-league",
-    "sport": "football",
-    "published_at": "2026-11-17T07:19:00+08:00",
-    "source": "香港電台",
-    "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878065-20261117.htm",
-    "image_url": null,
-    "title": {
-      "en": "Germany Rout Netherlands 5-0 in Nations League | Wirtz Brace Seals Top Spot as Three Teams Finish on 11 Points",
-      "zh_hant": "歐國聯德國主場5:0大勝荷蘭 獲斯梅開二度 三隊同分德國首名出線",
-      "zh_hans": "欧国联德国主场5:0大胜荷兰 获斯梅开二度 三队同分德国首名出线"
-    },
-    "summary": {
-      "en": "Germany thrashed the Netherlands 5-0 at home in Nations League Group A2 to finish top and reach the quarter-finals. Derry Scherhant opened the scoring in the 41st minute, Florian Wirtz added two goals in the second half, and Nico Schlotterbeck and Brajan Gruda completed the rout. Netherlands captain Virgil van Dijk remained absent through injury. In the same group, Greece edged Serbia 1-0, leaving three teams on 11 points; Germany finished first, with the Netherlands second on goal difference, and both sides advanced to the last eight.",
-      "zh_hant": "歐國聯A2組，德國主場5:0大勝荷蘭，首名晉級八強。舒靴赫41分鐘的入球掀開大勝序幕；獲斯下半場攻入兩個入球，加上舒洛達碧克和巴贊古達各入一球，完成大勝。荷蘭隊長雲迪克因傷繼續缺席。同組希臘一球僅勝塞爾維亞，賽後三隊同得11分，德國首名晉級，荷蘭以較佳得失球差次名晉身八強。",
-      "zh_hans": "欧国联A2组，德国主场5:0大胜荷兰，首名晋级八强。舒靴赫41分钟的入球掀开大胜序幕；获斯下半场攻入两个入球，加上舒洛达碧克和巴赞古达各入一球，完成大胜。荷兰队长云迪克因伤继续缺席。同组希腊一球仅胜塞尔维亚，赛后三队同得11分，德国首名晋级，荷兰以较佳得失球差次名晋身八强。"
-    },
-    "tags": {
-      "en": [
-        "Germany",
-        "Netherlands",
-        "Nations League"
-      ],
-      "zh_hant": [
-        "德國",
-        "荷蘭",
-        "歐國聯"
-      ],
-      "zh_hans": [
-        "德国",
-        "荷兰",
-        "欧国联"
-      ]
-    }
-  },
-  {
-    "id": "20261117-nations-league-monday-germany-switzerland",
-    "sport": "football",
-    "published_at": "2026-11-17T05:40:00+08:00",
-    "source": "UEFA",
-    "source_url": "https://www.uefa.com/uefanationsleague/news/02ab-22146db70e40-12d581ab82a9-1000--uefa-nations-league-matchday-6-round-up-germany-netherlands/",
-    "image_url": null,
-    "title": {
-      "en": "Germany Thrash Netherlands 5-0 to Top Nations League Group | Switzerland Rout Scotland 4-0 as Robertson's Record Night Turns Sour",
-      "zh_hant": "歐國聯瘋狂夜 德國5:0橫掃荷蘭升榜首 瑞士4:0炒蘇格蘭 羅拔臣破紀錄夜蒙羞",
-      "zh_hans": "欧国联疯狂夜 德国5:0横扫荷兰升榜首 瑞士4:0炒苏格兰 罗拔臣破纪录夜蒙羞"
-    },
-    "summary": {
-      "en": "Germany thrashed the Netherlands 5-0 at home on the final matchday of the UEFA Nations League group stage to finish top of Group A2, with both sides advancing to the quarter-finals. Scherhant opened the scoring in the 41st minute, Florian Wirtz struck twice in the second half, and Nico Schlotterbeck and Brajan Gruda added one each; the Netherlands still went through as runners-up despite a first defeat under coach Xavi Hernandez. Switzerland beat Scotland 4-0 at home to return to League A, with a Lewis Ferguson own goal followed by strikes from Winsley Boteli, Alvyn Sanches and Zeki Amdouni, while Scotland finished third and missed out on a promotion play-off. Scotland captain Andy Robertson won his 103rd cap, passing Sir Kenny Dalglish as Scotland's most-capped male player, but the milestone night ended in a heavy defeat.",
-      "zh_hant": "歐洲國家聯賽小組賽最後一輪，德國主場以5:0大勝荷蘭，升上A2組榜首，兩隊雙雙晉身八強。Scherhant在41分鐘先開紀錄，韋斯下半場梅開二度，舒洛達碧克及Gruda各建一功；荷蘭雖然大敗，仍以次名出線，主帥沙維執教首敗。瑞士主場4:0大勝蘇格蘭，重返A級聯賽，費格遜22分鐘擺烏龍，Boteli、Sanches及安度尼先後建功；蘇格蘭排小組第三，錯失升班附加賽資格。蘇格蘭隊長安祖羅拔臣第103次代表國家隊上陣，超越杜格利殊，成為蘇格蘭史上出場最多男足球員，但紀錄夜以大敗收場。",
-      "zh_hans": "欧洲国家联赛小组赛最后一轮，德国主场以5:0大胜荷兰，升上A2组榜首，两队双双晋身八强。Scherhant在41分钟先开纪录，韦斯下半场梅开二度，舒洛达碧克及Gruda各建一功；荷兰虽然大败，仍以次名出线，主帅沙维执教首败。瑞士主场4:0大胜苏格兰，重返A级联赛，费格逊22分钟摆乌龙，Boteli、Sanches及安度尼先后建功；苏格兰排小组第三，错失升班附加赛资格。苏格兰队长安祖罗拔臣第103次代表国家队上阵，超越杜格利殊，成为苏格兰史上出场最多男足球员，但纪录夜以大败收场。"
-    },
-    "tags": {
-      "en": [
-        "Nations League",
-        "Germany",
-        "Scotland"
-      ],
-      "zh_hant": [
-        "歐國聯",
-        "德國",
-        "蘇格蘭"
-      ],
-      "zh_hans": [
-        "欧国联",
-        "德国",
-        "苏格兰"
-      ]
-    }
-  },
-  {
-    "id": "20261117-medvedev-cobolli-atp-finals",
-    "sport": "tennis",
-    "published_at": "2026-11-17T05:30:00+08:00",
-    "source": "Tennis Majors",
-    "source_url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/unbreakable-medvedev-spoils-cobollis-atp-finals-debut-in-turin-867159.html",
-    "image_url": null,
-    "title": {
-      "en": "Medvedev Downs Cobolli in Straight Sets for ATP Finals Opening Win | Faces Alcaraz Next",
-      "zh_hant": "米迪維夫直落兩盤挫高比利 年終賽開門紅 全場未失破發分",
-      "zh_hans": "梅德韦杰夫直落两盘挫科博利 年终赛开门红 全场未失破发分"
-    },
-    "summary": {
-      "en": "Former champion Daniil Medvedev opened his ATP Finals campaign in Turin with a 7-6(4), 6-3 straight-sets win over home hope Flavio Cobolli. Medvedev held all ten of his service games without facing a single break point, fired nine aces, took the first-set tie-break 7-4 and broke twice in the second set to seal the win in about an hour and a half. It was his first win at the season-ending event since 2024. He joins Carlos Alcaraz, who also won on Monday, at the top of the Ivan Lendl Group, and the pair meet on Wednesday; Cobolli faces Frances Tiafoe the same day.",
-      "zh_hant": "前冠軍米迪維夫在都靈年終賽首仗，以7:6（4）、6:3直落兩盤擊敗主場新星高比利，取得開門紅。米迪維夫全場十個發球局全部保住，未曾面對破發分，發出9記Ace，首盤搶七以7:4取勝，第二盤兩度破發鎖定勝局，全場僅用約一個半小時。這是米迪維夫自2024年以來首次在年終賽贏波，他與同日取勝的艾卡拿斯並列蘭度組榜首，星期三將正面交鋒；高比利同日將對迪亞科。",
-      "zh_hans": "前冠军米迪维夫在都灵年终赛首仗，以7:6（4）、6:3直落两盘击败主场新星高比利，取得开门红。米迪维夫全场十个发球局全部保住，未曾面对破发分，发出9记Ace，首盘抢七以7:4取胜，第二盘两度破发锁定胜局，全场仅用约一个半小时。这是米迪维夫自2024年以来首次在年终赛赢波，他与同日取胜的艾卡拿斯并列兰度组榜首，星期三将正面交锋；高比利同日将对迪亚科。"
-    },
-    "tags": {
-      "en": [
-        "ATP Finals",
-        "Medvedev",
-        "Cobolli"
-      ],
-      "zh_hant": [
-        "年終賽",
-        "米迪維夫",
-        "高比利"
-      ],
-      "zh_hans": [
-        "年终赛",
-        "梅德韦杰夫",
-        "高比利"
-      ]
-    }
+  "tags": {
+   "en": [
+    "Bowling",
+    "Michael Mak",
+    "Tony Wong"
+   ],
+   "zh_hant": [
+    "保齡球",
+    "麥卓賢",
+    "黃鈞源"
+   ],
+   "zh_hans": [
+    "保龄球",
+    "麦卓贤",
+    "黄钧源"
+   ]
   }
+ },
+ {
+  "id": "20261117-suns-beat-nuggets-117-105-booker-20",
+  "sport": "basketball",
+  "published_at": "2026-11-17T13:01:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/nba/news/3657707/devin-booker-scores-20-points-suns-beat-nuggets-117-105-for-their-1-st-road-win-of-the-season",
+  "image_url": null,
+  "title": {
+   "en": "Suns Beat Nuggets 117-105 for First Road Win of Season | Seven Score in Double Figures as Jokic's 28 Points Go in Vain",
+   "zh_hant": "太陽117:105擊敗金塊奪今季作客首勝 七人得分上雙 約基治28分15板空砍",
+   "zh_hans": "太阳117:105击败金块夺今季作客首胜 七人得分上双 约基治28分15板空砍"
+  },
+  "summary": {
+   "en": "The Phoenix Suns beat the Denver Nuggets 117-105 on the road for their first away win of the season. Playing on the second night of a back-to-back, Phoenix won with a balanced attack as seven players scored in double figures, led by Devin Booker's team-high 20 points and eight assists, with Jalen Green and Miles Bridges adding 16 each. Denver's Nikola Jokic posted 28 points, 15 rebounds and seven assists, while Jamal Murray also scored 28, including 18 in the fourth quarter, but it was not enough. Phoenix hit 16 of 36 three-pointers, outrebounded Denver 51-35, turned 18 Nuggets turnovers into 31 points and outscored Denver's bench 42-19. The Suns improved to 6-7, while the Nuggets fell to 7-5, losing three of their last four home games.",
+   "zh_hant": "鳳凰城太陽作客117:105擊敗丹佛金塊，取得今季首場作客勝利。太陽在背靠背第二晚出戰，憑藉平均的進攻火力取勝，全隊七人得分上雙，布卡攻入全隊最高的20分，另加8次助攻；格連及布里奇斯各得16分，布祿斯15分。金塊的約基治攻入28分、15個籃板及7次助攻，梅利同樣攻入28分，其中18分來自第四節，但仍未能阻止球隊落敗。太陽三分球36投16中，籃板以51:35佔優，並利用金塊18次失誤攻入31分；後備球員得分以42:19大幅領先。太陽戰績改寫為6勝7負，金塊則為7勝5負，近四場主場輸了三場。",
+   "zh_hans": "凤凰城太阳作客117:105击败丹佛金块，取得今季首场作客胜利。太阳在背靠背第二晚出战，凭借平均的进攻火力取胜，全队七人得分上双，布卡攻入全队最高的20分，另加8次助攻；格连及布里奇斯各得16分，布禄斯15分。金块的约基治攻入28分、15个篮板及7次助攻，梅利同样攻入28分，其中18分来自第四节，但仍未能阻止球队落败。太阳三分球36投16中，篮板以51:35占优，并利用金块18次失误攻入31分；后备球员得分以42:19大幅领先。太阳战绩改写为6胜7负，金块则为7胜5负，近四场主场输了三场。"
+  },
+  "tags": {
+   "en": [
+    "Suns",
+    "Nuggets",
+    "NBA"
+   ],
+   "zh_hant": [
+    "太陽",
+    "金塊",
+    "NBA"
+   ],
+   "zh_hans": [
+    "太阳",
+    "金块",
+    "NBA"
+   ]
+  }
+ },
+ {
+  "id": "20261117-chargers-beat-ravens-23-20-first-win",
+  "sport": "others",
+  "published_at": "2026-11-17T12:33:00+08:00",
+  "source": "NBC Sports",
+  "source_url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-chargers-run-past-ravens-23-20-for-first-win-of-2026",
+  "image_url": null,
+  "title": {
+   "en": "Chargers Edge Ravens 23-20 for First Win of the Season | Baltimore Loses Fifth Straight as Flowers Fumbles Late",
+   "zh_hant": "閃電隊23:20險勝烏鴉奪今季首勝 終止八連敗 烏鴉五連敗",
+   "zh_hans": "闪电队23:20险胜乌鸦夺今季首胜 终止八连败 乌鸦五连败"
+  },
+  "summary": {
+   "en": "The Los Angeles Chargers held off the Baltimore Ravens 23-20 on Monday Night Football at M&T Bank Stadium to claim their first win of the season and snap an eight-game losing streak. Omarion Hampton ran for 105 yards and a touchdown, while Justin Herbert scored on a 22-yard run and threw for 129 yards with no turnovers, as Los Angeles outrushed Baltimore 160-16. The Ravens had a late chance to tie or take the lead, but Zay Flowers fumbled with just over two minutes left and Elijah Molden recovered to seal the win. Derrick Henry was held to 10 rushing yards, his worst since joining the Ravens, though he scored twice; Jacoby Brissett made his first start for Baltimore since his November 6 trade. The Chargers improved to 1-8, while the Ravens fell to 4-6 with a fifth straight defeat, their first such run since 2021.",
+   "zh_hant": "洛杉磯閃電隊在周一晚美式足球作客23:20險勝巴爾的摩烏鴉，取得今季首勝，終止八連敗。漢普頓衝球105碼及一次達陣，靴拔特衝球22碼達陣，傳球129碼且零失誤；閃電隊地面進攻以160碼對16碼壓倒烏鴉。烏鴉在比賽末段本有機會追平甚至反超，但花斯在最後兩分鐘左右掉球，摩頓接回鎖定勝局。亨利僅衝得10碼，是加盟烏鴉以來最差，但仍攻入兩次達陣；比錫特自11月6日轉會後首次為烏鴉正選上陣。閃電隊戰績提升至1勝8負，烏鴉則跌至4勝6負，吞下五連敗，是自2021年以來首次。",
+   "zh_hans": "洛杉矶闪电队在周一晚美式足球作客23:20险胜巴尔的摩乌鸦，取得今季首胜，终止八连败。汉普顿冲球105码及一次达阵，靴拔特冲球22码达阵，传球129码且零失误；闪电队地面进攻以160码对16码压倒乌鸦。乌鸦在比赛末段本有机会追平甚至反超，但花斯在最后两分钟左右掉球，摩顿接回锁定胜局。亨利仅冲得10码，是加盟乌鸦以来最差，但仍攻入两次达阵；比锡特自11月6日转会后首次为乌鸦正选上阵。闪电队战绩提升至1胜8负，乌鸦则跌至4胜6负，吞下五连败，是自2021年以来首次。"
+  },
+  "tags": {
+   "en": [
+    "NFL",
+    "Chargers",
+    "Ravens"
+   ],
+   "zh_hant": [
+    "NFL",
+    "閃電隊",
+    "烏鴉隊"
+   ],
+   "zh_hans": [
+    "NFL",
+    "闪电队",
+    "乌鸦队"
+   ]
+  }
+ },
+ {
+  "id": "20261117-timberwolves-beat-blazers-106-98-shannon-34",
+  "sport": "basketball",
+  "published_at": "2026-11-17T12:00:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/nba/news/3657649/terrence-shannon-jr-scores-career-high-34-points-as-timberwolves-beat-trail-blazers-106-98",
+  "image_url": null,
+  "title": {
+   "en": "Timberwolves Edge Trail Blazers 106-98 | Shannon Jr. Comes Off the Bench for Career-High 34 as Edwards Sits Out",
+   "zh_hant": "木狼106:98力克拓荒者 香農後備轟生涯新高34分 缺愛德華茲照贏波",
+   "zh_hans": "木狼106:98力克拓荒者 香农后备轰生涯新高34分 缺爱德华兹照赢波"
+  },
+  "summary": {
+   "en": "The Minnesota Timberwolves beat the Portland Trail Blazers 106-98 at home in the opener of a two-game set. Terrence Shannon Jr. came off the bench to score a career-high 34 points, including 12 in the second quarter, and added six assists, while Rudy Gobert posted 18 points and 15 rebounds. Minnesota improved to 7-3 without star Anthony Edwards, who is recovering from an arthroscopic procedure on his right knee; Shannon's 34 points tied the most by a Timberwolves reserve in the past 10 years. The two teams meet again on Tuesday night in Minneapolis.",
+   "zh_hant": "明尼蘇達木狼主場106:98擊敗波特蘭拓荒者，贏得兩場系列賽首仗。泰倫斯·香農以後備身份攻入生涯新高的34分，其中12分來自第二節，另加6次助攻；魯迪·高拔攻入18分及15個籃板。木狼在明星球員安東尼·愛德華茲因膝部手術缺陣下，戰績改寫為7勝3負；香農34分追平木狼後備球員近十年最高得分紀錄。兩隊明日將在明尼阿波利斯再戰一場。",
+   "zh_hans": "明尼苏达木狼主场106:98击败波特兰拓荒者，赢得两场系列赛首仗。泰伦斯·香农以后备身份攻入生涯新高的34分，其中12分来自第二节，另加6次助攻；鲁迪·高拔攻入18分及15个篮板。木狼在明星球员安东尼·爱德华兹因膝部手术缺阵下，战绩改写为7胜3负；香农34分追平木狼后备球员近十年最高得分纪录。两队明日将在明尼阿波利斯再战一场。"
+  },
+  "tags": {
+   "en": [
+    "Timberwolves",
+    "Trail Blazers",
+    "NBA"
+   ],
+   "zh_hant": [
+    "木狼",
+    "拓荒者",
+    "NBA"
+   ],
+   "zh_hans": [
+    "木狼",
+    "拓荒者",
+    "NBA"
+   ]
+  }
+ },
+ {
+  "id": "20261117-pelicans-beat-warriors-115-94-fears-triple-double",
+  "sport": "basketball",
+  "published_at": "2026-11-17T11:57:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/nba/event/2462890/recap",
+  "image_url": null,
+  "title": {
+   "en": "Pelicans Rout Warriors 115-94 to End Six-Game Slide | Fears Records First Career Triple-Double as Bey Scores 23",
+   "zh_hant": "塘鵝115:94大炒勇士止六連敗 菲爾斯生涯首三雙 比伊23分 勇士缺居里慘敗",
+   "zh_hans": "塘鹅115:94大炒勇士止六连败 菲尔斯生涯首三双 比伊23分 勇士缺居里惨败"
+  },
+  "summary": {
+   "en": "The New Orleans Pelicans routed the Golden State Warriors 115-94 at home to snap a six-game losing streak. Jeremiah Fears recorded his first career triple-double with 19 points, 10 rebounds and 10 assists, while Saddiq Bey scored a team-high 23 points, including five three-pointers, and Zion Williamson added 16. New Orleans led 35-11 after the first quarter and stretched the lead to as many as 31 points, avenging a 51-point defeat in San Francisco a week earlier. Golden State, playing without Stephen Curry, struggled offensively, and rookie Yaxel Lendeborg's team-high 28 points were not enough. The Pelicans improved to 5-10.",
+   "zh_hant": "新奧爾良塘鵝主場115:94大炒金州勇士，終止六連敗。謝利美亞·菲爾斯取得生涯首次三雙，攻入19分、10個籃板及10次助攻；比伊攻入全隊最高的23分，包括5個三分球，威廉臣加添16分。塘鵝首節已打出35:11的攻勢，領先優勢一度擴大至31分，報卻上星期作客慘敗51分之仇。勇士今仗缺少居里，進攻乏力，陣中新秀攻入全隊最高的28分亦無補於事。塘鵝戰績改寫為5勝10負。",
+   "zh_hans": "新奥尔良塘鹅主场115:94大炒金州勇士，终止六连败。谢利美亚·菲尔斯取得生涯首次三双，攻入19分、10个篮板及10次助攻；比伊攻入全队最高的23分，包括5个三分球，威廉臣加添16分。塘鹅首节已打出35:11的攻势，领先优势一度扩大至31分，报却上星期作客惨败51分之仇。勇士今仗缺少居里，进攻乏力，阵中新秀攻入全队最高的28分亦无补于事。塘鹅战绩改写为5胜10负。"
+  },
+  "tags": {
+   "en": [
+    "Pelicans",
+    "Warriors",
+    "NBA"
+   ],
+   "zh_hant": [
+    "塘鵝",
+    "勇士",
+    "NBA"
+   ],
+   "zh_hans": [
+    "塘鹅",
+    "勇士",
+    "NBA"
+   ]
+  }
+ },
+ {
+  "id": "20261117-76ers-beat-nets-135-123-embiid-37",
+  "sport": "basketball",
+  "published_at": "2026-11-17T11:37:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/nba/news/3657626/embiid-drops-season-high-37-points-as-76-ers-beat-nets-without-le-bron",
+  "image_url": null,
+  "title": {
+   "en": "76ers Beat Nets 135-123 as Embiid Drops Season-High 37 | Trio Combines for 92 Points in Fourth Straight Win Without LeBron",
+   "zh_hant": "76人135:123擊敗籃網 恩比德今季新高37分 缺勒邦占士照贏四連勝",
+   "zh_hans": "76人135:123击败篮网 恩比德今季新高37分 缺勒邦占士照赢四连胜"
+  },
+  "summary": {
+   "en": "The Philadelphia 76ers beat the Brooklyn Nets 135-123 on the road. Joel Embiid scored a season-high 37 points, with 24 by halftime, while Jaylen Brown added 31 points and a season-best 13 rebounds, and Tyrese Maxey contributed 24 points and nine assists, the trio combining for 92 points. Philadelphia led by as many as 24 points and scored a season-best 78 points in the first half; Brooklyn fought back in the second half, with Julius Randle scoring 33 points and Michael Porter Jr. adding 25. Brown left the game in the fourth quarter after a collision with Randle opened a cut on his head. The 76ers improved to 12-3 and are now 4-0 without LeBron James, who rested on the second night of a back-to-back; the Nets fell to 3-10.",
+   "zh_hant": "費城76人作客135:123擊敗布魯克林籃網。祖爾·恩比德攻入今季新高的37分，半場已得24分；杰倫·布朗攻入31分及13個籃板，創今季籃板新高；泰利斯·麥斯加添24分及9次助攻，三人合共攻入92分。76人上半場一度領先24分，半場攻入今季新高的78分；籃網下半場反撲，朱利葉斯·蘭度攻入33分，米高·波特添上25分。布朗第四節與蘭度碰撞，頭部受傷提早退場。76人戰績改寫為12勝3負，在勒邦占士缺陣下四戰全勝；籃網跌至3勝10負。",
+   "zh_hans": "费城76人作客135:123击败布鲁克林篮网。祖尔·恩比德攻入今季新高的37分，半场已得24分；杰伦·布朗攻入31分及13个篮板，创今季篮板新高；泰利斯·麦斯加添24分及9次助攻，三人合共攻入92分。76人上半场一度领先24分，半场攻入今季新高的78分；篮网下半场反扑，朱利叶斯·兰度攻入33分，米高·波特添上25分。布朗第四节与兰度碰撞，头部受伤提早退场。76人战绩改写为12胜3负，在勒邦占士缺阵下四战全胜；篮网跌至3胜10负。"
+  },
+  "tags": {
+   "en": [
+    "76ers",
+    "Nets",
+    "NBA"
+   ],
+   "zh_hant": [
+    "76人",
+    "籃網",
+    "NBA"
+   ],
+   "zh_hans": [
+    "76人",
+    "篮网",
+    "NBA"
+   ]
+  }
+ },
+ {
+  "id": "20261117-heat-beat-rockets-128-110-giannis-20-13",
+  "sport": "basketball",
+  "published_at": "2026-11-17T11:17:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/nba/news/3657608/heat-roll-past-rockets-for-8-th-win-in-10-games",
+  "image_url": null,
+  "title": {
+   "en": "Heat Roll Past Rockets 128-110 for Fifth Straight Win | Giannis Posts 20 and 13 as Eight Players Score in Double Figures",
+   "zh_hant": "熱火128:110大勝火箭五連勝 安迪杜宮普20分13板 全隊八人得分上雙",
+   "zh_hans": "热火128:110大胜火箭五连胜 安迪杜宫普20分13板 全队八人得分上双"
+  },
+  "summary": {
+   "en": "The Miami Heat beat the Houston Rockets 128-110 at home for their fifth straight victory. Giannis Antetokounmpo scored 20 points and grabbed 13 rebounds, Andrew Wiggins and Klay Thompson each scored 17, Davion Mitchell had 16 points and 10 assists, and Bobby Portis Jr. added 16; the Heat never trailed and had eight players score in double figures. Miami has now won eight of its last 10 games after starting the season 0-4, improving to 8-6, while Houston fell to 11-4.",
+   "zh_hant": "邁阿密熱火主場128:110擊敗侯斯頓火箭，取得五連勝。安迪杜宮普攻入20分、13個籃板及6次助攻，安德魯·域堅斯及基利·湯臣各得17分，戴維安·米切爾攻入16分及10次助攻，波蒂斯加添16分；熱火全場從未落後，全隊八人得分上雙。熱火開季四連敗後，近十場贏了八場，戰績改寫為8勝6負；火箭跌至11勝4負。",
+   "zh_hans": "迈阿密热火主场128:110击败侯斯顿火箭，取得五连胜。安迪杜宫普攻入20分、13个篮板及6次助攻，安德鲁·域坚斯及基利·汤臣各得17分，戴维安·米切尔攻入16分及10次助攻，波蒂斯加添16分；热火全场从未落后，全队八人得分上双。热火开季四连败后，近十场赢了八场，战绩改写为8胜6负；火箭跌至11胜4负。"
+  },
+  "tags": {
+   "en": [
+    "Heat",
+    "Rockets",
+    "NBA"
+   ],
+   "zh_hant": [
+    "熱火",
+    "火箭",
+    "NBA"
+   ],
+   "zh_hans": [
+    "热火",
+    "火箭",
+    "NBA"
+   ]
+  }
+ },
+ {
+  "id": "20261117-cavaliers-beat-bulls-126-115-mitchell-39",
+  "sport": "basketball",
+  "published_at": "2026-11-17T11:00:00+08:00",
+  "source": "Sports Illustrated",
+  "source_url": "https://www.si.com/nba/cavaliers/onsi/3-game-changing-numbers-from-cavaliers-win-against-chicago-bulls-01m7knaq1t3g",
+  "image_url": null,
+  "title": {
+   "en": "Mitchell Scores 39 as Cavaliers Beat Bulls 126-115 | Cleveland Back Over .500 with Second Straight Win",
+   "zh_hant": "米曹轟39分騎士126:115擊退公牛 主場兩連勝 公牛兩連勝告終",
+   "zh_hans": "米曹轰39分骑士126:115击退公牛 主场两连胜 公牛两连胜告终"
+  },
+  "summary": {
+   "en": "Donovan Mitchell scored a season-high 39 points, including 30 in the second half, to lead the Cleveland Cavaliers to a 126-115 home win over the Chicago Bulls at Rocket Arena. Jarrett Allen added 13 points and 14 rebounds, while Tyrese Proctor scored 17, as the Cavaliers overturned a 31-25 first-quarter deficit with a 32-17 second quarter and led by as many as 17 early in the third. Norman Powell scored 27 points for the Bulls, who had won two in a row. Cleveland improved to 8-7 with a second straight win, while Chicago fell to 3-10.",
+   "zh_hant": "米曹攻入全場最高的39分，包括下半場30分，帶領克利夫蘭騎士主場126:115擊退芝加哥公牛。阿倫貢獻13分、14個籃板，普洛克特攻入17分；騎士在首節落後31:25後，第二節打出32:17反超，第三節初段一度領先17分。公牛方面，鮑威爾攻入27分，球隊兩連勝告終。騎士戰績提升至8勝7負，取得兩連勝；公牛跌至3勝10負。",
+   "zh_hans": "米曹攻入全场最高的39分，包括下半场30分，带领克利夫兰骑士主场126:115击退芝加哥公牛。阿伦贡献13分、14个篮板，普洛克特攻入17分；骑士在首节落后31:25后，第二节打出32:17反超，第三节初段一度领先17分。公牛方面，鲍威尔攻入27分，球队两连胜告终。骑士战绩提升至8胜7负，取得两连胜；公牛跌至3胜10负。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Cavaliers",
+    "Bulls"
+   ],
+   "zh_hant": [
+    "NBA",
+    "騎士",
+    "公牛"
+   ],
+   "zh_hans": [
+    "NBA",
+    "骑士",
+    "公牛"
+   ]
+  }
+ },
+ {
+  "id": "20261117-grizzlies-beat-wizards-136-120-boozer-29",
+  "sport": "basketball",
+  "published_at": "2026-11-17T10:56:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/nba/news/3657587",
+  "image_url": null,
+  "title": {
+   "en": "Grizzlies Rally Past Wizards 136-120 | Rookie Boozer's Career-High 29 Caps 42-18 Third-Quarter Surge",
+   "zh_hant": "灰熊136:120反勝巫師 博澤生涯新高29分 第三節42:18一舉逆轉",
+   "zh_hans": "灰熊136:120反胜巫师 博泽生涯新高29分 第三节42:18一举逆转"
+  },
+  "summary": {
+   "en": "The Memphis Grizzlies rallied from 12 points down to beat the Washington Wizards 136-120 on the road. Rookie Cameron Boozer scored a career-high 29 points, including seven three-pointers, and added seven rebounds and seven assists, while Zach Edey posted 23 points and 10 rebounds. Memphis trailed 69-57 late in the first half before outscoring Washington 42-18 in the third quarter to take control. The Grizzlies improved to 7-0 on the road and have won four of their last five. Washington suffered an eighth straight loss, with Anthony Davis scoring a team-high 23 points and top draft pick AJ Dybantsa adding 21.",
+   "zh_hant": "孟菲斯灰熊作客136:120反勝華盛頓巫師。新秀卡梅隆·博澤攻入生涯新高29分，包括7個三分球，另加7個籃板及7次助攻；扎克·埃迪攻入23分及10個籃板。灰熊半場結束前曾落後69:57，第三節打出42:18反超，一舉控制戰局。灰熊作客戰績改寫為7勝0負，近五場贏了四場。巫師遭遇八連敗，安東尼·戴維斯攻入全隊最高的23分，狀元艾·戴班沙加添21分。",
+   "zh_hans": "孟菲斯灰熊作客136:120反胜华盛顿巫师。新秀卡梅隆·博泽攻入生涯新高29分，包括7个三分球，另加7个篮板及7次助攻；扎克·埃迪攻入23分及10个篮板。灰熊半场结束前曾落后69:57，第三节打出42:18反超，一举控制战局。灰熊作客战绩改写为7胜0负，近五场赢了四场。巫师遭遇八连败，安东尼·戴维斯攻入全队最高的23分，状元艾·戴班沙加添21分。"
+  },
+  "tags": {
+   "en": [
+    "Grizzlies",
+    "Wizards",
+    "NBA"
+   ],
+   "zh_hant": [
+    "灰熊",
+    "巫師",
+    "NBA"
+   ],
+   "zh_hans": [
+    "灰熊",
+    "巫师",
+    "NBA"
+   ]
+  }
+ },
+ {
+  "id": "20261117-magic-beat-celtics-115-105",
+  "sport": "basketball",
+  "published_at": "2026-11-17T10:30:00+08:00",
+  "source": "Sports Illustrated",
+  "source_url": "https://www.si.com/nba/magic/onsi/4-winners-1-loser-in-magic-upset-victory-vs-celtics",
+  "image_url": null,
+  "title": {
+   "en": "Magic Storm Back with 40-Point Fourth to Stun Celtics 115-105 | Six-Game Win Streak Snapped",
+   "zh_hant": "魔術末節40:28逆轉塞爾特人 115:105爆冷取勝 終止六連勝兼八連敗",
+   "zh_hans": "魔术末节40:28逆转塞尔特人 115:105爆冷取胜 终止六连胜兼八连败"
+  },
+  "summary": {
+   "en": "The Orlando Magic fought back with a 40-point fourth quarter to beat the Boston Celtics 115-105 at TD Garden and end the hosts' six-game winning streak. Franz Wagner led Orlando with 21 points, eight rebounds and nine assists, while Desmond Bane hit key baskets down the stretch after Boston had led 77-75 at the end of the third quarter. It was the Magic's first win in Boston since 2022, snapping an eight-game losing streak there, and it came with star Paolo Banchero still sidelined by an ankle injury. Boston fell to 11-3, while Orlando improved to 6-7.",
+   "zh_hant": "奧蘭多魔術在末節轟入40分，作客115:105反勝波士頓塞爾特人，終止對手六連勝。法蘭斯華格拿攻入21分、8個籃板、9次助攻，班尼在末段連續命中關鍵投籃；塞爾特人在第三節完結時曾以77:75領先。魔術是自2022年以來首次在波士頓贏波，終止作客八連敗；球隊在主將班捷羅因足踝受傷缺陣下取勝。塞爾特人戰績跌至11勝3負，魔術則提升至6勝7負。",
+   "zh_hans": "奥兰多魔术在末节轰入40分，作客115:105反胜波士顿塞尔特人，终止对手六连胜。法兰斯华格拿攻入21分、8个篮板、9次助攻，班尼在末段连续命中关键投篮；塞尔特人在第三节完结时曾以77:75领先。魔术是自2022年以来首次在波士顿赢波，终止作客八连败；球队在主将班捷罗因足踝受伤缺阵下取胜。塞尔特人战绩跌至11胜3负，魔术则提升至6胜7负。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Orlando Magic",
+    "Boston Celtics"
+   ],
+   "zh_hant": [
+    "NBA",
+    "魔術",
+    "塞爾特人"
+   ],
+   "zh_hans": [
+    "NBA",
+    "魔术",
+    "塞尔特人"
+   ]
+  }
+ },
+ {
+  "id": "20261117-alcaraz-tiafoe-atp-finals",
+  "sport": "tennis",
+  "published_at": "2026-11-17T07:21:00+08:00",
+  "source": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878067-20261117.htm",
+  "image_url": null,
+  "title": {
+   "en": "Alcaraz Crushes Tiafoe 6-2, 6-2 in ATP Finals Opener | Ten Straight Wins and Counting",
+   "zh_hant": "艾卡拿斯年終賽旗開得勝 直落兩盤輕取迪亞科 10連勝劍指首冠",
+   "zh_hans": "艾卡拿斯年终赛旗开得胜 直落两盘轻取迪亚科 10连胜剑指首冠"
+  },
+  "summary": {
+   "en": "Spain's Carlos Alcaraz opened his ATP Finals campaign in Turin with a straight-sets 6-2, 6-2 win over American Frances Tiafoe. Alcaraz hit 21 winners against just nine unforced errors and needed only 69 minutes to seal the win. It was his tenth consecutive victory, following titles in Vienna and Paris. Alcaraz said afterwards that he was very happy with his performance. He tops the Ivan Lendl Group with Daniil Medvedev, who also won on Monday, and the pair meet on Wednesday.",
+   "zh_hant": "西班牙球星艾卡拿斯直落兩盤6:2擊敗美國對手迪亞科，在ATP年終賽旗開得勝。他全場21次主動得分，只有9次無壓力犯錯，僅用了69分鐘就解決對手。這是艾卡拿斯連續第10場勝利，之前先後在維也納及巴黎奪冠。艾卡拿斯賽後說，對自己的表現感到非常滿意。他與同日取勝的米迪維夫並列蘭度組榜首，星期三將正面交鋒。",
+   "zh_hans": "西班牙球星艾卡拿斯直落两盘6:2击败美国对手迪亚科，在ATP年终赛旗开得胜。他全场21次主动得分，只有9次无压力犯错，仅用了69分钟就解决对手。这是艾卡拿斯连续第10场胜利，之前先后在维也纳及巴黎夺冠。艾卡拿斯赛后说，对自己的表现感到非常满意。他与同日取胜的梅德韦杰夫并列兰度组榜首，星期三将正面交锋。"
+  },
+  "tags": {
+   "en": [
+    "ATP Finals",
+    "Alcaraz",
+    "Tiafoe"
+   ],
+   "zh_hant": [
+    "年終賽",
+    "艾卡拿斯",
+    "迪亞科"
+   ],
+   "zh_hans": [
+    "年终赛",
+    "艾卡拿斯",
+    "迪亚科"
+   ]
+  }
+ },
+ {
+  "id": "20261117-germany-beat-netherlands-5-0-nations-league",
+  "sport": "football",
+  "published_at": "2026-11-17T07:19:00+08:00",
+  "source": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878065-20261117.htm",
+  "image_url": null,
+  "title": {
+   "en": "Germany Rout Netherlands 5-0 in Nations League | Wirtz Brace Seals Top Spot as Three Teams Finish on 11 Points",
+   "zh_hant": "歐國聯德國主場5:0大勝荷蘭 獲斯梅開二度 三隊同分德國首名出線",
+   "zh_hans": "欧国联德国主场5:0大胜荷兰 获斯梅开二度 三队同分德国首名出线"
+  },
+  "summary": {
+   "en": "Germany thrashed the Netherlands 5-0 at home in Nations League Group A2 to finish top and reach the quarter-finals. Derry Scherhant opened the scoring in the 41st minute, Florian Wirtz added two goals in the second half, and Nico Schlotterbeck and Brajan Gruda completed the rout. Netherlands captain Virgil van Dijk remained absent through injury. In the same group, Greece edged Serbia 1-0, leaving three teams on 11 points; Germany finished first, with the Netherlands second on goal difference, and both sides advanced to the last eight.",
+   "zh_hant": "歐國聯A2組，德國主場5:0大勝荷蘭，首名晉級八強。舒靴赫41分鐘的入球掀開大勝序幕；獲斯下半場攻入兩個入球，加上舒洛達碧克和巴贊古達各入一球，完成大勝。荷蘭隊長雲迪克因傷繼續缺席。同組希臘一球僅勝塞爾維亞，賽後三隊同得11分，德國首名晉級，荷蘭以較佳得失球差次名晉身八強。",
+   "zh_hans": "欧国联A2组，德国主场5:0大胜荷兰，首名晋级八强。舒靴赫41分钟的入球掀开大胜序幕；获斯下半场攻入两个入球，加上舒洛达碧克和巴赞古达各入一球，完成大胜。荷兰队长云迪克因伤继续缺席。同组希腊一球仅胜塞尔维亚，赛后三队同得11分，德国首名晋级，荷兰以较佳得失球差次名晋身八强。"
+  },
+  "tags": {
+   "en": [
+    "Germany",
+    "Netherlands",
+    "Nations League"
+   ],
+   "zh_hant": [
+    "德國",
+    "荷蘭",
+    "歐國聯"
+   ],
+   "zh_hans": [
+    "德国",
+    "荷兰",
+    "欧国联"
+   ]
+  }
+ },
+ {
+  "id": "20261117-nations-league-monday-germany-switzerland",
+  "sport": "football",
+  "published_at": "2026-11-17T05:40:00+08:00",
+  "source": "UEFA",
+  "source_url": "https://www.uefa.com/uefanationsleague/news/02ab-22146db70e40-12d581ab82a9-1000--uefa-nations-league-matchday-6-round-up-germany-netherlands/",
+  "image_url": null,
+  "title": {
+   "en": "Germany Thrash Netherlands 5-0 to Top Nations League Group | Switzerland Rout Scotland 4-0 as Robertson's Record Night Turns Sour",
+   "zh_hant": "歐國聯瘋狂夜 德國5:0橫掃荷蘭升榜首 瑞士4:0炒蘇格蘭 羅拔臣破紀錄夜蒙羞",
+   "zh_hans": "欧国联疯狂夜 德国5:0横扫荷兰升榜首 瑞士4:0炒苏格兰 罗拔臣破纪录夜蒙羞"
+  },
+  "summary": {
+   "en": "Germany thrashed the Netherlands 5-0 at home on the final matchday of the UEFA Nations League group stage to finish top of Group A2, with both sides advancing to the quarter-finals. Scherhant opened the scoring in the 41st minute, Florian Wirtz struck twice in the second half, and Nico Schlotterbeck and Brajan Gruda added one each; the Netherlands still went through as runners-up despite a first defeat under coach Xavi Hernandez. Switzerland beat Scotland 4-0 at home to return to League A, with a Lewis Ferguson own goal followed by strikes from Winsley Boteli, Alvyn Sanches and Zeki Amdouni, while Scotland finished third and missed out on a promotion play-off. Scotland captain Andy Robertson won his 103rd cap, passing Sir Kenny Dalglish as Scotland's most-capped male player, but the milestone night ended in a heavy defeat.",
+   "zh_hant": "歐洲國家聯賽小組賽最後一輪，德國主場以5:0大勝荷蘭，升上A2組榜首，兩隊雙雙晉身八強。Scherhant在41分鐘先開紀錄，韋斯下半場梅開二度，舒洛達碧克及Gruda各建一功；荷蘭雖然大敗，仍以次名出線，主帥沙維執教首敗。瑞士主場4:0大勝蘇格蘭，重返A級聯賽，費格遜22分鐘擺烏龍，Boteli、Sanches及安度尼先後建功；蘇格蘭排小組第三，錯失升班附加賽資格。蘇格蘭隊長安祖羅拔臣第103次代表國家隊上陣，超越杜格利殊，成為蘇格蘭史上出場最多男足球員，但紀錄夜以大敗收場。",
+   "zh_hans": "欧洲国家联赛小组赛最后一轮，德国主场以5:0大胜荷兰，升上A2组榜首，两队双双晋身八强。Scherhant在41分钟先开纪录，韦斯下半场梅开二度，舒洛达碧克及Gruda各建一功；荷兰虽然大败，仍以次名出线，主帅沙维执教首败。瑞士主场4:0大胜苏格兰，重返A级联赛，费格逊22分钟摆乌龙，Boteli、Sanches及安度尼先后建功；苏格兰排小组第三，错失升班附加赛资格。苏格兰队长安祖罗拔臣第103次代表国家队上阵，超越杜格利殊，成为苏格兰史上出场最多男足球员，但纪录夜以大败收场。"
+  },
+  "tags": {
+   "en": [
+    "Nations League",
+    "Germany",
+    "Scotland"
+   ],
+   "zh_hant": [
+    "歐國聯",
+    "德國",
+    "蘇格蘭"
+   ],
+   "zh_hans": [
+    "欧国联",
+    "德国",
+    "苏格兰"
+   ]
+  }
+ },
+ {
+  "id": "20261117-medvedev-cobolli-atp-finals",
+  "sport": "tennis",
+  "published_at": "2026-11-17T05:30:00+08:00",
+  "source": "Tennis Majors",
+  "source_url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/unbreakable-medvedev-spoils-cobollis-atp-finals-debut-in-turin-867159.html",
+  "image_url": null,
+  "title": {
+   "en": "Medvedev Downs Cobolli in Straight Sets for ATP Finals Opening Win | Faces Alcaraz Next",
+   "zh_hant": "米迪維夫直落兩盤挫高比利 年終賽開門紅 全場未失破發分",
+   "zh_hans": "梅德韦杰夫直落两盘挫科博利 年终赛开门红 全场未失破发分"
+  },
+  "summary": {
+   "en": "Former champion Daniil Medvedev opened his ATP Finals campaign in Turin with a 7-6(4), 6-3 straight-sets win over home hope Flavio Cobolli. Medvedev held all ten of his service games without facing a single break point, fired nine aces, took the first-set tie-break 7-4 and broke twice in the second set to seal the win in about an hour and a half. It was his first win at the season-ending event since 2024. He joins Carlos Alcaraz, who also won on Monday, at the top of the Ivan Lendl Group, and the pair meet on Wednesday; Cobolli faces Frances Tiafoe the same day.",
+   "zh_hant": "前冠軍米迪維夫在都靈年終賽首仗，以7:6（4）、6:3直落兩盤擊敗主場新星高比利，取得開門紅。米迪維夫全場十個發球局全部保住，未曾面對破發分，發出9記Ace，首盤搶七以7:4取勝，第二盤兩度破發鎖定勝局，全場僅用約一個半小時。這是米迪維夫自2024年以來首次在年終賽贏波，他與同日取勝的艾卡拿斯並列蘭度組榜首，星期三將正面交鋒；高比利同日將對迪亞科。",
+   "zh_hans": "前冠军米迪维夫在都灵年终赛首仗，以7:6（4）、6:3直落两盘击败主场新星高比利，取得开门红。米迪维夫全场十个发球局全部保住，未曾面对破发分，发出9记Ace，首盘抢七以7:4取胜，第二盘两度破发锁定胜局，全场仅用约一个半小时。这是米迪维夫自2024年以来首次在年终赛赢波，他与同日取胜的艾卡拿斯并列兰度组榜首，星期三将正面交锋；高比利同日将对迪亚科。"
+  },
+  "tags": {
+   "en": [
+    "ATP Finals",
+    "Medvedev",
+    "Cobolli"
+   ],
+   "zh_hant": [
+    "年終賽",
+    "米迪維夫",
+    "高比利"
+   ],
+   "zh_hans": [
+    "年终赛",
+    "梅德韦杰夫",
+    "高比利"
+   ]
+  }
+ }
 ]
