@@ -37,6 +37,44 @@
   "card_time": "2026-11-17 23:40"
  },
  {
+  "id": "20261117-hkopen-double-yang-win",
+  "sport": "badminton",
+  "published_at": "2026-11-17T22:44:00+08:00",
+  "source": "香港羽毛球公開賽",
+  "source_url": "https://hkopenbadminton.org/%e6%9d%8e%e5%af%a7%e9%a6%99%e6%b8%af%e5%85%ac%e9%96%8b%e8%b3%bd%ef%bd%9c%e3%80%8c%e9%9b%99%e6%a5%8a%e9%85%8d%e3%80%8d%e6%bf%80%e9%ac%a53%e5%b1%80%e8%b4%8f%e5%85%a7%e6%88%b0-%e9%97%9616%e5%bc%b7/",
+  "image_url": "https://images.hksports.hk/design/202611/20261117-hkopen-double-yang.jpg",
+  "title": {
+   "en": "\"Double Yeung\" win all-Hong Kong derby in three games to reach Hong Kong Open last 16, next face world No. 4 Pearly-Thinaah",
+   "zh_hant": "「雙楊配」激鬥三局贏港隊內戰 闖香港公開賽16強 硬撼世界第四「樂蒂組合」",
+   "zh_hans": "「双杨配」激斗三局赢港队内战 闯香港公开赛16强 硬撼世界第四「乐蒂组合」"
+  },
+  "summary": {
+   "en": "The Li-Ning Hong Kong Open continued at Kai Tak Arena on Tuesday evening, with the women's doubles first round producing an all-Hong Kong derby. World No. 20 Yeung Nga Ting and Yeung Pui Lam battled for 51 minutes to beat Lui Lok Lok and Tsang Hiu Yan 21-12, 11-21, 21-17, their second straight win over the pair. The \"Double Yeung\" pair advance to the last 16, where they face world No. 4 Malaysians Pearly Tan and Thinaah Muralitharan.",
+   "zh_hant": "「李寧香港公開羽毛球錦標賽」周二晚在啟德體藝館續戰，女雙首圈上演港隊內戰，世界排名第20位的楊雅婷／楊霈霖激戰51分鐘，以21:12、11:21、21:17勇挫呂樂樂／曾曉昕，拿下對賽兩連勝。「雙楊配」晉級16強後，下輪將硬撼世界排名第4的馬來西亞「樂蒂組合」陳康樂／蒂娜。",
+   "zh_hans": "「李宁香港公开羽毛球锦标赛」周二晚在启德体育馆续战，女双首圈上演港队内战，世界排名第20位的杨雅婷／杨霈霖激战51分钟，以21:12、11:21、21:17勇挫吕乐乐／曾晓昕，拿下对赛两连胜。「双杨配」晋级16强后，下轮将硬撼世界排名第4的马来西亚「乐蒂组合」陈康乐／蒂娜。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Open",
+    "Double Yeung",
+    "badminton"
+   ],
+   "zh_hant": [
+    "香港公開賽",
+    "雙楊配",
+    "羽毛球"
+   ],
+   "zh_hans": [
+    "香港公开赛",
+    "双杨配",
+    "羽毛球"
+   ]
+  },
+  "image_r2_key": "design/202611/20261117-hkopen-double-yang.jpg",
+  "card_time": "2026-11-17 22:44",
+  "caption": "楊雅婷（右）與楊霈霖在香港公開賽女雙首圈激戰三局，勇挫隊友晉級16強。（香港羽毛球公開賽）"
+ },
+ {
   "id": "20261117-hk-u17-lose-thailand-1-2",
   "sport": "football",
   "published_at": "2026-11-17T22:00:00+08:00",
