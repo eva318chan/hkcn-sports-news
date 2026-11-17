@@ -5,7 +5,7 @@
   "published_at": "2026-11-18T05:40:00+08:00",
   "source": "theScore",
   "source_url": "https://www.thescore.com/atp/news/3657938/zverev-beats-shelton-again-in-rematch-of-us-open-final-to-advance-at-atp-finals",
-  "image_url": null,
+  "image_url": "https://images.hksports.hk/design/202611/20261118-zverev-shelton-atp-finals-semi-v2.jpg",
   "title": {
    "en": "Zverev beats Shelton in straight sets to reach the ATP Finals semis with a perfect 7-0 record — Fils also wins",
    "zh_hant": "祖華利夫直落兩盤擊敗舒爾頓 七戰全勝率先闖入年終賽四強 菲斯同日取首勝",
@@ -33,6 +33,7 @@
     "ATP年终赛"
    ]
   },
-  "card_time": "2026-11-18 05:40"
+  "card_time": "2026-11-18 05:40",
+  "image_r2_key": "design/202611/20261118-zverev-shelton-atp-finals-semi-v2.jpg"
  }
 ]
