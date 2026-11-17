@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261117-suns-beat-nuggets-117-105-booker-20",
+    "sport": "basketball",
+    "published_at": "2026-11-17T13:01:00+08:00",
+    "source": "theScore",
+    "source_url": "https://www.thescore.com/nba/news/3657707/devin-booker-scores-20-points-suns-beat-nuggets-117-105-for-their-1-st-road-win-of-the-season",
+    "image_url": null,
+    "title": {
+      "en": "Suns Beat Nuggets 117-105 for First Road Win of Season | Seven Score in Double Figures as Jokic's 28 Points Go in Vain",
+      "zh_hant": "太陽117:105擊敗金塊奪今季作客首勝 七人得分上雙 約基治28分15板空砍",
+      "zh_hans": "太阳117:105击败金块夺今季作客首胜 七人得分上双 约基治28分15板空砍"
+    },
+    "summary": {
+      "en": "The Phoenix Suns beat the Denver Nuggets 117-105 on the road for their first away win of the season. Playing on the second night of a back-to-back, Phoenix won with a balanced attack as seven players scored in double figures, led by Devin Booker's team-high 20 points and eight assists, with Jalen Green and Miles Bridges adding 16 each. Denver's Nikola Jokic posted 28 points, 15 rebounds and seven assists, while Jamal Murray also scored 28, including 18 in the fourth quarter, but it was not enough. Phoenix hit 16 of 36 three-pointers, outrebounded Denver 51-35, turned 18 Nuggets turnovers into 31 points and outscored Denver's bench 42-19. The Suns improved to 6-7, while the Nuggets fell to 7-5, losing three of their last four home games.",
+      "zh_hant": "鳳凰城太陽作客117:105擊敗丹佛金塊，取得今季首場作客勝利。太陽在背靠背第二晚出戰，憑藉平均的進攻火力取勝，全隊七人得分上雙，布卡攻入全隊最高的20分，另加8次助攻；格連及布里奇斯各得16分，布祿斯15分。金塊的約基治攻入28分、15個籃板及7次助攻，梅利同樣攻入28分，其中18分來自第四節，但仍未能阻止球隊落敗。太陽三分球36投16中，籃板以51:35佔優，並利用金塊18次失誤攻入31分；後備球員得分以42:19大幅領先。太陽戰績改寫為6勝7負，金塊則為7勝5負，近四場主場輸了三場。",
+      "zh_hans": "凤凰城太阳作客117:105击败丹佛金块，取得今季首场作客胜利。太阳在背靠背第二晚出战，凭借平均的进攻火力取胜，全队七人得分上双，布卡攻入全队最高的20分，另加8次助攻；格连及布里奇斯各得16分，布禄斯15分。金块的约基治攻入28分、15个篮板及7次助攻，梅利同样攻入28分，其中18分来自第四节，但仍未能阻止球队落败。太阳三分球36投16中，篮板以51:35占优，并利用金块18次失误攻入31分；后备球员得分以42:19大幅领先。太阳战绩改写为6胜7负，金块则为7胜5负，近四场主场输了三场。"
+    },
+    "tags": {
+      "en": [
+        "Suns",
+        "Nuggets",
+        "NBA"
+      ],
+      "zh_hant": [
+        "太陽",
+        "金塊",
+        "NBA"
+      ],
+      "zh_hans": [
+        "太阳",
+        "金块",
+        "NBA"
+      ]
+    }
+  },
+  {
     "id": "20261117-chargers-beat-ravens-23-20-first-win",
     "sport": "others",
     "published_at": "2026-11-17T12:33:00+08:00",
@@ -31,6 +66,41 @@
         "NFL",
         "闪电队",
         "乌鸦队"
+      ]
+    }
+  },
+  {
+    "id": "20261117-pelicans-beat-warriors-115-94-fears-triple-double",
+    "sport": "basketball",
+    "published_at": "2026-11-17T11:57:00+08:00",
+    "source": "theScore",
+    "source_url": "https://www.thescore.com/nba/event/2462890/recap",
+    "image_url": null,
+    "title": {
+      "en": "Pelicans Rout Warriors 115-94 to End Six-Game Slide | Fears Records First Career Triple-Double as Bey Scores 23",
+      "zh_hant": "塘鵝115:94大炒勇士止六連敗 菲爾斯生涯首三雙 比伊23分 勇士缺居里慘敗",
+      "zh_hans": "塘鹅115:94大炒勇士止六连败 菲尔斯生涯首三双 比伊23分 勇士缺居里惨败"
+    },
+    "summary": {
+      "en": "The New Orleans Pelicans routed the Golden State Warriors 115-94 at home to snap a six-game losing streak. Jeremiah Fears recorded his first career triple-double with 19 points, 10 rebounds and 10 assists, while Saddiq Bey scored a team-high 23 points, including five three-pointers, and Zion Williamson added 16. New Orleans led 35-11 after the first quarter and stretched the lead to as many as 31 points, avenging a 51-point defeat in San Francisco a week earlier. Golden State, playing without Stephen Curry, struggled offensively, and rookie Yaxel Lendeborg's team-high 28 points were not enough. The Pelicans improved to 5-10.",
+      "zh_hant": "新奧爾良塘鵝主場115:94大炒金州勇士，終止六連敗。謝利美亞·菲爾斯取得生涯首次三雙，攻入19分、10個籃板及10次助攻；比伊攻入全隊最高的23分，包括5個三分球，威廉臣加添16分。塘鵝首節已打出35:11的攻勢，領先優勢一度擴大至31分，報卻上星期作客慘敗51分之仇。勇士今仗缺少居里，進攻乏力，陣中新秀攻入全隊最高的28分亦無補於事。塘鵝戰績改寫為5勝10負。",
+      "zh_hans": "新奥尔良塘鹅主场115:94大炒金州勇士，终止六连败。谢利美亚·菲尔斯取得生涯首次三双，攻入19分、10个篮板及10次助攻；比伊攻入全队最高的23分，包括5个三分球，威廉臣加添16分。塘鹅首节已打出35:11的攻势，领先优势一度扩大至31分，报却上星期作客惨败51分之仇。勇士今仗缺少居里，进攻乏力，阵中新秀攻入全队最高的28分亦无补于事。塘鹅战绩改写为5胜10负。"
+    },
+    "tags": {
+      "en": [
+        "Pelicans",
+        "Warriors",
+        "NBA"
+      ],
+      "zh_hant": [
+        "塘鵝",
+        "勇士",
+        "NBA"
+      ],
+      "zh_hans": [
+        "塘鹅",
+        "勇士",
+        "NBA"
       ]
     }
   },
