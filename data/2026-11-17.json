@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261117-alcaraz-tiafoe-atp-finals",
+    "sport": "tennis",
+    "published_at": "2026-11-17T07:21:00+08:00",
+    "source": "香港電台",
+    "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878067-20261117.htm",
+    "image_url": null,
+    "title": {
+      "en": "Alcaraz Crushes Tiafoe 6-2, 6-2 in ATP Finals Opener | Ten Straight Wins and Counting",
+      "zh_hant": "艾卡拿斯年終賽旗開得勝 直落兩盤輕取迪亞科 10連勝劍指首冠",
+      "zh_hans": "艾卡拿斯年终赛旗开得胜 直落两盘轻取迪亚科 10连胜剑指首冠"
+    },
+    "summary": {
+      "en": "Spain's Carlos Alcaraz opened his ATP Finals campaign in Turin with a straight-sets 6-2, 6-2 win over American Frances Tiafoe. Alcaraz hit 21 winners against just nine unforced errors and needed only 69 minutes to seal the win. It was his tenth consecutive victory, following titles in Vienna and Paris. Alcaraz said afterwards that he was very happy with his performance. He tops the Ivan Lendl Group with Daniil Medvedev, who also won on Monday, and the pair meet on Wednesday.",
+      "zh_hant": "西班牙球星艾卡拿斯直落兩盤6:2擊敗美國對手迪亞科，在ATP年終賽旗開得勝。他全場21次主動得分，只有9次無壓力犯錯，僅用了69分鐘就解決對手。這是艾卡拿斯連續第10場勝利，之前先後在維也納及巴黎奪冠。艾卡拿斯賽後說，對自己的表現感到非常滿意。他與同日取勝的米迪維夫並列蘭度組榜首，星期三將正面交鋒。",
+      "zh_hans": "西班牙球星艾卡拿斯直落两盘6:2击败美国对手迪亚科，在ATP年终赛旗开得胜。他全场21次主动得分，只有9次无压力犯错，仅用了69分钟就解决对手。这是艾卡拿斯连续第10场胜利，之前先后在维也纳及巴黎夺冠。艾卡拿斯赛后说，对自己的表现感到非常满意。他与同日取胜的梅德韦杰夫并列兰度组榜首，星期三将正面交锋。"
+    },
+    "tags": {
+      "en": [
+        "ATP Finals",
+        "Alcaraz",
+        "Tiafoe"
+      ],
+      "zh_hant": [
+        "年終賽",
+        "艾卡拿斯",
+        "迪亞科"
+      ],
+      "zh_hans": [
+        "年终赛",
+        "艾卡拿斯",
+        "迪亚科"
+      ]
+    }
+  },
+  {
     "id": "20261117-nations-league-monday-germany-switzerland",
     "sport": "football",
     "published_at": "2026-11-17T05:40:00+08:00",
