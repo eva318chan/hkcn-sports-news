@@ -6,7 +6,7 @@
   "card_time": "21:04",
   "source": "TifoSports",
   "source_url": "https://www.tifosports.com/event/zhe-an-hu-vs-cheuk-yiu-lee-181155537?results=1",
-  "image_url": null,
+  "image_url": "https://images.hksports.hk/design/202611/20261119-lee-cheuk-yiu-beats-hu-zhe-an-hk-open-last-16-v2.jpg",
   "title": {
    "en": "Lee Cheuk Yiu sweeps Hu Zhe An to reach Hong Kong Open last 16",
    "zh_hant": "李卓耀直落兩局挫胡哲安 港羽賽闖16強 明日硬撼二號種子昆拉武特",
@@ -33,7 +33,8 @@
     "李卓耀",
     "羽毛球"
    ]
-  }
+  },
+  "image_r2_key": "design/202611/20261119-lee-cheuk-yiu-beats-hu-zhe-an-hk-open-last-16-v2.jpg"
  },
  {
   "id": "20261119-jazz-132-107-clippers-sensabaugh-40-ends-12-game-skid",
@@ -42,7 +43,7 @@
   "card_time": "14:18",
   "source": "theScore",
   "source_url": "https://www.thescore.com/nba/news/3658670/sensabaugh-scores-40-points-as-jazz-beat-clippers-for-2-nd-win",
-  "image_url": null,
+  "image_url": "https://images.hksports.hk/design/202611/20261119-jazz-132-107-clippers-sensabaugh-40-ends-12-game-skid-v2.jpg",
   "title": {
    "en": "Sensabaugh drops 40 as Jazz rout Clippers 132-107 to snap 12-game skid",
    "zh_hant": "施薩保40分末節獨取25分 爵士132:107大炒快艇 終結12連敗開齋第二勝",
@@ -72,7 +73,8 @@
     "快艇",
     "施萨保"
    ]
-  }
+  },
+  "image_r2_key": "design/202611/20261119-jazz-132-107-clippers-sensabaugh-40-ends-12-game-skid-v2.jpg"
  },
  {
   "id": "20261119-timberwolves-106-105-blazers-mcdaniels-winner",
@@ -81,7 +83,7 @@
   "card_time": "12:16",
   "source": "theScore",
   "source_url": "https://www.thescore.com/nba/news/3658575/mc-daniels-scores-with-2-6-seconds-left-to-lift-timberwolves-to-106-105-win-over-trail-blazers",
-  "image_url": null,
+  "image_url": "https://images.hksports.hk/design/202611/20261119-timberwolves-106-105-blazers-mcdaniels-winner-v2.jpg",
   "title": {
    "en": "McDaniels' last-gasp layup lifts Timberwolves past Trail Blazers 106-105",
    "zh_hant": "麥丹尼爾斯剩2.6秒絕殺 木狼106:105險勝拓荒者 背靠背雙殺對手11勝4負",
@@ -111,6 +113,7 @@
     "拓荒者",
     "麦丹尼尔斯"
    ]
-  }
+  },
+  "image_r2_key": "design/202611/20261119-timberwolves-106-105-blazers-mcdaniels-winner-v2.jpg"
  }
 ]
