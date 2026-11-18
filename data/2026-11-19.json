@@ -115,5 +115,77 @@
    ]
   },
   "image_r2_key": "design/202611/20261119-timberwolves-106-105-blazers-mcdaniels-winner-v2.jpg"
+ },
+ {
+  "card_time": "19:30",
+  "id": "20261119-ng-ka-long-beats-jason-teh-hk-open-last-16",
+  "image_url": null,
+  "published_at": "2026-11-18T19:30:00+08:00",
+  "source": "Remen99",
+  "source_url": "https://remen99.com/d/400-hong-kong-open-badminton-2026-malaysia-time-en",
+  "sport": "badminton",
+  "summary": {
+   "en": "Hong Kong's Ng Ka Long Angus beat Singapore's Jason Teh Jia Heng 21-19, 21-15 in straight games in the first round of the Hong Kong Open at Kai Tak Arena, booking a place in the last 16. Ng avenged two straight-games defeats to Teh earlier this year to keep his home campaign alive. He joins fellow Hong Kong men's singles players Lee Cheuk Yiu and Jason Gunawan in the second round.",
+   "zh_hans": "港队男单伍家朗在启德体艺馆举行的香港公开赛首圈，直落两局以21:19、21:15击败新加坡球手郑嘉恒，闯入16强。伍家朗成功报回今年两次直落两局不敌对手之仇，保住主场晋级希望。他同李卓耀、吴英伦一起打入第二圈，三名港队男单齐齐晋级。",
+   "zh_hant": "港隊男單伍家朗喺啟德體藝館舉行嘅香港公開賽首圈，直落兩局以21:19、21:15擊敗新加坡球手鄭嘉恆，闖入16強。伍家朗成功報返今年兩次直落兩局不敵對手之仇，保住主場晉級希望。佢同李卓耀、吳英倫一齊打入第二圈，三名港隊男單齊齊晉級。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Open",
+    "Ng Ka Long",
+    "Badminton"
+   ],
+   "zh_hans": [
+    "香港公开赛",
+    "伍家朗",
+    "羽毛球"
+   ],
+   "zh_hant": [
+    "香港公開賽",
+    "伍家朗",
+    "羽毛球"
+   ]
+  },
+  "title": {
+   "en": "Ng Ka Long sweeps Jason Teh to reach Hong Kong Open last 16",
+   "zh_hans": "伍家朗直落两局挫新加坡郑嘉恒 港羽赛闯16强 三名港将齐齐晋级",
+   "zh_hant": "伍家朗直落兩局挫新加坡鄭嘉恆 港羽賽闖16強 三名港將齊齊晉級"
+  }
+ },
+ {
+  "card_time": "17:00",
+  "id": "20261119-srikanth-beats-watanabe-hk-open-race-to-finals",
+  "image_url": null,
+  "published_at": "2026-11-18T17:00:00+08:00",
+  "source": "BWF World Tour",
+  "source_url": "https://bwfworldtour.bwfbadminton.com/news-single/2026/11/18/hong-kong-open-kidambi-plays-kingmaker/",
+  "sport": "badminton",
+  "summary": {
+   "en": "India's Kidambi Srikanth pulled off a 21-16, 16-21, 21-9 surprise win over Japan's Koki Watanabe in 51 minutes in the first round of the Hong Kong Open at Kai Tak Arena. The result officially ended Watanabe's hopes of qualifying for the season-ending BWF World Tour Finals in Hangzhou, with Lakshya Sen, Chou Tien Chen and Kunlavut Vitidsarn now set to take the remaining places. Sen survived a scare to beat France's Arnaud Merkle 14-21, 21-16, 25-23, while Chou lost 19-21, 21-7, 21-19 to Indonesia's Moh Zaki Ubaidillah.",
+   "zh_hans": "印度球手施里简夫在启德体艺馆举行的香港公开赛首圈，以21:16、16:21、21:9三局力克日本球手渡边航贵，全场只用51分钟。这场胜仗正式断送渡边航贵争夺年终总决赛席位的希望，森恩、周天成同昆拉武特将拿到余下席位。森恩亦惊险以14:21、21:16、25:23反胜法国球手梅克尔，周天成则以19:21、21:7、21:19不敌印尼新星乌拜迪拉。",
+   "zh_hant": "印度球手施里簡夫喺啟德體藝館舉行嘅香港公開賽首圈，以21:16、16:21、21:9三局力克日本球手渡邊航貴，全場只用51分鐘。呢場勝仗正式斷送渡邊航貴爭奪年終總決賽席位嘅希望，森恩、周天成同昆拉武特將攞到餘下席位。森恩亦驚險以14:21、21:16、25:23反勝法國球手梅克爾，周天成則以19:21、21:7、21:19不敵印尼新星烏拜迪拉。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Open",
+    "Srikanth",
+    "Badminton"
+   ],
+   "zh_hans": [
+    "香港公开赛",
+    "施里简夫",
+    "羽毛球"
+   ],
+   "zh_hant": [
+    "香港公開賽",
+    "施里簡夫",
+    "羽毛球"
+   ]
+  },
+  "title": {
+   "en": "Srikanth stuns Watanabe in three games to end rival's World Tour Finals race",
+   "zh_hans": "施里简夫三局力克渡边航贵 港羽赛爆冷晋级 亲手断送对手年终赛希望",
+   "zh_hant": "施里簡夫三局力克渡邊航貴 港羽賽爆冷晉級 親手斷送對手年終賽希望"
+  }
  }
 ]
