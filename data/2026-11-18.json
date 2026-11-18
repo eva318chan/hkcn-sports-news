@@ -1,5 +1,42 @@
 [
  {
+  "id": "20261118-nations-league-portugal-norway-qualify",
+  "sport": "football",
+  "published_at": "2026-11-18T07:20:00+08:00",
+  "source": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878222-20261118.htm",
+  "image_url": "https://images.hksports.hk/design/202611/20261118-nations-league-portugal-norway-qualify-v2.jpg",
+  "title": {
+   "en": "Portugal Edge Wales 3-2 With 10 Men to Top Nations League Group — Haaland's Stoppage-Time Penalty Sends Norway Through",
+   "zh_hant": "歐國聯葡萄牙少打一人作客3:2挫威爾斯 小組首名出線 夏蘭特補時12碼絕殺丹麥助挪威晉級",
+   "zh_hans": "欧国联葡萄牙少打一人作客3:2挫威尔斯 小组首名出线 夏兰特补时12码绝杀丹麦助挪威晋级"
+  },
+  "summary": {
+   "en": "Portugal won 3-2 away to Wales in the Nations League despite being reduced to ten men in the second half. In the same group, Norway beat Denmark 3-2 away, with Erling Haaland scoring a stoppage-time penalty winner. Portugal finished top of the group with 15 points from six matches, while Norway and Denmark both finished on nine points, with Norway taking second place on a better head-to-head record.",
+   "zh_hant": "歐國聯葡萄牙在下半場少打一人的情況下，作客3:2擊敗威爾斯。同組挪威靠夏蘭特在補時階段射入12碼，作客3:2「絕殺」丹麥。賽後葡萄牙6戰15分，以小組首名晉級；挪威與丹麥同得9分，挪威憑較佳對賽成績以小組第二名晉級。",
+   "zh_hans": "欧国联葡萄牙在下半场少打一人的情况下，作客3:2击败威尔斯。同组挪威靠夏兰特在补时阶段射入12码，作客3:2「绝杀」丹麦。赛后葡萄牙6战15分，以小组首名晋级；挪威与丹麦同得9分，挪威凭较佳对赛成绩以小组第二名晋级。"
+  },
+  "tags": {
+   "en": [
+    "Nations League",
+    "Portugal",
+    "Norway"
+   ],
+   "zh_hant": [
+    "歐國聯",
+    "葡萄牙",
+    "挪威"
+   ],
+   "zh_hans": [
+    "欧国联",
+    "葡萄牙",
+    "挪威"
+   ]
+  },
+  "card_time": "2026-11-18 07:20",
+  "image_r2_key": "design/202611/20261118-nations-league-portugal-norway-qualify-v2.jpg"
+ },
+ {
   "id": "20261118-zverev-shelton-atp-finals-semi",
   "sport": "tennis",
   "published_at": "2026-11-18T05:40:00+08:00",
@@ -35,41 +72,5 @@
   },
   "card_time": "2026-11-18 05:40",
   "image_r2_key": "design/202611/20261118-zverev-shelton-atp-finals-semi-v2.jpg"
- },
- {
-  "id": "20261118-nations-league-portugal-norway-qualify",
-  "sport": "football",
-  "published_at": "2026-11-18T07:20:00+08:00",
-  "source": "香港電台",
-  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878222-20261118.htm",
-  "image_url": null,
-  "title": {
-   "en": "Portugal Edge Wales 3-2 With 10 Men to Top Nations League Group — Haaland's Stoppage-Time Penalty Sends Norway Through",
-   "zh_hant": "歐國聯葡萄牙少打一人作客3:2挫威爾斯 小組首名出線 夏蘭特補時12碼絕殺丹麥助挪威晉級",
-   "zh_hans": "欧国联葡萄牙少打一人作客3:2挫威尔斯 小组首名出线 夏兰特补时12码绝杀丹麦助挪威晋级"
-  },
-  "summary": {
-   "en": "Portugal won 3-2 away to Wales in the Nations League despite being reduced to ten men in the second half. In the same group, Norway beat Denmark 3-2 away, with Erling Haaland scoring a stoppage-time penalty winner. Portugal finished top of the group with 15 points from six matches, while Norway and Denmark both finished on nine points, with Norway taking second place on a better head-to-head record.",
-   "zh_hant": "歐國聯葡萄牙在下半場少打一人的情況下，作客3:2擊敗威爾斯。同組挪威靠夏蘭特在補時階段射入12碼，作客3:2「絕殺」丹麥。賽後葡萄牙6戰15分，以小組首名晉級；挪威與丹麥同得9分，挪威憑較佳對賽成績以小組第二名晉級。",
-   "zh_hans": "欧国联葡萄牙在下半场少打一人的情况下，作客3:2击败威尔斯。同组挪威靠夏兰特在补时阶段射入12码，作客3:2「绝杀」丹麦。赛后葡萄牙6战15分，以小组首名晋级；挪威与丹麦同得9分，挪威凭较佳对赛成绩以小组第二名晋级。"
-  },
-  "tags": {
-   "en": [
-    "Nations League",
-    "Portugal",
-    "Norway"
-   ],
-   "zh_hant": [
-    "歐國聯",
-    "葡萄牙",
-    "挪威"
-   ],
-   "zh_hans": [
-    "欧国联",
-    "葡萄牙",
-    "挪威"
-   ]
-  },
-  "card_time": "2026-11-18 07:20"
  }
 ]
