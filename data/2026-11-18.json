@@ -149,6 +149,42 @@
   "image_r2_key": "design/202611/20261118-zverev-shelton-atp-finals-semi-v2.jpg"
  },
  {
+  "card_time": "2026-11-18 14:30",
+  "id": "20261118-lo-sin-yan-hk-open-first-round-exit",
+  "image_url": null,
+  "published_at": "2026-11-18T14:30:00+08:00",
+  "source": "2026 Hong Kong Open draw",
+  "source_url": "https://en.wikipedia.org/wiki/2026_Hong_Kong_Open_(badminton)",
+  "sport": "badminton",
+  "summary": {
+   "en": "Hong Kong's Lo Sin Yan lost 15-21, 11-21 in straight games to Chinese Taipei's Chiu Pin-chian in the women's singles first round of the Hong Kong Open at Kai Tak Arena. Lo was the only Hong Kong player in the women's singles main draw, so her defeat ends the home challenge in the event. Top seed Wang Zhiyi of China beat Pai Yu-po in straight games on the same day, while Han Yue came from behind to beat India's Unnati Hooda.",
+   "zh_hans": "香港羽毛球公开赛女单首圈，港将卢善恩直落两局15:21、11:21不敌中华台北的赵品千，首圈止步。卢善恩是今届唯一打入女单正赛的港将，今仗落败后港队女单亦告全军覆没。同日头号种子王祉怡直落两局轻取白驭珀，韩悦则反胜印度小将乌纳蒂晋级。",
+   "zh_hant": "香港羽毛球公開賽女單首圈，港將盧善恩直落兩局15:21、11:21不敵中華台北的趙品千，首圈止步。盧善恩是今屆唯一打入女單正賽的港將，今仗落敗後港隊女單亦告全軍覆沒。同日頭號種子王祉怡直落兩局輕取白馭珀，韓悅則反勝印度小將烏納蒂晉級。"
+  },
+  "tags": {
+   "en": [
+    "Lo Sin Yan",
+    "Hong Kong Open",
+    "Badminton"
+   ],
+   "zh_hans": [
+    "卢善恩",
+    "香港公开赛",
+    "羽毛球"
+   ],
+   "zh_hant": [
+    "盧善恩",
+    "香港公開賽",
+    "羽毛球"
+   ]
+  },
+  "title": {
+   "en": "Lo Sin Yan falls in straight games to Chiu Pin-chian in Hong Kong Open first round as Hong Kong's women's singles hopes end",
+   "zh_hans": "卢善恩直落两局不敌赵品千 香港公开赛女单首圈止步 港队女单全军覆没",
+   "zh_hant": "盧善恩直落兩局不敵趙品千 香港公開賽女單首圈止步 港隊女單全軍覆沒"
+  }
+ },
+ {
   "card_time": "2026-11-18 11:14",
   "id": "20261118-knicks-beat-raptors-111-102-brunson-31",
   "image_url": null,
