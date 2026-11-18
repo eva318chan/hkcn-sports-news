@@ -1,149 +1,187 @@
 [
-  {
-    "card_time": "2026-11-18 12:06",
-    "id": "20261118-pistons-snap-spurs-12-game-streak-105-93",
-    "image_url": "https://images.hksports.hk/design/202611/20261118-pistons-snap-spurs-12-game-streak-105-93-v2.jpg",
-    "published_at": "2026-11-18T12:06:00+08:00",
-    "source": "theScore",
-    "source_url": "https://www.thescore.com/nba/news/3658523/pistons-snap-spurs-12-game-winning-streak",
-    "sport": "basketball",
-    "summary": {
-      "en": "The Detroit Pistons beat the San Antonio Spurs 105-93 on the road, ending the hosts' 12-game winning streak. Cade Cunningham scored 27 points and Daniss Jenkins added 25, including 21 in the second half, as Detroit outscored San Antonio 52-39 across the second and third quarters. Victor Wembanyama had 25 points and 18 rebounds for the Spurs, who lost for the first time since October 23 and fell to 12-3.",
-      "zh_hans": "底特律活塞作客105:93击败圣安东尼奥马刺，终结对方12连胜。康宁汉攻入27分，赞坚斯下半场独取21分、全场得25分，活塞在第二、三节合共打出52:39攻势反先。马刺中锋云班耶马得25分18篮板亦无力回天，马刺自10月23日以来首败，战绩跌至12胜3负。",
-      "zh_hant": "底特律活塞作客105:93擊敗聖安東尼奧馬刺，終結對方12連勝。康寧漢攻入27分，贊堅斯下半場獨取21分、全場得25分，活塞在第二、三節合共打出52:39攻勢反先。馬刺中鋒雲班耶馬得25分18籃板亦無力回天，馬刺自10月23日以來首敗，戰績跌至12勝3負。"
-    },
-    "tags": {
-      "en": [
-        "NBA",
-        "Pistons",
-        "Spurs"
-      ],
-      "zh_hans": [
-        "NBA",
-        "活塞",
-        "马刺"
-      ],
-      "zh_hant": [
-        "NBA",
-        "活塞",
-        "馬刺"
-      ]
-    },
-    "title": {
-      "en": "Pistons End Spurs' 12-Game Win Streak 105-93 Behind Cunningham's 27",
-      "zh_hans": "活塞105:93终结马刺12连胜 康宁汉27分带头反击 云班耶马25分18篮板徒劳",
-      "zh_hant": "活塞105:93終結馬刺12連勝 康寧漢27分帶頭反擊 雲班耶馬25分18籃板徒勞"
-    },
-    "image_r2_key": "design/202611/20261118-pistons-snap-spurs-12-game-streak-105-93-v2.jpg"
+ {
+  "id": "20261118-bigbang-kai-tak-150000-record",
+  "sport": "others",
+  "published_at": "2026-11-18T13:55:00+08:00",
+  "card_time": "2026-11-18 13:55",
+  "source": "啟德體育園",
+  "source_url": "",
+  "image_url": "https://images.hksports.hk/design/202611/20261118-bigbang-kai-tak-hero.jpg",
+  "image_r2_key": "design/202611/20261118-bigbang-kai-tak-hero.jpg",
+  "image_caption": "BIGBANG 香港站四場演唱會吸引逾 15 萬名觀眾入場。（相片提供：YG Entertainment）",
+  "title": {
+   "zh_hant": "BIGBANG 啟德四場吸逾15萬人 創香港韓團演唱會新紀錄",
+   "zh_hans": "BIGBANG 启德四场吸逾15万人 创香港韩团演唱会新纪录",
+   "en": "BIGBANG Draws Over 150,000 Fans Across Four Kai Tak Shows, Setting New Hong Kong Record for Korean Acts"
   },
-  {
-    "id": "20261118-nations-league-portugal-norway-qualify",
-    "sport": "football",
-    "published_at": "2026-11-18T07:20:00+08:00",
-    "source": "香港電台",
-    "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878222-20261118.htm",
-    "image_url": "https://images.hksports.hk/design/202611/20261118-nations-league-portugal-norway-qualify-v2.jpg",
-    "title": {
-      "en": "Portugal Edge Wales 3-2 With 10 Men to Top Nations League Group — Haaland's Stoppage-Time Penalty Sends Norway Through",
-      "zh_hant": "歐國聯葡萄牙少打一人作客3:2挫威爾斯 小組首名出線 夏蘭特補時12碼絕殺丹麥助挪威晉級",
-      "zh_hans": "欧国联葡萄牙少打一人作客3:2挫威尔斯 小组首名出线 夏兰特补时12码绝杀丹麦助挪威晋级"
-    },
-    "summary": {
-      "en": "Portugal won 3-2 away to Wales in the Nations League despite being reduced to ten men in the second half. In the same group, Norway beat Denmark 3-2 away, with Erling Haaland scoring a stoppage-time penalty winner. Portugal finished top of the group with 15 points from six matches, while Norway and Denmark both finished on nine points, with Norway taking second place on a better head-to-head record.",
-      "zh_hant": "歐國聯葡萄牙在下半場少打一人的情況下，作客3:2擊敗威爾斯。同組挪威靠夏蘭特在補時階段射入12碼，作客3:2「絕殺」丹麥。賽後葡萄牙6戰15分，以小組首名晉級；挪威與丹麥同得9分，挪威憑較佳對賽成績以小組第二名晉級。",
-      "zh_hans": "欧国联葡萄牙在下半场少打一人的情况下，作客3:2击败威尔斯。同组挪威靠夏兰特在补时阶段射入12码，作客3:2「绝杀」丹麦。赛后葡萄牙6战15分，以小组首名晋级；挪威与丹麦同得9分，挪威凭较佳对赛成绩以小组第二名晋级。"
-    },
-    "tags": {
-      "en": [
-        "Nations League",
-        "Portugal",
-        "Norway"
-      ],
-      "zh_hant": [
-        "歐國聯",
-        "葡萄牙",
-        "挪威"
-      ],
-      "zh_hans": [
-        "欧国联",
-        "葡萄牙",
-        "挪威"
-      ]
-    },
-    "card_time": "2026-11-18 07:20",
-    "image_r2_key": "design/202611/20261118-nations-league-portugal-norway-qualify-v2.jpg"
+  "summary": {
+   "zh_hant": "韓國天團 BIGBANG 香港站四場演唱會昨晚（11月17日）於啟德主場館圓滿落幕，合共吸引逾15萬名觀眾入場，創下香港歷來入場人數最多嘅韓國歌手演唱會紀錄，亦係 BIGBANG 本次世界巡迴演唱會中演出場次最多嘅城市。成員多次向樂迷講「Thank you, Hong Kong」同「I love Hong Kong」，更以廣東話多謝 V.I.P 二十年支持。活動期間部分餐飲商戶營業額較平日上升約三成。體育園行政總裁金民豪話，演出展現香港作為亞洲盛事之都嘅優勢。未來 BTS、Charlie Puth 同 Bruno Mars 將陸續喺體育園演出。",
+   "zh_hans": "韩国天团 BIGBANG 香港站四场演唱会昨晚（11月17日）于启德主场馆圆满落幕，合共吸引逾15万名观众入场，创下香港历来入场人数最多的韩国歌手演唱会纪录，亦是 BIGBANG 本次世界巡回演唱会中演出场次最多的城市。成员多次向乐迷讲「Thank you, Hong Kong」同「I love Hong Kong」，更以广东话多谢 V.I.P 二十年支持。活动期间部分餐饮商户营业额较平日上升约三成。体育园行政总裁金民豪话，演出展现香港作为亚洲盛事之都的优势。未来 BTS、Charlie Puth 同 Bruno Mars 将陆续在体育园演出。",
+   "en": "Korean supergroup BIGBANG wrapped up four sold-out Hong Kong concerts at Kai Tak Stadium last night (17 November), drawing more than 150,000 fans in total — a new Hong Kong record for attendance at a Korean act's concert series, and the most shows of any city on BIGBANG's current world tour. The members repeatedly told fans \"Thank you, Hong Kong\" and \"I love Hong Kong\", and thanked V.I.Ps in Cantonese for 20 years of support. Some food and beverage outlets nearby reported revenue up about 30 percent on normal days. Kai Tak Sports Park CEO Andrew Kam said the shows highlighted Hong Kong's strengths as Asia's events capital. BTS, Charlie Puth and Bruno Mars are set to perform at the park in the coming months."
   },
-  {
-    "id": "20261118-zverev-shelton-atp-finals-semi",
-    "sport": "tennis",
-    "published_at": "2026-11-18T05:40:00+08:00",
-    "source": "theScore",
-    "source_url": "https://www.thescore.com/atp/news/3657938/zverev-beats-shelton-again-in-rematch-of-us-open-final-to-advance-at-atp-finals",
-    "image_url": "https://images.hksports.hk/design/202611/20261118-zverev-shelton-atp-finals-semi-v2.jpg",
-    "title": {
-      "en": "Zverev beats Shelton in straight sets to reach the ATP Finals semis with a perfect 7-0 record — Fils also wins",
-      "zh_hant": "祖華利夫直落兩盤擊敗舒爾頓 七戰全勝率先闖入年終賽四強 菲斯同日取首勝",
-      "zh_hans": "兹维列夫直落两盘击败谢尔顿 七战全胜率先闯入年终赛四强 菲斯同日取首胜"
-    },
-    "summary": {
-      "en": "World No. 1 Alexander Zverev beat Ben Shelton 6-2, 7-6(4) in one hour and 34 minutes in Turin, in a rematch of the US Open final, improving to 7-0 against the American and becoming the first player through to the ATP Finals semi-finals with a group match to spare — his fifth semi-final appearance and a tour-leading 67th win of the season. Zverev broke in the opening game, lost only one point on his first serve in the second set until the tiebreak, and sealed victory with a forehand passing shot on his first match point. Earlier, Arthur Fils rallied past fellow debutant Rafael Jodar 4-6, 6-2, 6-2 for his first win at the Finals. Shelton, now 1-1, plays Jodar on Thursday, while Zverev, already through, faces Fils.",
-      "zh_hant": "世界第一祖華利夫在都靈年終賽直落兩盤6:2、7:6（4）擊敗舒爾頓，歷時1小時34分鐘，延續對賽七戰全勝，成為今屆首位晉身四強的球手，兼取得今季巡迴賽最多的第67場勝利，亦是他第五次闖入年終賽四強。祖華利夫開局即破發，第二盤直至決勝局前一發只失一分，最後憑第一個賽點一記正手穿越球奠定勝局。同日菲斯先失一盤下反勝祖達，4:6、6:2、6:2取得今屆首勝。舒爾頓一勝一負，星期四將與祖達交手；已出線的祖華利夫則迎戰菲斯。",
-      "zh_hans": "世界第一兹维列夫在都灵年终赛直落两盘6:2、7:6（4）击败谢尔顿，历时1小时34分钟，延续对赛七战全胜，成为今届首位晋身四强的球手，兼取得今季巡回赛最多的第67场胜利，亦是他第五次闯入年终赛四强。兹维列夫开局即破发，第二盘直至决胜局前一发只失一分，最后凭第一个赛点一记正手穿越球奠定胜局。同日菲斯先失一盘下反胜祖达，4:6、6:2、6:2取得今届首胜。舒尔顿一胜一负，星期四将与祖达交手；已出线的兹维列夫则迎战菲斯。"
-    },
-    "tags": {
-      "en": [
-        "Zverev",
-        "Shelton",
-        "ATP Finals"
-      ],
-      "zh_hant": [
-        "祖華利夫",
-        "舒爾頓",
-        "ATP年終賽"
-      ],
-      "zh_hans": [
-        "兹维列夫",
-        "谢尔顿",
-        "ATP年终赛"
-      ]
-    },
-    "card_time": "2026-11-18 05:40",
-    "image_r2_key": "design/202611/20261118-zverev-shelton-atp-finals-semi-v2.jpg"
-  },
-  {
-    "card_time": "2026-11-18 11:14",
-    "id": "20261118-knicks-beat-raptors-111-102-brunson-31",
-    "image_url": null,
-    "published_at": "2026-11-18T11:14:00+08:00",
-    "source": "theScore",
-    "source_url": "https://www.thescore.com/nba/news/3658489/brunson-converts-tiebreaking-4-point-play-as-knicks-beat-raptors-for-15-th-straight-time",
-    "sport": "basketball",
-    "summary": {
-      "en": "The New York Knicks beat the Toronto Raptors 111-102 on the road for their 15th consecutive win in the rivalry. Jalen Brunson scored a game-high 31 points, including 21 in the second half, and converted a tiebreaking four-point play with 1:25 left before New York closed on a 9-0 run. Karl-Anthony Towns added 16 points, 16 rebounds and eight assists, while Mikal Bridges scored 17.",
-      "zh_hans": "纽约尼克斯作客111:102击败多伦多速龙，取得对赛15连胜。白兰逊攻入全场最高31分，其中下半场占21分；完场前1分25秒，他在平手局面射入三分兼博得犯规，完成关键「4分打」，尼克斯随即打出9:0攻势奠定胜局。唐斯贡献16分16篮板8助攻，布里奇斯得17分。",
-      "zh_hant": "紐約尼克斯作客111:102擊敗多倫多速龍，取得對賽15連勝。白蘭遜攻入全場最高31分，其中下半場佔21分；完場前1分25秒，他在平手局面射入三分兼博得犯規，完成關鍵「4分打」，尼克斯隨即打出9:0攻勢奠定勝局。唐斯貢獻16分16籃板8助攻，布里奇斯得17分。"
-    },
-    "tags": {
-      "en": [
-        "NBA",
-        "Knicks",
-        "Brunson"
-      ],
-      "zh_hans": [
-        "NBA",
-        "尼克斯",
-        "白兰逊"
-      ],
-      "zh_hant": [
-        "NBA",
-        "尼克斯",
-        "白蘭遜"
-      ]
-    },
-    "title": {
-      "en": "Brunson's 31 Powers Knicks Past Raptors 111-102 for 15th Straight Win in Rivalry",
-      "zh_hans": "白兰逊31分末节发威 尼克斯111:102挫速龙 对赛15连胜 关键「4分打」奠胜",
-      "zh_hant": "白蘭遜31分末節發威 尼克斯111:102挫速龍 對賽15連勝 關鍵「4分打」奠勝"
-    }
+  "tags": {
+   "zh_hant": [
+    "BIGBANG",
+    "啟德體育園",
+    "演唱會"
+   ],
+   "zh_hans": [
+    "BIGBANG",
+    "启德体育园",
+    "演唱会"
+   ],
+   "en": [
+    "BIGBANG",
+    "Kai Tak Sports Park",
+    "Concert"
+   ]
   }
+ },
+ {
+  "card_time": "2026-11-18 12:06",
+  "id": "20261118-pistons-snap-spurs-12-game-streak-105-93",
+  "image_url": "https://images.hksports.hk/design/202611/20261118-pistons-snap-spurs-12-game-streak-105-93-v2.jpg",
+  "published_at": "2026-11-18T12:06:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/nba/news/3658523/pistons-snap-spurs-12-game-winning-streak",
+  "sport": "basketball",
+  "summary": {
+   "en": "The Detroit Pistons beat the San Antonio Spurs 105-93 on the road, ending the hosts' 12-game winning streak. Cade Cunningham scored 27 points and Daniss Jenkins added 25, including 21 in the second half, as Detroit outscored San Antonio 52-39 across the second and third quarters. Victor Wembanyama had 25 points and 18 rebounds for the Spurs, who lost for the first time since October 23 and fell to 12-3.",
+   "zh_hans": "底特律活塞作客105:93击败圣安东尼奥马刺，终结对方12连胜。康宁汉攻入27分，赞坚斯下半场独取21分、全场得25分，活塞在第二、三节合共打出52:39攻势反先。马刺中锋云班耶马得25分18篮板亦无力回天，马刺自10月23日以来首败，战绩跌至12胜3负。",
+   "zh_hant": "底特律活塞作客105:93擊敗聖安東尼奧馬刺，終結對方12連勝。康寧漢攻入27分，贊堅斯下半場獨取21分、全場得25分，活塞在第二、三節合共打出52:39攻勢反先。馬刺中鋒雲班耶馬得25分18籃板亦無力回天，馬刺自10月23日以來首敗，戰績跌至12勝3負。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Pistons",
+    "Spurs"
+   ],
+   "zh_hans": [
+    "NBA",
+    "活塞",
+    "马刺"
+   ],
+   "zh_hant": [
+    "NBA",
+    "活塞",
+    "馬刺"
+   ]
+  },
+  "title": {
+   "en": "Pistons End Spurs' 12-Game Win Streak 105-93 Behind Cunningham's 27",
+   "zh_hans": "活塞105:93终结马刺12连胜 康宁汉27分带头反击 云班耶马25分18篮板徒劳",
+   "zh_hant": "活塞105:93終結馬刺12連勝 康寧漢27分帶頭反擊 雲班耶馬25分18籃板徒勞"
+  },
+  "image_r2_key": "design/202611/20261118-pistons-snap-spurs-12-game-streak-105-93-v2.jpg"
+ },
+ {
+  "id": "20261118-nations-league-portugal-norway-qualify",
+  "sport": "football",
+  "published_at": "2026-11-18T07:20:00+08:00",
+  "source": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878222-20261118.htm",
+  "image_url": "https://images.hksports.hk/design/202611/20261118-nations-league-portugal-norway-qualify-v2.jpg",
+  "title": {
+   "en": "Portugal Edge Wales 3-2 With 10 Men to Top Nations League Group — Haaland's Stoppage-Time Penalty Sends Norway Through",
+   "zh_hant": "歐國聯葡萄牙少打一人作客3:2挫威爾斯 小組首名出線 夏蘭特補時12碼絕殺丹麥助挪威晉級",
+   "zh_hans": "欧国联葡萄牙少打一人作客3:2挫威尔斯 小组首名出线 夏兰特补时12码绝杀丹麦助挪威晋级"
+  },
+  "summary": {
+   "en": "Portugal won 3-2 away to Wales in the Nations League despite being reduced to ten men in the second half. In the same group, Norway beat Denmark 3-2 away, with Erling Haaland scoring a stoppage-time penalty winner. Portugal finished top of the group with 15 points from six matches, while Norway and Denmark both finished on nine points, with Norway taking second place on a better head-to-head record.",
+   "zh_hant": "歐國聯葡萄牙在下半場少打一人的情況下，作客3:2擊敗威爾斯。同組挪威靠夏蘭特在補時階段射入12碼，作客3:2「絕殺」丹麥。賽後葡萄牙6戰15分，以小組首名晉級；挪威與丹麥同得9分，挪威憑較佳對賽成績以小組第二名晉級。",
+   "zh_hans": "欧国联葡萄牙在下半场少打一人的情况下，作客3:2击败威尔斯。同组挪威靠夏兰特在补时阶段射入12码，作客3:2「绝杀」丹麦。赛后葡萄牙6战15分，以小组首名晋级；挪威与丹麦同得9分，挪威凭较佳对赛成绩以小组第二名晋级。"
+  },
+  "tags": {
+   "en": [
+    "Nations League",
+    "Portugal",
+    "Norway"
+   ],
+   "zh_hant": [
+    "歐國聯",
+    "葡萄牙",
+    "挪威"
+   ],
+   "zh_hans": [
+    "欧国联",
+    "葡萄牙",
+    "挪威"
+   ]
+  },
+  "card_time": "2026-11-18 07:20",
+  "image_r2_key": "design/202611/20261118-nations-league-portugal-norway-qualify-v2.jpg"
+ },
+ {
+  "id": "20261118-zverev-shelton-atp-finals-semi",
+  "sport": "tennis",
+  "published_at": "2026-11-18T05:40:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/atp/news/3657938/zverev-beats-shelton-again-in-rematch-of-us-open-final-to-advance-at-atp-finals",
+  "image_url": "https://images.hksports.hk/design/202611/20261118-zverev-shelton-atp-finals-semi-v2.jpg",
+  "title": {
+   "en": "Zverev beats Shelton in straight sets to reach the ATP Finals semis with a perfect 7-0 record — Fils also wins",
+   "zh_hant": "祖華利夫直落兩盤擊敗舒爾頓 七戰全勝率先闖入年終賽四強 菲斯同日取首勝",
+   "zh_hans": "兹维列夫直落两盘击败谢尔顿 七战全胜率先闯入年终赛四强 菲斯同日取首胜"
+  },
+  "summary": {
+   "en": "World No. 1 Alexander Zverev beat Ben Shelton 6-2, 7-6(4) in one hour and 34 minutes in Turin, in a rematch of the US Open final, improving to 7-0 against the American and becoming the first player through to the ATP Finals semi-finals with a group match to spare — his fifth semi-final appearance and a tour-leading 67th win of the season. Zverev broke in the opening game, lost only one point on his first serve in the second set until the tiebreak, and sealed victory with a forehand passing shot on his first match point. Earlier, Arthur Fils rallied past fellow debutant Rafael Jodar 4-6, 6-2, 6-2 for his first win at the Finals. Shelton, now 1-1, plays Jodar on Thursday, while Zverev, already through, faces Fils.",
+   "zh_hant": "世界第一祖華利夫在都靈年終賽直落兩盤6:2、7:6（4）擊敗舒爾頓，歷時1小時34分鐘，延續對賽七戰全勝，成為今屆首位晉身四強的球手，兼取得今季巡迴賽最多的第67場勝利，亦是他第五次闖入年終賽四強。祖華利夫開局即破發，第二盤直至決勝局前一發只失一分，最後憑第一個賽點一記正手穿越球奠定勝局。同日菲斯先失一盤下反勝祖達，4:6、6:2、6:2取得今屆首勝。舒爾頓一勝一負，星期四將與祖達交手；已出線的祖華利夫則迎戰菲斯。",
+   "zh_hans": "世界第一兹维列夫在都灵年终赛直落两盘6:2、7:6（4）击败谢尔顿，历时1小时34分钟，延续对赛七战全胜，成为今届首位晋身四强的球手，兼取得今季巡回赛最多的第67场胜利，亦是他第五次闯入年终赛四强。兹维列夫开局即破发，第二盘直至决胜局前一发只失一分，最后凭第一个赛点一记正手穿越球奠定胜局。同日菲斯先失一盘下反胜祖达，4:6、6:2、6:2取得今届首胜。舒尔顿一胜一负，星期四将与祖达交手；已出线的兹维列夫则迎战菲斯。"
+  },
+  "tags": {
+   "en": [
+    "Zverev",
+    "Shelton",
+    "ATP Finals"
+   ],
+   "zh_hant": [
+    "祖華利夫",
+    "舒爾頓",
+    "ATP年終賽"
+   ],
+   "zh_hans": [
+    "兹维列夫",
+    "谢尔顿",
+    "ATP年终赛"
+   ]
+  },
+  "card_time": "2026-11-18 05:40",
+  "image_r2_key": "design/202611/20261118-zverev-shelton-atp-finals-semi-v2.jpg"
+ },
+ {
+  "card_time": "2026-11-18 11:14",
+  "id": "20261118-knicks-beat-raptors-111-102-brunson-31",
+  "image_url": null,
+  "published_at": "2026-11-18T11:14:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/nba/news/3658489/brunson-converts-tiebreaking-4-point-play-as-knicks-beat-raptors-for-15-th-straight-time",
+  "sport": "basketball",
+  "summary": {
+   "en": "The New York Knicks beat the Toronto Raptors 111-102 on the road for their 15th consecutive win in the rivalry. Jalen Brunson scored a game-high 31 points, including 21 in the second half, and converted a tiebreaking four-point play with 1:25 left before New York closed on a 9-0 run. Karl-Anthony Towns added 16 points, 16 rebounds and eight assists, while Mikal Bridges scored 17.",
+   "zh_hans": "纽约尼克斯作客111:102击败多伦多速龙，取得对赛15连胜。白兰逊攻入全场最高31分，其中下半场占21分；完场前1分25秒，他在平手局面射入三分兼博得犯规，完成关键「4分打」，尼克斯随即打出9:0攻势奠定胜局。唐斯贡献16分16篮板8助攻，布里奇斯得17分。",
+   "zh_hant": "紐約尼克斯作客111:102擊敗多倫多速龍，取得對賽15連勝。白蘭遜攻入全場最高31分，其中下半場佔21分；完場前1分25秒，他在平手局面射入三分兼博得犯規，完成關鍵「4分打」，尼克斯隨即打出9:0攻勢奠定勝局。唐斯貢獻16分16籃板8助攻，布里奇斯得17分。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Knicks",
+    "Brunson"
+   ],
+   "zh_hans": [
+    "NBA",
+    "尼克斯",
+    "白兰逊"
+   ],
+   "zh_hant": [
+    "NBA",
+    "尼克斯",
+    "白蘭遜"
+   ]
+  },
+  "title": {
+   "en": "Brunson's 31 Powers Knicks Past Raptors 111-102 for 15th Straight Win in Rivalry",
+   "zh_hans": "白兰逊31分末节发威 尼克斯111:102挫速龙 对赛15连胜 关键「4分打」奠胜",
+   "zh_hant": "白蘭遜31分末節發威 尼克斯111:102挫速龍 對賽15連勝 關鍵「4分打」奠勝"
+  }
+ }
 ]
