@@ -72,5 +72,77 @@
   },
   "card_time": "2026-11-18 05:40",
   "image_r2_key": "design/202611/20261118-zverev-shelton-atp-finals-semi-v2.jpg"
+ },
+ {
+  "card_time": "2026-11-18 12:06",
+  "id": "20261118-pistons-snap-spurs-12-game-streak-105-93",
+  "image_url": null,
+  "published_at": "2026-11-18T12:06:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/nba/news/3658523/pistons-snap-spurs-12-game-winning-streak",
+  "sport": "basketball",
+  "summary": {
+   "en": "The Detroit Pistons beat the San Antonio Spurs 105-93 on the road, ending the hosts' 12-game winning streak. Cade Cunningham scored 27 points and Daniss Jenkins added 25, including 21 in the second half, as Detroit outscored San Antonio 52-39 across the second and third quarters. Victor Wembanyama had 25 points and 18 rebounds for the Spurs, who lost for the first time since October 23 and fell to 12-3.",
+   "zh_hans": "底特律活塞作客105:93击败圣安东尼奥马刺，终结对方12连胜。康宁汉攻入27分，赞坚斯下半场独取21分、全场得25分，活塞在第二、三节合共打出52:39攻势反先。马刺中锋云班耶马得25分18篮板亦无力回天，马刺自10月23日以来首败，战绩跌至12胜3负。",
+   "zh_hant": "底特律活塞作客105:93擊敗聖安東尼奧馬刺，終結對方12連勝。康寧漢攻入27分，贊堅斯下半場獨取21分、全場得25分，活塞在第二、三節合共打出52:39攻勢反先。馬刺中鋒雲班耶馬得25分18籃板亦無力回天，馬刺自10月23日以來首敗，戰績跌至12勝3負。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Pistons",
+    "Spurs"
+   ],
+   "zh_hans": [
+    "NBA",
+    "活塞",
+    "马刺"
+   ],
+   "zh_hant": [
+    "NBA",
+    "活塞",
+    "馬刺"
+   ]
+  },
+  "title": {
+   "en": "Pistons End Spurs' 12-Game Win Streak 105-93 Behind Cunningham's 27",
+   "zh_hans": "活塞105:93终结马刺12连胜 康宁汉27分带头反击 云班耶马25分18篮板徒劳",
+   "zh_hant": "活塞105:93終結馬刺12連勝 康寧漢27分帶頭反擊 雲班耶馬25分18籃板徒勞"
+  }
+ },
+ {
+  "card_time": "2026-11-18 11:14",
+  "id": "20261118-knicks-beat-raptors-111-102-brunson-31",
+  "image_url": null,
+  "published_at": "2026-11-18T11:14:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/nba/news/3658489/brunson-converts-tiebreaking-4-point-play-as-knicks-beat-raptors-for-15-th-straight-time",
+  "sport": "basketball",
+  "summary": {
+   "en": "The New York Knicks beat the Toronto Raptors 111-102 on the road for their 15th consecutive win in the rivalry. Jalen Brunson scored a game-high 31 points, including 21 in the second half, and converted a tiebreaking four-point play with 1:25 left before New York closed on a 9-0 run. Karl-Anthony Towns added 16 points, 16 rebounds and eight assists, while Mikal Bridges scored 17.",
+   "zh_hans": "纽约尼克斯作客111:102击败多伦多速龙，取得对赛15连胜。白兰逊攻入全场最高31分，其中下半场占21分；完场前1分25秒，他在平手局面射入三分兼博得犯规，完成关键「4分打」，尼克斯随即打出9:0攻势奠定胜局。唐斯贡献16分16篮板8助攻，布里奇斯得17分。",
+   "zh_hant": "紐約尼克斯作客111:102擊敗多倫多速龍，取得對賽15連勝。白蘭遜攻入全場最高31分，其中下半場佔21分；完場前1分25秒，他在平手局面射入三分兼博得犯規，完成關鍵「4分打」，尼克斯隨即打出9:0攻勢奠定勝局。唐斯貢獻16分16籃板8助攻，布里奇斯得17分。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Knicks",
+    "Brunson"
+   ],
+   "zh_hans": [
+    "NBA",
+    "尼克斯",
+    "白兰逊"
+   ],
+   "zh_hant": [
+    "NBA",
+    "尼克斯",
+    "白蘭遜"
+   ]
+  },
+  "title": {
+   "en": "Brunson's 31 Powers Knicks Past Raptors 111-102 for 15th Straight Win in Rivalry",
+   "zh_hans": "白兰逊31分末节发威 尼克斯111:102挫速龙 对赛15连胜 关键「4分打」奠胜",
+   "zh_hant": "白蘭遜31分末節發威 尼克斯111:102挫速龍 對賽15連勝 關鍵「4分打」奠勝"
+  }
  }
 ]
