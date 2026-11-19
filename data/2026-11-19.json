@@ -2273,5 +2273,48 @@
   "source": "The Indian Express",
   "card_time": "17:25",
   "image_r2_key": "design/202611/20261117-dhoni-retires-ipl-csk-mentor-2027-v2.jpg"
+ },
+ {
+  "id": "20261119-hong-kong-lose-bangladesh-a-rising-stars-opener",
+  "sport": "cricket",
+  "published_at": "2026-11-19T21:42:00+08:00",
+  "source": "tob.news",
+  "source_name": "tob.news",
+  "source_url": "https://tob.news/saif-yasir-steer-bangladesh-a-to-flying-start/",
+  "image_url": null,
+  "card_time": "21:42",
+  "title": {
+   "en": "Rath's 77 in Vain as Hong Kong Lose Rising Stars Opener by 8 Wickets — Bangladesh A Chase 220 With 54 Balls to Spare",
+   "zh_hans": "拉夫轰77分仍难救主 港队新星亚洲杯首战8个wicket不敌孟加拉A队",
+   "zh_hant": "拉夫轟77分仍難救主 港隊新星亞洲盃首戰8個wicket不敵孟加拉A隊"
+  },
+  "summary": {
+   "en": "Hong Kong lost their opening match of the ACC Men's Asia Cup Rising Stars 2026 in Doha on Thursday, going down by eight wickets to Bangladesh A. Batting first after Bangladesh won the toss and chose to bowl, Hong Kong made 219 for eight from their 50 overs, with Anshuman Rath top-scoring with 77 and Aizaz Khan adding 67 in a 128-run fourth-wicket stand. Bangladesh chased the target down in 41 overs, captain Saif Hassan finishing unbeaten on 86 from 116 balls and Yasir Ali smashing 71 not out from 51 balls, with 54 balls to spare. Hong Kong, captained by Yasim Murtaza, will look to bounce back in their remaining Group A matches against Sri Lanka A and Afghanistan A.",
+   "zh_hans": "港队在多哈举行的新星亚洲杯首战落败，8个wicket不敌孟加拉A队。孟加拉A队赢波掷毫选择先守，港队50局得219分8个wicket出局，拉夫轰77分最高，艾扎兹·汗贡献67分，两人第四个wicket合作得128分。孟加拉A队41局追到220分，队长沙夫·哈桑116球轰86分未出局，耶西尔·阿里51球轰71分未出局，还剩54球就赢波。港队由耶森·穆尔塔扎领军，之后将在A组迎战斯里兰卡A队同阿富汗A队，力求反弹。",
+   "zh_hant": "港隊在多哈舉行的新星亞洲盃首戰落敗，8個wicket不敵孟加拉A隊。孟加拉A隊贏波擲毫選擇先守，港隊50局得219分8個wicket出局，拉夫轟77分最高，艾扎茲·汗貢獻67分，兩人第四個wicket合作得128分。孟加拉A隊41局追到220分，隊長沙夫·哈桑116球轟86分未出局，耶西爾·阿里51球轟71分未出局，仲剩54球就贏波。港隊由耶森·穆爾塔扎領軍，之後將在A組迎戰斯里蘭卡A隊同阿富汗A隊，力求反彈。"
+  },
+  "tags": {
+   "en": [
+    "Asia Cup Rising Stars",
+    "Hong Kong Cricket",
+    "Bangladesh A",
+    "Anshuman Rath",
+    "Saif Hassan"
+   ],
+   "zh_hans": [
+    "新星亚洲杯",
+    "香港板球",
+    "孟加拉A队",
+    "拉夫",
+    "沙夫·哈桑"
+   ],
+   "zh_hant": [
+    "新星亞洲盃",
+    "香港板球",
+    "孟加拉A隊",
+    "拉夫",
+    "沙夫·哈桑"
+   ]
+  }
  }
 ]
