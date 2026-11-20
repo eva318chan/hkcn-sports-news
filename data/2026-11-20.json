@@ -1,41 +1,5 @@
 [
  {
-  "id": "20261120-hk-open-liang-wang-zhu-xuanchen-quarterfinals",
-  "image_r2_key": "design/202611/20261120-hk-open-liang-wang-zhu-xuanchen-quarterfinals.jpg",
-  "image_url": "https://images.hksports.hk/design/202611/20261120-hk-open-liang-wang-zhu-xuanchen-quarterfinals.jpg",
-  "published_at": "2026-11-20T07:42:00+08:00",
-  "source": "香港電台",
-  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878535-20261120.htm",
-  "sport": "badminton",
-  "summary": {
-   "en": "At the Hong Kong Open badminton championships, China's men's doubles pair Liang Weikeng and Wang Chang came from a game down to beat their Malaysian opponents 19-21, 21-18, 21-19 and reach the quarterfinals. Two other Chinese men's doubles pairs, Hu Keyuan and Lin Xiangyi, and He Jiting and Ren Xiangyu, also booked quarterfinal places. In men's singles, Zhu Xuanchen was the only Chinese player to reach the last eight. Earlier, Wang Zhiyi advanced to the women's singles quarterfinals, while world No. 4 Chen Yufei was upset in straight games by India's Rakshitha Ramraj.",
-   "zh_hans": "香港公开羽毛球锦标赛，国家队男双组合梁伟铿／王昶迎战马来西亚组合，先输一局19:21，其后力追两局21:18及21:19胜出，晋级八强。另外两队男双组合胡珂源／林祥毅，以及何济霆／任翔宇都获得八强席位。男单方面，只有朱轩辰打进八强。较早前，王祉怡直落两局击败日本球手仁平菜月，晋身女单八强；世界排名第四的陈雨菲爆冷以局数0:2不敌印度小将拉克希塔，无缘晋级。",
-   "zh_hant": "香港公開羽毛球錦標賽，國家隊男雙組合梁偉鏗／王昶迎戰馬來西亞組合，先輸一局19:21，其後力追兩局21:18及21:19勝出，晉級八強。另外兩隊男雙組合胡珂源／林祥毅，以及何濟霆／任翔宇都獲得八強席位。男單方面，只有朱軒辰打進八強。較早前，王祉怡直落兩局擊敗日本球手仁平菜月，晉身女單八強；世界排名第四的陳雨菲爆冷以局數0:2不敵印度小將拉克希塔，無緣晉級。"
-  },
-  "tags": {
-   "en": [
-    "Hong Kong Open",
-    "Badminton",
-    "Liang Weikeng Wang Chang"
-   ],
-   "zh_hans": [
-    "香港公开赛",
-    "羽毛球",
-    "梁伟铿王昶"
-   ],
-   "zh_hant": [
-    "香港公開賽",
-    "羽毛球",
-    "梁偉鏗王昶"
-   ]
-  },
-  "title": {
-   "en": "Liang and Wang Fight Back to Reach Hong Kong Open Quarterfinals as Three Chinese Men's Doubles Pairs Advance",
-   "zh_hans": "梁王组合先失一局反胜闯八强 国羽三对男双齐晋级 朱轩辰男单过关",
-   "zh_hant": "梁王組合先失一局反勝闖八強 國羽三對男雙齊晉級 朱軒辰男單過關"
-  }
- },
- {
   "id": "20261120-f1-las-vegas-fp1-rain-washout-perez-first",
   "image_url": "https://images.hksports.hk/design/202611/20261120-f1-las-vegas-fp1-rain-washout-perez-first-v2.jpg",
   "published_at": "2026-11-20T09:35:00+08:00",
@@ -73,5 +37,79 @@
    "zh_hant": "拉斯維加斯站首節練習賽暴雨腰斬 全場無人造出計時圈 佩雷斯「名義最快」"
   },
   "image_r2_key": "design/202611/20261120-f1-las-vegas-fp1-rain-washout-perez-first-v2.jpg"
+ },
+ {
+  "id": "20261120-hk-open-liang-wang-zhu-xuanchen-quarterfinals",
+  "image_r2_key": "design/202611/20261120-hk-open-liang-wang-zhu-xuanchen-quarterfinals.jpg",
+  "image_url": "https://images.hksports.hk/design/202611/20261120-hk-open-liang-wang-zhu-xuanchen-quarterfinals.jpg",
+  "published_at": "2026-11-20T07:42:00+08:00",
+  "source": "香港電台",
+  "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878535-20261120.htm",
+  "sport": "badminton",
+  "summary": {
+   "en": "At the Hong Kong Open badminton championships, China's men's doubles pair Liang Weikeng and Wang Chang came from a game down to beat their Malaysian opponents 19-21, 21-18, 21-19 and reach the quarterfinals. Two other Chinese men's doubles pairs, Hu Keyuan and Lin Xiangyi, and He Jiting and Ren Xiangyu, also booked quarterfinal places. In men's singles, Zhu Xuanchen was the only Chinese player to reach the last eight. Earlier, Wang Zhiyi advanced to the women's singles quarterfinals, while world No. 4 Chen Yufei was upset in straight games by India's Rakshitha Ramraj.",
+   "zh_hans": "香港公开羽毛球锦标赛，国家队男双组合梁伟铿／王昶迎战马来西亚组合，先输一局19:21，其后力追两局21:18及21:19胜出，晋级八强。另外两队男双组合胡珂源／林祥毅，以及何济霆／任翔宇都获得八强席位。男单方面，只有朱轩辰打进八强。较早前，王祉怡直落两局击败日本球手仁平菜月，晋身女单八强；世界排名第四的陈雨菲爆冷以局数0:2不敌印度小将拉克希塔，无缘晋级。",
+   "zh_hant": "香港公開羽毛球錦標賽，國家隊男雙組合梁偉鏗／王昶迎戰馬來西亞組合，先輸一局19:21，其後力追兩局21:18及21:19勝出，晉級八強。另外兩隊男雙組合胡珂源／林祥毅，以及何濟霆／任翔宇都獲得八強席位。男單方面，只有朱軒辰打進八強。較早前，王祉怡直落兩局擊敗日本球手仁平菜月，晉身女單八強；世界排名第四的陳雨菲爆冷以局數0:2不敵印度小將拉克希塔，無緣晉級。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Open",
+    "Badminton",
+    "Liang Weikeng Wang Chang"
+   ],
+   "zh_hans": [
+    "香港公开赛",
+    "羽毛球",
+    "梁伟铿王昶"
+   ],
+   "zh_hant": [
+    "香港公開賽",
+    "羽毛球",
+    "梁偉鏗王昶"
+   ]
+  },
+  "title": {
+   "en": "Liang and Wang Fight Back to Reach Hong Kong Open Quarterfinals as Three Chinese Men's Doubles Pairs Advance",
+   "zh_hans": "梁王组合先失一局反胜闯八强 国羽三对男双齐晋级 朱轩辰男单过关",
+   "zh_hant": "梁王組合先失一局反勝闖八強 國羽三對男雙齊晉級 朱軒辰男單過關"
+  }
+ },
+ {
+  "id": "20261120-nba-nov-19-grizzlies-warriors-126-98",
+  "image_url": null,
+  "published_at": "2026-11-20T12:00:00+08:00",
+  "source": "SportsFBI",
+  "source_url": "https://sportsfbi.com/blog/grizzlies-route-warriors-among-surprises",
+  "sport": "basketball",
+  "summary": {
+   "en": "Four NBA regular-season games on November 19 US time. The Grizzlies beat the Warriors 126-98 at home by 28 points, with Jaylen Wells scoring 22 and Cedric Coward adding 19, while Charles Bassey had 16 points and 13 rebounds for Golden State. The Trail Blazers won 124-114 at Milwaukee, as Damian Lillard scored a season-high 33 on his first return to Milwaukee since being waived by the Bucks in the summer of 2025, with Scoot Henderson adding 27 and Jrue Holiday 22; the Bucks suffered a 12th straight loss to fall to 1-15. The Knicks edged the Timberwolves 102-99 on the road, with Karl-Anthony Towns posting 22 points and 12 rebounds and Jalen Brunson adding 21, while Jonathan Kuminga scored 23 for Minnesota. The Spurs beat the Clippers 124-112 at home, with Victor Wembanyama posting 32 points and 11 rebounds and Stephon Castle adding 21 points and 12 assists; Brook Lopez and Darius Garland each scored 23 for the Clippers.",
+   "zh_hans": "美国时间 11 月 19 日 NBA 常规赛 4 场比赛结果。灰熊主场 126 比 98 大胜勇士 28 分，Jaylen Wells 得 22 分，Cedric Coward 添 19 分，勇士 Charles Bassey 得 16 分 13 篮板。拓荒者作客 124 比 114 击败公鹿，Damian Lillard 在 2025 年夏天被公鹿裁走后首次重返密尔沃基，攻入今季新高 33 分，Scoot Henderson 添 27 分，Jrue Holiday 得 22 分；公鹿吞下 12 连败，1 胜 15 负。纽约人作客 102 比 99 险胜木狼，Karl-Anthony Towns 得 22 分 12 篮板，Jalen Brunson 添 21 分；木狼 Jonathan Kuminga 得 23 分。马刺主场 124 比 112 击败快艇，Victor Wembanyama 得 32 分 11 篮板，Stephon Castle 添 21 分 12 助攻；快艇 Brook Lopez 及 Darius Garland 各得 23 分。",
+   "zh_hant": "美國時間 11 月 19 日 NBA 常規賽 4 場比賽結果。灰熊主場 126 比 98 大勝勇士 28 分，Jaylen Wells 得 22 分，Cedric Coward 添 19 分，勇士 Charles Bassey 得 16 分 13 籃板。拓荒者作客 124 比 114 擊敗公鹿，Damian Lillard 在 2025 年夏天被公鹿裁走後首次重返密爾沃基，攻入今季新高 33 分，Scoot Henderson 添 27 分，Jrue Holiday 得 22 分；公鹿吞下 12 連敗，1 勝 15 負。紐約人作客 102 比 99 險勝木狼，Karl-Anthony Towns 得 22 分 12 籃板，Jalen Brunson 添 21 分；木狼 Jonathan Kuminga 得 23 分。馬刺主場 124 比 112 擊敗快艇，Victor Wembanyama 得 32 分 11 籃板，Stephon Castle 添 21 分 12 助攻；快艇 Brook Lopez 及 Darius Garland 各得 23 分。"
+  },
+  "tags": {
+   "en": [
+    "NBA",
+    "Grizzlies",
+    "Lillard",
+    "Spurs"
+   ],
+   "zh_hans": [
+    "NBA",
+    "灰熊",
+    "Lillard",
+    "马刺"
+   ],
+   "zh_hant": [
+    "NBA",
+    "灰熊",
+    "Lillard",
+    "馬刺"
+   ]
+  },
+  "title": {
+   "en": "NBA round-up: Grizzlies rout Warriors by 28 as Lillard drops 33 on his return to Milwaukee and the Bucks lose a 12th straight",
+   "zh_hans": "NBA 4 场比赛结果 灰熊 28 分大胜勇士 Lillard 倒戈轰 33 分公鹿 12 连败",
+   "zh_hant": "NBA 4 場賽果 灰熊 28 分大勝勇士 Lillard 倒戈轟 33 分公鹿 12 連敗"
+  }
  }
 ]
