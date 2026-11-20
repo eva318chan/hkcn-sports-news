@@ -1,5 +1,42 @@
 [
   {
+    "id": "20261120-lee-man-beat-north-district-3-1-top",
+    "sport": "football",
+    "published_at": "2026-11-20T21:59:00+08:00",
+    "source": "FQ Live",
+    "source_url": "https://fqlive.com/football/premier-league-hk/team-4207-vs-team-6401-1607341",
+    "image_url": "https://images.hksports.hk/design/202611/20261120-lee-man-beat-north-district-3-1-top-v2.jpg",
+    "title": {
+      "en": "Lee Man beat league leaders North District 3-1 at home, scoring three second-half goals to go top",
+      "zh_hans": "理文主场3比1击败榜首北区 下半场连入三球反压升榜首",
+      "zh_hant": "理文主場3比1擊敗榜首北區 下半場連入三球反壓升榜首"
+    },
+    "summary": {
+      "en": "Lee Man beat league leaders North District 3-1 at home in the Hong Kong Premier League's top-of-the-table clash tonight. After a goalless first half, Lee Man scored three second-half goals to take all three points and move to the top of the table on 18 points, two ahead of North District. The defeat is North District's first in the league this season, ending an unbeaten run of five wins and one draw from six games. Lee Man trailed North District by one point before kick-off and now lead the table.",
+      "zh_hans": "港超联榜首大战，理文今晚主场以3比1击败高力北区。上半场双方互无纪录，理文下半场连入三球，全取三分后以18分反压北区升上榜首。北区今季联赛首尝败绩，赛前6战5胜1和得16分的不败走势告终。理文赛前落后北区1分，今仗胜出后反超前2分。",
+      "zh_hant": "港超聯榜首大戰，理文今晚主場以3比1擊敗高力北區。上半場雙方互無紀錄，理文下半場連入三球，全取三分後以18分反壓北區升上榜首。北區今季聯賽首嘗敗績，賽前6戰5勝1和得16分的不敗走勢告終。理文賽前落後北區1分，今仗勝出後反超前2分。"
+    },
+    "tags": {
+      "en": [
+        "Lee Man",
+        "North District",
+        "Hong Kong Premier League"
+      ],
+      "zh_hans": [
+        "理文",
+        "北区",
+        "港超联"
+      ],
+      "zh_hant": [
+        "理文",
+        "北區",
+        "港超聯"
+      ]
+    },
+    "image_prompt": "Bright sunny outdoor football stadium in daylight, vivid green pitch under a blue sky, a football resting on the centre spot with the goal net in the background, dynamic wide-angle matchday atmosphere, no players, no faces. Bold two-line Chinese title in large 3D type: line one '理文3比1擊敗北區' in vivid coral red PANTONE 178 C #FF585D with deep blue PANTONE 2767 C #13294B outline, line two '反壓對手升上榜首' in yellow, both lines large, bold, clear, echoing each other. Clean top-left corner, no logo or text. Small text 'AI 示意圖' at the bottom-right corner. 16:9 landscape, bright, sunny, energetic, vivid colours, no dark or night tones, no silhouettes.",
+    "image_r2_key": "design/202611/20261120-lee-man-beat-north-district-3-1-top-v2.jpg"
+  },
+  {
     "id": "20261120-hk-open-quarterfinals-lakshya-sen-liang-wang-out",
     "image_url": "https://images.hksports.hk/design/202611/20261120-hk-open-quarterfinals-lakshya-sen-liang-wang-out-v2.jpg",
     "published_at": "2026-11-20T16:30:00+08:00",
@@ -263,41 +300,5 @@
       "zh_hans": "梁王组合先失一局反胜闯八强 国羽三对男双齐晋级 朱轩辰男单过关",
       "zh_hant": "梁王組合先失一局反勝闖八強 國羽三對男雙齊晉級 朱軒辰男單過關"
     }
-  },
-  {
-    "id": "20261120-lee-man-beat-north-district-3-1-top",
-    "sport": "football",
-    "published_at": "2026-11-20T21:59:00+08:00",
-    "source": "FQ Live",
-    "source_url": "https://fqlive.com/football/premier-league-hk/team-4207-vs-team-6401-1607341",
-    "image_url": null,
-    "title": {
-      "en": "Lee Man beat league leaders North District 3-1 at home, scoring three second-half goals to go top",
-      "zh_hans": "理文主场3比1击败榜首北区 下半场连入三球反压升榜首",
-      "zh_hant": "理文主場3比1擊敗榜首北區 下半場連入三球反壓升榜首"
-    },
-    "summary": {
-      "en": "Lee Man beat league leaders North District 3-1 at home in the Hong Kong Premier League's top-of-the-table clash tonight. After a goalless first half, Lee Man scored three second-half goals to take all three points and move to the top of the table on 18 points, two ahead of North District. The defeat is North District's first in the league this season, ending an unbeaten run of five wins and one draw from six games. Lee Man trailed North District by one point before kick-off and now lead the table.",
-      "zh_hans": "港超联榜首大战，理文今晚主场以3比1击败高力北区。上半场双方互无纪录，理文下半场连入三球，全取三分后以18分反压北区升上榜首。北区今季联赛首尝败绩，赛前6战5胜1和得16分的不败走势告终。理文赛前落后北区1分，今仗胜出后反超前2分。",
-      "zh_hant": "港超聯榜首大戰，理文今晚主場以3比1擊敗高力北區。上半場雙方互無紀錄，理文下半場連入三球，全取三分後以18分反壓北區升上榜首。北區今季聯賽首嘗敗績，賽前6戰5勝1和得16分的不敗走勢告終。理文賽前落後北區1分，今仗勝出後反超前2分。"
-    },
-    "tags": {
-      "en": [
-        "Lee Man",
-        "North District",
-        "Hong Kong Premier League"
-      ],
-      "zh_hans": [
-        "理文",
-        "北区",
-        "港超联"
-      ],
-      "zh_hant": [
-        "理文",
-        "北區",
-        "港超聯"
-      ]
-    },
-    "image_prompt": "Bright sunny outdoor football stadium in daylight, vivid green pitch under a blue sky, a football resting on the centre spot with the goal net in the background, dynamic wide-angle matchday atmosphere, no players, no faces. Bold two-line Chinese title in large 3D type: line one '理文3比1擊敗北區' in vivid coral red PANTONE 178 C #FF585D with deep blue PANTONE 2767 C #13294B outline, line two '反壓對手升上榜首' in yellow, both lines large, bold, clear, echoing each other. Clean top-left corner, no logo or text. Small text 'AI 示意圖' at the bottom-right corner. 16:9 landscape, bright, sunny, energetic, vivid colours, no dark or night tones, no silhouettes."
   }
 ]
