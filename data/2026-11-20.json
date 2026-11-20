@@ -34,5 +34,43 @@
    "zh_hans": "梁王组合先失一局反胜闯八强 国羽三对男双齐晋级 朱轩辰男单过关",
    "zh_hant": "梁王組合先失一局反勝闖八強 國羽三對男雙齊晉級 朱軒辰男單過關"
   }
+ },
+ {
+  "id": "20261120-f1-las-vegas-fp1-rain-washout-perez-first",
+  "image_url": null,
+  "published_at": "2026-11-20T09:35:00+08:00",
+  "source": "PlanetF1",
+  "source_url": "https://www.planetf1.com/news/2026-las-vegas-grand-prix-fp1-report",
+  "sport": "motorsport",
+  "summary": {
+   "en": "The first practice session of the Las Vegas Grand Prix was washed out by heavy rain, with none of the 22 drivers setting a timed lap. Sergio Perez was classified first simply by being the first driver to venture out, five minutes into the session, completing a single installation lap before returning to the pits. Ryo Hirakawa, Rafael Camara and others also managed only exploratory laps. Valtteri Bottas had a hairy moment on standing water at Turn 12, while Kimi Antonelli reported aquaplaning everywhere and Alex Albon also had a moment at Turn 14. Conditions are expected to improve for the second practice session.",
+   "zh_hans": "F1拉斯维加斯大奖赛首节练习赛因暴雨腰斩，全场22位车手无人造出计时圈。佩雷斯在开赛5分钟后率先驶出赛道，只完成一个安装圈便返回维修站，成为唯一「名义上」排第一的车手；希拉卡华、卡马拉等亦只完成探索圈。博塔斯在12号弯遇上积水险象环生，安东尼利指全场水漂严重，艾邦亦在14号弯打滑。赛会指余下周末天气预料好转，次节练习赛可望恢复正常。",
+   "zh_hant": "F1拉斯維加斯大獎賽首節練習賽因暴雨腰斬，全場22位車手無人造出計時圈。佩雷斯在開賽5分鐘後率先駛出賽道，只完成一個安裝圈便返回維修站，成為唯一「名義上」排第一的車手；希拉卡華、卡馬拉等亦只完成探索圈。博塔斯在12號彎遇上積水險象環生，安東尼利指全場水漂嚴重，艾邦亦在14號彎打滑。賽會指餘下週末天氣預料好轉，次節練習賽可望恢復正常。"
+  },
+  "tags": {
+   "en": [
+    "Formula 1",
+    "Las Vegas Grand Prix",
+    "Sergio Perez",
+    "Free practice"
+   ],
+   "zh_hans": [
+    "一级方程式",
+    "拉斯维加斯大奖赛",
+    "佩雷斯",
+    "练习赛"
+   ],
+   "zh_hant": [
+    "一級方程式",
+    "拉斯維加斯大獎賽",
+    "佩雷斯",
+    "練習賽"
+   ]
+  },
+  "title": {
+   "en": "Las Vegas GP first practice washed out by rain as no driver sets a timed lap, with Perez classified first after being first out on track",
+   "zh_hans": "拉斯维加斯站首节练习赛暴雨腰斩 全场无人造出计时圈 佩雷斯「名义最快」",
+   "zh_hant": "拉斯維加斯站首節練習賽暴雨腰斬 全場無人造出計時圈 佩雷斯「名義最快」"
+  }
  }
 ]
