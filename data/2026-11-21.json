@@ -109,5 +109,41 @@
     },
     "image_prompt": "Bright sunny outdoor football stadium in daylight, vivid green pitch under a blue sky, a football on the penalty spot with the goal net in the background, dynamic wide-angle matchday atmosphere, no players, no faces. Bold two-line Chinese title in large 3D type: line one 'C朗入球兼射失12碼' in vivid coral red PANTONE 178 C #FF585D with deep blue PANTONE 2767 C #13294B outline, line two '艾納斯1比3不敵吉達艾阿里' in yellow, both lines large, bold, clear, echoing each other. Clean top-left corner, no logo or text. Small text 'AI 示意圖' at the bottom-right corner. 16:9 landscape, bright, sunny, energetic, vivid colours, no dark background.",
     "image_r2_key": "design/202611/20261121-al-ahli-beat-al-nassr-3-1-ronaldo-penalty-miss-v2.jpg"
+  },
+  {
+    "id": "20261121-nations-league-qf-draw-spain-france",
+    "sport": "football",
+    "published_at": "2026-11-21T07:28:00+08:00",
+    "source": "香港電台",
+    "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878670-20261121.htm",
+    "image_url": null,
+    "title": {
+      "en": "Nations League quarter-final draw pits Spain against France as England face Norway",
+      "zh_hans": "欧国联八强抽签出炉 西班牙硬撼法国 英格兰斗挪威荷兰撼葡萄牙",
+      "zh_hant": "歐國聯八強抽籤出爐 西班牙硬撼法國 英格蘭鬥挪威荷蘭撼葡萄牙"
+    },
+    "summary": {
+      "en": "The draw for the UEFA Nations League quarter-finals has been made, with Spain set to face France, England against Norway, Belgium against Germany, and the Netherlands against Portugal. The quarter-final ties will be played over two legs in March next year.",
+      "zh_hans": "欧国联八强抽签出炉，西班牙将面对法国，英格兰对挪威，比利时迎战德国，荷兰斗葡萄牙。八强赛事将在明年3月进行，一共进行两回合比赛。",
+      "zh_hant": "歐國聯八強抽籤出爐，西班牙將面對法國，英格蘭對挪威，比利時迎戰德國，荷蘭鬥葡萄牙。八強賽事將在明年3月進行，一共進行兩回合比賽。"
+    },
+    "tags": {
+      "en": [
+        "Nations League",
+        "Spain",
+        "France"
+      ],
+      "zh_hans": [
+        "欧国联",
+        "西班牙",
+        "法国"
+      ],
+      "zh_hant": [
+        "歐國聯",
+        "西班牙",
+        "法國"
+      ]
+    },
+    "image_prompt": "Bright sunny outdoor football stadium in daylight, vivid green pitch under a blue sky, a football on the penalty spot with the goal net in the background, dynamic wide-angle matchday atmosphere, no players, no faces. Bold two-line Chinese title in large 3D type: line one '歐國聯八強抽籤出爐' in vivid coral red PANTONE 178 C #FF585D with deep blue PANTONE 2767 C #13294B outline, line two '西班牙硬撼法國 英格蘭鬥挪威' in yellow, both lines large, bold, clear, echoing each other. Clean top-left corner, no logo or text. Small text 'AI 示意圖' at the bottom-right corner. 16:9 landscape, bright, sunny, energetic, vivid colours, no dark background."
   }
 ]
