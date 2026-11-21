@@ -36,6 +36,43 @@
     "image_r2_key": "design/202611/20261121-china-short-track-women-relay-gold-seoul.jpg"
   },
   {
+    "id": "20261121-hk-open-semis-antonsen-ends-lakshya-streak",
+    "sport": "badminton",
+    "published_at": "2026-11-21T16:30:00+08:00",
+    "source": "Olympics.com",
+    "source_url": "https://www.olympics.com/en/news/hong-kong-open-2026-badminton-india-semi-final-results",
+    "image_url": "https://images.hksports.hk/design/202611/20261121-hk-open-semis-antonsen-ends-lakshya-streak-v2.jpg",
+    "title": {
+      "en": "Hong Kong Open: Antonsen ends Lakshya Sen's 13-match winning streak to reach final",
+      "zh_hans": "香港公开赛：安顿臣直落两局挫拉克什亚 终结对方13连胜晋决赛",
+      "zh_hant": "香港公開賽：安頓臣直落兩局挫拉克什亞 終結對方13連勝晉決賽"
+    },
+    "summary": {
+      "en": "India's Lakshya Sen saw his 13-match winning streak end at the Hong Kong Open men's singles semi-finals, losing 13-21, 13-21 to Denmark's world No. 3 Anders Antonsen in 42 minutes at Kai Tak Arena. Sen, who had won the Hylo Open and the Japan Masters earlier this month, was chasing a third straight title; Antonsen extended his head-to-head lead to 6-3 and will face Thailand's Kunlavut Vitidsarn or Indonesia's Mohd. Zaki Ubaidillah in Sunday's final. In the men's doubles, India's Satwiksairaj Rankireddy and Chirag Shetty lost 18-21, 19-21 to Malaysia's Man Wei Chong and Tee Kai Wun.",
+      "zh_hans": "印度球手拉克什亚在香港公开赛男单四强，直落两局13比21、13比21不敌丹麦三号种子安顿臣，13连胜告终。拉克什亚今月初先后赢得德国及日本大师赛，原本冲击三连冠；安顿臣42分钟取胜后将对赛优势扩大至6比3，决赛将斗泰国的昆拉维特或印尼新星乌拜迪拉。男双方面，印度组合萨维克塞拉直落两局18比21、19比21不敌马来西亚的万纬聪／郑凯文出局。",
+      "zh_hant": "印度球手拉克什亞在香港公開賽男單四強，直落兩局13比21、13比21不敵丹麥三號種子安頓臣，13連勝告終。拉克什亞今月初先後贏得德國及日本大師賽，原本衝擊三連冠；安頓臣42分鐘取勝後將對賽優勢擴大至6比3，決賽將鬥泰國的昆拉維特或印尼新星烏拜迪拉。男雙方面，印度組合薩維克塞拉直落兩局18比21、19比21不敵馬來西亞的萬緯聰／鄭凱文出局。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong Open",
+        "badminton",
+        "Lakshya Sen"
+      ],
+      "zh_hans": [
+        "香港公开赛",
+        "羽毛球",
+        "拉克什亚"
+      ],
+      "zh_hant": [
+        "香港公開賽",
+        "羽毛球",
+        "拉克什亞"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny indoor arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a badminton shuttlecock in sharp focus flying over a bright green court net, a badminton racket in the foreground, Kai Tak Arena crowd softly blurred in the background under bright lights. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"香港公開賽：安頓臣直落兩局挫拉克什亞\" in vivid coral red with deep blue outline, second line \"終結對方13連勝晉決賽\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. Top left clean, no logo, no text. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+    "image_r2_key": "design/202611/20261121-hk-open-semis-antonsen-ends-lakshya-streak-v2.jpg"
+  },
+  {
     "id": "20261121-jokic-26-nuggets-beat-rockets-133-124",
     "sport": "basketball",
     "published_at": "2026-11-21T14:14:00+08:00",
@@ -480,42 +517,6 @@
     "image_r2_key": "design/202611/20261121-al-ahli-beat-al-nassr-3-1-ronaldo-penalty-miss-v2.jpg"
   },
   {
-    "id": "20261121-hk-open-semis-antonsen-ends-lakshya-streak",
-    "sport": "badminton",
-    "published_at": "2026-11-21T16:30:00+08:00",
-    "source": "Olympics.com",
-    "source_url": "https://www.olympics.com/en/news/hong-kong-open-2026-badminton-india-semi-final-results",
-    "image_url": null,
-    "title": {
-      "en": "Hong Kong Open: Antonsen ends Lakshya Sen's 13-match winning streak to reach final",
-      "zh_hans": "香港公开赛：安顿臣直落两局挫拉克什亚 终结对方13连胜晋决赛",
-      "zh_hant": "香港公開賽：安頓臣直落兩局挫拉克什亞 終結對方13連勝晉決賽"
-    },
-    "summary": {
-      "en": "India's Lakshya Sen saw his 13-match winning streak end at the Hong Kong Open men's singles semi-finals, losing 13-21, 13-21 to Denmark's world No. 3 Anders Antonsen in 42 minutes at Kai Tak Arena. Sen, who had won the Hylo Open and the Japan Masters earlier this month, was chasing a third straight title; Antonsen extended his head-to-head lead to 6-3 and will face Thailand's Kunlavut Vitidsarn or Indonesia's Mohd. Zaki Ubaidillah in Sunday's final. In the men's doubles, India's Satwiksairaj Rankireddy and Chirag Shetty lost 18-21, 19-21 to Malaysia's Man Wei Chong and Tee Kai Wun.",
-      "zh_hans": "印度球手拉克什亚在香港公开赛男单四强，直落两局13比21、13比21不敌丹麦三号种子安顿臣，13连胜告终。拉克什亚今月初先后赢得德国及日本大师赛，原本冲击三连冠；安顿臣42分钟取胜后将对赛优势扩大至6比3，决赛将斗泰国的昆拉维特或印尼新星乌拜迪拉。男双方面，印度组合萨维克塞拉直落两局18比21、19比21不敌马来西亚的万纬聪／郑凯文出局。",
-      "zh_hant": "印度球手拉克什亞在香港公開賽男單四強，直落兩局13比21、13比21不敵丹麥三號種子安頓臣，13連勝告終。拉克什亞今月初先後贏得德國及日本大師賽，原本衝擊三連冠；安頓臣42分鐘取勝後將對賽優勢擴大至6比3，決賽將鬥泰國的昆拉維特或印尼新星烏拜迪拉。男雙方面，印度組合薩維克塞拉直落兩局18比21、19比21不敵馬來西亞的萬緯聰／鄭凱文出局。"
-    },
-    "tags": {
-      "en": [
-        "Hong Kong Open",
-        "badminton",
-        "Lakshya Sen"
-      ],
-      "zh_hans": [
-        "香港公开赛",
-        "羽毛球",
-        "拉克什亚"
-      ],
-      "zh_hant": [
-        "香港公開賽",
-        "羽毛球",
-        "拉克什亞"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny indoor arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a badminton shuttlecock in sharp focus flying over a bright green court net, a badminton racket in the foreground, Kai Tak Arena crowd softly blurred in the background under bright lights. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"香港公開賽：安頓臣直落兩局挫拉克什亞\" in vivid coral red with deep blue outline, second line \"終結對方13連勝晉決賽\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. Top left clean, no logo, no text. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
-  },
-  {
     "id": "20261121-f1-las-vegas-qualifying-antonelli-verstappen-pole",
     "sport": "motorsport",
     "published_at": "2026-11-21T13:19:00+08:00",
@@ -549,7 +550,7 @@
         "維斯塔潘"
       ]
     },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny race track, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a Formula 1 race car speeding along a bright sunlit street circuit, Las Vegas skyline softly blurred in the background, checkered flag waving, motion blur on the wheels. No drivers, no faces. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"F1拉斯維加斯排位賽：安東尼利最快卻罰退五位\" in vivid coral red with deep blue outline, second line \"維斯塔潘坐正頭位起步\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. Top left clean, no logo, no text. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny race track, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a Formula 1 race car speeding along a bright sunlit street circuit, Las Vegas skyline softly blurred in the background, checkered flag waving, motion blur on the wheels. No drivers, no faces. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"F1拉斯維加斯排位賽：安東尼利最快卻罰退五位\" in vivid coral red with deep blue outline, second line \"維斯塔潘坐正頭位起步\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. Top left clean, no logo, no text. In the bottom right, tiny fine-print text reads \"AI設計圖片\" — the label appears exactly once, in the bottom right corner only, never repeated anywhere else in the image. Bright, sunny, high-energy sports news graphic style. No other text on the image."
   },
   {
     "id": "20261121-atp-finals-alcaraz-medvedev-semis",
@@ -585,6 +586,6 @@
         "美迪維迪夫"
       ]
     },
-    "image_prompt": "Bright, sunny, vibrant, energetic, clean modern sports-broadcast poster for the ATP Finals in Turin, 16:9 landscape. A sunlit indoor tennis arena, tennis court with net in the foreground, tennis rackets and tennis balls arranged dynamically, a golden trophy on the side, vivid saturated colours, bright daylight, no dark tones, no night, no gritty texture. Bold 3D typography, punchy and eye-catching: title in Traditional Chinese, line one \"艾卡拉斯全勝闖四強\" in vivid coral red with deep blue outline, line two \"美迪維迪夫搶埋尾班車\" in yellow, two lines echoing each other, title must be one continuous whole, complete and clear, never split or repeated or covered. Top-left corner must be filled with the bright stadium scene (crowd and lights), absolutely no empty white rectangle or blank block anywhere in the image, no logo, no text. Small text \"AI設計圖片\" at the bottom-right corner, stuck to the corner. No players, no faces."
+    "image_prompt": "Bright, sunny, vibrant, energetic, clean modern sports-broadcast poster for the ATP Finals in Turin, 16:9 landscape. A sunlit indoor tennis arena, tennis court with net in the foreground, tennis rackets and tennis balls arranged dynamically, a golden trophy on the side, vivid saturated colours, bright daylight, no dark tones, no night, no gritty texture. Bold 3D typography, punchy and eye-catching: title in Traditional Chinese, line one \"艾卡拉斯全勝闖四強\" in vivid coral red with deep blue outline, line two \"美迪維迪夫搶埋尾班車\" in yellow, two lines echoing each other, title must be one continuous whole, complete and clear, never split or repeated or covered. The title sits in the lower third only; the entire upper half of the image, including the top-left corner, must be filled with the bright stadium scene (crowd, lights, arena roof) — every corner must show the stadium, absolutely no empty white rectangle, no blank white block, no blank area anywhere in the image. If any part of the image is blank white, the image is wrong. No logo, no text. Small text \"AI設計圖片\" at the bottom-right corner, stuck to the corner. No players, no faces."
   }
 ]
