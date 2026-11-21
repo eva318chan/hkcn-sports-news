@@ -517,6 +517,42 @@
     "image_r2_key": "design/202611/20261121-al-ahli-beat-al-nassr-3-1-ronaldo-penalty-miss-v2.jpg"
   },
   {
+    "id": "20261121-man-city-fulham-1-1-haaland-disallowed-anderson",
+    "sport": "football",
+    "published_at": "2026-11-21T22:20:00+08:00",
+    "source": "Sportstar (The Hindu)",
+    "source_url": "https://sportstar.thehindu.com/football/epl/erling-haaland-goal-disallowed-reason-explained-man-city-vs-fulham-premier-league-2026-27-news/article71728405.ece",
+    "image_url": null,
+    "title": {
+      "en": "Man City held 1-1 by Fulham as Haaland goal ruled out and Anderson rescues a point",
+      "zh_hans": "曼城1-1富咸四场不胜 夏兰特入球被吹走安达臣救主",
+      "zh_hant": "曼城1-1富咸四場不勝 夏蘭特入球被吹走安達臣救主"
+    },
+    "summary": {
+      "en": "Manchester City drew 1-1 with Fulham at the Etihad and have now gone four Premier League games without a win. Rodrigo Muniz put Fulham ahead in the 16th minute after a pass from former City winger Oscar Bobb. Erling Haaland thought he had equalised with a follow-up finish, but referee Thomas Bramall ruled it out for a foul on goalkeeper Bernd Leno and VAR upheld the decision. Elliot Anderson levelled in the 57th minute with a volley from the edge of the box, his first league goal for City. Gianluigi Donnarumma denied Muniz late on to preserve a point; City sit third on 22 points.",
+      "zh_hans": "曼城在英超主场1比1赛和富咸，联赛连续四场不胜。富咸由前曼城翼锋奥斯卡·卜比助攻，蒙尼斯16分钟先开纪录；夏兰特之后补射破网，但球证布拉莫尔认定他侵犯门将利奴，入球被判无效，VAR复核后维持原判。安达臣57分钟在禁区外劲射入网，取得加盟曼城后首个联赛入球，为主队扳平。尾段唐拿隆马扑出蒙尼斯的单刀，保住一分；曼城赛后22分排第三。",
+      "zh_hant": "曼城在英超主場1比1賽和富咸，聯賽連續四場不勝。富咸由前曼城翼鋒奧斯卡·卜比助攻，蒙尼斯16分鐘先開紀錄；夏蘭特之後補射破網，但球證布拉莫爾認定他侵犯門將利奴，入球被判無效，VAR覆核後維持原判。安達臣57分鐘在禁區外勁射入網，取得加盟曼城後首個聯賽入球，為主隊扳平。尾段唐拿隆馬撲出蒙尼斯的單刀，保住一分；曼城賽後22分排第三。"
+    },
+    "tags": {
+      "en": [
+        "Manchester City",
+        "Fulham",
+        "Premier League"
+      ],
+      "zh_hans": [
+        "曼城",
+        "富咸",
+        "英超"
+      ],
+      "zh_hant": [
+        "曼城",
+        "富咸",
+        "英超"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Premier League pitch, Etihad Stadium stands softly blurred in the background under bright lights, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"曼城1-1富咸四場不勝\" in vivid coral red with deep blue outline, second line \"夏蘭特入球被吹走安達臣救主\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. Top left clean, no logo, no text. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
+  },
+  {
     "id": "20261121-f1-las-vegas-qualifying-antonelli-verstappen-pole",
     "sport": "motorsport",
     "published_at": "2026-11-21T13:19:00+08:00",
