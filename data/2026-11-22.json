@@ -74,6 +74,150 @@
     "image_r2_key": "design/202611/20261121-bournemouth-forest-2-0-evanilson-v2.jpg"
   },
   {
+    "id": "20261121-real-madrid-celta-2-1-espi-winner",
+    "sport": "football",
+    "published_at": "2026-11-22T05:55:00+08:00",
+    "source": "TNT Sports",
+    "source_url": "https://www.tntsports.co.uk/football/la-liga/2026-2027/real-madrid-rc-celta_mtc21891580/live-commentary.shtml",
+    "image_url": null,
+    "title": {
+      "en": "Real Madrid come back to beat Celta 2-1 as Espi's late winner makes it nine in a row",
+      "zh_hans": "皇马2-1逆转切尔达九连胜 艾斯皮85分钟绝杀追平巴塞",
+      "zh_hant": "皇馬2-1逆轉切爾達九連勝 艾斯皮85分鐘絕殺追平巴塞"
+    },
+    "summary": {
+      "en": "Real Madrid came from behind to beat Celta Vigo 2-1 at home, a ninth straight win in all competitions that draws them level with leaders Barcelona. Pablo Duran put the visitors ahead after six minutes, Jude Bellingham equalised in the 66th minute, and substitute Carlos Espi scored the winner in the 85th minute. Kylian Mbappe missed a penalty but it did not cost Real, who took all three points.",
+      "zh_hans": "皇家马德里主场以2-1反胜切尔达，取得各项赛事九连胜，追平榜首巴塞罗那。客军由杜兰在第6分钟先开纪录，皇马在下半场由比宁咸在66分钟追平，后备入替的卡路士·艾斯皮在85分钟攻入致胜一球。麦巴比在比赛中射失十二码，但无碍皇马全取三分。",
+      "zh_hant": "皇家馬德里主場以2-1反勝切爾達，取得各項賽事九連勝，追平榜首巴塞隆拿。客軍由杜蘭在第6分鐘先開紀錄，皇馬在下半場由比寧咸在66分鐘追平，後備入替的卡路士·艾斯皮在85分鐘攻入致勝一球。麥巴比在比賽中射失十二碼，但無礙皇馬全取三分。"
+    },
+    "tags": {
+      "en": [
+        "Real Madrid",
+        "Celta Vigo",
+        "La Liga"
+      ],
+      "zh_hans": [
+        "皇家马德里",
+        "切尔达",
+        "西甲"
+      ],
+      "zh_hant": [
+        "皇家馬德里",
+        "切爾達",
+        "西甲"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"皇馬2-1逆轉切爾達\" in vivid coral red with deep blue outline, second line \"艾斯皮85分鐘絕殺 九連勝\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
+  },
+  {
+    "id": "20261121-sixers-bucks-132-129-herro-53",
+    "sport": "basketball",
+    "published_at": "2026-11-22T04:35:00+08:00",
+    "source": "theScore",
+    "source_url": "https://www.thescore.com/nba/news/3662100/embiid-james-lead-76-ers-past-bucks-despite-herros-50",
+    "image_url": null,
+    "title": {
+      "en": "Herro's 53 not enough as 76ers edge Bucks 132-129 for fifth straight win",
+      "zh_hans": "靴路轰53分仍输波 76人132-129险胜公鹿五连胜",
+      "zh_hant": "靴路轟53分仍輸波 76人132-129險勝公鹿五連勝"
+    },
+    "summary": {
+      "en": "The Philadelphia 76ers held on for a 132-129 home win over the Milwaukee Bucks, their fifth straight victory, improving to 14-3 and staying top of the Eastern Conference. Joel Embiid posted a near triple-double with 26 points, a season-high 17 rebounds and nine assists, while LeBron James scored 13 of his 21 points in the fourth quarter. Tyler Herro scored a career-high 53 points for the Bucks but could not stop a 13th straight defeat, leaving Milwaukee at 1-16. Embiid sealed the win with two free throws with 1.5 seconds left.",
+      "zh_hans": "费城76人主场以132-129险胜密尔沃基公鹿，取得五连胜，战绩14胜3负继续领跑东岸。祖尔·艾比迪交出26分、17个篮板及9次助攻的准三双，勒邦·占士在第四节独取13分，全场得21分。公鹿的泰拿·靴路轰入生涯新高53分，仍无力阻止球队吞下13连败，战绩跌至1胜16负。艾比迪在最后1.5秒两罚全中，为76人锁定胜局。",
+      "zh_hant": "費城76人主場以132-129險勝密爾沃基公鹿，取得五連勝，戰績14勝3負繼續領跑東岸。祖爾·艾比迪交出26分、17個籃板及9次助攻的準三雙，勒邦·占士在第四節獨取13分，全場得21分。公鹿的泰拿·靴路轟入生涯新高53分，仍無力阻止球隊吞下13連敗，戰績跌至1勝16負。艾比迪在最後1.5秒兩罰全中，為76人鎖定勝局。"
+    },
+    "tags": {
+      "en": [
+        "76ers",
+        "Bucks",
+        "NBA"
+      ],
+      "zh_hans": [
+        "76人",
+        "公鹿",
+        "NBA"
+      ],
+      "zh_hant": [
+        "76人",
+        "公鹿",
+        "NBA"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"靴路53分白轟 76人險勝公鹿\" in vivid coral red with deep blue outline, second line \"五連勝續領跑東岸\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
+  },
+  {
+    "id": "20261121-roma-parma-5-1-malen-four-goals",
+    "sport": "football",
+    "published_at": "2026-11-22T02:52:00+08:00",
+    "source": "AS Roma",
+    "source_url": "https://www.asroma.com/en/news/76250/malen-bags-four-as-roma-crush-parma-5-1",
+    "image_url": null,
+    "title": {
+      "en": "Malen scores four as Roma thrash Parma 5-1 to keep pace with Lazio",
+      "zh_hans": "马伦大四喜罗马5-1大胜帕尔马 四连胜紧追拉素",
+      "zh_hant": "馬倫大四喜羅馬5-1大勝帕爾馬 四連勝緊追拉素"
+    },
+    "summary": {
+      "en": "AS Roma thrashed Parma 5-1 away for a fourth straight Serie A win, moving to 30 points from 12 games, two behind leaders Lazio in second place. Dutch striker Donyell Malen scored four goals (39th, 68th, 77th and 90th minutes) to take his league tally to 12 for the season, while Rodrigo Mora added another in the 71st minute. Nesta Elphege had briefly levelled for the hosts in the 54th minute, but Roma scored four in the second half to seal the win.",
+      "zh_hans": "罗马作客以5-1大胜帕尔马，取得意甲四连胜，12轮得30分，落后榜首拉素两分排第二。荷兰前锋马伦大演帽子戏法后再入一球，全场独取四球（39、68、77及90分钟），今季联赛已入12球；摩拉在71分钟亦建功。主队由艾菲治在54分钟一度追平，但罗马下半场连入四球锁定胜局。",
+      "zh_hant": "羅馬作客以5-1大勝帕爾馬，取得意甲四連勝，12輪得30分，落後榜首拉素兩分排第二。荷蘭前鋒馬倫大演帽子戲法後再入一球，全場獨取四球（39、68、77及90分鐘），今季聯賽已入12球；摩拉在71分鐘亦建功。主隊由艾菲治在54分鐘一度追平，但羅馬下半場連入四球鎖定勝局。"
+    },
+    "tags": {
+      "en": [
+        "Roma",
+        "Parma",
+        "Serie A"
+      ],
+      "zh_hans": [
+        "罗马",
+        "帕尔马",
+        "意甲"
+      ],
+      "zh_hant": [
+        "羅馬",
+        "帕爾馬",
+        "意甲"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"馬倫大四喜 羅馬5-1大勝\" in vivid coral red with deep blue outline, second line \"四連勝緊追榜首拉素\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
+  },
+  {
+    "id": "20261121-psg-nice-3-2-torres-late-winner",
+    "sport": "football",
+    "published_at": "2026-11-22T02:07:00+08:00",
+    "source": "beIN Sports",
+    "source_url": "https://www.beinsports.com/en-us/soccer/ligue-1/articles-video/nice-vs-psg-highlights-ligue-1-2026-11-21",
+    "image_url": null,
+    "title": {
+      "en": "PSG come from behind to beat Nice 3-2 as goalscorer Doue is stretchered off injured",
+      "zh_hans": "巴黎圣日耳门3-2逆转尼斯 杜埃入波后重伤担架离场",
+      "zh_hant": "巴黎聖日耳門3-2逆轉尼斯 杜埃入波後重傷擔架離場"
+    },
+    "summary": {
+      "en": "Paris Saint-Germain came from behind to beat Nice 3-2 away and record an eighth straight Ligue 1 win. Mohamed Amoura put the hosts ahead in the eighth minute, but Senny Mayulu's 31st-minute penalty and Desire Doue's goal a minute later turned the game around. Doue was stretchered off with a knee injury shortly after scoring, and his replacement Ferran Torres sealed the win in the 85th minute before Ali Abdi pulled one back in stoppage time. PSG have now won 12 in a row in all competitions and stay top of Ligue 1.",
+      "zh_hans": "巴黎圣日耳门作客以3-2反胜尼斯，取得法甲八连胜。主队由阿摩拉在第8分钟先开纪录，巴黎凭马耶路31分钟的十二码及杜埃32分钟的入球，在一分钟内反超前。杜埃入球后不久膝部重伤，需由担架抬离场，由费兰·托利斯入替，后者在85分钟攻入致胜一球；阿布迪在补时为尼斯追回一球。巴黎各项赛事已12连胜，继续领跑法甲。",
+      "zh_hant": "巴黎聖日耳門作客以3-2反勝尼斯，取得法甲八連勝。主隊由阿摩拉在第8分鐘先開紀錄，巴黎憑馬耶路31分鐘的十二碼及杜埃32分鐘的入球，在一分鐘內反超前。杜埃入球後不久膝部重傷，需由擔架抬離場，由費蘭·托利斯入替，後者在85分鐘攻入致勝一球；阿布迪在補時為尼斯追回一球。巴黎各項賽事已12連勝，繼續領跑法甲。"
+    },
+    "tags": {
+      "en": [
+        "PSG",
+        "Nice",
+        "Ligue 1"
+      ],
+      "zh_hans": [
+        "巴黎圣日耳门",
+        "尼斯",
+        "法甲"
+      ],
+      "zh_hant": [
+        "巴黎聖日耳門",
+        "尼斯",
+        "法甲"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"巴黎3-2逆轉尼斯八連勝\" in vivid coral red with deep blue outline, second line \"杜埃入波後重傷擔架離場\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
+  },
+  {
     "id": "20261121-chelsea-leeds-1-4-okafor-brace",
     "sport": "football",
     "published_at": "2026-11-22T02:00:00+08:00",
