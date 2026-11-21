@@ -1,5 +1,42 @@
 [
   {
+    "id": "20261121-hawks-beat-hornets-111-97-johnson-26",
+    "sport": "basketball",
+    "published_at": "2026-11-21T10:22:23+08:00",
+    "source": "Peachtree Hoops",
+    "source_url": "https://www.peachtreehoops.com/recaps/73762/hawks-keep-nba-cup-chances-alive-defeat-hornets-111-97",
+    "image_url": "https://images.hksports.hk/design/202611/20261121-hawks-beat-hornets-111-97-johnson-26-v2.jpg",
+    "title": {
+      "en": "Jalen Johnson's 26 points power Hawks past Hornets 111-97 for third straight win",
+      "zh_hans": "鹰队反胜黄蜂111:97 庄逊26分领军三连胜",
+      "zh_hant": "鷹隊反勝黃蜂111:97 莊遜26分領軍三連勝"
+    },
+    "summary": {
+      "en": "The Atlanta Hawks beat the Charlotte Hornets 111-97 in an NBA Cup group game for their third straight win. The Hornets led 31-23 after the first quarter and were still ahead 57-56 at half-time, before the Hawks flipped the game with a 31-19 third quarter and held on in the fourth. Jalen Johnson led the Hawks with a game-high 26 points, adding six rebounds, six assists and four steals, while Aaron Wiggins scored 19 and Dyson Daniels posted 11 points, 10 assists and eight rebounds; the Hornets' Moussa Diabate had 21 points and 15 rebounds. The Hawks improved to 10-6 and 2-1 in NBA Cup group play, while the Hornets fell to 4-11.",
+      "zh_hans": "亚特兰大鹰队在NBA杯分组赛反胜夏洛特黄蜂111:97，取得三连胜。黄蜂首节领先31:23，半场仍以57:56领先，鹰队第三节打出31:19反超比分，末节守住胜局。鹰队前锋庄逊攻入全场最高的26分，另有6个篮板、6次助攻及4次偷波，韦坚斯得19分，丹尼尔斯交出11分、10次助攻及8个篮板；黄蜂中锋迪亚巴堤得21分及15个篮板。鹰队战绩改写为10胜6负，NBA杯分组赛2胜1负；黄蜂4胜11负。",
+      "zh_hant": "阿特蘭大鷹隊在NBA盃分組賽反勝夏洛特黃蜂111:97，取得三連勝。黃蜂首節領先31:23，半場仍以57:56領先，鷹隊第三節打出31:19反超比分，末節守住勝局。鷹隊前鋒莊遜攻入全場最高的26分，另有6個籃板、6次助攻及4次偷波，韋堅斯得19分，丹尼爾斯交出11分、10次助攻及8個籃板；黃蜂中鋒迪亞巴堤得21分及15個籃板。鷹隊戰績改寫為10勝6負，NBA盃分組賽2勝1負；黃蜂4勝11負。"
+    },
+    "tags": {
+      "en": [
+        "NBA",
+        "Atlanta Hawks",
+        "Jalen Johnson"
+      ],
+      "zh_hans": [
+        "NBA",
+        "鹰队",
+        "庄逊"
+      ],
+      "zh_hant": [
+        "NBA",
+        "鷹隊",
+        "莊遜"
+      ]
+    },
+    "image_prompt": "Bright sunny NBA basketball arena in daylight, vivid hardwood court under bright lights, a basketball on the centre court with the hoop and net in the background, dynamic wide-angle matchday atmosphere, no players, no faces. Bold two-line Chinese title in large 3D type: line one '鷹隊反勝黃蜂111:97' in vivid coral red PANTONE 178 C #FF585D with deep blue PANTONE 2767 C #13294B outline, line two '莊遜26分領軍三連勝' in yellow, both lines large, bold, clear, echoing each other. Clean top-left corner, no logo or text. Small text 'AI設計圖片' at the bottom-right corner. 16:9 landscape, bright, sunny, energetic, vivid colours, no dark background.",
+    "image_r2_key": "design/202611/20261121-hawks-beat-hornets-111-97-johnson-26-v2.jpg"
+  },
+  {
     "id": "20261121-espanyol-beat-athletic-bilbao-1-0-away",
     "sport": "football",
     "published_at": "2026-11-21T05:00:00+08:00",
@@ -181,42 +218,6 @@
       ]
     },
     "image_prompt": "Bright sunny NBA basketball arena in daylight, vivid hardwood court under bright lights, a basketball dropping through the hoop and net at the buzzer, dynamic wide-angle matchday atmosphere, no players, no faces. Bold two-line Chinese title in large 3D type: line one '華格拿35分絕殺籃網' in vivid coral red PANTONE 178 C #FF585D with deep blue PANTONE 2767 C #13294B outline, line two '魔術113:111險勝 NBA盃3戰全勝' in yellow, both lines large, bold, clear, echoing each other. Clean top-left corner, no logo or text. Small text 'AI設計圖片' at the bottom-right corner. 16:9 landscape, bright, sunny, energetic, vivid colours, no dark background."
-  },
-  {
-    "id": "20261121-hawks-beat-hornets-111-97-johnson-26",
-    "sport": "basketball",
-    "published_at": "2026-11-21T10:22:23+08:00",
-    "source": "Peachtree Hoops",
-    "source_url": "https://www.peachtreehoops.com/recaps/73762/hawks-keep-nba-cup-chances-alive-defeat-hornets-111-97",
-    "image_url": null,
-    "title": {
-      "en": "Jalen Johnson's 26 points power Hawks past Hornets 111-97 for third straight win",
-      "zh_hans": "鹰队反胜黄蜂111:97 庄逊26分领军三连胜",
-      "zh_hant": "鷹隊反勝黃蜂111:97 莊遜26分領軍三連勝"
-    },
-    "summary": {
-      "en": "The Atlanta Hawks beat the Charlotte Hornets 111-97 in an NBA Cup group game for their third straight win. The Hornets led 31-23 after the first quarter and were still ahead 57-56 at half-time, before the Hawks flipped the game with a 31-19 third quarter and held on in the fourth. Jalen Johnson led the Hawks with a game-high 26 points, adding six rebounds, six assists and four steals, while Aaron Wiggins scored 19 and Dyson Daniels posted 11 points, 10 assists and eight rebounds; the Hornets' Moussa Diabate had 21 points and 15 rebounds. The Hawks improved to 10-6 and 2-1 in NBA Cup group play, while the Hornets fell to 4-11.",
-      "zh_hans": "亚特兰大鹰队在NBA杯分组赛反胜夏洛特黄蜂111:97，取得三连胜。黄蜂首节领先31:23，半场仍以57:56领先，鹰队第三节打出31:19反超比分，末节守住胜局。鹰队前锋庄逊攻入全场最高的26分，另有6个篮板、6次助攻及4次偷波，韦坚斯得19分，丹尼尔斯交出11分、10次助攻及8个篮板；黄蜂中锋迪亚巴堤得21分及15个篮板。鹰队战绩改写为10胜6负，NBA杯分组赛2胜1负；黄蜂4胜11负。",
-      "zh_hant": "阿特蘭大鷹隊在NBA盃分組賽反勝夏洛特黃蜂111:97，取得三連勝。黃蜂首節領先31:23，半場仍以57:56領先，鷹隊第三節打出31:19反超比分，末節守住勝局。鷹隊前鋒莊遜攻入全場最高的26分，另有6個籃板、6次助攻及4次偷波，韋堅斯得19分，丹尼爾斯交出11分、10次助攻及8個籃板；黃蜂中鋒迪亞巴堤得21分及15個籃板。鷹隊戰績改寫為10勝6負，NBA盃分組賽2勝1負；黃蜂4勝11負。"
-    },
-    "tags": {
-      "en": [
-        "NBA",
-        "Atlanta Hawks",
-        "Jalen Johnson"
-      ],
-      "zh_hans": [
-        "NBA",
-        "鹰队",
-        "庄逊"
-      ],
-      "zh_hant": [
-        "NBA",
-        "鷹隊",
-        "莊遜"
-      ]
-    },
-    "image_prompt": "Bright sunny NBA basketball arena in daylight, vivid hardwood court under bright lights, a basketball on the centre court with the hoop and net in the background, dynamic wide-angle matchday atmosphere, no players, no faces. Bold two-line Chinese title in large 3D type: line one '鷹隊反勝黃蜂111:97' in vivid coral red PANTONE 178 C #FF585D with deep blue PANTONE 2767 C #13294B outline, line two '莊遜26分領軍三連勝' in yellow, both lines large, bold, clear, echoing each other. Clean top-left corner, no logo or text. Small text 'AI設計圖片' at the bottom-right corner. 16:9 landscape, bright, sunny, energetic, vivid colours, no dark background."
   },
   {
     "id": "20261121-nations-league-qf-draw-spain-france",
