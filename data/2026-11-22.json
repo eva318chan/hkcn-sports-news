@@ -1,5 +1,42 @@
 [
   {
+    "id": "20261121-newcastle-arsenal-2-2-madueke-equaliser",
+    "sport": "football",
+    "published_at": "2026-11-22T03:28:00+08:00",
+    "source": "Arsenal FC",
+    "source_url": "https://www.arsenal.com/news/report-newcastle-united-2-2-arsenal-aYrA33Z7yfW4",
+    "image_url": "https://images.hksports.hk/design/202611/20261121-newcastle-arsenal-2-2-madueke-equaliser-v2.jpg",
+    "title": {
+      "en": "Newcastle hold Arsenal to a 2-2 draw as Madueke's 78th-minute equaliser rescues the leaders",
+      "zh_hans": "纽卡素2-2逼和阿仙奴 马迪基78分钟救主",
+      "zh_hant": "紐卡素2-2逼和阿仙奴 馬迪基78分鐘救主"
+    },
+    "summary": {
+      "en": "Newcastle United held Premier League leaders Arsenal to a 2-2 draw at St James' Park. Eberechi Eze put Arsenal ahead in the 33rd minute, but Harvey Barnes equalised four minutes after the break after a Martin Odegaard miskick, and Malick Thiaw put Newcastle 2-1 up in the 62nd minute from a corner. Arsenal goalkeeper David Raya was then forced off injured, but Noni Madueke cut inside and scored in the 78th minute to rescue a point. Arsenal move six points clear at the top after 11 games, with 28 points, though Brighton can cut the gap to three if they beat Hull City on Sunday.",
+      "zh_hans": "纽卡素主场以2-2逼和英超榜首阿仙奴。艾斯在33分钟为阿仙奴先开纪录，但换边后仅4分钟，奥迪加特一次传球失误，令班尼斯追平；迪亚在62分钟接应角球攻入第二球，纽卡素反超2-1。阿仙奴门将拉耶其后因伤退下火线，但马迪基在78分钟内切射入，为阿仙奴抢回一分。阿仙奴11战得28分，领先榜首6分，但白礼顿若在星期日击败侯城，可将分差收窄至3分。",
+      "zh_hant": "紐卡素主場以2-2逼和英超榜首阿仙奴。艾斯在33分鐘為阿仙奴先開紀錄，但換邊後僅4分鐘，奧迪加特一次傳球失誤，令班尼斯追平；迪亞在62分鐘接應角球攻入第二球，紐卡素反超2-1。阿仙奴門將拉耶其後因傷退下火線，但馬迪基在78分鐘內切射入，為阿仙奴搶回一分。阿仙奴11戰得28分，領先榜首6分，但白禮頓若在星期日擊敗侯城，可將分差收窄至3分。"
+    },
+    "tags": {
+      "en": [
+        "Newcastle",
+        "Arsenal",
+        "Premier League"
+      ],
+      "zh_hans": [
+        "纽卡素",
+        "阿仙奴",
+        "英超"
+      ],
+      "zh_hant": [
+        "紐卡素",
+        "阿仙奴",
+        "英超"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit St James' Park pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"紐卡素2-2逼和阿仙奴\" in vivid coral red with deep blue outline, second line \"馬迪基78分鐘救主\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+    "image_r2_key": "design/202611/20261121-newcastle-arsenal-2-2-madueke-equaliser-v2.jpg"
+  },
+  {
     "id": "20261121-bournemouth-forest-2-0-evanilson",
     "sport": "football",
     "published_at": "2026-11-22T02:00:00+08:00",
@@ -37,42 +74,6 @@
     "image_r2_key": "design/202611/20261121-bournemouth-forest-2-0-evanilson-v2.jpg"
   },
   {
-    "id": "20261121-newcastle-arsenal-2-2-madueke-equaliser",
-    "sport": "football",
-    "published_at": "2026-11-22T03:28:00+08:00",
-    "source": "Arsenal FC",
-    "source_url": "https://www.arsenal.com/news/report-newcastle-united-2-2-arsenal-aYrA33Z7yfW4",
-    "image_url": null,
-    "title": {
-      "en": "Newcastle hold Arsenal to a 2-2 draw as Madueke's 78th-minute equaliser rescues the leaders",
-      "zh_hans": "纽卡素2-2逼和阿仙奴 马迪基78分钟救主",
-      "zh_hant": "紐卡素2-2逼和阿仙奴 馬迪基78分鐘救主"
-    },
-    "summary": {
-      "en": "Newcastle United held Premier League leaders Arsenal to a 2-2 draw at St James' Park. Eberechi Eze put Arsenal ahead in the 33rd minute, but Harvey Barnes equalised four minutes after the break after a Martin Odegaard miskick, and Malick Thiaw put Newcastle 2-1 up in the 62nd minute from a corner. Arsenal goalkeeper David Raya was then forced off injured, but Noni Madueke cut inside and scored in the 78th minute to rescue a point. Arsenal move six points clear at the top after 11 games, with 28 points, though Brighton can cut the gap to three if they beat Hull City on Sunday.",
-      "zh_hans": "纽卡素主场以2-2逼和英超榜首阿仙奴。艾斯在33分钟为阿仙奴先开纪录，但换边后仅4分钟，奥迪加特一次传球失误，令班尼斯追平；迪亚在62分钟接应角球攻入第二球，纽卡素反超2-1。阿仙奴门将拉耶其后因伤退下火线，但马迪基在78分钟内切射入，为阿仙奴抢回一分。阿仙奴11战得28分，领先榜首6分，但白礼顿若在星期日击败侯城，可将分差收窄至3分。",
-      "zh_hant": "紐卡素主場以2-2逼和英超榜首阿仙奴。艾斯在33分鐘為阿仙奴先開紀錄，但換邊後僅4分鐘，奧迪加特一次傳球失誤，令班尼斯追平；迪亞在62分鐘接應角球攻入第二球，紐卡素反超2-1。阿仙奴門將拉耶其後因傷退下火線，但馬迪基在78分鐘內切射入，為阿仙奴搶回一分。阿仙奴11戰得28分，領先榜首6分，但白禮頓若在星期日擊敗侯城，可將分差收窄至3分。"
-    },
-    "tags": {
-      "en": [
-        "Newcastle",
-        "Arsenal",
-        "Premier League"
-      ],
-      "zh_hans": [
-        "纽卡素",
-        "阿仙奴",
-        "英超"
-      ],
-      "zh_hant": [
-        "紐卡素",
-        "阿仙奴",
-        "英超"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit St James' Park pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"紐卡素2-2逼和阿仙奴\" in vivid coral red with deep blue outline, second line \"馬迪基78分鐘救主\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
-  },
-  {
     "id": "20261121-chelsea-leeds-1-4-okafor-brace",
     "sport": "football",
     "published_at": "2026-11-22T02:00:00+08:00",
@@ -106,7 +107,7 @@
         "英超"
       ]
     },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Stamford Bridge pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"列斯4-1大破車路士\" in vivid coral red with deep blue outline, second line \"27年首勝史丹福橋\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. Top left clean, no logo, no text. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Stamford Bridge pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"列斯4-1大破車路士\" in vivid coral red with deep blue outline, second line \"27年首勝史丹福橋\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
   },
   {
     "id": "20261121-spurs-ipswich-2-0-williams-barnett",
@@ -142,7 +143,7 @@
         "英超"
       ]
     },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Tottenham Hotspur Stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"熱刺2-0挫葉士域治\" in vivid coral red with deep blue outline, second line \"18歲小將首正選即建功\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. Top left clean, no logo, no text. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Tottenham Hotspur Stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"熱刺2-0挫葉士域治\" in vivid coral red with deep blue outline, second line \"18歲小將首正選即建功\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
   },
   {
     "id": "20261121-coventry-palace-3-2-mcneil-og",
@@ -178,6 +179,6 @@
         "英超"
       ]
     },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Coventry Building Society Arena pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"高雲地利3-2絕殺水晶宮\" in vivid coral red with deep blue outline, second line \"法蘭克首戰即輸\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. Top left clean, no logo, no text. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Coventry Building Society Arena pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"高雲地利3-2絕殺水晶宮\" in vivid coral red with deep blue outline, second line \"法蘭克首戰即輸\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
   }
 ]
