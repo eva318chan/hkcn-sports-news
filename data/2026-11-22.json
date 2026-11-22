@@ -259,6 +259,42 @@
     "image_r2_key": "design/202611/20261121-coventry-palace-3-2-mcneil-og-v2.jpg"
   },
   {
+    "id": "20261121-suns-jazz-111-101-booker-23",
+    "sport": "basketball",
+    "published_at": "2026-11-22T05:52:00+08:00",
+    "source": "theScore",
+    "source_url": "https://www.thescore.com/nba/event/2462672/recap",
+    "image_url": null,
+    "title": {
+      "en": "Booker scores 23 as Suns pull away late to beat Jazz 111-101 for third straight win",
+      "zh_hans": "布卡23分太阳末节发力 111-101击败爵士三连胜",
+      "zh_hant": "布卡23分太陽末節發力 111-101擊敗爵士三連勝"
+    },
+    "summary": {
+      "en": "The Phoenix Suns beat the Utah Jazz 111-101 on the road for a third straight win, climbing above .500 for the first time this season. Devin Booker led the way with 23 points, while Dillon Brooks and Miles Bridges added 18 apiece. The Suns scored the final six points of the game to pull away in an NBA Cup matchup in Salt Lake City.",
+      "zh_hans": "凤凰城太阳作客以111-101击败犹他爵士，取得三连胜，今季首次胜率过半。迪云·布卡攻入23分，狄龙·布鲁克斯及迈尔斯·布里奇斯各得18分，太阳在最后一分钟连取6分拉开比分。",
+      "zh_hant": "鳳凰城太陽作客以111-101擊敗猶他爵士，取得三連勝，今季首次勝率過半。迪雲·布卡攻入23分，狄龍·布魯克斯及邁爾斯·布里奇斯各得18分，太陽在最後一分鐘連取6分拉開比分。"
+    },
+    "tags": {
+      "en": [
+        "Suns",
+        "Jazz",
+        "NBA"
+      ],
+      "zh_hans": [
+        "太阳",
+        "爵士",
+        "NBA"
+      ],
+      "zh_hant": [
+        "太陽",
+        "爵士",
+        "NBA"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"布卡23分 太陽111-101挫爵士\" in vivid coral red with deep blue outline, second line \"三連勝 今季首度勝率過半\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\" — this label appears exactly once on the whole image, nowhere else. Bright, sunny, high-energy sports news graphic style. No other text on the image."
+  },
+  {
     "id": "20261121-chelsea-leeds-1-4-okafor-brace",
     "sport": "football",
     "published_at": "2026-11-22T02:00:00+08:00",
