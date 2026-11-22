@@ -74,43 +74,6 @@
     "image_r2_key": "design/202611/20261121-suns-jazz-111-101-booker-23-v2.jpg"
   },
   {
-    "id": "20261121-sixers-bucks-132-129-herro-53",
-    "sport": "basketball",
-    "published_at": "2026-11-22T04:35:00+08:00",
-    "source": "theScore",
-    "source_url": "https://www.thescore.com/nba/news/3662100/embiid-james-lead-76-ers-past-bucks-despite-herros-50",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-sixers-bucks-132-129-herro-53-v2.jpg",
-    "title": {
-      "en": "Herro's 53 not enough as 76ers edge Bucks 132-129 for fifth straight win",
-      "zh_hans": "靴路轰53分仍输波 76人132-129险胜公鹿五连胜",
-      "zh_hant": "靴路轟53分仍輸波 76人132-129險勝公鹿五連勝"
-    },
-    "summary": {
-      "en": "The Philadelphia 76ers held on for a 132-129 home win over the Milwaukee Bucks, their fifth straight victory, improving to 14-3 and staying top of the Eastern Conference. Joel Embiid posted a near triple-double with 26 points, a season-high 17 rebounds and nine assists, while LeBron James scored 13 of his 21 points in the fourth quarter. Tyler Herro scored a career-high 53 points for the Bucks but could not stop a 13th straight defeat, leaving Milwaukee at 1-16. Embiid sealed the win with two free throws with 1.5 seconds left.",
-      "zh_hans": "费城76人主场以132-129险胜密尔沃基公鹿，取得五连胜，战绩14胜3负继续领跑东岸。祖尔·艾比迪交出26分、17个篮板及9次助攻的准三双，勒邦·占士在第四节独取13分，全场得21分。公鹿的泰拿·靴路轰入生涯新高53分，仍无力阻止球队吞下13连败，战绩跌至1胜16负。艾比迪在最后1.5秒两罚全中，为76人锁定胜局。",
-      "zh_hant": "費城76人主場以132-129險勝密爾沃基公鹿，取得五連勝，戰績14勝3負繼續領跑東岸。祖爾·艾比迪交出26分、17個籃板及9次助攻的準三雙，勒邦·占士在第四節獨取13分，全場得21分。公鹿的泰拿·靴路轟入生涯新高53分，仍無力阻止球隊吞下13連敗，戰績跌至1勝16負。艾比迪在最後1.5秒兩罰全中，為76人鎖定勝局。"
-    },
-    "tags": {
-      "en": [
-        "76ers",
-        "Bucks",
-        "NBA"
-      ],
-      "zh_hans": [
-        "76人",
-        "公鹿",
-        "NBA"
-      ],
-      "zh_hant": [
-        "76人",
-        "公鹿",
-        "NBA"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"靴路53分白轟 76人險勝公鹿\" in vivid coral red with deep blue outline, second line \"五連勝續領跑東岸\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
-    "image_r2_key": "design/202611/20261121-sixers-bucks-132-129-herro-53-v2.jpg"
-  },
-  {
     "id": "20261121-newcastle-arsenal-2-2-madueke-equaliser",
     "sport": "football",
     "published_at": "2026-11-22T03:28:00+08:00",
@@ -368,5 +331,113 @@
     },
     "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Tottenham Hotspur Stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"熱刺2-0挫葉士域治\" in vivid coral red with deep blue outline, second line \"18歲小將首正選即建功\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom-right corner only, one small line of fine print reads \"AI設計圖片\". Do not write these characters anywhere else — no second copy near the title, no copy at the right edge, no copy in the middle of the image. Bright, sunny, high-energy sports news graphic style. No other text on the image.",
     "image_r2_key": "design/202611/20261121-spurs-ipswich-2-0-williams-barnett-v2.jpg"
+  },
+  {
+    "id": "20261121-spurs-pelicans-114-91-wembanyama-50",
+    "sport": "basketball",
+    "published_at": "2026-11-22T11:45:00+08:00",
+    "source": "Sportsnet",
+    "source_url": "https://www.sportsnet.ca/nba/article/wembanyama-has-50-points-19-rebounds-as-spurs-roll-past-pelicans/",
+    "image_url": null,
+    "title": {
+      "en": "Wembanyama Drops 50 and 19 as Spurs Rout Pelicans 114-91 to Tie Lakers Atop West",
+      "zh_hans": "文班亚马轰50分19篮板 马刺114-91大胜鹈鹕并列西岸榜首",
+      "zh_hant": "雲班耶馬轟50分19籃板 馬刺114-91大勝塘鵝並列西岸榜首"
+    },
+    "summary": {
+      "en": "Victor Wembanyama scored 50 points and grabbed 19 rebounds with five blocks and four steals as the San Antonio Spurs routed the New Orleans Pelicans 114-91 at home, reaching 50 points for the second time this season. Wembanyama had 32 points by half-time and became the first player in NBA history to record 50 points, 19 rebounds, five three-pointers, five blocks and four steals in a single game. The Spurs have won 14 of their last 15 and sit at 14-3, tied with the Lakers atop the Western Conference; Stephon Castle added 19 points.",
+      "zh_hans": "圣安东尼奥马刺主场以114-91大胜新奥尔良鹈鹕，维克托·文班亚马攻入50分、抢下19个篮板，另有5次封盖及4次抢断，半场已独取32分，今季第二次单场50分。他成为NBA史上首位单场同时取得50分、19篮板、5个三分球、5次封盖及4次抢断的球员。马刺15场赢14场，战绩14胜3负，与湖人并列西岸榜首；史蒂芬·卡斯尔贡献19分。",
+      "zh_hant": "聖安東尼奧馬刺主場以114-91大勝新奧爾良塘鵝，維克托·雲班耶馬攻入50分、搶下19個籃板，另有5次封阻及4次偷波，半場已獨取32分，今季第二次單場50分。他成為NBA史上首位單場同時取得50分、19籃板、5個三分波、5次封阻及4次偷波的球員。馬刺15場贏14場，戰績14勝3負，與湖人並列西岸榜首；史提芬·卡素貢獻19分。"
+    },
+    "tags": {
+      "en": [
+        "Spurs",
+        "Wembanyama",
+        "NBA"
+      ],
+      "zh_hans": [
+        "马刺",
+        "文班亚马",
+        "NBA"
+      ],
+      "zh_hant": [
+        "馬刺",
+        "雲班耶馬",
+        "NBA"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"雲班耶馬50分19籃板\" in vivid coral red with deep blue outline, second line \"馬刺大勝並列西岸榜首\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
+  },
+  {
+    "id": "20261121-knicks-blazers-97-96-bridges-buzzer",
+    "sport": "basketball",
+    "published_at": "2026-11-22T11:15:00+08:00",
+    "source": "Sportsnet",
+    "source_url": "https://www.sportsnet.ca/nba/article/bridges-hits-three-at-buzzer-lifts-knicks-over-trail-blazers/",
+    "image_url": null,
+    "title": {
+      "en": "Bridges' Buzzer-Beating Three Lifts Knicks Past Blazers 97-96 for Fourth Straight Win",
+      "zh_hans": "布里奇斯压哨三分绝杀开拓者 纽约人97-96险胜四连胜",
+      "zh_hant": "布歷捷斯壓哨三分絕殺拓荒者 紐約人97-96險勝四連勝"
+    },
+    "summary": {
+      "en": "Mikal Bridges hit a three-pointer at the buzzer as the New York Knicks edged the Portland Trail Blazers 97-96 at home for a fourth straight win. The Knicks led by as many as 26 points and were 66-43 up at half-time, but were outscored 53-31 in the second half; Deni Avdija's two free throws with 3.2 seconds left gave Portland its only lead before Bridges took Josh Hart's inbound pass and sank the winner. Jalen Brunson scored 30 points, Landry Shamet added 20 and Bridges finished with 12; Donovan Clingan had 22 points and 13 rebounds for Portland.",
+      "zh_hans": "纽约人主场以97-96险胜波特兰开拓者，米卡尔·布里奇斯在完场一刻射入三分绝杀，取得四连胜。纽约人一度领先26分，半场领先66-43，但下半场被对手打出53-31反扑；艾夫迪亚在最后3.2秒两罚全中，一度令开拓者反先，布里奇斯随即接应夏特传球射入致胜三分。布伦森攻入30分，沙美特得20分，布里奇斯得12分；开拓者基根交出22分13篮板。",
+      "zh_hant": "紐約人主場以97-96險勝波特蘭拓荒者，米卡爾·布歷捷斯在完場一刻射入三分絕殺，取得四連勝。紐約人一度領先26分，半場領先66-43，但下半場被對手打出53-31反撲；艾夫迪亞在最後3.2秒兩罰全中，一度令拓荒者反先，布歷捷斯隨即接應夏特傳球射入致勝三分。賓遜攻入30分，沙美特得20分，布歷捷斯得12分；拓荒者基根交出22分13籃板。"
+    },
+    "tags": {
+      "en": [
+        "Knicks",
+        "Bridges",
+        "NBA"
+      ],
+      "zh_hans": [
+        "纽约人",
+        "布里奇斯",
+        "NBA"
+      ],
+      "zh_hant": [
+        "紐約人",
+        "布歷捷斯",
+        "NBA"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby, a game clock showing the final seconds. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"布歷捷斯壓哨三分絕殺\" in vivid coral red with deep blue outline, second line \"紐約人97-96險勝四連勝\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
+  },
+  {
+    "id": "20261121-sixers-bucks-132-129-herro-53",
+    "sport": "basketball",
+    "published_at": "2026-11-22T04:35:00+08:00",
+    "source": "theScore",
+    "source_url": "https://www.thescore.com/nba/news/3662100/embiid-james-lead-76-ers-past-bucks-despite-herros-50",
+    "image_url": null,
+    "title": {
+      "en": "Herro's 50 not enough as 76ers edge Bucks 132-129 for fifth straight win",
+      "zh_hans": "靴路轰50分仍输波 76人132-129险胜公鹿五连胜",
+      "zh_hant": "靴路轟50分仍輸波 76人132-129險勝公鹿五連勝"
+    },
+    "summary": {
+      "en": "The Philadelphia 76ers held on for a 132-129 home win over the Milwaukee Bucks, their fifth straight victory, improving to 14-3 and staying top of the Eastern Conference. Joel Embiid posted a near triple-double with 26 points, a season-high 17 rebounds and nine assists, while LeBron James scored 13 of his 21 points in the fourth quarter. Tyler Herro scored a career-high 50 points for the Bucks but could not stop a 13th straight defeat, leaving Milwaukee at 1-16. Embiid sealed the win with two free throws with 1.5 seconds left.",
+      "zh_hans": "费城76人主场以132-129险胜密尔沃基公鹿，取得五连胜，战绩14胜3负继续领跑东岸。祖尔·艾比迪交出26分、17个篮板及9次助攻的准三双，勒邦·占士在第四节独取13分，全场得21分。公鹿的泰拿·靴路轰入生涯新高50分，仍无力阻止球队吞下13连败，战绩跌至1胜16负。艾比迪在最后1.5秒两罚全中，为76人锁定胜局。",
+      "zh_hant": "費城76人主場以132-129險勝密爾沃基公鹿，取得五連勝，戰績14勝3負繼續領跑東岸。祖爾·艾比迪交出26分、17個籃板及9次助攻的準三雙，勒邦·占士在第四節獨取13分，全場得21分。公鹿的泰拿·靴路轟入生涯新高50分，仍無力阻止球隊吞下13連敗，戰績跌至1勝16負。艾比迪在最後1.5秒兩罰全中，為76人鎖定勝局。"
+    },
+    "tags": {
+      "en": [
+        "76ers",
+        "Bucks",
+        "NBA"
+      ],
+      "zh_hans": [
+        "76人",
+        "公鹿",
+        "NBA"
+      ],
+      "zh_hant": [
+        "76人",
+        "公鹿",
+        "NBA"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"靴路50分白轟 76人險勝公鹿\" in vivid coral red with deep blue outline, second line \"五連勝續領跑東岸\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
   }
 ]
