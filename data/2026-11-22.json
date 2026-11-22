@@ -301,7 +301,7 @@
     "published_at": "2026-11-22T02:00:00+08:00",
     "source": "Chelsea FC",
     "source_url": "https://www.chelseafc.com/en/news/article/match-report-chelsea-1-4-leeds",
-    "image_url": null,
+    "image_url": "https://images.hksports.hk/design/202611/20261121-chelsea-leeds-1-4-okafor-brace-v2.jpg",
     "title": {
       "en": "Leeds thrash Chelsea 4-1 at Stamford Bridge as Okafor scores twice in first win there since 1999",
       "zh_hans": "利兹4-1大破切尔西 奥卡科夫梅开二度 27年首胜斯坦福桥",
@@ -329,7 +329,8 @@
         "英超"
       ]
     },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Stamford Bridge pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"列斯4-1大破車路士\" in vivid coral red with deep blue outline, second line \"27年首勝史丹福橋\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom-right corner only, one small line of fine print reads \"AI設計圖片\". Do not write these characters anywhere else — no second copy near the title, no copy at the right edge, no copy in the middle of the image. Bright, sunny, high-energy sports news graphic style. No other text on the image."
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Stamford Bridge pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"列斯4-1大破車路士\" in vivid coral red with deep blue outline, second line \"27年首勝史丹福橋\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom-right corner only, one small line of fine print reads \"AI設計圖片\". Do not write these characters anywhere else — no second copy near the title, no copy at the right edge, no copy in the middle of the image. Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+    "image_r2_key": "design/202611/20261121-chelsea-leeds-1-4-okafor-brace-v2.jpg"
   },
   {
     "id": "20261121-spurs-ipswich-2-0-williams-barnett",
@@ -337,7 +338,7 @@
     "published_at": "2026-11-22T02:00:00+08:00",
     "source": "AllFootball",
     "source_url": "https://www.allfootballapp.com/articles/6022006-tottenham-2-0-ipswich-town-barnett",
-    "image_url": null,
+    "image_url": "https://images.hksports.hk/design/202611/20261121-spurs-ipswich-2-0-williams-barnett-v2.jpg",
     "title": {
       "en": "Spurs beat Ipswich 2-0 as 18-year-old Williams-Barnett scores and assists on his first Premier League start",
       "zh_hans": "热刺2-0挫伊普斯维奇 18岁小将首正选即入波兼助攻",
@@ -365,6 +366,7 @@
         "英超"
       ]
     },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Tottenham Hotspur Stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"熱刺2-0挫葉士域治\" in vivid coral red with deep blue outline, second line \"18歲小將首正選即建功\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom-right corner only, one small line of fine print reads \"AI設計圖片\". Do not write these characters anywhere else — no second copy near the title, no copy at the right edge, no copy in the middle of the image. Bright, sunny, high-energy sports news graphic style. No other text on the image."
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Tottenham Hotspur Stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"熱刺2-0挫葉士域治\" in vivid coral red with deep blue outline, second line \"18歲小將首正選即建功\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom-right corner only, one small line of fine print reads \"AI設計圖片\". Do not write these characters anywhere else — no second copy near the title, no copy at the right edge, no copy in the middle of the image. Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+    "image_r2_key": "design/202611/20261121-spurs-ipswich-2-0-williams-barnett-v2.jpg"
   }
 ]
