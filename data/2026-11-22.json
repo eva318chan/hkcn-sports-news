@@ -1,666 +1,701 @@
 [
-  {
-    "id": "20261122-hk-open-antonsen-champion-kunlavut-withdraws",
-    "sport": "badminton",
-    "published_at": "2026-11-22T15:00:00+08:00",
-    "source": "Khaosod English",
-    "source_url": "https://www.khaosodenglish.com/news/2026/11/22/kunlavut-withdraws-from-hong-kong-open-final-with-back-injury/",
-    "image_url": "https://images.hksports.hk/design/202611/20261122-hk-open-antonsen-champion-kunlavut-withdraws-v2.jpg",
-    "title": {
-      "en": "Antonsen Wins Hong Kong Open Without Playing as Kunlavut Withdraws With Back Injury",
-      "zh_hans": "昆拉屈背伤退赛 安赛龙不战而胜夺香港公开赛男单冠军",
-      "zh_hant": "昆拉屈背傷退賽 安賽龍不戰而勝奪香港公開賽男單冠軍"
-    },
-    "summary": {
-      "en": "The men's singles final of the Hong Kong Open ended in dramatic fashion as Thailand's world No. 2 Kunlavut Vitidsarn withdrew with a back injury, handing the title to Denmark's Anders Antonsen without a match being played. Antonsen had reached the final with a 21-13, 21-13 win over India's Lakshya Sen, while Kunlavut fought back to beat Indonesia's Moh. Zaki Ubaidillah 18-21, 21-15, 21-16. In the women's singles, China's top seed Wang Zhiyi beat Thailand's Pornpawee Chochuwong 21-16, 21-11 to take the title.",
-      "zh_hans": "香港公开羽毛球锦标赛男单决赛出现戏剧性结局，泰国世界排名第二的昆拉屈因背伤退赛，丹麦名将安赛龙不战而胜夺冠。安赛龙四强以21比13、21比13轻取印度球手拉克什亚，昆拉屈则以18比21、21比15、21比16反胜印尼新星萨基晋级。女单方面，中国头号种子王祉怡以21比16、21比11击败泰国的蓬帕威封后。",
-      "zh_hant": "香港公開羽毛球錦標賽男單決賽出現戲劇性結局，泰國世界排名第二的昆拉屈因背傷退賽，丹麥名將安賽龍不戰而勝奪冠。安賽龍四強以21比13、21比13輕取印度球手拉克什亞，昆拉屈則以18比21、21比15、21比16反勝印尼新星薩基晉級。女單方面，中國頭號種子王祉怡以21比16、21比11擊敗泰國的蓬帕威封后。"
-    },
-    "tags": {
-      "en": [
-        "Hong Kong Open",
-        "badminton",
-        "Anders Antonsen"
-      ],
-      "zh_hans": [
-        "香港公开赛",
-        "羽毛球",
-        "安赛龙"
-      ],
-      "zh_hant": [
-        "香港公開賽",
-        "羽毛球",
-        "安賽龍"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a badminton champion celebrating with arms raised on a sunlit court at Kai Tak Arena, shuttlecock in motion, trophy on a table beside him. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with deep blue outline reads '昆拉屈背傷退賽', second line in solid white reads '安賽龍不戰而勝奪香港公開賽冠軍'. Text must be complete and clear, never split, repeated or covered. In the bottom right, tiny fine-print text reads 'AI設計圖片'. Bright, sunny, high-energy sports news graphic style.",
-    "image_r2_key": "design/202611/20261122-hk-open-antonsen-champion-kunlavut-withdraws-v2.jpg"
+ {
+  "id": "20261122-hk-open-antonsen-champion-kunlavut-withdraws",
+  "sport": "badminton",
+  "published_at": "2026-11-22T15:00:00+08:00",
+  "source": "Khaosod English",
+  "source_url": "https://www.khaosodenglish.com/news/2026/11/22/kunlavut-withdraws-from-hong-kong-open-final-with-back-injury/",
+  "image_url": "https://images.hksports.hk/design/202611/20261122-hk-open-antonsen-champion-kunlavut-withdraws-v2.jpg",
+  "title": {
+   "en": "Antonsen Wins Hong Kong Open Without Playing as Kunlavut Withdraws With Back Injury",
+   "zh_hans": "昆拉屈背伤退赛 安赛龙不战而胜夺香港公开赛男单冠军",
+   "zh_hant": "昆拉屈背傷退賽 安賽龍不戰而勝奪香港公開賽男單冠軍"
   },
-  {
-    "id": "20261121-kings-celtics-97-96-murray-putback",
-    "sport": "basketball",
-    "published_at": "2026-11-22T14:00:00+08:00",
-    "source": "NBC Sports Bay Area",
-    "source_url": "https://www.nbcsportsbayarea.com/nba/sacramento-kings/keegan-murray-home-win-boston-celtics/1981966/",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-kings-celtics-97-96-murray-putback-v2.jpg",
-    "title": {
-      "en": "Murray's Last-Second Putback Lifts Kings Past Celtics 97-96 for First Home Win",
-      "zh_hans": "梅利最后5秒补篮绝杀 国王97-96险胜凯尔特人破主场荒",
-      "zh_hant": "梅利最後5秒補籃絕殺 國王97-96險勝塞爾特人破主場荒"
-    },
-    "summary": {
-      "en": "The Sacramento Kings edged the Boston Celtics 97-96 at home for their first home win of the season, ending an eight-game losing streak. The Kings trailed by 13 points at half-time, then outscored Boston 35-13 in the third quarter to take a nine-point lead into the fourth. Trailing 96-95 in the final seconds, Darius Acuff Jr. missed a driving layup but Keegan Murray grabbed the offensive rebound and scored the putback with five seconds left, then defended Payton Pritchard into a buzzer-beating airball. Acuff had 21 points and eight assists and Domantas Sabonis added 15 points and 17 rebounds; the Celtics lost their third straight game.",
-      "zh_hans": "沙加缅度国王主场以97-96险胜波士顿凯尔特人，取得今季首场主场胜利，终止八连败。国王半场落后13分，第三节打出35比13反扑，带着9分优势进入第四节；完场前国王落后96比95，艾卡夫上篮不入，基根·梅利在最后5秒抢到进攻篮板补篮得手，随后又成功防守令普理查特最后一投射失。艾卡夫攻入21分及8次助攻，沙邦尼斯交出15分17个篮板；凯尔特人吞下三连败。",
-      "zh_hant": "沙加緬度國王主場以97-96險勝波士頓塞爾特人，取得今季首場主場勝利，終止八連敗。國王半場落後13分，第三節打出35比13反撲，帶着9分優勢進入第四節；完場前國王落後96比95，艾卡夫上籃不入，基根梅利在最後5秒搶到進攻籃板補籃得手，隨後又成功防守令普理查特最後一投射失。艾卡夫攻入21分及8次助攻，沙邦尼斯交出15分17個籃板；塞爾特人吞下三連敗。"
-    },
-    "tags": {
-      "en": [
-        "Kings",
-        "Celtics",
-        "NBA"
-      ],
-      "zh_hans": [
-        "国王",
-        "凯尔特人",
-        "NBA"
-      ],
-      "zh_hant": [
-        "國王",
-        "塞爾特人",
-        "NBA"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby, a game clock showing the final seconds. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"梅利最後5秒補籃絕殺\" in vivid coral red with deep blue outline, second line \"國王97-96險勝塞爾特人\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
-    "image_r2_key": "design/202611/20261121-kings-celtics-97-96-murray-putback-v2.jpg"
+  "summary": {
+   "en": "The men's singles final of the Hong Kong Open ended in dramatic fashion as Thailand's world No. 2 Kunlavut Vitidsarn withdrew with a back injury, handing the title to Denmark's Anders Antonsen without a match being played. Antonsen had reached the final with a 21-13, 21-13 win over India's Lakshya Sen, while Kunlavut fought back to beat Indonesia's Moh. Zaki Ubaidillah 18-21, 21-15, 21-16. In the women's singles, China's top seed Wang Zhiyi beat Thailand's Pornpawee Chochuwong 21-16, 21-11 to take the title.",
+   "zh_hans": "香港公开羽毛球锦标赛男单决赛出现戏剧性结局，泰国世界排名第二的昆拉屈因背伤退赛，丹麦名将安赛龙不战而胜夺冠。安赛龙四强以21比13、21比13轻取印度球手拉克什亚，昆拉屈则以18比21、21比15、21比16反胜印尼新星萨基晋级。女单方面，中国头号种子王祉怡以21比16、21比11击败泰国的蓬帕威封后。",
+   "zh_hant": "香港公開羽毛球錦標賽男單決賽出現戲劇性結局，泰國世界排名第二的昆拉屈因背傷退賽，丹麥名將安賽龍不戰而勝奪冠。安賽龍四強以21比13、21比13輕取印度球手拉克什亞，昆拉屈則以18比21、21比15、21比16反勝印尼新星薩基晉級。女單方面，中國頭號種子王祉怡以21比16、21比11擊敗泰國的蓬帕威封后。"
   },
-  {
-    "id": "20261121-f1-las-vegas-verstappen-wins",
-    "sport": "motorsport",
-    "published_at": "2026-11-22T13:58:00+08:00",
-    "source": "Formula 1",
-    "source_url": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-f1-las-vegas-verstappen-wins.jpg",
-    "title": {
-      "en": "Verstappen Holds Off Mercedes Onslaught to Win Las Vegas Grand Prix for Third Time in Four Years",
-      "zh_hans": "维斯塔潘力抗梅赛德斯反扑 赢拉斯维加斯站三年三冠",
-      "zh_hant": "韋斯塔本力抗平治反撲 贏拉斯維加斯站三年三冠"
-    },
-    "summary": {
-      "en": "Red Bull's Max Verstappen held off a race-long Mercedes challenge to win the Las Vegas Grand Prix, beating McLaren's Lando Norris by 0.639 seconds for his third win on the streets of Nevada in four years. George Russell and Kimi Antonelli took turns trying to pass Verstappen, but Russell hit the barriers three laps from the end and finished ninth, while Oscar Piastri recovered from 17th on the grid to take third and Antonelli finished fourth. Ferrari's Lewis Hamilton and Charles Leclerc collided with each other, Hamilton finishing seventh and Leclerc tenth. It was Verstappen's fourth win in six races, leaving him 37 points clear of Hamilton in the drivers' standings with two rounds left in Qatar and Abu Dhabi.",
-      "zh_hans": "红牛车手维斯塔潘在拉斯维加斯大奖赛力抗梅赛德斯车队全程反扑，以0.639秒之差力压迈凯伦的诺里斯夺冠，三年内第三度在赌城封王。拉塞尔及安东内利先后多次尝试超越维斯塔潘，拉塞尔在最后三圈撞栏，最终只得第九名；皮亚斯特里由第17位起步追上季军，安东内利得第四。法拉利双雄汉密尔顿及勒克莱尔先后相撞，汉密尔顿得第七，勒克莱尔得第十。维斯塔潘今季六站四胜，在车手榜领先汉密尔顿37分，几乎锁定年度亚军，余下卡塔尔及阿布扎比两站。",
-      "zh_hant": "紅牛車手韋斯塔本在拉斯維加斯大獎賽力抗平治車隊全程反撲，以0.639秒之差力壓麥拿侖的諾里斯奪冠，三年內第三度在賭城封王。羅素及安東尼利先後多次嘗試超越韋斯塔本，羅素在最後三圈撞欄，最終只得第九名；派亞斯查由第17位起步追上季軍，安東尼利得第四。法拉利雙雄咸美頓及勒克萊先後相撞，咸美頓得第七，勒克萊得第十。韋斯塔本今季六站四勝，在車手榜領先咸美頓37分，幾乎鎖定年度亞軍，餘下卡塔爾及阿布扎比兩站。"
-    },
-    "tags": {
-      "en": [
-        "Formula 1",
-        "Verstappen",
-        "Las Vegas GP"
-      ],
-      "zh_hans": [
-        "一级方程式",
-        "维斯塔潘",
-        "拉斯维加斯大奖赛"
-      ],
-      "zh_hant": [
-        "一級方程式",
-        "韋斯塔本",
-        "拉斯維加斯大獎賽"
-      ]
-    },
-    "image_r2_key": "design/202611/20261121-f1-las-vegas-verstappen-wins.jpg",
-    "caption": "韋斯塔本在拉斯維加斯站奪冠後慶祝。（一級方程式）"
+  "tags": {
+   "en": [
+    "Hong Kong Open",
+    "badminton",
+    "Anders Antonsen"
+   ],
+   "zh_hans": [
+    "香港公开赛",
+    "羽毛球",
+    "安赛龙"
+   ],
+   "zh_hant": [
+    "香港公開賽",
+    "羽毛球",
+    "安賽龍"
+   ]
   },
-  {
-    "id": "20261121-hk-bulls-beat-guangdong-73-61",
-    "sport": "basketball",
-    "published_at": "2026-11-22T13:11:08+08:00",
-    "source": "CGTN",
-    "source_url": "https://news.cgtn.com/news/2026-11-22/Hong-Kong-Bulls-and-Jiangxi-Daqian-pull-off-CBA-Club-Cup-upsets-1SgZuoeY4da/p.html",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-hk-bulls-beat-guangdong-73-61-v2.jpg",
-    "title": {
-      "en": "Hong Kong Bulls Stun Guangdong 73-61 as Jones Scores 26 in CBA Club Cup",
-      "zh_hans": "香港金牛73-61爆冷击败广东 琼斯26分率队争八强席位",
-      "zh_hant": "香港金牛73-61爆冷擊敗廣東 瓊斯26分率隊爭八強席位"
-    },
-    "summary": {
-      "en": "Reigning NBL champions the Hong Kong Bulls pulled off an upset in the CBA Club Cup, beating the Guangdong Southern Tigers 73-61 in a Group D match in Qionghai, Hainan. Mason Jones scored a game-high 26 points as the Bulls overcame a seven-point first-quarter deficit, holding Guangdong to just eight points in the second period to lead 30-27 at half-time. Guangdong's Xu Jie scored 21 points but was the only home player in double figures. The Bulls will play the Guangzhou Loong Lions on Sunday for a quarter-final place.",
-      "zh_hans": "卫冕NBL冠军香港金牛在CBA俱乐部杯爆冷，以73比61击败广东华南虎，在海南琼海的小组赛D组取胜。琼斯攻入全场最高的26分，金牛首节落后7分后，次节只让广东得到8分，半场以30比27反超。广东徐杰得21分，是主队唯一得分上双的球员。金牛将于周日对阵广州龙狮，争夺八强席位。",
-      "zh_hant": "衛冕NBL冠軍香港金牛在CBA球會盃爆冷，以73比61擊敗廣東華南虎，在海南瓊海的小組賽D組取勝。瓊斯攻入全場最高的26分，金牛首節落後7分後，次節只讓廣東得到8分，半場以30比27反超。廣東徐杰得21分，是主隊唯一得分上雙的球員。金牛將於周日對陣廣州龍獅，爭奪八強席位。"
-    },
-    "tags": {
-      "en": [
-        "Hong Kong Bulls",
-        "CBA Club Cup",
-        "Mason Jones"
-      ],
-      "zh_hans": [
-        "香港金牛",
-        "CBA俱乐部杯",
-        "琼斯"
-      ],
-      "zh_hant": [
-        "香港金牛",
-        "CBA球會盃",
-        "瓊斯"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a Hong Kong Bulls basketball player in a red jersey driving to the basket in a sunlit arena, scoreboard showing 73-61 in the background, crowd cheering. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with deep blue outline reads '香港金牛73-61爆冷擊敗廣東', second line in solid white reads '瓊斯26分率隊爭八強席位'. Text must be complete and clear, never split, repeated or covered. In the bottom right, tiny fine-print text reads 'AI設計圖片'. Bright, sunny, high-energy sports news graphic style.",
-    "image_r2_key": "design/202611/20261121-hk-bulls-beat-guangdong-73-61-v2.jpg"
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a badminton champion celebrating with arms raised on a sunlit court at Kai Tak Arena, shuttlecock in motion, trophy on a table beside him. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with deep blue outline reads '昆拉屈背傷退賽', second line in solid white reads '安賽龍不戰而勝奪香港公開賽冠軍'. Text must be complete and clear, never split, repeated or covered. In the bottom right, tiny fine-print text reads 'AI設計圖片'. Bright, sunny, high-energy sports news graphic style.",
+  "image_r2_key": "design/202611/20261122-hk-open-antonsen-champion-kunlavut-withdraws-v2.jpg"
+ },
+ {
+  "id": "20261121-kings-celtics-97-96-murray-putback",
+  "sport": "basketball",
+  "published_at": "2026-11-22T14:00:00+08:00",
+  "source": "NBC Sports Bay Area",
+  "source_url": "https://www.nbcsportsbayarea.com/nba/sacramento-kings/keegan-murray-home-win-boston-celtics/1981966/",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-kings-celtics-97-96-murray-putback-v2.jpg",
+  "title": {
+   "en": "Murray's Last-Second Putback Lifts Kings Past Celtics 97-96 for First Home Win",
+   "zh_hans": "梅利最后5秒补篮绝杀 国王97-96险胜凯尔特人破主场荒",
+   "zh_hant": "梅利最後5秒補籃絕殺 國王97-96險勝塞爾特人破主場荒"
   },
-  {
-    "id": "20261121-spurs-pelicans-114-91-wembanyama-50",
-    "sport": "basketball",
-    "published_at": "2026-11-22T11:45:00+08:00",
-    "source": "Sportsnet",
-    "source_url": "https://www.sportsnet.ca/nba/article/wembanyama-has-50-points-19-rebounds-as-spurs-roll-past-pelicans/",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-spurs-pelicans-114-91-wembanyama-50-v2.jpg",
-    "title": {
-      "en": "Wembanyama Drops 50 and 19 as Spurs Rout Pelicans 114-91 to Tie Lakers Atop West",
-      "zh_hans": "文班亚马轰50分19篮板 马刺114-91大胜鹈鹕并列西岸榜首",
-      "zh_hant": "雲班耶馬轟50分19籃板 馬刺114-91大勝塘鵝並列西岸榜首"
-    },
-    "summary": {
-      "en": "Victor Wembanyama scored 50 points and grabbed 19 rebounds with five blocks and four steals as the San Antonio Spurs routed the New Orleans Pelicans 114-91 at home, reaching 50 points for the second time this season. Wembanyama had 32 points by half-time and became the first player in NBA history to record 50 points, 19 rebounds, five three-pointers, five blocks and four steals in a single game. The Spurs have won 14 of their last 15 and sit at 14-3, tied with the Lakers atop the Western Conference; Stephon Castle added 19 points.",
-      "zh_hans": "圣安东尼奥马刺主场以114-91大胜新奥尔良鹈鹕，维克托·文班亚马攻入50分、抢下19个篮板，另有5次封盖及4次抢断，半场已独取32分，今季第二次单场50分。他成为NBA史上首位单场同时取得50分、19篮板、5个三分球、5次封盖及4次抢断的球员。马刺15场赢14场，战绩14胜3负，与湖人并列西岸榜首；史蒂芬·卡斯尔贡献19分。",
-      "zh_hant": "聖安東尼奧馬刺主場以114-91大勝新奧爾良塘鵝，維克托·雲班耶馬攻入50分、搶下19個籃板，另有5次封阻及4次偷波，半場已獨取32分，今季第二次單場50分。他成為NBA史上首位單場同時取得50分、19籃板、5個三分波、5次封阻及4次偷波的球員。馬刺15場贏14場，戰績14勝3負，與湖人並列西岸榜首；史提芬·卡素貢獻19分。"
-    },
-    "tags": {
-      "en": [
-        "Spurs",
-        "Wembanyama",
-        "NBA"
-      ],
-      "zh_hans": [
-        "马刺",
-        "文班亚马",
-        "NBA"
-      ],
-      "zh_hant": [
-        "馬刺",
-        "雲班耶馬",
-        "NBA"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"雲班耶馬50分19籃板\" in vivid coral red with deep blue outline, second line \"馬刺大勝並列西岸榜首\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
-    "image_r2_key": "design/202611/20261121-spurs-pelicans-114-91-wembanyama-50-v2.jpg"
+  "summary": {
+   "en": "The Sacramento Kings edged the Boston Celtics 97-96 at home for their first home win of the season, ending an eight-game losing streak. The Kings trailed by 13 points at half-time, then outscored Boston 35-13 in the third quarter to take a nine-point lead into the fourth. Trailing 96-95 in the final seconds, Darius Acuff Jr. missed a driving layup but Keegan Murray grabbed the offensive rebound and scored the putback with five seconds left, then defended Payton Pritchard into a buzzer-beating airball. Acuff had 21 points and eight assists and Domantas Sabonis added 15 points and 17 rebounds; the Celtics lost their third straight game.",
+   "zh_hans": "沙加缅度国王主场以97-96险胜波士顿凯尔特人，取得今季首场主场胜利，终止八连败。国王半场落后13分，第三节打出35比13反扑，带着9分优势进入第四节；完场前国王落后96比95，艾卡夫上篮不入，基根·梅利在最后5秒抢到进攻篮板补篮得手，随后又成功防守令普理查特最后一投射失。艾卡夫攻入21分及8次助攻，沙邦尼斯交出15分17个篮板；凯尔特人吞下三连败。",
+   "zh_hant": "沙加緬度國王主場以97-96險勝波士頓塞爾特人，取得今季首場主場勝利，終止八連敗。國王半場落後13分，第三節打出35比13反撲，帶着9分優勢進入第四節；完場前國王落後96比95，艾卡夫上籃不入，基根梅利在最後5秒搶到進攻籃板補籃得手，隨後又成功防守令普理查特最後一投射失。艾卡夫攻入21分及8次助攻，沙邦尼斯交出15分17個籃板；塞爾特人吞下三連敗。"
   },
-  {
-    "id": "20261121-knicks-blazers-97-96-bridges-buzzer",
-    "sport": "basketball",
-    "published_at": "2026-11-22T11:15:00+08:00",
-    "source": "Sportsnet",
-    "source_url": "https://www.sportsnet.ca/nba/article/bridges-hits-three-at-buzzer-lifts-knicks-over-trail-blazers/",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-knicks-blazers-97-96-bridges-buzzer-v2.jpg",
-    "title": {
-      "en": "Bridges' Buzzer-Beating Three Lifts Knicks Past Blazers 97-96 for Fourth Straight Win",
-      "zh_hans": "布里奇斯压哨三分绝杀开拓者 纽约人97-96险胜四连胜",
-      "zh_hant": "布歷捷斯壓哨三分絕殺拓荒者 紐約人97-96險勝四連勝"
-    },
-    "summary": {
-      "en": "Mikal Bridges hit a three-pointer at the buzzer as the New York Knicks edged the Portland Trail Blazers 97-96 at home for a fourth straight win. The Knicks led by as many as 26 points and were 66-43 up at half-time, but were outscored 53-31 in the second half; Deni Avdija's two free throws with 3.2 seconds left gave Portland its only lead before Bridges took Josh Hart's inbound pass and sank the winner. Jalen Brunson scored 30 points, Landry Shamet added 20 and Bridges finished with 12; Donovan Clingan had 22 points and 13 rebounds for Portland.",
-      "zh_hans": "纽约人主场以97-96险胜波特兰开拓者，米卡尔·布里奇斯在完场一刻射入三分绝杀，取得四连胜。纽约人一度领先26分，半场领先66-43，但下半场被对手打出53-31反扑；艾夫迪亚在最后3.2秒两罚全中，一度令开拓者反先，布里奇斯随即接应夏特传球射入致胜三分。布伦森攻入30分，沙美特得20分，布里奇斯得12分；开拓者基根交出22分13篮板。",
-      "zh_hant": "紐約人主場以97-96險勝波特蘭拓荒者，米卡爾·布歷捷斯在完場一刻射入三分絕殺，取得四連勝。紐約人一度領先26分，半場領先66-43，但下半場被對手打出53-31反撲；艾夫迪亞在最後3.2秒兩罰全中，一度令拓荒者反先，布歷捷斯隨即接應夏特傳球射入致勝三分。賓遜攻入30分，沙美特得20分，布歷捷斯得12分；拓荒者基根交出22分13籃板。"
-    },
-    "tags": {
-      "en": [
-        "Knicks",
-        "Bridges",
-        "NBA"
-      ],
-      "zh_hans": [
-        "纽约人",
-        "布里奇斯",
-        "NBA"
-      ],
-      "zh_hant": [
-        "紐約人",
-        "布歷捷斯",
-        "NBA"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby, a game clock showing the final seconds. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"布歷捷斯壓哨三分絕殺\" in vivid coral red with deep blue outline, second line \"紐約人97-96險勝四連勝\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
-    "image_r2_key": "design/202611/20261121-knicks-blazers-97-96-bridges-buzzer-v2.jpg"
+  "tags": {
+   "en": [
+    "Kings",
+    "Celtics",
+    "NBA"
+   ],
+   "zh_hans": [
+    "国王",
+    "凯尔特人",
+    "NBA"
+   ],
+   "zh_hant": [
+    "國王",
+    "塞爾特人",
+    "NBA"
+   ]
   },
-  {
-    "id": "20261121-real-madrid-celta-2-1-espi-winner",
-    "sport": "football",
-    "published_at": "2026-11-22T05:55:00+08:00",
-    "source": "TNT Sports",
-    "source_url": "https://www.tntsports.co.uk/football/la-liga/2026-2027/real-madrid-rc-celta_mtc21891580/live-commentary.shtml",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-real-madrid-celta-2-1-espi-winner-v2.jpg",
-    "title": {
-      "en": "Real Madrid come back to beat Celta 2-1 as Espi's late winner makes it nine in a row",
-      "zh_hans": "皇马2-1逆转切尔达九连胜 艾斯皮85分钟绝杀追平巴塞",
-      "zh_hant": "皇馬2-1逆轉切爾達九連勝 艾斯皮85分鐘絕殺追平巴塞"
-    },
-    "summary": {
-      "en": "Real Madrid came from behind to beat Celta Vigo 2-1 at home, a ninth straight win in all competitions that draws them level with leaders Barcelona. Pablo Duran put the visitors ahead after six minutes, Jude Bellingham equalised in the 66th minute, and substitute Carlos Espi scored the winner in the 85th minute. Kylian Mbappe missed a penalty but it did not cost Real, who took all three points.",
-      "zh_hans": "皇家马德里主场以2-1反胜切尔达，取得各项赛事九连胜，追平榜首巴塞罗那。客军由杜兰在第6分钟先开纪录，皇马在下半场由比宁咸在66分钟追平，后备入替的卡路士·艾斯皮在85分钟攻入致胜一球。麦巴比在比赛中射失十二码，但无碍皇马全取三分。",
-      "zh_hant": "皇家馬德里主場以2-1反勝切爾達，取得各項賽事九連勝，追平榜首巴塞隆拿。客軍由杜蘭在第6分鐘先開紀錄，皇馬在下半場由比寧咸在66分鐘追平，後備入替的卡路士·艾斯皮在85分鐘攻入致勝一球。麥巴比在比賽中射失十二碼，但無礙皇馬全取三分。"
-    },
-    "tags": {
-      "en": [
-        "Real Madrid",
-        "Celta Vigo",
-        "La Liga"
-      ],
-      "zh_hans": [
-        "皇家马德里",
-        "切尔达",
-        "西甲"
-      ],
-      "zh_hant": [
-        "皇家馬德里",
-        "切爾達",
-        "西甲"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"皇馬2-1逆轉切爾達\" in vivid coral red with deep blue outline, second line \"艾斯皮85分鐘絕殺 九連勝\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
-    "image_r2_key": "design/202611/20261121-real-madrid-celta-2-1-espi-winner-v2.jpg"
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby, a game clock showing the final seconds. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"梅利最後5秒補籃絕殺\" in vivid coral red with deep blue outline, second line \"國王97-96險勝塞爾特人\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+  "image_r2_key": "design/202611/20261121-kings-celtics-97-96-murray-putback-v2.jpg"
+ },
+ {
+  "id": "20261121-f1-las-vegas-verstappen-wins",
+  "sport": "motorsport",
+  "published_at": "2026-11-22T13:58:00+08:00",
+  "source": "Formula 1",
+  "source_url": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-f1-las-vegas-verstappen-wins.jpg",
+  "title": {
+   "en": "Verstappen Holds Off Mercedes Onslaught to Win Las Vegas Grand Prix for Third Time in Four Years",
+   "zh_hans": "维斯塔潘力抗梅赛德斯反扑 赢拉斯维加斯站三年三冠",
+   "zh_hant": "韋斯塔本力抗平治反撲 贏拉斯維加斯站三年三冠"
   },
-  {
-    "id": "20261121-suns-jazz-111-101-booker-23",
-    "sport": "basketball",
-    "published_at": "2026-11-22T05:52:00+08:00",
-    "source": "theScore",
-    "source_url": "https://www.thescore.com/nba/event/2462672/recap",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-suns-jazz-111-101-booker-23-v2.jpg",
-    "title": {
-      "en": "Booker scores 23 as Suns pull away late to beat Jazz 111-101 for third straight win",
-      "zh_hans": "布卡23分太阳末节发力 111-101击败爵士三连胜",
-      "zh_hant": "布卡23分太陽末節發力 111-101擊敗爵士三連勝"
-    },
-    "summary": {
-      "en": "The Phoenix Suns beat the Utah Jazz 111-101 on the road for a third straight win, climbing above .500 for the first time this season. Devin Booker led the way with 23 points, while Dillon Brooks and Miles Bridges added 18 apiece. The Suns scored the final six points of the game to pull away in an NBA Cup matchup in Salt Lake City.",
-      "zh_hans": "凤凰城太阳作客以111-101击败犹他爵士，取得三连胜，今季首次胜率过半。迪云·布卡攻入23分，狄龙·布鲁克斯及迈尔斯·布里奇斯各得18分，太阳在最后一分钟连取6分拉开比分。",
-      "zh_hant": "鳳凰城太陽作客以111-101擊敗猶他爵士，取得三連勝，今季首次勝率過半。迪雲·布卡攻入23分，狄龍·布魯克斯及邁爾斯·布里奇斯各得18分，太陽在最後一分鐘連取6分拉開比分。"
-    },
-    "tags": {
-      "en": [
-        "Suns",
-        "Jazz",
-        "NBA"
-      ],
-      "zh_hans": [
-        "太阳",
-        "爵士",
-        "NBA"
-      ],
-      "zh_hant": [
-        "太陽",
-        "爵士",
-        "NBA"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"布卡23分 太陽111-101挫爵士\" in vivid coral red with deep blue outline, second line \"三連勝 今季首度勝率過半\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\" — this label appears exactly once on the whole image, nowhere else. Bright, sunny, high-energy sports news graphic style. No other text on the image.",
-    "image_r2_key": "design/202611/20261121-suns-jazz-111-101-booker-23-v2.jpg"
+  "summary": {
+   "en": "Red Bull's Max Verstappen held off a race-long Mercedes challenge to win the Las Vegas Grand Prix, beating McLaren's Lando Norris by 0.639 seconds for his third win on the streets of Nevada in four years. George Russell and Kimi Antonelli took turns trying to pass Verstappen, but Russell hit the barriers three laps from the end and finished ninth, while Oscar Piastri recovered from 17th on the grid to take third and Antonelli finished fourth. Ferrari's Lewis Hamilton and Charles Leclerc collided with each other, Hamilton finishing seventh and Leclerc tenth. It was Verstappen's fourth win in six races, leaving him 37 points clear of Hamilton in the drivers' standings with two rounds left in Qatar and Abu Dhabi.",
+   "zh_hans": "红牛车手维斯塔潘在拉斯维加斯大奖赛力抗梅赛德斯车队全程反扑，以0.639秒之差力压迈凯伦的诺里斯夺冠，三年内第三度在赌城封王。拉塞尔及安东内利先后多次尝试超越维斯塔潘，拉塞尔在最后三圈撞栏，最终只得第九名；皮亚斯特里由第17位起步追上季军，安东内利得第四。法拉利双雄汉密尔顿及勒克莱尔先后相撞，汉密尔顿得第七，勒克莱尔得第十。维斯塔潘今季六站四胜，在车手榜领先汉密尔顿37分，几乎锁定年度亚军，余下卡塔尔及阿布扎比两站。",
+   "zh_hant": "紅牛車手韋斯塔本在拉斯維加斯大獎賽力抗平治車隊全程反撲，以0.639秒之差力壓麥拿侖的諾里斯奪冠，三年內第三度在賭城封王。羅素及安東尼利先後多次嘗試超越韋斯塔本，羅素在最後三圈撞欄，最終只得第九名；派亞斯查由第17位起步追上季軍，安東尼利得第四。法拉利雙雄咸美頓及勒克萊先後相撞，咸美頓得第七，勒克萊得第十。韋斯塔本今季六站四勝，在車手榜領先咸美頓37分，幾乎鎖定年度亞軍，餘下卡塔爾及阿布扎比兩站。"
   },
-  {
-    "id": "20261121-sixers-bucks-132-129-herro-53",
-    "sport": "basketball",
-    "published_at": "2026-11-22T04:35:00+08:00",
-    "source": "theScore",
-    "source_url": "https://www.thescore.com/nba/news/3662100/embiid-james-lead-76-ers-past-bucks-despite-herros-50",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-sixers-bucks-132-129-herro-53-v3.jpg",
-    "title": {
-      "en": "Herro's 50 not enough as 76ers edge Bucks 132-129 for fifth straight win",
-      "zh_hans": "靴路轰50分仍输波 76人132-129险胜公鹿五连胜",
-      "zh_hant": "靴路轟50分仍輸波 76人132-129險勝公鹿五連勝"
-    },
-    "summary": {
-      "en": "The Philadelphia 76ers held on for a 132-129 home win over the Milwaukee Bucks, their fifth straight victory, improving to 14-3 and staying top of the Eastern Conference. Joel Embiid posted a near triple-double with 26 points, a season-high 17 rebounds and nine assists, while LeBron James scored 13 of his 21 points in the fourth quarter. Tyler Herro scored a career-high 50 points for the Bucks but could not stop a 13th straight defeat, leaving Milwaukee at 1-16. Embiid sealed the win with two free throws with 1.5 seconds left.",
-      "zh_hans": "费城76人主场以132-129险胜密尔沃基公鹿，取得五连胜，战绩14胜3负继续领跑东岸。祖尔·艾比迪交出26分、17个篮板及9次助攻的准三双，勒邦·占士在第四节独取13分，全场得21分。公鹿的泰拿·靴路轰入生涯新高50分，仍无力阻止球队吞下13连败，战绩跌至1胜16负。艾比迪在最后1.5秒两罚全中，为76人锁定胜局。",
-      "zh_hant": "費城76人主場以132-129險勝密爾沃基公鹿，取得五連勝，戰績14勝3負繼續領跑東岸。祖爾·艾比迪交出26分、17個籃板及9次助攻的準三雙，勒邦·占士在第四節獨取13分，全場得21分。公鹿的泰拿·靴路轟入生涯新高50分，仍無力阻止球隊吞下13連敗，戰績跌至1勝16負。艾比迪在最後1.5秒兩罰全中，為76人鎖定勝局。"
-    },
-    "tags": {
-      "en": [
-        "76ers",
-        "Bucks",
-        "NBA"
-      ],
-      "zh_hans": [
-        "76人",
-        "公鹿",
-        "NBA"
-      ],
-      "zh_hant": [
-        "76人",
-        "公鹿",
-        "NBA"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"靴路50分白轟 76人險勝公鹿\" in vivid coral red with deep blue outline, second line \"五連勝續領跑東岸\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
-    "image_r2_key": "design/202611/20261121-sixers-bucks-132-129-herro-53-v3.jpg"
+  "tags": {
+   "en": [
+    "Formula 1",
+    "Verstappen",
+    "Las Vegas GP"
+   ],
+   "zh_hans": [
+    "一级方程式",
+    "维斯塔潘",
+    "拉斯维加斯大奖赛"
+   ],
+   "zh_hant": [
+    "一級方程式",
+    "韋斯塔本",
+    "拉斯維加斯大獎賽"
+   ]
   },
-  {
-    "id": "20261121-newcastle-arsenal-2-2-madueke-equaliser",
-    "sport": "football",
-    "published_at": "2026-11-22T03:28:00+08:00",
-    "source": "Arsenal FC",
-    "source_url": "https://www.arsenal.com/news/report-newcastle-united-2-2-arsenal-aYrA33Z7yfW4",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-newcastle-arsenal-2-2-madueke-equaliser-v2.jpg",
-    "title": {
-      "en": "Newcastle hold Arsenal to a 2-2 draw as Madueke's 78th-minute equaliser rescues the leaders",
-      "zh_hans": "纽卡素2-2逼和阿仙奴 马迪基78分钟救主",
-      "zh_hant": "紐卡素2-2逼和阿仙奴 馬迪基78分鐘救主"
-    },
-    "summary": {
-      "en": "Newcastle United held Premier League leaders Arsenal to a 2-2 draw at St James' Park. Eberechi Eze put Arsenal ahead in the 33rd minute, but Harvey Barnes equalised four minutes after the break after a Martin Odegaard miskick, and Malick Thiaw put Newcastle 2-1 up in the 62nd minute from a corner. Arsenal goalkeeper David Raya was then forced off injured, but Noni Madueke cut inside and scored in the 78th minute to rescue a point. Arsenal move six points clear at the top after 11 games, with 28 points, though Brighton can cut the gap to three if they beat Hull City on Sunday.",
-      "zh_hans": "纽卡素主场以2-2逼和英超榜首阿仙奴。艾斯在33分钟为阿仙奴先开纪录，但换边后仅4分钟，奥迪加特一次传球失误，令班尼斯追平；迪亚在62分钟接应角球攻入第二球，纽卡素反超2-1。阿仙奴门将拉耶其后因伤退下火线，但马迪基在78分钟内切射入，为阿仙奴抢回一分。阿仙奴11战得28分，领先榜首6分，但白礼顿若在星期日击败侯城，可将分差收窄至3分。",
-      "zh_hant": "紐卡素主場以2-2逼和英超榜首阿仙奴。艾斯在33分鐘為阿仙奴先開紀錄，但換邊後僅4分鐘，奧迪加特一次傳球失誤，令班尼斯追平；迪亞在62分鐘接應角球攻入第二球，紐卡素反超2-1。阿仙奴門將拉耶其後因傷退下火線，但馬迪基在78分鐘內切射入，為阿仙奴搶回一分。阿仙奴11戰得28分，領先榜首6分，但白禮頓若在星期日擊敗侯城，可將分差收窄至3分。"
-    },
-    "tags": {
-      "en": [
-        "Newcastle",
-        "Arsenal",
-        "Premier League"
-      ],
-      "zh_hans": [
-        "纽卡素",
-        "阿仙奴",
-        "英超"
-      ],
-      "zh_hant": [
-        "紐卡素",
-        "阿仙奴",
-        "英超"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit St James' Park pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"紐卡素2-2逼和阿仙奴\" in vivid coral red with deep blue outline, second line \"馬迪基78分鐘救主\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
-    "image_r2_key": "design/202611/20261121-newcastle-arsenal-2-2-madueke-equaliser-v2.jpg"
+  "image_r2_key": "design/202611/20261121-f1-las-vegas-verstappen-wins.jpg"
+ },
+ {
+  "id": "20261121-hk-bulls-beat-guangdong-73-61",
+  "sport": "basketball",
+  "published_at": "2026-11-22T13:11:08+08:00",
+  "source": "CGTN",
+  "source_url": "https://news.cgtn.com/news/2026-11-22/Hong-Kong-Bulls-and-Jiangxi-Daqian-pull-off-CBA-Club-Cup-upsets-1SgZuoeY4da/p.html",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-hk-bulls-beat-guangdong-73-61-v2.jpg",
+  "title": {
+   "en": "Hong Kong Bulls Stun Guangdong 73-61 as Jones Scores 26 in CBA Club Cup",
+   "zh_hans": "香港金牛73-61爆冷击败广东 琼斯26分率队争八强席位",
+   "zh_hant": "香港金牛73-61爆冷擊敗廣東 瓊斯26分率隊爭八強席位"
   },
-  {
-    "id": "20261121-roma-parma-5-1-malen-four-goals",
-    "sport": "football",
-    "published_at": "2026-11-22T02:52:00+08:00",
-    "source": "AS Roma",
-    "source_url": "https://www.asroma.com/en/news/76250/malen-bags-four-as-roma-crush-parma-5-1",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-roma-parma-5-1-malen-four-goals-v2.jpg",
-    "title": {
-      "en": "Malen scores four as Roma thrash Parma 5-1 to keep pace with Lazio",
-      "zh_hans": "马伦大四喜罗马5-1大胜帕尔马 四连胜紧追拉素",
-      "zh_hant": "馬倫大四喜羅馬5-1大勝帕爾馬 四連勝緊追拉素"
-    },
-    "summary": {
-      "en": "AS Roma thrashed Parma 5-1 away for a fourth straight Serie A win, moving to 30 points from 12 games, two behind leaders Lazio in second place. Dutch striker Donyell Malen scored four goals (39th, 68th, 77th and 90th minutes) to take his league tally to 12 for the season, while Rodrigo Mora added another in the 71st minute. Nesta Elphege had briefly levelled for the hosts in the 54th minute, but Roma scored four in the second half to seal the win.",
-      "zh_hans": "罗马作客以5-1大胜帕尔马，取得意甲四连胜，12轮得30分，落后榜首拉素两分排第二。荷兰前锋马伦大演帽子戏法后再入一球，全场独取四球（39、68、77及90分钟），今季联赛已入12球；摩拉在71分钟亦建功。主队由艾菲治在54分钟一度追平，但罗马下半场连入四球锁定胜局。",
-      "zh_hant": "羅馬作客以5-1大勝帕爾馬，取得意甲四連勝，12輪得30分，落後榜首拉素兩分排第二。荷蘭前鋒馬倫大演帽子戲法後再入一球，全場獨取四球（39、68、77及90分鐘），今季聯賽已入12球；摩拉在71分鐘亦建功。主隊由艾菲治在54分鐘一度追平，但羅馬下半場連入四球鎖定勝局。"
-    },
-    "tags": {
-      "en": [
-        "Roma",
-        "Parma",
-        "Serie A"
-      ],
-      "zh_hans": [
-        "罗马",
-        "帕尔马",
-        "意甲"
-      ],
-      "zh_hant": [
-        "羅馬",
-        "帕爾馬",
-        "意甲"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"馬倫大四喜 羅馬5-1大勝\" in vivid coral red with deep blue outline, second line \"四連勝緊追榜首拉素\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
-    "image_r2_key": "design/202611/20261121-roma-parma-5-1-malen-four-goals-v2.jpg"
+  "summary": {
+   "en": "Reigning NBL champions the Hong Kong Bulls pulled off an upset in the CBA Club Cup, beating the Guangdong Southern Tigers 73-61 in a Group D match in Qionghai, Hainan. Mason Jones scored a game-high 26 points as the Bulls overcame a seven-point first-quarter deficit, holding Guangdong to just eight points in the second period to lead 30-27 at half-time. Guangdong's Xu Jie scored 21 points but was the only home player in double figures. The Bulls will play the Guangzhou Loong Lions on Sunday for a quarter-final place.",
+   "zh_hans": "卫冕NBL冠军香港金牛在CBA俱乐部杯爆冷，以73比61击败广东华南虎，在海南琼海的小组赛D组取胜。琼斯攻入全场最高的26分，金牛首节落后7分后，次节只让广东得到8分，半场以30比27反超。广东徐杰得21分，是主队唯一得分上双的球员。金牛将于周日对阵广州龙狮，争夺八强席位。",
+   "zh_hant": "衛冕NBL冠軍香港金牛在CBA球會盃爆冷，以73比61擊敗廣東華南虎，在海南瓊海的小組賽D組取勝。瓊斯攻入全場最高的26分，金牛首節落後7分後，次節只讓廣東得到8分，半場以30比27反超。廣東徐杰得21分，是主隊唯一得分上雙的球員。金牛將於周日對陣廣州龍獅，爭奪八強席位。"
   },
-  {
-    "id": "20261121-psg-nice-3-2-torres-late-winner",
-    "sport": "football",
-    "published_at": "2026-11-22T02:07:00+08:00",
-    "source": "beIN Sports",
-    "source_url": "https://www.beinsports.com/en-us/soccer/ligue-1/articles-video/nice-vs-psg-highlights-ligue-1-2026-11-21",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-psg-nice-3-2-torres-late-winner-v2.jpg",
-    "title": {
-      "en": "PSG come from behind to beat Nice 3-2 as goalscorer Doue is stretchered off injured",
-      "zh_hans": "巴黎圣日耳门3-2逆转尼斯 杜埃入波后重伤担架离场",
-      "zh_hant": "巴黎聖日耳門3-2逆轉尼斯 杜埃入波後重傷擔架離場"
-    },
-    "summary": {
-      "en": "Paris Saint-Germain came from behind to beat Nice 3-2 away and record an eighth straight Ligue 1 win. Mohamed Amoura put the hosts ahead in the eighth minute, but Senny Mayulu's 31st-minute penalty and Desire Doue's goal a minute later turned the game around. Doue was stretchered off with a knee injury shortly after scoring, and his replacement Ferran Torres sealed the win in the 85th minute before Ali Abdi pulled one back in stoppage time. PSG have now won 12 in a row in all competitions and stay top of Ligue 1.",
-      "zh_hans": "巴黎圣日耳门作客以3-2反胜尼斯，取得法甲八连胜。主队由阿摩拉在第8分钟先开纪录，巴黎凭马耶路31分钟的十二码及杜埃32分钟的入球，在一分钟内反超前。杜埃入球后不久膝部重伤，需由担架抬离场，由费兰·托利斯入替，后者在85分钟攻入致胜一球；阿布迪在补时为尼斯追回一球。巴黎各项赛事已12连胜，继续领跑法甲。",
-      "zh_hant": "巴黎聖日耳門作客以3-2反勝尼斯，取得法甲八連勝。主隊由阿摩拉在第8分鐘先開紀錄，巴黎憑馬耶路31分鐘的十二碼及杜埃32分鐘的入球，在一分鐘內反超前。杜埃入球後不久膝部重傷，需由擔架抬離場，由費蘭·托利斯入替，後者在85分鐘攻入致勝一球；阿布迪在補時為尼斯追回一球。巴黎各項賽事已12連勝，繼續領跑法甲。"
-    },
-    "tags": {
-      "en": [
-        "PSG",
-        "Nice",
-        "Ligue 1"
-      ],
-      "zh_hans": [
-        "巴黎圣日耳门",
-        "尼斯",
-        "法甲"
-      ],
-      "zh_hant": [
-        "巴黎聖日耳門",
-        "尼斯",
-        "法甲"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"巴黎3-2逆轉尼斯八連勝\" in vivid coral red with deep blue outline, second line \"杜埃入波後重傷擔架離場\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
-    "image_r2_key": "design/202611/20261121-psg-nice-3-2-torres-late-winner-v2.jpg"
+  "tags": {
+   "en": [
+    "Hong Kong Bulls",
+    "CBA Club Cup",
+    "Mason Jones"
+   ],
+   "zh_hans": [
+    "香港金牛",
+    "CBA俱乐部杯",
+    "琼斯"
+   ],
+   "zh_hant": [
+    "香港金牛",
+    "CBA球會盃",
+    "瓊斯"
+   ]
   },
-  {
-    "id": "20261121-bournemouth-forest-2-0-evanilson",
-    "sport": "football",
-    "published_at": "2026-11-22T02:00:00+08:00",
-    "source": "Daily Star",
-    "source_url": "https://www.thedailystar.net/sports/football/news/leeds-thrash-chelsea-spurs-continue-climb-4329721",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-bournemouth-forest-2-0-evanilson-v2.jpg",
-    "title": {
-      "en": "Bournemouth beat Forest 2-0 to climb to fourth as Evanilson scores in a sixth straight league game",
-      "zh_hans": "伯恩茅斯2-0挫森林升上第四 艾云尼臣连续六场联赛入波",
-      "zh_hant": "般尼茅夫2-0挫森林升上第四 艾雲尼臣連續六場聯賽入波"
-    },
-    "summary": {
-      "en": "Bournemouth beat Nottingham Forest 2-0 at home to climb to fourth in the Premier League. Evanilson opened the scoring in the 19th minute, his sixth consecutive league game with a goal, and Justin Kluivert added a second three minutes into first-half stoppage time. Bournemouth have now won nine successive matches in all competitions, a club record, and five straight top-flight games, moving to 18 points, level with Liverpool.",
-      "zh_hans": "伯恩茅斯主场以2-0击败诺定咸森林，升上联赛榜第四位。艾云尼臣在19分钟先开纪录，连续第六场联赛取得入球，古华特在上半场补时3分钟射入第二球。伯恩茅斯取得各项赛事九连胜，创下球会纪录，同时是连续第五场顶级联赛胜仗，以18分与利物浦同分。",
-      "zh_hant": "般尼茅夫主場以2-0擊敗諾定咸森林，升上聯賽榜第四位。艾雲尼臣在19分鐘先開紀錄，連續第六場聯賽取得入球，古華特在上半場補時3分鐘射入第二球。般尼茅夫取得各項賽事九連勝，創下球會紀錄，同時是連續第五場頂級聯賽勝仗，以18分與利物浦同分。"
-    },
-    "tags": {
-      "en": [
-        "Bournemouth",
-        "Nottingham Forest",
-        "Premier League"
-      ],
-      "zh_hans": [
-        "伯恩茅斯",
-        "诺定咸森林",
-        "英超"
-      ],
-      "zh_hant": [
-        "般尼茅夫",
-        "諾定咸森林",
-        "英超"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Vitality Stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"般尼茅夫2-0挫森林升第四\" in vivid coral red with deep blue outline, second line \"九連勝創球會紀錄\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. Top left clean, no logo, no text. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
-    "image_r2_key": "design/202611/20261121-bournemouth-forest-2-0-evanilson-v2.jpg"
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a Hong Kong Bulls basketball player in a red jersey driving to the basket in a sunlit arena, scoreboard showing 73-61 in the background, crowd cheering. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with deep blue outline reads '香港金牛73-61爆冷擊敗廣東', second line in solid white reads '瓊斯26分率隊爭八強席位'. Text must be complete and clear, never split, repeated or covered. In the bottom right, tiny fine-print text reads 'AI設計圖片'. Bright, sunny, high-energy sports news graphic style.",
+  "image_r2_key": "design/202611/20261121-hk-bulls-beat-guangdong-73-61-v2.jpg"
+ },
+ {
+  "id": "20261121-spurs-pelicans-114-91-wembanyama-50",
+  "sport": "basketball",
+  "published_at": "2026-11-22T11:45:00+08:00",
+  "source": "Sportsnet",
+  "source_url": "https://www.sportsnet.ca/nba/article/wembanyama-has-50-points-19-rebounds-as-spurs-roll-past-pelicans/",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-spurs-pelicans-114-91-wembanyama-50-v2.jpg",
+  "title": {
+   "en": "Wembanyama Drops 50 and 19 as Spurs Rout Pelicans 114-91 to Tie Lakers Atop West",
+   "zh_hans": "文班亚马轰50分19篮板 马刺114-91大胜鹈鹕并列西岸榜首",
+   "zh_hant": "雲班耶馬轟50分19籃板 馬刺114-91大勝塘鵝並列西岸榜首"
   },
-  {
-    "id": "20261121-coventry-palace-3-2-mcneil-og",
-    "sport": "football",
-    "published_at": "2026-11-22T02:00:00+08:00",
-    "source": "The National",
-    "source_url": "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-coventry-palace-3-2-mcneil-og-v2.jpg",
-    "title": {
-      "en": "Coventry edge Crystal Palace 3-2 as McNeil's late own goal ruins Thomas Frank's first game in charge",
-      "zh_hans": "考文垂3-2绝杀水晶宫 法兰克首战即输 麦尼尔85分钟摆乌龙",
-      "zh_hant": "高雲地利3-2絕殺水晶宮 法蘭克首戰即輸 麥尼爾85分鐘擺烏龍"
-    },
-    "summary": {
-      "en": "Coventry City edged Crystal Palace 3-2 at home to hand the visitors' new manager Thomas Frank defeat in his first game in charge. Taiwo Awoniyi opened the scoring in the fifth minute, Yeremy Pino levelled, Tatsuhiro Sakamoto restored Coventry's lead after half an hour, Jorgen Strand Larsen made it 2-2 in first-half stoppage time, and Dwight McNeil's own goal in the 85th minute settled it. Coventry climb to 13th with a fourth win of the season, while Palace remain bottom after a fifth straight defeat.",
-      "zh_hans": "考文垂主场以3-2险胜水晶宫，送给对方新帅法兰克上任首战败仗。阿禾尼尔在5分钟先开纪录，皮诺追平后，坂元达裕在半小时左右再度领先，史卓拉臣在上半场补时追成2-2，麦尼尔在85分钟摆乌龙送礼，考文垂升上第13位，取得今季第四场胜仗。水晶宫五连败，继续包尾。",
-      "zh_hant": "高雲地利主場以3-2險勝水晶宮，送給對方新帥法蘭克上任首戰敗仗。阿禾尼爾在5分鐘先開紀錄，皮諾追平後，坂元達裕在半小時左右再度領先，史卓拉臣在上半場補時追成2-2，麥尼爾在85分鐘擺烏龍送禮，高雲地利升上第13位，取得今季第四場勝仗。水晶宮五連敗，繼續包尾。"
-    },
-    "tags": {
-      "en": [
-        "Coventry",
-        "Crystal Palace",
-        "Premier League"
-      ],
-      "zh_hans": [
-        "考文垂",
-        "水晶宫",
-        "英超"
-      ],
-      "zh_hant": [
-        "高雲地利",
-        "水晶宮",
-        "英超"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Coventry Building Society Arena pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"高雲地利3-2絕殺水晶宮\" in vivid coral red with deep blue outline, second line \"法蘭克首戰即輸\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
-    "image_r2_key": "design/202611/20261121-coventry-palace-3-2-mcneil-og-v2.jpg"
+  "summary": {
+   "en": "Victor Wembanyama scored 50 points and grabbed 19 rebounds with five blocks and four steals as the San Antonio Spurs routed the New Orleans Pelicans 114-91 at home, reaching 50 points for the second time this season. Wembanyama had 32 points by half-time and became the first player in NBA history to record 50 points, 19 rebounds, five three-pointers, five blocks and four steals in a single game. The Spurs have won 14 of their last 15 and sit at 14-3, tied with the Lakers atop the Western Conference; Stephon Castle added 19 points.",
+   "zh_hans": "圣安东尼奥马刺主场以114-91大胜新奥尔良鹈鹕，维克托·文班亚马攻入50分、抢下19个篮板，另有5次封盖及4次抢断，半场已独取32分，今季第二次单场50分。他成为NBA史上首位单场同时取得50分、19篮板、5个三分球、5次封盖及4次抢断的球员。马刺15场赢14场，战绩14胜3负，与湖人并列西岸榜首；史蒂芬·卡斯尔贡献19分。",
+   "zh_hant": "聖安東尼奧馬刺主場以114-91大勝新奧爾良塘鵝，維克托·雲班耶馬攻入50分、搶下19個籃板，另有5次封阻及4次偷波，半場已獨取32分，今季第二次單場50分。他成為NBA史上首位單場同時取得50分、19籃板、5個三分波、5次封阻及4次偷波的球員。馬刺15場贏14場，戰績14勝3負，與湖人並列西岸榜首；史提芬·卡素貢獻19分。"
   },
-  {
-    "id": "20261121-chelsea-leeds-1-4-okafor-brace",
-    "sport": "football",
-    "published_at": "2026-11-22T02:00:00+08:00",
-    "source": "Chelsea FC",
-    "source_url": "https://www.chelseafc.com/en/news/article/match-report-chelsea-1-4-leeds",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-chelsea-leeds-1-4-okafor-brace-v2.jpg",
-    "title": {
-      "en": "Leeds thrash Chelsea 4-1 at Stamford Bridge as Okafor scores twice in first win there since 1999",
-      "zh_hans": "利兹4-1大破切尔西 奥卡科夫梅开二度 27年首胜斯坦福桥",
-      "zh_hant": "列斯4-1大破車路士 奧卡科夫梅開二度 27年首勝史丹福橋"
-    },
-    "summary": {
-      "en": "Leeds United thrashed Chelsea 4-1 at Stamford Bridge for their first win there since 1999. Emmanuel Emegha marked his full Chelsea debut with the opener in the 25th minute, but Noah Okafor levelled three minutes later, Dominic Calvert-Lewin converted a penalty in the 53rd minute to put Leeds ahead, Okafor struck again in the 58th minute and Brenden Aaronson added a fourth in stoppage time. Leeds climb to sixth, Chelsea drop to eighth after a third defeat in four league games, with head coach Xabi Alonso admitting his side are in a 'fragile moment'.",
-      "zh_hans": "利兹联作客斯坦福桥以4-1大破切尔西，取得27年来首场作客切尔西胜仗。艾美夏在25分钟为首次正选上阵的切尔西先开纪录，但奥卡科夫在3分钟后即追平，换边后卡维特利云在53分钟射入12码反超，奥卡科夫在58分钟再下一城，阿朗臣在补时阶段锦上添花。利兹升上联赛榜第六位，切尔西跌至第八位，近四场联赛输了三场，主帅阿朗素承认球队正处于「脆弱时刻」。",
-      "zh_hant": "列斯聯作客史丹福橋以4-1大破車路士，取得27年來首場作客車路士勝仗。艾美夏在25分鐘為首次正選上陣的車路士先開紀錄，但奧卡科夫在3分鐘後即追平，換邊後卡維特利雲在53分鐘射入12碼反超，奧卡科夫在58分鐘再下一城，阿朗臣在補時階段錦上添花。列斯升上聯賽榜第六位，車路士跌至第八位，近四場聯賽輸了三場，主帥阿朗素承認球隊正處於「脆弱時刻」。"
-    },
-    "tags": {
-      "en": [
-        "Chelsea",
-        "Leeds United",
-        "Premier League"
-      ],
-      "zh_hans": [
-        "切尔西",
-        "利兹联",
-        "英超"
-      ],
-      "zh_hant": [
-        "車路士",
-        "列斯聯",
-        "英超"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Stamford Bridge pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"列斯4-1大破車路士\" in vivid coral red with deep blue outline, second line \"27年首勝史丹福橋\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom-right corner only, one small line of fine print reads \"AI設計圖片\". Do not write these characters anywhere else — no second copy near the title, no copy at the right edge, no copy in the middle of the image. Bright, sunny, high-energy sports news graphic style. No other text on the image.",
-    "image_r2_key": "design/202611/20261121-chelsea-leeds-1-4-okafor-brace-v2.jpg"
+  "tags": {
+   "en": [
+    "Spurs",
+    "Wembanyama",
+    "NBA"
+   ],
+   "zh_hans": [
+    "马刺",
+    "文班亚马",
+    "NBA"
+   ],
+   "zh_hant": [
+    "馬刺",
+    "雲班耶馬",
+    "NBA"
+   ]
   },
-  {
-    "id": "20261121-spurs-ipswich-2-0-williams-barnett",
-    "sport": "football",
-    "published_at": "2026-11-22T02:00:00+08:00",
-    "source": "AllFootball",
-    "source_url": "https://www.allfootballapp.com/articles/6022006-tottenham-2-0-ipswich-town-barnett",
-    "image_url": "https://images.hksports.hk/design/202611/20261121-spurs-ipswich-2-0-williams-barnett-v2.jpg",
-    "title": {
-      "en": "Spurs beat Ipswich 2-0 as 18-year-old Williams-Barnett scores and assists on his first Premier League start",
-      "zh_hans": "热刺2-0挫伊普斯维奇 18岁小将首正选即入波兼助攻",
-      "zh_hant": "熱刺2-0挫葉士域治 18歲小將首正選即入波兼助攻"
-    },
-    "summary": {
-      "en": "Tottenham Hotspur beat Ipswich Town 2-0 at home as 18-year-old Luca Williams-Barnett starred on his first Premier League start. He opened the scoring in the 15th minute from Pedro Porro's cross and then set up Dominic Solanke for the second in the 51st minute after a mazy run. Aged 18 years and 51 days, Williams-Barnett became the second-youngest player to score and assist in a Premier League match and the youngest Tottenham scorer since Gareth Bale. Spurs recorded a fourth win of the season and a third straight home league victory to move into the top half.",
-      "zh_hans": "热刺主场以2-0击败伊普斯维奇，18岁小将卢卡·威廉斯巴尼特在首次英超正选即大放异彩。他在15分钟接应波罗传中先开纪录，换边后再凭一次个人突破助攻苏兰基在51分钟射入第二球。威廉斯巴尼特以18岁51日成为英超史上第二年轻取得入球兼助攻的球员，亦是热刺自加里夫巴利以来最年轻的入球者。热刺取得今季第四场胜仗兼主场三连胜，升上联赛榜上半版。",
-      "zh_hant": "熱刺主場以2-0擊敗葉士域治，18歲小將盧卡·威廉斯巴尼特在首次英超正選即大放異彩。他在15分鐘接應波羅傳中先開紀錄，換邊後再憑一次個人突破助攻蘇蘭基在51分鐘射入第二球。威廉斯巴尼特以18歲51日成為英超史上第二年輕取得入球兼助攻的球員，亦是熱刺自加里夫巴利以來最年輕的入球者。熱刺取得今季第四場勝仗兼主場三連勝，升上聯賽榜上半版。"
-    },
-    "tags": {
-      "en": [
-        "Tottenham",
-        "Ipswich",
-        "Premier League"
-      ],
-      "zh_hans": [
-        "热刺",
-        "伊普斯维奇",
-        "英超"
-      ],
-      "zh_hant": [
-        "熱刺",
-        "葉士域治",
-        "英超"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Tottenham Hotspur Stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"熱刺2-0挫葉士域治\" in vivid coral red with deep blue outline, second line \"18歲小將首正選即建功\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom-right corner only, one small line of fine print reads \"AI設計圖片\". Do not write these characters anywhere else — no second copy near the title, no copy at the right edge, no copy in the middle of the image. Bright, sunny, high-energy sports news graphic style. No other text on the image.",
-    "image_r2_key": "design/202611/20261121-spurs-ipswich-2-0-williams-barnett-v2.jpg"
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"雲班耶馬50分19籃板\" in vivid coral red with deep blue outline, second line \"馬刺大勝並列西岸榜首\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+  "image_r2_key": "design/202611/20261121-spurs-pelicans-114-91-wembanyama-50-v2.jpg"
+ },
+ {
+  "id": "20261121-knicks-blazers-97-96-bridges-buzzer",
+  "sport": "basketball",
+  "published_at": "2026-11-22T11:15:00+08:00",
+  "source": "Sportsnet",
+  "source_url": "https://www.sportsnet.ca/nba/article/bridges-hits-three-at-buzzer-lifts-knicks-over-trail-blazers/",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-knicks-blazers-97-96-bridges-buzzer-v2.jpg",
+  "title": {
+   "en": "Bridges' Buzzer-Beating Three Lifts Knicks Past Blazers 97-96 for Fourth Straight Win",
+   "zh_hans": "布里奇斯压哨三分绝杀开拓者 纽约人97-96险胜四连胜",
+   "zh_hant": "布歷捷斯壓哨三分絕殺拓荒者 紐約人97-96險勝四連勝"
   },
-  {
-    "id": "20261122-hk-dragon-world-championship-opens",
-    "sport": "others",
-    "published_at": "2026-11-22T20:18:00+08:00",
-    "source": "政府新聞處",
-    "source_url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200573.htm",
-    "image_url": null,
-    "title": {
-      "en": "Dragon World Championship Sails Into Asia for First Time as Nearly 100 Boats Race in Victoria Harbour",
-      "zh_hans": "龙级帆船世锦赛首度落户亚洲 近百艘帆船维港竞逐 300名好手参战",
-      "zh_hant": "龍級帆船世錦賽首度落戶亞洲 近百艘帆船維港競逐 300名好手參戰"
-    },
-    "summary": {
-      "en": "The 2027 Hong Kong Dragon World Championship opened today, the first time the prestigious sailing competition has been hosted in Asia. Secretary for Culture, Sports and Tourism Rosanna Law told the opening ceremony that nearly 100 Dragon keelboats and close to 300 top sailors from more than 22 countries and regions will race in Victoria Harbour over the coming days. Law said Hong Kong, in the heart of Asia with its iconic Victoria Harbour, is an ideal venue for world-class sailing, and noted a packed calendar of major sports events into the year end, including the FIBA 3x3 World Tour Hong Kong, the Hong Kong Squash Open and the WTT Finals Hong Kong.",
-      "zh_hans": "2027年香港龙级世界锦标赛今日开幕，是这项历史悠久的帆船赛事首次在亚洲举行。文化体育及旅游局局长罗淑佩在开幕典礼致辞时表示，近100艘龙级帆船、近300名顶尖帆船运动员，来自逾22个国家及地区，将在未来数日于维多利亚港竞逐。她表示，香港位处亚洲心脏地带，维港景色壮丽，是举办世界级帆船赛事的理想地点；香港年底体育盛事接踵而来，包括FIBA 3x3世界巡回赛香港站、香港壁球公开赛及WTT年终总决赛。",
-      "zh_hant": "2027年香港龍級世界錦標賽今日開幕，是這項歷史悠久的帆船賽事首次在亞洲舉行。文化體育及旅遊局局長羅淑佩在開幕典禮致辭時表示，近100艘龍級帆船、近300名頂尖帆船運動員，來自逾22個國家及地區，將在未來數日於維多利亞港競逐。她表示，香港位處亞洲心臟地帶，維港景色壯麗，是舉辦世界級帆船賽事的理想地點；香港年底體育盛事接踵而來，包括FIBA 3x3世界巡迴賽香港站、香港壁球公開賽及WTT年終總決賽。"
-    },
-    "tags": {
-      "en": [
-        "Dragon World Championship",
-        "Victoria Harbour",
-        "Rosanna Law"
-      ],
-      "zh_hans": [
-        "龙级帆船世锦赛",
-        "维多利亚港",
-        "罗淑佩"
-      ],
-      "zh_hant": [
-        "龍級帆船世錦賽",
-        "維多利亞港",
-        "羅淑佩"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports poster with a clean modern sports-broadcast aesthetic, horizontal 16:9 format. Subject: Dragon keelboats racing on Victoria Harbour in bright daylight, white sails, blue sky, Hong Kong skyline in the background, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold, first line in vivid coral red with deep blue outline reading \"龍級世錦賽首度落戶亞洲\", second line in white with deep blue outline reading \"近百艘帆船維港競逐\", the two lines echoing each other, text complete and clear, never split, repeated or covered by any object. Top left corner clean, no logo, no text. In the bottom right, tiny fine-print text reads \"AI設計圖片\", appearing only once. Apart from the title and the bottom-right label, no other text, numbers or captions on the image."
+  "summary": {
+   "en": "Mikal Bridges hit a three-pointer at the buzzer as the New York Knicks edged the Portland Trail Blazers 97-96 at home for a fourth straight win. The Knicks led by as many as 26 points and were 66-43 up at half-time, but were outscored 53-31 in the second half; Deni Avdija's two free throws with 3.2 seconds left gave Portland its only lead before Bridges took Josh Hart's inbound pass and sank the winner. Jalen Brunson scored 30 points, Landry Shamet added 20 and Bridges finished with 12; Donovan Clingan had 22 points and 13 rebounds for Portland.",
+   "zh_hans": "纽约人主场以97-96险胜波特兰开拓者，米卡尔·布里奇斯在完场一刻射入三分绝杀，取得四连胜。纽约人一度领先26分，半场领先66-43，但下半场被对手打出53-31反扑；艾夫迪亚在最后3.2秒两罚全中，一度令开拓者反先，布里奇斯随即接应夏特传球射入致胜三分。布伦森攻入30分，沙美特得20分，布里奇斯得12分；开拓者基根交出22分13篮板。",
+   "zh_hant": "紐約人主場以97-96險勝波特蘭拓荒者，米卡爾·布歷捷斯在完場一刻射入三分絕殺，取得四連勝。紐約人一度領先26分，半場領先66-43，但下半場被對手打出53-31反撲；艾夫迪亞在最後3.2秒兩罰全中，一度令拓荒者反先，布歷捷斯隨即接應夏特傳球射入致勝三分。賓遜攻入30分，沙美特得20分，布歷捷斯得12分；拓荒者基根交出22分13籃板。"
   },
-  {
-    "id": "20261122-shatin-eastern-0-3",
-    "sport": "football",
-    "published_at": "2026-11-22T17:00:00+08:00",
-    "source": "mygoal90",
-    "source_url": "https://mygoal90.com/en/match/2026-11-22/shatin-eastern-1607356",
-    "image_url": null,
-    "title": {
-      "en": "Eastern Score Three First-Half Goals in 3-0 Win at Shatin",
-      "zh_hans": "东方上半场连入三球 3比0客场大胜沙田",
-      "zh_hant": "東方上半場連入三球 3比0作客大勝沙田"
-    },
-    "summary": {
-      "en": "Eastern beat Shatin 3-0 away in the Hong Kong Premier League on Sunday, with all three goals coming in the first half. Alonso headed Eastern in front after 10 minutes, Shatin's Ansah was sent off in the 19th minute, and Cova (26') and Okubo (27') added two more before the break. Neither side scored after half-time as Eastern took all three points.",
-      "zh_hans": "港超联周日赛事，东方客场以3比0大胜至尊沙田，三个进球全部在上半场出现。Alonso 10分钟头槌先开纪录，沙田 Ansah 19分钟领红牌被逐，东方其后由 Cova 26分钟及 Okubo 27分钟连入两球，半场已领先3比0。换边后双方再无进球，东方全取三分。",
-      "zh_hant": "港超聯周日賽事，東方作客以3比0大勝至尊沙田，三個入球全部在上半場出現。Alonso 10分鐘頭槌先開紀錄，沙田 Ansah 19分鐘領紅牌被逐，東方其後由 Cova 26分鐘及 Okubo 27分鐘連入兩球，半場已領先3比0。換邊後雙方再無入球，東方全取三分。"
-    },
-    "tags": {
-      "en": [
-        "Hong Kong Premier League",
-        "Eastern",
-        "Shatin"
-      ],
-      "zh_hans": [
-        "港超联",
-        "东方",
-        "沙田"
-      ],
-      "zh_hant": [
-        "港超聯",
-        "東方",
-        "沙田"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a football striker heading the ball into the net on a sunlit stadium pitch, teammates celebrating, crowd in the background. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with deep blue outline reads '東方上半場連入三球', second line in solid white reads '3比0作客大勝沙田'. Text must be complete and clear, never split, repeated or covered. In the bottom right, tiny fine-print text reads 'AI設計圖片'. Bright, sunny, high-energy sports news graphic style."
+  "tags": {
+   "en": [
+    "Knicks",
+    "Bridges",
+    "NBA"
+   ],
+   "zh_hans": [
+    "纽约人",
+    "布里奇斯",
+    "NBA"
+   ],
+   "zh_hant": [
+    "紐約人",
+    "布歷捷斯",
+    "NBA"
+   ]
+  },
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby, a game clock showing the final seconds. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"布歷捷斯壓哨三分絕殺\" in vivid coral red with deep blue outline, second line \"紐約人97-96險勝四連勝\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+  "image_r2_key": "design/202611/20261121-knicks-blazers-97-96-bridges-buzzer-v2.jpg"
+ },
+ {
+  "id": "20261121-real-madrid-celta-2-1-espi-winner",
+  "sport": "football",
+  "published_at": "2026-11-22T05:55:00+08:00",
+  "source": "TNT Sports",
+  "source_url": "https://www.tntsports.co.uk/football/la-liga/2026-2027/real-madrid-rc-celta_mtc21891580/live-commentary.shtml",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-real-madrid-celta-2-1-espi-winner-v2.jpg",
+  "title": {
+   "en": "Real Madrid come back to beat Celta 2-1 as Espi's late winner makes it nine in a row",
+   "zh_hans": "皇马2-1逆转切尔达九连胜 艾斯皮85分钟绝杀追平巴塞",
+   "zh_hant": "皇馬2-1逆轉切爾達九連勝 艾斯皮85分鐘絕殺追平巴塞"
+  },
+  "summary": {
+   "en": "Real Madrid came from behind to beat Celta Vigo 2-1 at home, a ninth straight win in all competitions that draws them level with leaders Barcelona. Pablo Duran put the visitors ahead after six minutes, Jude Bellingham equalised in the 66th minute, and substitute Carlos Espi scored the winner in the 85th minute. Kylian Mbappe missed a penalty but it did not cost Real, who took all three points.",
+   "zh_hans": "皇家马德里主场以2-1反胜切尔达，取得各项赛事九连胜，追平榜首巴塞罗那。客军由杜兰在第6分钟先开纪录，皇马在下半场由比宁咸在66分钟追平，后备入替的卡路士·艾斯皮在85分钟攻入致胜一球。麦巴比在比赛中射失十二码，但无碍皇马全取三分。",
+   "zh_hant": "皇家馬德里主場以2-1反勝切爾達，取得各項賽事九連勝，追平榜首巴塞隆拿。客軍由杜蘭在第6分鐘先開紀錄，皇馬在下半場由比寧咸在66分鐘追平，後備入替的卡路士·艾斯皮在85分鐘攻入致勝一球。麥巴比在比賽中射失十二碼，但無礙皇馬全取三分。"
+  },
+  "tags": {
+   "en": [
+    "Real Madrid",
+    "Celta Vigo",
+    "La Liga"
+   ],
+   "zh_hans": [
+    "皇家马德里",
+    "切尔达",
+    "西甲"
+   ],
+   "zh_hant": [
+    "皇家馬德里",
+    "切爾達",
+    "西甲"
+   ]
+  },
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"皇馬2-1逆轉切爾達\" in vivid coral red with deep blue outline, second line \"艾斯皮85分鐘絕殺 九連勝\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+  "image_r2_key": "design/202611/20261121-real-madrid-celta-2-1-espi-winner-v2.jpg"
+ },
+ {
+  "id": "20261121-suns-jazz-111-101-booker-23",
+  "sport": "basketball",
+  "published_at": "2026-11-22T05:52:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/nba/event/2462672/recap",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-suns-jazz-111-101-booker-23-v2.jpg",
+  "title": {
+   "en": "Booker scores 23 as Suns pull away late to beat Jazz 111-101 for third straight win",
+   "zh_hans": "布卡23分太阳末节发力 111-101击败爵士三连胜",
+   "zh_hant": "布卡23分太陽末節發力 111-101擊敗爵士三連勝"
+  },
+  "summary": {
+   "en": "The Phoenix Suns beat the Utah Jazz 111-101 on the road for a third straight win, climbing above .500 for the first time this season. Devin Booker led the way with 23 points, while Dillon Brooks and Miles Bridges added 18 apiece. The Suns scored the final six points of the game to pull away in an NBA Cup matchup in Salt Lake City.",
+   "zh_hans": "凤凰城太阳作客以111-101击败犹他爵士，取得三连胜，今季首次胜率过半。迪云·布卡攻入23分，狄龙·布鲁克斯及迈尔斯·布里奇斯各得18分，太阳在最后一分钟连取6分拉开比分。",
+   "zh_hant": "鳳凰城太陽作客以111-101擊敗猶他爵士，取得三連勝，今季首次勝率過半。迪雲·布卡攻入23分，狄龍·布魯克斯及邁爾斯·布里奇斯各得18分，太陽在最後一分鐘連取6分拉開比分。"
+  },
+  "tags": {
+   "en": [
+    "Suns",
+    "Jazz",
+    "NBA"
+   ],
+   "zh_hans": [
+    "太阳",
+    "爵士",
+    "NBA"
+   ],
+   "zh_hant": [
+    "太陽",
+    "爵士",
+    "NBA"
+   ]
+  },
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"布卡23分 太陽111-101挫爵士\" in vivid coral red with deep blue outline, second line \"三連勝 今季首度勝率過半\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\" — this label appears exactly once on the whole image, nowhere else. Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+  "image_r2_key": "design/202611/20261121-suns-jazz-111-101-booker-23-v2.jpg"
+ },
+ {
+  "id": "20261121-sixers-bucks-132-129-herro-53",
+  "sport": "basketball",
+  "published_at": "2026-11-22T04:35:00+08:00",
+  "source": "theScore",
+  "source_url": "https://www.thescore.com/nba/news/3662100/embiid-james-lead-76-ers-past-bucks-despite-herros-50",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-sixers-bucks-132-129-herro-53-v3.jpg",
+  "title": {
+   "en": "Herro's 50 not enough as 76ers edge Bucks 132-129 for fifth straight win",
+   "zh_hans": "靴路轰50分仍输波 76人132-129险胜公鹿五连胜",
+   "zh_hant": "靴路轟50分仍輸波 76人132-129險勝公鹿五連勝"
+  },
+  "summary": {
+   "en": "The Philadelphia 76ers held on for a 132-129 home win over the Milwaukee Bucks, their fifth straight victory, improving to 14-3 and staying top of the Eastern Conference. Joel Embiid posted a near triple-double with 26 points, a season-high 17 rebounds and nine assists, while LeBron James scored 13 of his 21 points in the fourth quarter. Tyler Herro scored a career-high 50 points for the Bucks but could not stop a 13th straight defeat, leaving Milwaukee at 1-16. Embiid sealed the win with two free throws with 1.5 seconds left.",
+   "zh_hans": "费城76人主场以132-129险胜密尔沃基公鹿，取得五连胜，战绩14胜3负继续领跑东岸。祖尔·艾比迪交出26分、17个篮板及9次助攻的准三双，勒邦·占士在第四节独取13分，全场得21分。公鹿的泰拿·靴路轰入生涯新高50分，仍无力阻止球队吞下13连败，战绩跌至1胜16负。艾比迪在最后1.5秒两罚全中，为76人锁定胜局。",
+   "zh_hant": "費城76人主場以132-129險勝密爾沃基公鹿，取得五連勝，戰績14勝3負繼續領跑東岸。祖爾·艾比迪交出26分、17個籃板及9次助攻的準三雙，勒邦·占士在第四節獨取13分，全場得21分。公鹿的泰拿·靴路轟入生涯新高50分，仍無力阻止球隊吞下13連敗，戰績跌至1勝16負。艾比迪在最後1.5秒兩罰全中，為76人鎖定勝局。"
+  },
+  "tags": {
+   "en": [
+    "76ers",
+    "Bucks",
+    "NBA"
+   ],
+   "zh_hans": [
+    "76人",
+    "公鹿",
+    "NBA"
+   ],
+   "zh_hant": [
+    "76人",
+    "公鹿",
+    "NBA"
+   ]
+  },
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"靴路50分白轟 76人險勝公鹿\" in vivid coral red with deep blue outline, second line \"五連勝續領跑東岸\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+  "image_r2_key": "design/202611/20261121-sixers-bucks-132-129-herro-53-v3.jpg"
+ },
+ {
+  "id": "20261121-newcastle-arsenal-2-2-madueke-equaliser",
+  "sport": "football",
+  "published_at": "2026-11-22T03:28:00+08:00",
+  "source": "Arsenal FC",
+  "source_url": "https://www.arsenal.com/news/report-newcastle-united-2-2-arsenal-aYrA33Z7yfW4",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-newcastle-arsenal-2-2-madueke-equaliser-v2.jpg",
+  "title": {
+   "en": "Newcastle hold Arsenal to a 2-2 draw as Madueke's 78th-minute equaliser rescues the leaders",
+   "zh_hans": "纽卡素2-2逼和阿仙奴 马迪基78分钟救主",
+   "zh_hant": "紐卡素2-2逼和阿仙奴 馬迪基78分鐘救主"
+  },
+  "summary": {
+   "en": "Newcastle United held Premier League leaders Arsenal to a 2-2 draw at St James' Park. Eberechi Eze put Arsenal ahead in the 33rd minute, but Harvey Barnes equalised four minutes after the break after a Martin Odegaard miskick, and Malick Thiaw put Newcastle 2-1 up in the 62nd minute from a corner. Arsenal goalkeeper David Raya was then forced off injured, but Noni Madueke cut inside and scored in the 78th minute to rescue a point. Arsenal move six points clear at the top after 11 games, with 28 points, though Brighton can cut the gap to three if they beat Hull City on Sunday.",
+   "zh_hans": "纽卡素主场以2-2逼和英超榜首阿仙奴。艾斯在33分钟为阿仙奴先开纪录，但换边后仅4分钟，奥迪加特一次传球失误，令班尼斯追平；迪亚在62分钟接应角球攻入第二球，纽卡素反超2-1。阿仙奴门将拉耶其后因伤退下火线，但马迪基在78分钟内切射入，为阿仙奴抢回一分。阿仙奴11战得28分，领先榜首6分，但白礼顿若在星期日击败侯城，可将分差收窄至3分。",
+   "zh_hant": "紐卡素主場以2-2逼和英超榜首阿仙奴。艾斯在33分鐘為阿仙奴先開紀錄，但換邊後僅4分鐘，奧迪加特一次傳球失誤，令班尼斯追平；迪亞在62分鐘接應角球攻入第二球，紐卡素反超2-1。阿仙奴門將拉耶其後因傷退下火線，但馬迪基在78分鐘內切射入，為阿仙奴搶回一分。阿仙奴11戰得28分，領先榜首6分，但白禮頓若在星期日擊敗侯城，可將分差收窄至3分。"
+  },
+  "tags": {
+   "en": [
+    "Newcastle",
+    "Arsenal",
+    "Premier League"
+   ],
+   "zh_hans": [
+    "纽卡素",
+    "阿仙奴",
+    "英超"
+   ],
+   "zh_hant": [
+    "紐卡素",
+    "阿仙奴",
+    "英超"
+   ]
+  },
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit St James' Park pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"紐卡素2-2逼和阿仙奴\" in vivid coral red with deep blue outline, second line \"馬迪基78分鐘救主\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+  "image_r2_key": "design/202611/20261121-newcastle-arsenal-2-2-madueke-equaliser-v2.jpg"
+ },
+ {
+  "id": "20261121-roma-parma-5-1-malen-four-goals",
+  "sport": "football",
+  "published_at": "2026-11-22T02:52:00+08:00",
+  "source": "AS Roma",
+  "source_url": "https://www.asroma.com/en/news/76250/malen-bags-four-as-roma-crush-parma-5-1",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-roma-parma-5-1-malen-four-goals-v2.jpg",
+  "title": {
+   "en": "Malen scores four as Roma thrash Parma 5-1 to keep pace with Lazio",
+   "zh_hans": "马伦大四喜罗马5-1大胜帕尔马 四连胜紧追拉素",
+   "zh_hant": "馬倫大四喜羅馬5-1大勝帕爾馬 四連勝緊追拉素"
+  },
+  "summary": {
+   "en": "AS Roma thrashed Parma 5-1 away for a fourth straight Serie A win, moving to 30 points from 12 games, two behind leaders Lazio in second place. Dutch striker Donyell Malen scored four goals (39th, 68th, 77th and 90th minutes) to take his league tally to 12 for the season, while Rodrigo Mora added another in the 71st minute. Nesta Elphege had briefly levelled for the hosts in the 54th minute, but Roma scored four in the second half to seal the win.",
+   "zh_hans": "罗马作客以5-1大胜帕尔马，取得意甲四连胜，12轮得30分，落后榜首拉素两分排第二。荷兰前锋马伦大演帽子戏法后再入一球，全场独取四球（39、68、77及90分钟），今季联赛已入12球；摩拉在71分钟亦建功。主队由艾菲治在54分钟一度追平，但罗马下半场连入四球锁定胜局。",
+   "zh_hant": "羅馬作客以5-1大勝帕爾馬，取得意甲四連勝，12輪得30分，落後榜首拉素兩分排第二。荷蘭前鋒馬倫大演帽子戲法後再入一球，全場獨取四球（39、68、77及90分鐘），今季聯賽已入12球；摩拉在71分鐘亦建功。主隊由艾菲治在54分鐘一度追平，但羅馬下半場連入四球鎖定勝局。"
+  },
+  "tags": {
+   "en": [
+    "Roma",
+    "Parma",
+    "Serie A"
+   ],
+   "zh_hans": [
+    "罗马",
+    "帕尔马",
+    "意甲"
+   ],
+   "zh_hant": [
+    "羅馬",
+    "帕爾馬",
+    "意甲"
+   ]
+  },
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"馬倫大四喜 羅馬5-1大勝\" in vivid coral red with deep blue outline, second line \"四連勝緊追榜首拉素\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+  "image_r2_key": "design/202611/20261121-roma-parma-5-1-malen-four-goals-v2.jpg"
+ },
+ {
+  "id": "20261121-psg-nice-3-2-torres-late-winner",
+  "sport": "football",
+  "published_at": "2026-11-22T02:07:00+08:00",
+  "source": "beIN Sports",
+  "source_url": "https://www.beinsports.com/en-us/soccer/ligue-1/articles-video/nice-vs-psg-highlights-ligue-1-2026-11-21",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-psg-nice-3-2-torres-late-winner-v2.jpg",
+  "title": {
+   "en": "PSG come from behind to beat Nice 3-2 as goalscorer Doue is stretchered off injured",
+   "zh_hans": "巴黎圣日耳门3-2逆转尼斯 杜埃入波后重伤担架离场",
+   "zh_hant": "巴黎聖日耳門3-2逆轉尼斯 杜埃入波後重傷擔架離場"
+  },
+  "summary": {
+   "en": "Paris Saint-Germain came from behind to beat Nice 3-2 away and record an eighth straight Ligue 1 win. Mohamed Amoura put the hosts ahead in the eighth minute, but Senny Mayulu's 31st-minute penalty and Desire Doue's goal a minute later turned the game around. Doue was stretchered off with a knee injury shortly after scoring, and his replacement Ferran Torres sealed the win in the 85th minute before Ali Abdi pulled one back in stoppage time. PSG have now won 12 in a row in all competitions and stay top of Ligue 1.",
+   "zh_hans": "巴黎圣日耳门作客以3-2反胜尼斯，取得法甲八连胜。主队由阿摩拉在第8分钟先开纪录，巴黎凭马耶路31分钟的十二码及杜埃32分钟的入球，在一分钟内反超前。杜埃入球后不久膝部重伤，需由担架抬离场，由费兰·托利斯入替，后者在85分钟攻入致胜一球；阿布迪在补时为尼斯追回一球。巴黎各项赛事已12连胜，继续领跑法甲。",
+   "zh_hant": "巴黎聖日耳門作客以3-2反勝尼斯，取得法甲八連勝。主隊由阿摩拉在第8分鐘先開紀錄，巴黎憑馬耶路31分鐘的十二碼及杜埃32分鐘的入球，在一分鐘內反超前。杜埃入球後不久膝部重傷，需由擔架抬離場，由費蘭·托利斯入替，後者在85分鐘攻入致勝一球；阿布迪在補時為尼斯追回一球。巴黎各項賽事已12連勝，繼續領跑法甲。"
+  },
+  "tags": {
+   "en": [
+    "PSG",
+    "Nice",
+    "Ligue 1"
+   ],
+   "zh_hans": [
+    "巴黎圣日耳门",
+    "尼斯",
+    "法甲"
+   ],
+   "zh_hant": [
+    "巴黎聖日耳門",
+    "尼斯",
+    "法甲"
+   ]
+  },
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"巴黎3-2逆轉尼斯八連勝\" in vivid coral red with deep blue outline, second line \"杜埃入波後重傷擔架離場\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+  "image_r2_key": "design/202611/20261121-psg-nice-3-2-torres-late-winner-v2.jpg"
+ },
+ {
+  "id": "20261121-bournemouth-forest-2-0-evanilson",
+  "sport": "football",
+  "published_at": "2026-11-22T02:00:00+08:00",
+  "source": "Daily Star",
+  "source_url": "https://www.thedailystar.net/sports/football/news/leeds-thrash-chelsea-spurs-continue-climb-4329721",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-bournemouth-forest-2-0-evanilson-v2.jpg",
+  "title": {
+   "en": "Bournemouth beat Forest 2-0 to climb to fourth as Evanilson scores in a sixth straight league game",
+   "zh_hans": "伯恩茅斯2-0挫森林升上第四 艾云尼臣连续六场联赛入波",
+   "zh_hant": "般尼茅夫2-0挫森林升上第四 艾雲尼臣連續六場聯賽入波"
+  },
+  "summary": {
+   "en": "Bournemouth beat Nottingham Forest 2-0 at home to climb to fourth in the Premier League. Evanilson opened the scoring in the 19th minute, his sixth consecutive league game with a goal, and Justin Kluivert added a second three minutes into first-half stoppage time. Bournemouth have now won nine successive matches in all competitions, a club record, and five straight top-flight games, moving to 18 points, level with Liverpool.",
+   "zh_hans": "伯恩茅斯主场以2-0击败诺定咸森林，升上联赛榜第四位。艾云尼臣在19分钟先开纪录，连续第六场联赛取得入球，古华特在上半场补时3分钟射入第二球。伯恩茅斯取得各项赛事九连胜，创下球会纪录，同时是连续第五场顶级联赛胜仗，以18分与利物浦同分。",
+   "zh_hant": "般尼茅夫主場以2-0擊敗諾定咸森林，升上聯賽榜第四位。艾雲尼臣在19分鐘先開紀錄，連續第六場聯賽取得入球，古華特在上半場補時3分鐘射入第二球。般尼茅夫取得各項賽事九連勝，創下球會紀錄，同時是連續第五場頂級聯賽勝仗，以18分與利物浦同分。"
+  },
+  "tags": {
+   "en": [
+    "Bournemouth",
+    "Nottingham Forest",
+    "Premier League"
+   ],
+   "zh_hans": [
+    "伯恩茅斯",
+    "诺定咸森林",
+    "英超"
+   ],
+   "zh_hant": [
+    "般尼茅夫",
+    "諾定咸森林",
+    "英超"
+   ]
+  },
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Vitality Stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"般尼茅夫2-0挫森林升第四\" in vivid coral red with deep blue outline, second line \"九連勝創球會紀錄\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. Top left clean, no logo, no text. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+  "image_r2_key": "design/202611/20261121-bournemouth-forest-2-0-evanilson-v2.jpg"
+ },
+ {
+  "id": "20261121-coventry-palace-3-2-mcneil-og",
+  "sport": "football",
+  "published_at": "2026-11-22T02:00:00+08:00",
+  "source": "The National",
+  "source_url": "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-coventry-palace-3-2-mcneil-og-v2.jpg",
+  "title": {
+   "en": "Coventry edge Crystal Palace 3-2 as McNeil's late own goal ruins Thomas Frank's first game in charge",
+   "zh_hans": "考文垂3-2绝杀水晶宫 法兰克首战即输 麦尼尔85分钟摆乌龙",
+   "zh_hant": "高雲地利3-2絕殺水晶宮 法蘭克首戰即輸 麥尼爾85分鐘擺烏龍"
+  },
+  "summary": {
+   "en": "Coventry City edged Crystal Palace 3-2 at home to hand the visitors' new manager Thomas Frank defeat in his first game in charge. Taiwo Awoniyi opened the scoring in the fifth minute, Yeremy Pino levelled, Tatsuhiro Sakamoto restored Coventry's lead after half an hour, Jorgen Strand Larsen made it 2-2 in first-half stoppage time, and Dwight McNeil's own goal in the 85th minute settled it. Coventry climb to 13th with a fourth win of the season, while Palace remain bottom after a fifth straight defeat.",
+   "zh_hans": "考文垂主场以3-2险胜水晶宫，送给对方新帅法兰克上任首战败仗。阿禾尼尔在5分钟先开纪录，皮诺追平后，坂元达裕在半小时左右再度领先，史卓拉臣在上半场补时追成2-2，麦尼尔在85分钟摆乌龙送礼，考文垂升上第13位，取得今季第四场胜仗。水晶宫五连败，继续包尾。",
+   "zh_hant": "高雲地利主場以3-2險勝水晶宮，送給對方新帥法蘭克上任首戰敗仗。阿禾尼爾在5分鐘先開紀錄，皮諾追平後，坂元達裕在半小時左右再度領先，史卓拉臣在上半場補時追成2-2，麥尼爾在85分鐘擺烏龍送禮，高雲地利升上第13位，取得今季第四場勝仗。水晶宮五連敗，繼續包尾。"
+  },
+  "tags": {
+   "en": [
+    "Coventry",
+    "Crystal Palace",
+    "Premier League"
+   ],
+   "zh_hans": [
+    "考文垂",
+    "水晶宫",
+    "英超"
+   ],
+   "zh_hant": [
+    "高雲地利",
+    "水晶宮",
+    "英超"
+   ]
+  },
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Coventry Building Society Arena pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"高雲地利3-2絕殺水晶宮\" in vivid coral red with deep blue outline, second line \"法蘭克首戰即輸\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+  "image_r2_key": "design/202611/20261121-coventry-palace-3-2-mcneil-og-v2.jpg"
+ },
+ {
+  "id": "20261121-chelsea-leeds-1-4-okafor-brace",
+  "sport": "football",
+  "published_at": "2026-11-22T02:00:00+08:00",
+  "source": "Chelsea FC",
+  "source_url": "https://www.chelseafc.com/en/news/article/match-report-chelsea-1-4-leeds",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-chelsea-leeds-1-4-okafor-brace-v2.jpg",
+  "title": {
+   "en": "Leeds thrash Chelsea 4-1 at Stamford Bridge as Okafor scores twice in first win there since 1999",
+   "zh_hans": "利兹4-1大破切尔西 奥卡科夫梅开二度 27年首胜斯坦福桥",
+   "zh_hant": "列斯4-1大破車路士 奧卡科夫梅開二度 27年首勝史丹福橋"
+  },
+  "summary": {
+   "en": "Leeds United thrashed Chelsea 4-1 at Stamford Bridge for their first win there since 1999. Emmanuel Emegha marked his full Chelsea debut with the opener in the 25th minute, but Noah Okafor levelled three minutes later, Dominic Calvert-Lewin converted a penalty in the 53rd minute to put Leeds ahead, Okafor struck again in the 58th minute and Brenden Aaronson added a fourth in stoppage time. Leeds climb to sixth, Chelsea drop to eighth after a third defeat in four league games, with head coach Xabi Alonso admitting his side are in a 'fragile moment'.",
+   "zh_hans": "利兹联作客斯坦福桥以4-1大破切尔西，取得27年来首场作客切尔西胜仗。艾美夏在25分钟为首次正选上阵的切尔西先开纪录，但奥卡科夫在3分钟后即追平，换边后卡维特利云在53分钟射入12码反超，奥卡科夫在58分钟再下一城，阿朗臣在补时阶段锦上添花。利兹升上联赛榜第六位，切尔西跌至第八位，近四场联赛输了三场，主帅阿朗素承认球队正处于「脆弱时刻」。",
+   "zh_hant": "列斯聯作客史丹福橋以4-1大破車路士，取得27年來首場作客車路士勝仗。艾美夏在25分鐘為首次正選上陣的車路士先開紀錄，但奧卡科夫在3分鐘後即追平，換邊後卡維特利雲在53分鐘射入12碼反超，奧卡科夫在58分鐘再下一城，阿朗臣在補時階段錦上添花。列斯升上聯賽榜第六位，車路士跌至第八位，近四場聯賽輸了三場，主帥阿朗素承認球隊正處於「脆弱時刻」。"
+  },
+  "tags": {
+   "en": [
+    "Chelsea",
+    "Leeds United",
+    "Premier League"
+   ],
+   "zh_hans": [
+    "切尔西",
+    "利兹联",
+    "英超"
+   ],
+   "zh_hant": [
+    "車路士",
+    "列斯聯",
+    "英超"
+   ]
+  },
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Stamford Bridge pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"列斯4-1大破車路士\" in vivid coral red with deep blue outline, second line \"27年首勝史丹福橋\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom-right corner only, one small line of fine print reads \"AI設計圖片\". Do not write these characters anywhere else — no second copy near the title, no copy at the right edge, no copy in the middle of the image. Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+  "image_r2_key": "design/202611/20261121-chelsea-leeds-1-4-okafor-brace-v2.jpg"
+ },
+ {
+  "id": "20261121-spurs-ipswich-2-0-williams-barnett",
+  "sport": "football",
+  "published_at": "2026-11-22T02:00:00+08:00",
+  "source": "AllFootball",
+  "source_url": "https://www.allfootballapp.com/articles/6022006-tottenham-2-0-ipswich-town-barnett",
+  "image_url": "https://images.hksports.hk/design/202611/20261121-spurs-ipswich-2-0-williams-barnett-v2.jpg",
+  "title": {
+   "en": "Spurs beat Ipswich 2-0 as 18-year-old Williams-Barnett scores and assists on his first Premier League start",
+   "zh_hans": "热刺2-0挫伊普斯维奇 18岁小将首正选即入波兼助攻",
+   "zh_hant": "熱刺2-0挫葉士域治 18歲小將首正選即入波兼助攻"
+  },
+  "summary": {
+   "en": "Tottenham Hotspur beat Ipswich Town 2-0 at home as 18-year-old Luca Williams-Barnett starred on his first Premier League start. He opened the scoring in the 15th minute from Pedro Porro's cross and then set up Dominic Solanke for the second in the 51st minute after a mazy run. Aged 18 years and 51 days, Williams-Barnett became the second-youngest player to score and assist in a Premier League match and the youngest Tottenham scorer since Gareth Bale. Spurs recorded a fourth win of the season and a third straight home league victory to move into the top half.",
+   "zh_hans": "热刺主场以2-0击败伊普斯维奇，18岁小将卢卡·威廉斯巴尼特在首次英超正选即大放异彩。他在15分钟接应波罗传中先开纪录，换边后再凭一次个人突破助攻苏兰基在51分钟射入第二球。威廉斯巴尼特以18岁51日成为英超史上第二年轻取得入球兼助攻的球员，亦是热刺自加里夫巴利以来最年轻的入球者。热刺取得今季第四场胜仗兼主场三连胜，升上联赛榜上半版。",
+   "zh_hant": "熱刺主場以2-0擊敗葉士域治，18歲小將盧卡·威廉斯巴尼特在首次英超正選即大放異彩。他在15分鐘接應波羅傳中先開紀錄，換邊後再憑一次個人突破助攻蘇蘭基在51分鐘射入第二球。威廉斯巴尼特以18歲51日成為英超史上第二年輕取得入球兼助攻的球員，亦是熱刺自加里夫巴利以來最年輕的入球者。熱刺取得今季第四場勝仗兼主場三連勝，升上聯賽榜上半版。"
+  },
+  "tags": {
+   "en": [
+    "Tottenham",
+    "Ipswich",
+    "Premier League"
+   ],
+   "zh_hans": [
+    "热刺",
+    "伊普斯维奇",
+    "英超"
+   ],
+   "zh_hant": [
+    "熱刺",
+    "葉士域治",
+    "英超"
+   ]
+  },
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Tottenham Hotspur Stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"熱刺2-0挫葉士域治\" in vivid coral red with deep blue outline, second line \"18歲小將首正選即建功\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom-right corner only, one small line of fine print reads \"AI設計圖片\". Do not write these characters anywhere else — no second copy near the title, no copy at the right edge, no copy in the middle of the image. Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+  "image_r2_key": "design/202611/20261121-spurs-ipswich-2-0-williams-barnett-v2.jpg"
+ },
+ {
+  "id": "20261122-hk-bulls-beat-guangzhou-91-74-quarterfinals",
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring basketball players in red Hong Kong Bulls jerseys celebrating a win on a sunlit indoor court, one player holding a basketball high, confetti in the air, scoreboard in the background. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with deep blue outline reads '香港金牛91-74再挫廣州', second line in bright yellow with deep blue outline reads '歷史性首闖球會杯八強', two lines echo each other, text complete and clear, never split, repeated or covered by any object. Small text 'AI設計圖片' in the bottom right corner, appearing only once. No other text, numbers or labels anywhere on the image. Top left corner clean, no logo or text.",
+  "image_url": null,
+  "published_at": "2026-11-22T22:00:00+08:00",
+  "source": "虎扑",
+  "source_url": "https://bbs.hupu.com/644141822.html",
+  "sport": "basketball",
+  "summary": {
+   "en": "The Hong Kong Bulls beat the Guangzhou Loong Lions 91-74 in the CBA Club Cup round of 16, reaching the quarter-finals for the first time and becoming the only NBL team left in the competition. Mason Jones led all scorers with 25 points plus three rebounds and six assists, while Solomon contributed 11 points and nine rebounds and Thon Maker added nine. Moses Brown had 19 points and 17 rebounds for Guangzhou and Chen Guohao scored 15. It was the teams' second meeting in three days, with the Bulls avenging their 90-77 group-stage defeat. The game set a Club Cup record with 60 fouls and 95 free throws.",
+   "zh_hans": "香港金牛在CBA球会杯16强淘汰赛以91-74击败广州龙狮，历史性首次闯入八强，成为今届唯一一支晋级八强的NBL球队。梅森-琼斯攻入全场最高25分，另有3篮板6助攻；所罗门贡献11分9篮板，梅克得9分。广州方面，摩西-布朗得19分17篮板，陈国豪得15分。今仗是两队三日内第二度交手，金牛成功复仇——小组赛曾以90-77不敌广州。全场共吹罚60次犯规、95次罚球，创下球会杯历史纪录。",
+   "zh_hant": "香港金牛在CBA球會杯16強淘汰賽以91-74擊敗廣州龍獅，歷史性首次闖入八強，成為今屆唯一一支晉級八強的NBL球隊。梅森鍾斯攻入全場最高25分，另有3籃板6助攻；所羅門貢獻11分9籃板，梅克得9分。廣州方面，摩西布朗得19分17籃板，陳國豪得15分。今仗是兩隊三日內第二度交手，金牛成功復仇——小組賽曾以90-77不敵廣州。全場共吹罰60次犯規、95次罰球，創下球會杯歷史紀錄。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Bulls",
+    "CBA Club Cup",
+    "Mason Jones"
+   ],
+   "zh_hans": [
+    "香港金牛",
+    "CBA球会杯",
+    "梅森-琼斯"
+   ],
+   "zh_hant": [
+    "香港金牛",
+    "CBA球會杯",
+    "梅森鍾斯"
+   ]
+  },
+  "title": {
+   "en": "Hong Kong Bulls Beat Guangzhou 91-74 to Reach Club Cup Quarter-Finals",
+   "zh_hans": "香港金牛91-74再挫广州 历史性首闯球会杯八强",
+   "zh_hant": "香港金牛91-74再挫廣州 歷史性首闖球會杯八強"
   }
+ },
+ {
+  "id": "20261122-hk-dragon-world-championship-opens",
+  "sport": "others",
+  "published_at": "2026-11-22T20:18:00+08:00",
+  "source": "政府新聞處",
+  "source_url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200573.htm",
+  "image_url": null,
+  "title": {
+   "en": "Dragon World Championship Sails Into Asia for First Time as Nearly 100 Boats Race in Victoria Harbour",
+   "zh_hans": "龙级帆船世锦赛首度落户亚洲 近百艘帆船维港竞逐 300名好手参战",
+   "zh_hant": "龍級帆船世錦賽首度落戶亞洲 近百艘帆船維港競逐 300名好手參戰"
+  },
+  "summary": {
+   "en": "The 2027 Hong Kong Dragon World Championship opened today, the first time the prestigious sailing competition has been hosted in Asia. Secretary for Culture, Sports and Tourism Rosanna Law told the opening ceremony that nearly 100 Dragon keelboats and close to 300 top sailors from more than 22 countries and regions will race in Victoria Harbour over the coming days. Law said Hong Kong, in the heart of Asia with its iconic Victoria Harbour, is an ideal venue for world-class sailing, and noted a packed calendar of major sports events into the year end, including the FIBA 3x3 World Tour Hong Kong, the Hong Kong Squash Open and the WTT Finals Hong Kong.",
+   "zh_hans": "2027年香港龙级世界锦标赛今日开幕，是这项历史悠久的帆船赛事首次在亚洲举行。文化体育及旅游局局长罗淑佩在开幕典礼致辞时表示，近100艘龙级帆船、近300名顶尖帆船运动员，来自逾22个国家及地区，将在未来数日于维多利亚港竞逐。她表示，香港位处亚洲心脏地带，维港景色壮丽，是举办世界级帆船赛事的理想地点；香港年底体育盛事接踵而来，包括FIBA 3x3世界巡回赛香港站、香港壁球公开赛及WTT年终总决赛。",
+   "zh_hant": "2027年香港龍級世界錦標賽今日開幕，是這項歷史悠久的帆船賽事首次在亞洲舉行。文化體育及旅遊局局長羅淑佩在開幕典禮致辭時表示，近100艘龍級帆船、近300名頂尖帆船運動員，來自逾22個國家及地區，將在未來數日於維多利亞港競逐。她表示，香港位處亞洲心臟地帶，維港景色壯麗，是舉辦世界級帆船賽事的理想地點；香港年底體育盛事接踵而來，包括FIBA 3x3世界巡迴賽香港站、香港壁球公開賽及WTT年終總決賽。"
+  },
+  "tags": {
+   "en": [
+    "Dragon World Championship",
+    "Victoria Harbour",
+    "Rosanna Law"
+   ],
+   "zh_hans": [
+    "龙级帆船世锦赛",
+    "维多利亚港",
+    "罗淑佩"
+   ],
+   "zh_hant": [
+    "龍級帆船世錦賽",
+    "維多利亞港",
+    "羅淑佩"
+   ]
+  },
+  "image_prompt": "A bright, sunny, vibrant, energetic sports poster with a clean modern sports-broadcast aesthetic, horizontal 16:9 format. Subject: Dragon keelboats racing on Victoria Harbour in bright daylight, white sails, blue sky, Hong Kong skyline in the background, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold, first line in vivid coral red with deep blue outline reading \"龍級世錦賽首度落戶亞洲\", second line in white with deep blue outline reading \"近百艘帆船維港競逐\", the two lines echoing each other, text complete and clear, never split, repeated or covered by any object. Top left corner clean, no logo, no text. In the bottom right, tiny fine-print text reads \"AI設計圖片\", appearing only once. Apart from the title and the bottom-right label, no other text, numbers or captions on the image."
+ },
+ {
+  "id": "20261122-shatin-eastern-0-3",
+  "sport": "football",
+  "published_at": "2026-11-22T17:00:00+08:00",
+  "source": "mygoal90",
+  "source_url": "https://mygoal90.com/en/match/2026-11-22/shatin-eastern-1607356",
+  "image_url": null,
+  "title": {
+   "en": "Eastern Score Three First-Half Goals in 3-0 Win at Shatin",
+   "zh_hans": "东方上半场连入三球 3比0客场大胜沙田",
+   "zh_hant": "東方上半場連入三球 3比0作客大勝沙田"
+  },
+  "summary": {
+   "en": "Eastern beat Shatin 3-0 away in the Hong Kong Premier League on Sunday, with all three goals coming in the first half. Alonso headed Eastern in front after 10 minutes, Shatin's Ansah was sent off in the 19th minute, and Cova (26') and Okubo (27') added two more before the break. Neither side scored after half-time as Eastern took all three points.",
+   "zh_hans": "港超联周日赛事，东方客场以3比0大胜至尊沙田，三个进球全部在上半场出现。Alonso 10分钟头槌先开纪录，沙田 Ansah 19分钟领红牌被逐，东方其后由 Cova 26分钟及 Okubo 27分钟连入两球，半场已领先3比0。换边后双方再无进球，东方全取三分。",
+   "zh_hant": "港超聯周日賽事，東方作客以3比0大勝至尊沙田，三個入球全部在上半場出現。Alonso 10分鐘頭槌先開紀錄，沙田 Ansah 19分鐘領紅牌被逐，東方其後由 Cova 26分鐘及 Okubo 27分鐘連入兩球，半場已領先3比0。換邊後雙方再無入球，東方全取三分。"
+  },
+  "tags": {
+   "en": [
+    "Hong Kong Premier League",
+    "Eastern",
+    "Shatin"
+   ],
+   "zh_hans": [
+    "港超联",
+    "东方",
+    "沙田"
+   ],
+   "zh_hant": [
+    "港超聯",
+    "東方",
+    "沙田"
+   ]
+  },
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a football striker heading the ball into the net on a sunlit stadium pitch, teammates celebrating, crowd in the background. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with deep blue outline reads '東方上半場連入三球', second line in solid white reads '3比0作客大勝沙田'. Text must be complete and clear, never split, repeated or covered. In the bottom right, tiny fine-print text reads 'AI設計圖片'. Bright, sunny, high-energy sports news graphic style."
+ }
 ]
