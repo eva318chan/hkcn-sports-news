@@ -852,7 +852,7 @@
  {
   "id": "20261122-dortmund-gladbach-1-0-nmecha-top",
   "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a sunlit football stadium seen from a high corner angle, a famous yellow wall of fans in yellow and black behind one goal, players in yellow and black shirts celebrating together near the corner flag with arms raised, bright daylight, vivid saturated yellow and black, clear blue sky, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"多蒙特1：0小勝慕遜加柏登榜首\", second line in bright yellow reads \"尼美查80分鐘遠射 十場不敗\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
-  "image_url": null,
+  "image_url": "https://images.hksports.hk/design/202611/20261122-dortmund-gladbach-1-0-nmecha-top-v2.jpg",
   "published_at": "2026-11-22T00:27:00+08:00",
   "source": "Bundesliga",
   "source_url": "https://www.bundesliga.com/en/bundesliga/news/borussia-monchengladbach-borussia-dortmund-match-report-highlights-matchday-10-40073",
@@ -883,6 +883,7 @@
    "en": "Dortmund Edge Gladbach 1-0 to Go Top as Nmecha's 80th-Minute Strike Extends Unbeaten Run to 10",
    "zh_hans": "多蒙特1：0小胜慕逊加柏登榜首 尼美查80分钟远射 十场不败",
    "zh_hant": "多蒙特1：0小勝慕遜加柏登榜首 尼美查80分鐘遠射 十場不敗"
-  }
+  },
+  "image_r2_key": "design/202611/20261122-dortmund-gladbach-1-0-nmecha-top-v2.jpg"
  }
 ]
