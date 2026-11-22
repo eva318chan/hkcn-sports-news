@@ -592,6 +592,42 @@
     "image_r2_key": "design/202611/20261121-spurs-ipswich-2-0-williams-barnett-v2.jpg"
   },
   {
+    "id": "20261122-hk-dragon-world-championship-opens",
+    "sport": "others",
+    "published_at": "2026-11-22T20:18:00+08:00",
+    "source": "政府新聞處",
+    "source_url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200573.htm",
+    "image_url": null,
+    "title": {
+      "en": "Dragon World Championship Sails Into Asia for First Time as Nearly 100 Boats Race in Victoria Harbour",
+      "zh_hans": "龙级帆船世锦赛首度落户亚洲 近百艘帆船维港竞逐 300名好手参战",
+      "zh_hant": "龍級帆船世錦賽首度落戶亞洲 近百艘帆船維港競逐 300名好手參戰"
+    },
+    "summary": {
+      "en": "The 2027 Hong Kong Dragon World Championship opened today, the first time the prestigious sailing competition has been hosted in Asia. Secretary for Culture, Sports and Tourism Rosanna Law told the opening ceremony that nearly 100 Dragon keelboats and close to 300 top sailors from more than 22 countries and regions will race in Victoria Harbour over the coming days. Law said Hong Kong, in the heart of Asia with its iconic Victoria Harbour, is an ideal venue for world-class sailing, and noted a packed calendar of major sports events into the year end, including the FIBA 3x3 World Tour Hong Kong, the Hong Kong Squash Open and the WTT Finals Hong Kong.",
+      "zh_hans": "2027年香港龙级世界锦标赛今日开幕，是这项历史悠久的帆船赛事首次在亚洲举行。文化体育及旅游局局长罗淑佩在开幕典礼致辞时表示，近100艘龙级帆船、近300名顶尖帆船运动员，来自逾22个国家及地区，将在未来数日于维多利亚港竞逐。她表示，香港位处亚洲心脏地带，维港景色壮丽，是举办世界级帆船赛事的理想地点；香港年底体育盛事接踵而来，包括FIBA 3x3世界巡回赛香港站、香港壁球公开赛及WTT年终总决赛。",
+      "zh_hant": "2027年香港龍級世界錦標賽今日開幕，是這項歷史悠久的帆船賽事首次在亞洲舉行。文化體育及旅遊局局長羅淑佩在開幕典禮致辭時表示，近100艘龍級帆船、近300名頂尖帆船運動員，來自逾22個國家及地區，將在未來數日於維多利亞港競逐。她表示，香港位處亞洲心臟地帶，維港景色壯麗，是舉辦世界級帆船賽事的理想地點；香港年底體育盛事接踵而來，包括FIBA 3x3世界巡迴賽香港站、香港壁球公開賽及WTT年終總決賽。"
+    },
+    "tags": {
+      "en": [
+        "Dragon World Championship",
+        "Victoria Harbour",
+        "Rosanna Law"
+      ],
+      "zh_hans": [
+        "龙级帆船世锦赛",
+        "维多利亚港",
+        "罗淑佩"
+      ],
+      "zh_hant": [
+        "龍級帆船世錦賽",
+        "維多利亞港",
+        "羅淑佩"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports poster with a clean modern sports-broadcast aesthetic, horizontal 16:9 format. Subject: Dragon keelboats racing on Victoria Harbour in bright daylight, white sails, blue sky, Hong Kong skyline in the background, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold, first line in vivid coral red with deep blue outline reading \"龍級世錦賽首度落戶亞洲\", second line in white with deep blue outline reading \"近百艘帆船維港競逐\", the two lines echoing each other, text complete and clear, never split, repeated or covered by any object. Top left corner clean, no logo, no text. In the bottom right, tiny fine-print text reads \"AI設計圖片\", appearing only once. Apart from the title and the bottom-right label, no other text, numbers or captions on the image."
+  },
+  {
     "id": "20261122-shatin-eastern-0-3",
     "sport": "football",
     "published_at": "2026-11-22T17:00:00+08:00",
