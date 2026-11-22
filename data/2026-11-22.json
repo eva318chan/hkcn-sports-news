@@ -1,5 +1,42 @@
 [
   {
+    "id": "20261121-kings-celtics-97-96-murray-putback",
+    "sport": "basketball",
+    "published_at": "2026-11-22T14:00:00+08:00",
+    "source": "NBC Sports Bay Area",
+    "source_url": "https://www.nbcsportsbayarea.com/nba/sacramento-kings/keegan-murray-home-win-boston-celtics/1981966/",
+    "image_url": "https://images.hksports.hk/design/202611/20261121-kings-celtics-97-96-murray-putback-v2.jpg",
+    "title": {
+      "en": "Murray's Last-Second Putback Lifts Kings Past Celtics 97-96 for First Home Win",
+      "zh_hans": "梅利最后5秒补篮绝杀 国王97-96险胜凯尔特人破主场荒",
+      "zh_hant": "梅利最後5秒補籃絕殺 國王97-96險勝塞爾特人破主場荒"
+    },
+    "summary": {
+      "en": "The Sacramento Kings edged the Boston Celtics 97-96 at home for their first home win of the season, ending an eight-game losing streak. The Kings trailed by 13 points at half-time, then outscored Boston 35-13 in the third quarter to take a nine-point lead into the fourth. Trailing 96-95 in the final seconds, Darius Acuff Jr. missed a driving layup but Keegan Murray grabbed the offensive rebound and scored the putback with five seconds left, then defended Payton Pritchard into a buzzer-beating airball. Acuff had 21 points and eight assists and Domantas Sabonis added 15 points and 17 rebounds; the Celtics lost their third straight game.",
+      "zh_hans": "沙加缅度国王主场以97-96险胜波士顿凯尔特人，取得今季首场主场胜利，终止八连败。国王半场落后13分，第三节打出35比13反扑，带着9分优势进入第四节；完场前国王落后96比95，艾卡夫上篮不入，基根·梅利在最后5秒抢到进攻篮板补篮得手，随后又成功防守令普理查特最后一投射失。艾卡夫攻入21分及8次助攻，沙邦尼斯交出15分17个篮板；凯尔特人吞下三连败。",
+      "zh_hant": "沙加緬度國王主場以97-96險勝波士頓塞爾特人，取得今季首場主場勝利，終止八連敗。國王半場落後13分，第三節打出35比13反撲，帶着9分優勢進入第四節；完場前國王落後96比95，艾卡夫上籃不入，基根梅利在最後5秒搶到進攻籃板補籃得手，隨後又成功防守令普理查特最後一投射失。艾卡夫攻入21分及8次助攻，沙邦尼斯交出15分17個籃板；塞爾特人吞下三連敗。"
+    },
+    "tags": {
+      "en": [
+        "Kings",
+        "Celtics",
+        "NBA"
+      ],
+      "zh_hans": [
+        "国王",
+        "凯尔特人",
+        "NBA"
+      ],
+      "zh_hant": [
+        "國王",
+        "塞爾特人",
+        "NBA"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby, a game clock showing the final seconds. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"梅利最後5秒補籃絕殺\" in vivid coral red with deep blue outline, second line \"國王97-96險勝塞爾特人\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image.",
+    "image_r2_key": "design/202611/20261121-kings-celtics-97-96-murray-putback-v2.jpg"
+  },
+  {
     "id": "20261121-f1-las-vegas-verstappen-wins",
     "sport": "motorsport",
     "published_at": "2026-11-22T13:58:00+08:00",
@@ -479,41 +516,5 @@
     },
     "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Tottenham Hotspur Stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"熱刺2-0挫葉士域治\" in vivid coral red with deep blue outline, second line \"18歲小將首正選即建功\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom-right corner only, one small line of fine print reads \"AI設計圖片\". Do not write these characters anywhere else — no second copy near the title, no copy at the right edge, no copy in the middle of the image. Bright, sunny, high-energy sports news graphic style. No other text on the image.",
     "image_r2_key": "design/202611/20261121-spurs-ipswich-2-0-williams-barnett-v2.jpg"
-  },
-  {
-    "id": "20261121-kings-celtics-97-96-murray-putback",
-    "sport": "basketball",
-    "published_at": "2026-11-22T14:00:00+08:00",
-    "source": "NBC Sports Bay Area",
-    "source_url": "https://www.nbcsportsbayarea.com/nba/sacramento-kings/keegan-murray-home-win-boston-celtics/1981966/",
-    "image_url": null,
-    "title": {
-      "en": "Murray's Last-Second Putback Lifts Kings Past Celtics 97-96 for First Home Win",
-      "zh_hans": "梅利最后5秒补篮绝杀 国王97-96险胜凯尔特人破主场荒",
-      "zh_hant": "梅利最後5秒補籃絕殺 國王97-96險勝塞爾特人破主場荒"
-    },
-    "summary": {
-      "en": "The Sacramento Kings edged the Boston Celtics 97-96 at home for their first home win of the season, ending an eight-game losing streak. The Kings trailed by 13 points at half-time, then outscored Boston 35-13 in the third quarter to take a nine-point lead into the fourth. Trailing 96-95 in the final seconds, Darius Acuff Jr. missed a driving layup but Keegan Murray grabbed the offensive rebound and scored the putback with five seconds left, then defended Payton Pritchard into a buzzer-beating airball. Acuff had 21 points and eight assists and Domantas Sabonis added 15 points and 17 rebounds; the Celtics lost their third straight game.",
-      "zh_hans": "沙加缅度国王主场以97-96险胜波士顿凯尔特人，取得今季首场主场胜利，终止八连败。国王半场落后13分，第三节打出35比13反扑，带着9分优势进入第四节；完场前国王落后96比95，艾卡夫上篮不入，基根·梅利在最后5秒抢到进攻篮板补篮得手，随后又成功防守令普理查特最后一投射失。艾卡夫攻入21分及8次助攻，沙邦尼斯交出15分17个篮板；凯尔特人吞下三连败。",
-      "zh_hant": "沙加緬度國王主場以97-96險勝波士頓塞爾特人，取得今季首場主場勝利，終止八連敗。國王半場落後13分，第三節打出35比13反撲，帶着9分優勢進入第四節；完場前國王落後96比95，艾卡夫上籃不入，基根梅利在最後5秒搶到進攻籃板補籃得手，隨後又成功防守令普理查特最後一投射失。艾卡夫攻入21分及8次助攻，沙邦尼斯交出15分17個籃板；塞爾特人吞下三連敗。"
-    },
-    "tags": {
-      "en": [
-        "Kings",
-        "Celtics",
-        "NBA"
-      ],
-      "zh_hans": [
-        "国王",
-        "凯尔特人",
-        "NBA"
-      ],
-      "zh_hant": [
-        "國王",
-        "塞爾特人",
-        "NBA"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a basketball resting on the centre circle of a bright sunlit arena court, the stands softly blurred in the background under bright daylight, a hoop nearby, a game clock showing the final seconds. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"梅利最後5秒補籃絕殺\" in vivid coral red with deep blue outline, second line \"國王97-96險勝塞爾特人\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom right, tiny fine-print text reads \"AI設計圖片\". Bright, sunny, high-energy sports news graphic style. No other text on the image."
   }
 ]
