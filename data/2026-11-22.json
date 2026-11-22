@@ -1,5 +1,42 @@
 [
   {
+    "id": "20261122-hk-open-antonsen-champion-kunlavut-withdraws",
+    "sport": "badminton",
+    "published_at": "2026-11-22T15:00:00+08:00",
+    "source": "Khaosod English",
+    "source_url": "https://www.khaosodenglish.com/news/2026/11/22/kunlavut-withdraws-from-hong-kong-open-final-with-back-injury/",
+    "image_url": "https://images.hksports.hk/design/202611/20261122-hk-open-antonsen-champion-kunlavut-withdraws-v2.jpg",
+    "title": {
+      "en": "Antonsen Wins Hong Kong Open Without Playing as Kunlavut Withdraws With Back Injury",
+      "zh_hans": "昆拉屈背伤退赛 安赛龙不战而胜夺香港公开赛男单冠军",
+      "zh_hant": "昆拉屈背傷退賽 安賽龍不戰而勝奪香港公開賽男單冠軍"
+    },
+    "summary": {
+      "en": "The men's singles final of the Hong Kong Open ended in dramatic fashion as Thailand's world No. 2 Kunlavut Vitidsarn withdrew with a back injury, handing the title to Denmark's Anders Antonsen without a match being played. Antonsen had reached the final with a 21-13, 21-13 win over India's Lakshya Sen, while Kunlavut fought back to beat Indonesia's Moh. Zaki Ubaidillah 18-21, 21-15, 21-16. In the women's singles, China's top seed Wang Zhiyi beat Thailand's Pornpawee Chochuwong 21-16, 21-11 to take the title.",
+      "zh_hans": "香港公开羽毛球锦标赛男单决赛出现戏剧性结局，泰国世界排名第二的昆拉屈因背伤退赛，丹麦名将安赛龙不战而胜夺冠。安赛龙四强以21比13、21比13轻取印度球手拉克什亚，昆拉屈则以18比21、21比15、21比16反胜印尼新星萨基晋级。女单方面，中国头号种子王祉怡以21比16、21比11击败泰国的蓬帕威封后。",
+      "zh_hant": "香港公開羽毛球錦標賽男單決賽出現戲劇性結局，泰國世界排名第二的昆拉屈因背傷退賽，丹麥名將安賽龍不戰而勝奪冠。安賽龍四強以21比13、21比13輕取印度球手拉克什亞，昆拉屈則以18比21、21比15、21比16反勝印尼新星薩基晉級。女單方面，中國頭號種子王祉怡以21比16、21比11擊敗泰國的蓬帕威封后。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong Open",
+        "badminton",
+        "Anders Antonsen"
+      ],
+      "zh_hans": [
+        "香港公开赛",
+        "羽毛球",
+        "安赛龙"
+      ],
+      "zh_hant": [
+        "香港公開賽",
+        "羽毛球",
+        "安賽龍"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a badminton champion celebrating with arms raised on a sunlit court at Kai Tak Arena, shuttlecock in motion, trophy on a table beside him. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with deep blue outline reads '昆拉屈背傷退賽', second line in solid white reads '安賽龍不戰而勝奪香港公開賽冠軍'. Text must be complete and clear, never split, repeated or covered. In the bottom right, tiny fine-print text reads 'AI設計圖片'. Bright, sunny, high-energy sports news graphic style.",
+    "image_r2_key": "design/202611/20261122-hk-open-antonsen-champion-kunlavut-withdraws-v2.jpg"
+  },
+  {
     "id": "20261121-kings-celtics-97-96-murray-putback",
     "sport": "basketball",
     "published_at": "2026-11-22T14:00:00+08:00",
@@ -72,6 +109,43 @@
     },
     "image_r2_key": "design/202611/20261121-f1-las-vegas-verstappen-wins.jpg",
     "caption": "韋斯塔本在拉斯維加斯站奪冠後慶祝。（一級方程式）"
+  },
+  {
+    "id": "20261121-hk-bulls-beat-guangdong-73-61",
+    "sport": "basketball",
+    "published_at": "2026-11-22T13:11:08+08:00",
+    "source": "CGTN",
+    "source_url": "https://news.cgtn.com/news/2026-11-22/Hong-Kong-Bulls-and-Jiangxi-Daqian-pull-off-CBA-Club-Cup-upsets-1SgZuoeY4da/p.html",
+    "image_url": "https://images.hksports.hk/design/202611/20261121-hk-bulls-beat-guangdong-73-61-v2.jpg",
+    "title": {
+      "en": "Hong Kong Bulls Stun Guangdong 73-61 as Jones Scores 26 in CBA Club Cup",
+      "zh_hans": "香港金牛73-61爆冷击败广东 琼斯26分率队争八强席位",
+      "zh_hant": "香港金牛73-61爆冷擊敗廣東 瓊斯26分率隊爭八強席位"
+    },
+    "summary": {
+      "en": "Reigning NBL champions the Hong Kong Bulls pulled off an upset in the CBA Club Cup, beating the Guangdong Southern Tigers 73-61 in a Group D match in Qionghai, Hainan. Mason Jones scored a game-high 26 points as the Bulls overcame a seven-point first-quarter deficit, holding Guangdong to just eight points in the second period to lead 30-27 at half-time. Guangdong's Xu Jie scored 21 points but was the only home player in double figures. The Bulls will play the Guangzhou Loong Lions on Sunday for a quarter-final place.",
+      "zh_hans": "卫冕NBL冠军香港金牛在CBA俱乐部杯爆冷，以73比61击败广东华南虎，在海南琼海的小组赛D组取胜。琼斯攻入全场最高的26分，金牛首节落后7分后，次节只让广东得到8分，半场以30比27反超。广东徐杰得21分，是主队唯一得分上双的球员。金牛将于周日对阵广州龙狮，争夺八强席位。",
+      "zh_hant": "衛冕NBL冠軍香港金牛在CBA球會盃爆冷，以73比61擊敗廣東華南虎，在海南瓊海的小組賽D組取勝。瓊斯攻入全場最高的26分，金牛首節落後7分後，次節只讓廣東得到8分，半場以30比27反超。廣東徐杰得21分，是主隊唯一得分上雙的球員。金牛將於周日對陣廣州龍獅，爭奪八強席位。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong Bulls",
+        "CBA Club Cup",
+        "Mason Jones"
+      ],
+      "zh_hans": [
+        "香港金牛",
+        "CBA俱乐部杯",
+        "琼斯"
+      ],
+      "zh_hant": [
+        "香港金牛",
+        "CBA球會盃",
+        "瓊斯"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a Hong Kong Bulls basketball player in a red jersey driving to the basket in a sunlit arena, scoreboard showing 73-61 in the background, crowd cheering. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with deep blue outline reads '香港金牛73-61爆冷擊敗廣東', second line in solid white reads '瓊斯26分率隊爭八強席位'. Text must be complete and clear, never split, repeated or covered. In the bottom right, tiny fine-print text reads 'AI設計圖片'. Bright, sunny, high-energy sports news graphic style.",
+    "image_r2_key": "design/202611/20261121-hk-bulls-beat-guangdong-73-61-v2.jpg"
   },
   {
     "id": "20261121-spurs-pelicans-114-91-wembanyama-50",
@@ -516,77 +590,5 @@
     },
     "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Tottenham Hotspur Stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"熱刺2-0挫葉士域治\" in vivid coral red with deep blue outline, second line \"18歲小將首正選即建功\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom-right corner only, one small line of fine print reads \"AI設計圖片\". Do not write these characters anywhere else — no second copy near the title, no copy at the right edge, no copy in the middle of the image. Bright, sunny, high-energy sports news graphic style. No other text on the image.",
     "image_r2_key": "design/202611/20261121-spurs-ipswich-2-0-williams-barnett-v2.jpg"
-  },
-  {
-    "id": "20261122-hk-open-antonsen-champion-kunlavut-withdraws",
-    "sport": "badminton",
-    "published_at": "2026-11-22T15:00:00+08:00",
-    "source": "Khaosod English",
-    "source_url": "https://www.khaosodenglish.com/news/2026/11/22/kunlavut-withdraws-from-hong-kong-open-final-with-back-injury/",
-    "image_url": null,
-    "title": {
-      "en": "Antonsen Wins Hong Kong Open Without Playing as Kunlavut Withdraws With Back Injury",
-      "zh_hans": "昆拉屈背伤退赛 安赛龙不战而胜夺香港公开赛男单冠军",
-      "zh_hant": "昆拉屈背傷退賽 安賽龍不戰而勝奪香港公開賽男單冠軍"
-    },
-    "summary": {
-      "en": "The men's singles final of the Hong Kong Open ended in dramatic fashion as Thailand's world No. 2 Kunlavut Vitidsarn withdrew with a back injury, handing the title to Denmark's Anders Antonsen without a match being played. Antonsen had reached the final with a 21-13, 21-13 win over India's Lakshya Sen, while Kunlavut fought back to beat Indonesia's Moh. Zaki Ubaidillah 18-21, 21-15, 21-16. In the women's singles, China's top seed Wang Zhiyi beat Thailand's Pornpawee Chochuwong 21-16, 21-11 to take the title.",
-      "zh_hans": "香港公开羽毛球锦标赛男单决赛出现戏剧性结局，泰国世界排名第二的昆拉屈因背伤退赛，丹麦名将安赛龙不战而胜夺冠。安赛龙四强以21比13、21比13轻取印度球手拉克什亚，昆拉屈则以18比21、21比15、21比16反胜印尼新星萨基晋级。女单方面，中国头号种子王祉怡以21比16、21比11击败泰国的蓬帕威封后。",
-      "zh_hant": "香港公開羽毛球錦標賽男單決賽出現戲劇性結局，泰國世界排名第二的昆拉屈因背傷退賽，丹麥名將安賽龍不戰而勝奪冠。安賽龍四強以21比13、21比13輕取印度球手拉克什亞，昆拉屈則以18比21、21比15、21比16反勝印尼新星薩基晉級。女單方面，中國頭號種子王祉怡以21比16、21比11擊敗泰國的蓬帕威封后。"
-    },
-    "tags": {
-      "en": [
-        "Hong Kong Open",
-        "badminton",
-        "Anders Antonsen"
-      ],
-      "zh_hans": [
-        "香港公开赛",
-        "羽毛球",
-        "安赛龙"
-      ],
-      "zh_hant": [
-        "香港公開賽",
-        "羽毛球",
-        "安賽龍"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a badminton champion celebrating with arms raised on a sunlit court at Kai Tak Arena, shuttlecock in motion, trophy on a table beside him. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with deep blue outline reads '昆拉屈背傷退賽', second line in solid white reads '安賽龍不戰而勝奪香港公開賽冠軍'. Text must be complete and clear, never split, repeated or covered. In the bottom right, tiny fine-print text reads 'AI設計圖片'. Bright, sunny, high-energy sports news graphic style."
-  },
-  {
-    "id": "20261121-hk-bulls-beat-guangdong-73-61",
-    "sport": "basketball",
-    "published_at": "2026-11-22T13:11:08+08:00",
-    "source": "CGTN",
-    "source_url": "https://news.cgtn.com/news/2026-11-22/Hong-Kong-Bulls-and-Jiangxi-Daqian-pull-off-CBA-Club-Cup-upsets-1SgZuoeY4da/p.html",
-    "image_url": null,
-    "title": {
-      "en": "Hong Kong Bulls Stun Guangdong 73-61 as Jones Scores 26 in CBA Club Cup",
-      "zh_hans": "香港金牛73-61爆冷击败广东 琼斯26分率队争八强席位",
-      "zh_hant": "香港金牛73-61爆冷擊敗廣東 瓊斯26分率隊爭八強席位"
-    },
-    "summary": {
-      "en": "Reigning NBL champions the Hong Kong Bulls pulled off an upset in the CBA Club Cup, beating the Guangdong Southern Tigers 73-61 in a Group D match in Qionghai, Hainan. Mason Jones scored a game-high 26 points as the Bulls overcame a seven-point first-quarter deficit, holding Guangdong to just eight points in the second period to lead 30-27 at half-time. Guangdong's Xu Jie scored 21 points but was the only home player in double figures. The Bulls will play the Guangzhou Loong Lions on Sunday for a quarter-final place.",
-      "zh_hans": "卫冕NBL冠军香港金牛在CBA俱乐部杯爆冷，以73比61击败广东华南虎，在海南琼海的小组赛D组取胜。琼斯攻入全场最高的26分，金牛首节落后7分后，次节只让广东得到8分，半场以30比27反超。广东徐杰得21分，是主队唯一得分上双的球员。金牛将于周日对阵广州龙狮，争夺八强席位。",
-      "zh_hant": "衛冕NBL冠軍香港金牛在CBA球會盃爆冷，以73比61擊敗廣東華南虎，在海南瓊海的小組賽D組取勝。瓊斯攻入全場最高的26分，金牛首節落後7分後，次節只讓廣東得到8分，半場以30比27反超。廣東徐杰得21分，是主隊唯一得分上雙的球員。金牛將於周日對陣廣州龍獅，爭奪八強席位。"
-    },
-    "tags": {
-      "en": [
-        "Hong Kong Bulls",
-        "CBA Club Cup",
-        "Mason Jones"
-      ],
-      "zh_hans": [
-        "香港金牛",
-        "CBA俱乐部杯",
-        "琼斯"
-      ],
-      "zh_hant": [
-        "香港金牛",
-        "CBA球會盃",
-        "瓊斯"
-      ]
-    },
-    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a Hong Kong Bulls basketball player in a red jersey driving to the basket in a sunlit arena, scoreboard showing 73-61 in the background, crowd cheering. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with deep blue outline reads '香港金牛73-61爆冷擊敗廣東', second line in solid white reads '瓊斯26分率隊爭八強席位'. Text must be complete and clear, never split, repeated or covered. In the bottom right, tiny fine-print text reads 'AI設計圖片'. Bright, sunny, high-energy sports news graphic style."
   }
 ]
