@@ -590,5 +590,41 @@
     },
     "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic — never dark, moody, or night-time. Subject: a football resting on the centre spot of a bright sunlit Tottenham Hotspur Stadium pitch, the stands softly blurred in the background under bright daylight, a corner flag nearby. No players, no faces, no backs. Typography (lower third, massive and bold, in layered 3D font with outlines): first line \"熱刺2-0挫葉士域治\" in vivid coral red with deep blue outline, second line \"18歲小將首正選即建功\" in bright yellow with deep blue outline, two lines echoing each other, title pressed directly on the image, never inside a white bar or white box. In the bottom-right corner only, one small line of fine print reads \"AI設計圖片\". Do not write these characters anywhere else — no second copy near the title, no copy at the right edge, no copy in the middle of the image. Bright, sunny, high-energy sports news graphic style. No other text on the image.",
     "image_r2_key": "design/202611/20261121-spurs-ipswich-2-0-williams-barnett-v2.jpg"
+  },
+  {
+    "id": "20261122-shatin-eastern-0-3",
+    "sport": "football",
+    "published_at": "2026-11-22T17:00:00+08:00",
+    "source": "mygoal90",
+    "source_url": "https://mygoal90.com/en/match/2026-11-22/shatin-eastern-1607356",
+    "image_url": null,
+    "title": {
+      "en": "Eastern Score Three First-Half Goals in 3-0 Win at Shatin",
+      "zh_hans": "东方上半场连入三球 3比0客场大胜沙田",
+      "zh_hant": "東方上半場連入三球 3比0作客大勝沙田"
+    },
+    "summary": {
+      "en": "Eastern beat Shatin 3-0 away in the Hong Kong Premier League on Sunday, with all three goals coming in the first half. Alonso headed Eastern in front after 10 minutes, Shatin's Ansah was sent off in the 19th minute, and Cova (26') and Okubo (27') added two more before the break. Neither side scored after half-time as Eastern took all three points.",
+      "zh_hans": "港超联周日赛事，东方客场以3比0大胜至尊沙田，三个进球全部在上半场出现。Alonso 10分钟头槌先开纪录，沙田 Ansah 19分钟领红牌被逐，东方其后由 Cova 26分钟及 Okubo 27分钟连入两球，半场已领先3比0。换边后双方再无进球，东方全取三分。",
+      "zh_hant": "港超聯周日賽事，東方作客以3比0大勝至尊沙田，三個入球全部在上半場出現。Alonso 10分鐘頭槌先開紀錄，沙田 Ansah 19分鐘領紅牌被逐，東方其後由 Cova 26分鐘及 Okubo 27分鐘連入兩球，半場已領先3比0。換邊後雙方再無入球，東方全取三分。"
+    },
+    "tags": {
+      "en": [
+        "Hong Kong Premier League",
+        "Eastern",
+        "Shatin"
+      ],
+      "zh_hans": [
+        "港超联",
+        "东方",
+        "沙田"
+      ],
+      "zh_hant": [
+        "港超聯",
+        "東方",
+        "沙田"
+      ]
+    },
+    "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a football striker heading the ball into the net on a sunlit stadium pitch, teammates celebrating, crowd in the background. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with deep blue outline reads '東方半場連入三球', second line in solid white reads '3比0作客大勝沙田'. Text must be complete and clear, never split, repeated or covered. In the bottom right, tiny fine-print text reads 'AI設計圖片'. Bright, sunny, high-energy sports news graphic style."
   }
 ]
