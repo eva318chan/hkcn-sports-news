@@ -665,6 +665,42 @@
   "image_r2_key": "design/202611/20261121-spurs-ipswich-2-0-williams-barnett-v2.jpg"
  },
  {
+  "id": "20261122-hull-beat-brighton-2-0-mcburnie-double",
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a packed sunny football stadium seen from a high wide angle, home fans in orange and black celebrating in the stands, players in orange celebrating near the corner flag in the distance, confetti in the air. Horizontal 16:9 format. Bright daylight, sunny stadium, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with deep blue outline reads '麥般尼補時梅開二度', second line in bright yellow with deep blue outline reads '侯城2-0絕殺白禮頓', two lines echo each other, text complete and clear, never split, repeated or covered by any object. Top left corner clean, no logo, no text. Bottom right corner has small text reading 'AI設計圖片', appearing only once, never anywhere else. No other text, numbers or labels on the image.",
+  "image_url": null,
+  "published_at": "2026-11-22T23:55:00+08:00",
+  "source": "Flashscore",
+  "source_url": "https://www.flashscore.com/news/mcburnie-scores-two-stoppage-time-goals-to-give-hull-stunning-win-over-brighton/zRpn8JQ7/",
+  "sport": "football",
+  "summary": {
+   "en": "Hull City stunned Brighton 2-0 at the MKM Stadium, with substitute striker Oli McBurnie scoring in the second and fifth minutes of stoppage time. Brighton were reduced to 10 men in the 89th minute when Costinha collected a second yellow card, and conceded twice immediately afterwards, missing the chance to close the gap on leaders Arsenal and staying on 23 points, five behind. Hull ended an eight-game winless league run and stretched their unbeaten home record to 11 matches; Brighton have now gone seven games without a win at the MKM Stadium.",
+   "zh_hans": "侯城主场2比0绝杀白礼顿，后备前锋麦般尼在补时第2及第5分钟连入两球，令全场沸腾。白礼顿在第89分钟因哥斯甸亚两黄一红打少一人，随即连失两球，错失追赶榜首阿仙奴的良机，维持23分落后5分。侯城终结联赛八场不胜颓势，主场连续11场不败；白礼顿在MKM球场已七场不胜。",
+   "zh_hant": "侯城主場2比0絕殺白禮頓，後備前鋒麥般尼在補時第2及第5分鐘連入兩球，令全場沸騰。白禮頓在第89分鐘因哥斯甸亞兩黃一紅打少一人，隨即連失兩球，錯失追趕榜首阿仙奴的良機，維持23分落後5分。侯城終結聯賽八場不勝頹勢，主場連續11場不敗；白禮頓在MKM球場已七場不勝。"
+  },
+  "tags": {
+   "en": [
+    "Premier League",
+    "Hull City",
+    "Brighton"
+   ],
+   "zh_hans": [
+    "英超",
+    "侯城",
+    "白礼顿"
+   ],
+   "zh_hant": [
+    "英超",
+    "侯城",
+    "白禮頓"
+   ]
+  },
+  "title": {
+   "en": "McBurnie Strikes Twice in Stoppage Time as Hull Stun Brighton 2-0",
+   "zh_hans": "麦般尼补时梅开二度 侯城2-0绝杀白礼顿 争冠对手失分",
+   "zh_hant": "麥般尼補時梅開二度 侯城2-0絕殺白禮頓 爭冠對手失分"
+  }
+ },
+ {
   "id": "20261122-hk-dragon-world-championship-opens",
   "sport": "others",
   "published_at": "2026-11-22T20:18:00+08:00",
