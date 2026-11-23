@@ -560,6 +560,43 @@
   "image_caption": "設計圖片：球隊標誌屬各球會所有。"
  },
  {
+  "id": "20261123-ka-ying-rising-jockey-club-sprint-purton-seven",
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a champion bay racehorse at full gallop down a sunlit home straight, a jockey in bright silks aboard seen from a side angle, the grandstand and clear blue sky behind, vivid saturated colours, clean and energetic, never dark, moody, or dull. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in bright yellow with a deep red outline reads \"嘉應高昇三連霸短途錦標\", second line in white reads \"潘頓單日七捷平紀錄\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
+  "image_url": "https://images.hksports.hk/design/202611/20261123-ka-ying-rising-jockey-club-sprint-purton-seven-v2.jpg",
+  "published_at": "2026-11-23T05:57:00+08:00",
+  "source": "南華早報",
+  "source_url": "https://www.scmp.com/sport/racing/article/3375382/ka-ying-rising-dominates-jockey-club-sprint-zac-purton-bags-equal-career-best-seven-wins",
+  "sport": "racing",
+  "summary": {
+   "en": "World's top-ranked racehorse Ka Ying Rising returned at Sha Tin to win the Group Two BOCHK Private Banking Jockey Club Sprint by three and three-quarter lengths, a record third successive victory in the race that also gave jockey Zac Purton a fifth straight win in the event. It was the dual Horse of the Year's first start since finishing second in The Everest in Australia in October, ending his 21-race winning streak, and took his record to 23 wins from 26 starts with earnings of HK$179.8 million. Purton rode seven winners on the card to equal his career-best haul; Ka Ying Rising now targets a third consecutive Group One Hong Kong Sprint on December 13.",
+   "zh_hans": "世界马王嘉应高升在沙田复出，于二级赛中银香港私人银行马会短途锦标以三又四分三马位轻松取胜，创纪录三连霸，亦为骑师潘顿带来连续第五年赢出这项赛事的佳绩。嘉应高升今仗是自10月在澳洲珠穆朗玛峰锦标跑第二、21连胜告终后首度上阵，今仗赢来毫无悬念，26战累积23冠，总奖金达1.798亿港元。潘顿全日七场头马，追平个人单日最佳纪录；嘉应高升下一目标是12月13日一级赛香港短途锦标，力争三连冠。",
+   "zh_hant": "世界馬王嘉應高昇在沙田復出，於二級賽中銀香港私人銀行馬會短途錦標以三又四分三馬位輕鬆取勝，創紀錄三連霸，亦為騎師潘頓帶來連續第五年贏出這項賽事的佳績。嘉應高昇今仗是自10月在澳洲珠穆朗瑪峰錦標跑第二、21連勝告終後首度上陣，今仗贏來毫無懸念，26戰累積23冠，總獎金達1.798億港元。潘頓全日七場頭馬，追平個人單日最佳紀錄；嘉應高昇下一目標是12月13日一級賽香港短途錦標，力爭三連冠。"
+  },
+  "tags": {
+   "en": [
+    "Ka Ying Rising",
+    "Zac Purton",
+    "Hong Kong racing"
+   ],
+   "zh_hans": [
+    "嘉应高升",
+    "潘顿",
+    "香港赛马"
+   ],
+   "zh_hant": [
+    "嘉應高昇",
+    "潘頓",
+    "香港賽馬"
+   ]
+  },
+  "title": {
+   "en": "Ka Ying Rising lands third straight Jockey Club Sprint as Purton rides seven winners to equal record",
+   "zh_hans": "嘉应高升三连霸短途锦标 潘顿单日七捷平纪录",
+   "zh_hant": "嘉應高昇三連霸短途錦標 潘頓單日七捷平紀錄"
+  },
+  "image_r2_key": "design/202611/20261123-ka-ying-rising-jockey-club-sprint-purton-seven-v2.jpg"
+ },
+ {
   "id": "20261123-getafe-atletico-0-3-simeone-record",
   "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a midfielder in a red and white striped shirt striking a football with his right foot on a sunlit pitch, seen from a low side angle on the left of the frame, the ball flying towards the goal, roaring crowd and colourful flags in the stands behind him, vivid saturated colours, clear blue sky, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"馬體會3：0輕取基達菲\", second line in bright yellow reads \"施蒙尼345勝創西甲執教紀錄\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
   "image_url": "https://images.hksports.hk/design/202611/20261123-getafe-atletico-0-3-simeone-record-v2.jpg",
@@ -1037,42 +1074,6 @@
    "en": "Skubal joins Mets on nine-year, $450 million deal, the largest contract ever for a pitcher",
    "zh_hans": "史古柏4.5亿美元投效大都会 9年合约刷新投手纪录",
    "zh_hant": "史古柏4.5億美元投效大都會 9年合約刷新投手紀錄"
-  }
- },
- {
-  "id": "20261123-ka-ying-rising-jockey-club-sprint-purton-seven",
-  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a champion bay racehorse at full gallop down a sunlit home straight, a jockey in bright silks aboard seen from a side angle, the grandstand and clear blue sky behind, vivid saturated colours, clean and energetic, never dark, moody, or dull. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in bright yellow with a deep red outline reads \"嘉應高昇三連霸短途錦標\", second line in white reads \"潘頓單日七捷平紀錄\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
-  "image_url": null,
-  "published_at": "2026-11-23T05:57:00+08:00",
-  "source": "南華早報",
-  "source_url": "https://www.scmp.com/sport/racing/article/3375382/ka-ying-rising-dominates-jockey-club-sprint-zac-purton-bags-equal-career-best-seven-wins",
-  "sport": "racing",
-  "summary": {
-   "en": "World's top-ranked racehorse Ka Ying Rising returned at Sha Tin to win the Group Two BOCHK Private Banking Jockey Club Sprint by three and three-quarter lengths, a record third successive victory in the race that also gave jockey Zac Purton a fifth straight win in the event. It was the dual Horse of the Year's first start since finishing second in The Everest in Australia in October, ending his 21-race winning streak, and took his record to 23 wins from 26 starts with earnings of HK$179.8 million. Purton rode seven winners on the card to equal his career-best haul; Ka Ying Rising now targets a third consecutive Group One Hong Kong Sprint on December 13.",
-   "zh_hans": "世界马王嘉应高升在沙田复出，于二级赛中银香港私人银行马会短途锦标以三又四分三马位轻松取胜，创纪录三连霸，亦为骑师潘顿带来连续第五年赢出这项赛事的佳绩。嘉应高升今仗是自10月在澳洲珠穆朗玛峰锦标跑第二、21连胜告终后首度上阵，今仗赢来毫无悬念，26战累积23冠，总奖金达1.798亿港元。潘顿全日七场头马，追平个人单日最佳纪录；嘉应高升下一目标是12月13日一级赛香港短途锦标，力争三连冠。",
-   "zh_hant": "世界馬王嘉應高昇在沙田復出，於二級賽中銀香港私人銀行馬會短途錦標以三又四分三馬位輕鬆取勝，創紀錄三連霸，亦為騎師潘頓帶來連續第五年贏出這項賽事的佳績。嘉應高昇今仗是自10月在澳洲珠穆朗瑪峰錦標跑第二、21連勝告終後首度上陣，今仗贏來毫無懸念，26戰累積23冠，總獎金達1.798億港元。潘頓全日七場頭馬，追平個人單日最佳紀錄；嘉應高昇下一目標是12月13日一級賽香港短途錦標，力爭三連冠。"
-  },
-  "tags": {
-   "en": [
-    "Ka Ying Rising",
-    "Zac Purton",
-    "Hong Kong racing"
-   ],
-   "zh_hans": [
-    "嘉应高升",
-    "潘顿",
-    "香港赛马"
-   ],
-   "zh_hant": [
-    "嘉應高昇",
-    "潘頓",
-    "香港賽馬"
-   ]
-  },
-  "title": {
-   "en": "Ka Ying Rising lands third straight Jockey Club Sprint as Purton rides seven winners to equal record",
-   "zh_hans": "嘉应高升三连霸短途锦标 潘顿单日七捷平纪录",
-   "zh_hant": "嘉應高昇三連霸短途錦標 潘頓單日七捷平紀錄"
   }
  }
 ]
