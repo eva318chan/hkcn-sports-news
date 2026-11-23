@@ -114,43 +114,6 @@
   "image_caption": "設計圖片：球隊標誌屬各球會所有。"
  },
  {
-  "id": "20261123-hull-brighton-2-0-mcburnie-brace",
-  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a Hull City striker in amber and black striped shirt sliding on his knees in celebration on the left side of the frame after scoring, teammates rushing in to celebrate behind him, a packed bright sunny football stadium in the background with vivid green pitch and colourful stands, vivid saturated colours, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"麥般尼補時梅開二度\", second line in bright yellow reads \"侯城2：0爆冷挫白禮頓 終止八場不勝\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
-  "image_url": "https://images.hksports.hk/design/202611/20261123-hull-brighton-2-0-mcburnie-brace-v2.jpg",
-  "published_at": "2026-11-23T13:10:00+08:00",
-  "source": "Sky Sports",
-  "source_url": "https://www.skysports.com/football/hull-city-vs-brighton/report/559549",
-  "sport": "football",
-  "summary": {
-   "en": "Oli McBurnie struck twice in stoppage time, in the 92nd and 95th minutes, as Hull City stunned Brighton 2-0 in the Premier League. It was the striker's first Premier League brace in his 107th appearance, and his third and fourth goals of the season. Goalkeeper Ivor Pandur made five first-half saves, while Brighton's Carlos Baleba was sent off with two yellow cards in the 89th minute. Hull claimed their first win since beating Coventry in August, ending an eight-match winless run.",
-   "zh_hans": "麦般尼在补时阶段梅开二度，第92分钟及第95分钟连入两球，带领侯城主场2比0爆冷击败白礼顿。这是他在英超第107次上阵首次梅开二度，个人今季第3、4个进球。门将施萨基斯上半场五次扑救力保不失，白礼顿的哥斯甸拿89分钟两黄一红被逐，侯城自8月赢高云地利后首胜，终结八场不胜。",
-   "zh_hant": "麥般尼在補時階段梅開二度，第92分鐘及第95分鐘連入兩球，帶領侯城主場2比0爆冷擊敗白禮頓。這是他在英超第107次上陣首次梅開二度，個人今季第3、4個入球。門將施薩基斯上半場五次撲救力保不失，白禮頓的哥斯甸拿89分鐘兩黃一紅被逐，侯城自8月贏高雲地利後首勝，終結八場不勝。"
-  },
-  "tags": {
-   "en": [
-    "Hull City",
-    "Oli McBurnie",
-    "Brighton"
-   ],
-   "zh_hans": [
-    "侯城",
-    "麦般尼",
-    "白礼顿"
-   ],
-   "zh_hant": [
-    "侯城",
-    "麥般尼",
-    "白禮頓"
-   ]
-  },
-  "title": {
-   "en": "McBurnie's stoppage-time brace stuns Brighton as Hull end eight-game winless run",
-   "zh_hans": "麦般尼补时梅开二度 侯城2：0爆冷挫白礼顿 终止八场不胜",
-   "zh_hant": "麥般尼補時梅開二度 侯城2：0爆冷挫白禮頓 終止八場不勝"
-  },
-  "image_r2_key": "design/202611/20261123-hull-brighton-2-0-mcburnie-brace-v2.jpg"
- },
- {
   "id": "20261123-alcaraz-wins-atp-finals",
   "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a tennis player seen from behind hitting a powerful forehand on a bright indoor hard court, the ball flying across the net, a roaring crowd and bright arena lights in the stands, vivid saturated colours, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"艾卡拉茲直落兩盤挫施華利夫\", second line in bright yellow reads \"首奪ATP年終賽冠軍 14連勝三連冠\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
   "image_url": "https://images.hksports.hk/design/202611/20261123-alcaraz-wins-atp-finals-v2.jpg",
@@ -521,6 +484,43 @@
    "zh_hant": "鷹隊末節33：12大逆轉 107：97反勝活塞四連勝"
   },
   "image_r2_key": "design/202611/20261123-hawks-pistons-107-97-fourth-quarter-comeback-v2.jpg"
+ },
+ {
+  "id": "20261123-skubal-mets-450m-record-pitcher-deal",
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a sunlit major-league ballpark panorama under a clear blue sky, vivid blue and orange banners along the stands, confetti drifting in the bright daylight, a pitcher's mound in the foreground, clean and energetic, never dark, moody, or dull. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in bright yellow with a deep red outline reads \"史古柏4.5億美元投效大都會\", second line in white reads \"9年合約刷新投手紀錄\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image. No players, no faces.",
+  "image_url": "https://images.hksports.hk/design/202611/20261123-skubal-mets-450m-record-pitcher-deal-refill.jpg",
+  "published_at": "2026-11-23T06:13:00+08:00",
+  "source": "FOX Sports",
+  "source_url": "https://foxsports.com/stories/mlb/tarik-skubal-mets-contract-details-mlb-free-agency-rumors",
+  "sport": "baseball",
+  "summary": {
+   "en": "Two-time Cy Young Award winner Tarik Skubal has agreed a nine-year, $450 million contract with the New York Mets, the largest deal ever for a pitcher in both total value and average annual salary, surpassing Yoshinobu Yamamoto's 12-year, $325 million contract. The agreement includes a $45 million signing bonus, a full no-trade clause and no opt-outs, with $30 million deferred to 2036-45, pending a successful physical. Skubal posted a 2.72 ERA across 26 starts in 2026 split between Detroit and the Los Angeles Dodgers; the Mets completed the offseason's biggest signing before the collective bargaining agreement expires on December 1, when a lockout threatens.",
+   "zh_hans": "两届赛扬奖得主史古柏与纽约大都会达成协议，签下9年4.5亿美元合约，成为大联盟史上总值及平均年薪最高的投手合约，打破山本由伸12年3.25亿美元的旧纪录。合约包括4,500万美元签约金及完整不可交易条款，不设跳出选项，其中3,000万美元延期至2036至2045年支付，须通过体检方告作实。史古柏今季先后效力老虎及道奇，26场先发录得2.72防御率；大都会赶在12月1日劳资协议届满、可能封馆之前，完成今冬自由市场最大收购。",
+   "zh_hant": "兩屆賽揚獎得主史古柏與紐約大都會達成協議，簽下9年4.5億美元合約，成為大聯盟史上總值及平均年薪最高的投手合約，打破山本由伸12年3.25億美元的舊紀錄。合約包括4,500萬美元簽約金及完整不可交易條款，不設跳出選項，其中3,000萬美元延期至2036至2045年支付，須通過體檢方告作實。史古柏今季先後效力老虎及道奇，26場先發錄得2.72防禦率；大都會趕在12月1日勞資協議屆滿、可能封館之前，完成今冬自由市場最大收購。"
+  },
+  "tags": {
+   "en": [
+    "Tarik Skubal",
+    "New York Mets",
+    "MLB"
+   ],
+   "zh_hans": [
+    "史古柏",
+    "纽约大都会",
+    "美国职棒"
+   ],
+   "zh_hant": [
+    "史古柏",
+    "紐約大都會",
+    "美國職棒"
+   ]
+  },
+  "title": {
+   "en": "Skubal joins Mets on nine-year, $450 million deal, the largest contract ever for a pitcher",
+   "zh_hans": "史古柏4.5亿美元投效大都会 9年合约刷新投手纪录",
+   "zh_hant": "史古柏4.5億美元投效大都會 9年合約刷新投手紀錄"
+  },
+  "image_r2_key": "design/202611/20261123-skubal-mets-450m-record-pitcher-deal-refill.jpg"
  },
  {
   "id": "20261123-atalanta-inter-4-4-esposito-hat-trick",
@@ -1038,42 +1038,6 @@
    "en": "Malaysia sweep Hong Kong Open doubles titles as men's pair end 27-year wait",
    "zh_hans": "大马包办香港公开赛双打冠军 男双终结27年等待",
    "zh_hant": "大馬包辦香港公開賽雙打冠軍 男雙終結27年等待"
-  }
- },
- {
-  "id": "20261123-skubal-mets-450m-record-pitcher-deal",
-  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a sunlit major-league ballpark panorama under a clear blue sky, vivid blue and orange banners along the stands, confetti drifting in the bright daylight, a pitcher's mound in the foreground, clean and energetic, never dark, moody, or dull. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in bright yellow with a deep red outline reads \"史古柏4.5億美元投效大都會\", second line in white reads \"9年合約刷新投手紀錄\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image. No players, no faces.",
-  "image_url": null,
-  "published_at": "2026-11-23T06:13:00+08:00",
-  "source": "FOX Sports",
-  "source_url": "https://foxsports.com/stories/mlb/tarik-skubal-mets-contract-details-mlb-free-agency-rumors",
-  "sport": "baseball",
-  "summary": {
-   "en": "Two-time Cy Young Award winner Tarik Skubal has agreed a nine-year, $450 million contract with the New York Mets, the largest deal ever for a pitcher in both total value and average annual salary, surpassing Yoshinobu Yamamoto's 12-year, $325 million contract. The agreement includes a $45 million signing bonus, a full no-trade clause and no opt-outs, with $30 million deferred to 2036-45, pending a successful physical. Skubal posted a 2.72 ERA across 26 starts in 2026 split between Detroit and the Los Angeles Dodgers; the Mets completed the offseason's biggest signing before the collective bargaining agreement expires on December 1, when a lockout threatens.",
-   "zh_hans": "两届赛扬奖得主史古柏与纽约大都会达成协议，签下9年4.5亿美元合约，成为大联盟史上总值及平均年薪最高的投手合约，打破山本由伸12年3.25亿美元的旧纪录。合约包括4,500万美元签约金及完整不可交易条款，不设跳出选项，其中3,000万美元延期至2036至2045年支付，须通过体检方告作实。史古柏今季先后效力老虎及道奇，26场先发录得2.72防御率；大都会赶在12月1日劳资协议届满、可能封馆之前，完成今冬自由市场最大收购。",
-   "zh_hant": "兩屆賽揚獎得主史古柏與紐約大都會達成協議，簽下9年4.5億美元合約，成為大聯盟史上總值及平均年薪最高的投手合約，打破山本由伸12年3.25億美元的舊紀錄。合約包括4,500萬美元簽約金及完整不可交易條款，不設跳出選項，其中3,000萬美元延期至2036至2045年支付，須通過體檢方告作實。史古柏今季先後效力老虎及道奇，26場先發錄得2.72防禦率；大都會趕在12月1日勞資協議屆滿、可能封館之前，完成今冬自由市場最大收購。"
-  },
-  "tags": {
-   "en": [
-    "Tarik Skubal",
-    "New York Mets",
-    "MLB"
-   ],
-   "zh_hans": [
-    "史古柏",
-    "纽约大都会",
-    "美国职棒"
-   ],
-   "zh_hant": [
-    "史古柏",
-    "紐約大都會",
-    "美國職棒"
-   ]
-  },
-  "title": {
-   "en": "Skubal joins Mets on nine-year, $450 million deal, the largest contract ever for a pitcher",
-   "zh_hans": "史古柏4.5亿美元投效大都会 9年合约刷新投手纪录",
-   "zh_hant": "史古柏4.5億美元投效大都會 9年合約刷新投手紀錄"
   }
  }
 ]
