@@ -74,6 +74,44 @@
   "image_r2_key": "design/202611/20261123-wizards-magic-116-96-george-24-v2.jpg"
  },
  {
+  "id": "20261123-mavericks-jazz-116-114-flagg-28",
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a Dallas Mavericks forward in a blue uniform driving hard to the basket for a layup in the centre of the frame, defender trailing behind him, roaring crowd and bright arena lights in the stands, vivid saturated colours, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"弗拉格28分獨行俠險勝爵士\", second line in bright yellow reads \"116：114末節險被追平\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
+  "image_url": "https://images.hksports.hk/design/202611/20261123-mavericks-jazz-116-114-flagg-28-matchup.jpg",
+  "published_at": "2026-11-23T10:30:00+08:00",
+  "source": "SportsFBI",
+  "source_url": "https://sportsfbi.com/nba/recap/dal-uta-2026-11-22",
+  "sport": "basketball",
+  "summary": {
+   "en": "The Dallas Mavericks edged the Utah Jazz 116-114 on the road, leading 91-74 after three quarters before Utah's 40-25 fourth-quarter comeback tied the game at 114-114. Cooper Flagg led Dallas with 28 points, making nine of 10 free throws, while Kyrie Irving added 16 points and eight assists; Svi Mykhailiuk scored 39 points for Utah, including 23 in the fourth quarter. Dallas improved to 10-7, while Utah fell to 3-15.",
+   "zh_hans": "独行侠作客116：114险胜爵士，三节打完领先91：74，爵士末节打出40：25反扑，更一度追平114：114。弗拉格攻入28分，包括9次罚球命中9次，艾荣贡献16分8次助攻；爵士的米凯卢克全场攻入39分，末节独取23分。独行侠战绩改写为10胜7负，爵士跌至3胜15负。",
+   "zh_hant": "獨行俠作客116：114險勝爵士，三節打完領先91：74，爵士末節打出40：25反撲，更一度追平114：114。弗拉格攻入28分，包括9次罰球命中9次，艾榮貢獻16分8次助攻；爵士的米凱盧克全場攻入39分，末節獨取23分。獨行俠戰績改寫為10勝7負，爵士跌至3勝15負。"
+  },
+  "tags": {
+   "en": [
+    "Dallas Mavericks",
+    "Utah Jazz",
+    "Cooper Flagg"
+   ],
+   "zh_hans": [
+    "独行侠",
+    "爵士",
+    "弗拉格"
+   ],
+   "zh_hant": [
+    "獨行俠",
+    "爵士",
+    "弗拉格"
+   ]
+  },
+  "title": {
+   "en": "Flagg scores 28 as Mavericks survive Jazz comeback to win 116-114",
+   "zh_hans": "弗拉格28分独行侠险胜爵士 116：114末节险被追平",
+   "zh_hant": "弗拉格28分獨行俠險勝爵士 116：114末節險被追平"
+  },
+  "image_r2_key": "design/202611/20261123-mavericks-jazz-116-114-flagg-28-matchup.jpg",
+  "image_caption": "設計圖片：球隊標誌屬各球會所有。"
+ },
+ {
   "id": "20261123-heat-thunder-123-113-adebayo-triple-double",
   "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a Miami Heat player in a red and black uniform rising high for a powerful two-handed dunk on the left side of the frame, teammates celebrating behind him on the right, roaring crowd and bright arena lights in the stands, vivid saturated colours, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"熱火123：113挫雷霆取七連勝\", second line in bright yellow reads \"艾迪巴約大三元領軍\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
   "image_url": "https://images.hksports.hk/design/202611/20261123-heat-thunder-123-113-adebayo-triple-double-v2.jpg",
@@ -623,42 +661,6 @@
    "en": "Towns' 30-point double-double leads Knicks past Pacers 113-106 as Brunson's four-point play seals it",
    "zh_hans": "唐斯30分大两双领军 纽约人113：106挫溜马 布朗臣关键四分打锁定胜局",
    "zh_hant": "唐斯30分大兩雙領軍 紐約人113：106挫溜馬 布朗臣關鍵四分打鎖定勝局"
-  }
- },
- {
-  "id": "20261123-mavericks-jazz-116-114-flagg-28",
-  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a Dallas Mavericks forward in a blue uniform driving hard to the basket for a layup in the centre of the frame, defender trailing behind him, roaring crowd and bright arena lights in the stands, vivid saturated colours, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"弗拉格28分獨行俠險勝爵士\", second line in bright yellow reads \"116：114末節險被追平\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
-  "image_url": null,
-  "published_at": "2026-11-23T10:30:00+08:00",
-  "source": "SportsFBI",
-  "source_url": "https://sportsfbi.com/nba/recap/dal-uta-2026-11-22",
-  "sport": "basketball",
-  "summary": {
-   "en": "The Dallas Mavericks edged the Utah Jazz 116-114 on the road, leading 91-74 after three quarters before Utah's 40-25 fourth-quarter comeback tied the game at 114-114. Cooper Flagg led Dallas with 28 points, making nine of 10 free throws, while Kyrie Irving added 16 points and eight assists; Svi Mykhailiuk scored 39 points for Utah, including 23 in the fourth quarter. Dallas improved to 10-7, while Utah fell to 3-15.",
-   "zh_hans": "独行侠作客116：114险胜爵士，三节打完领先91：74，爵士末节打出40：25反扑，更一度追平114：114。弗拉格攻入28分，包括9次罚球命中9次，艾荣贡献16分8次助攻；爵士的米凯卢克全场攻入39分，末节独取23分。独行侠战绩改写为10胜7负，爵士跌至3胜15负。",
-   "zh_hant": "獨行俠作客116：114險勝爵士，三節打完領先91：74，爵士末節打出40：25反撲，更一度追平114：114。弗拉格攻入28分，包括9次罰球命中9次，艾榮貢獻16分8次助攻；爵士的米凱盧克全場攻入39分，末節獨取23分。獨行俠戰績改寫為10勝7負，爵士跌至3勝15負。"
-  },
-  "tags": {
-   "en": [
-    "Dallas Mavericks",
-    "Utah Jazz",
-    "Cooper Flagg"
-   ],
-   "zh_hans": [
-    "独行侠",
-    "爵士",
-    "弗拉格"
-   ],
-   "zh_hant": [
-    "獨行俠",
-    "爵士",
-    "弗拉格"
-   ]
-  },
-  "title": {
-   "en": "Flagg scores 28 as Mavericks survive Jazz comeback to win 116-114",
-   "zh_hans": "弗拉格28分独行侠险胜爵士 116：114末节险被追平",
-   "zh_hant": "弗拉格28分獨行俠險勝爵士 116：114末節險被追平"
   }
  }
 ]
