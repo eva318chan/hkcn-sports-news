@@ -74,6 +74,44 @@
   "image_r2_key": "design/202611/20261123-warriors-celtics-88-87-podziemski-v2.jpg"
  },
  {
+  "id": "20261123-knicks-pacers-113-106-brunson-towns",
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a New York Knicks forward in a blue and orange uniform rising high for a powerful two-handed dunk on the left side of the frame, a teammate in the same blue and orange uniform celebrating behind him on the right, roaring crowd and bright arena lights in the stands, vivid saturated colours, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"唐斯30分大兩雙領軍\", second line in bright yellow reads \"紐約人113：106挫溜馬 布朗臣關鍵四分打鎖定勝局\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
+  "image_url": "https://images.hksports.hk/design/202611/20261123-knicks-pacers-113-106-brunson-towns-matchup.jpg",
+  "published_at": "2026-11-23T12:50:00+08:00",
+  "source": "NBC Sports",
+  "source_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-22/jalen-brunson-records-22-points-seven-assists",
+  "sport": "basketball",
+  "summary": {
+   "en": "Karl-Anthony Towns returned in style with 30 points and a big double-double, his 16th straight double-double, as the New York Knicks beat the Indiana Pacers 113-106. Jalen Brunson scored 22 points with seven assists, including a four-point play with 1 minute 25 seconds left to break a 102-102 tie and spark a 9-0 run that sealed the win. Josh Hart added a triple-double with 10 points, 11 rebounds and 10 assists, while Landry Shamet scored 17 off the bench.",
+   "zh_hans": "唐斯复出轰下30分大两双，连续16场两双，带领纽约人主场113比106力克溜马。布朗臣贡献22分7助攻，完场前1分25秒命中关键四分打，打破102平手，并带领球队打出9比0攻势锁定胜局。夏特10分11篮板10助攻拿下三双，沙美特后备攻入17分。",
+   "zh_hant": "唐斯復出轟下30分大兩雙，連續16場兩雙，帶領紐約人主場113比106力克溜馬。布朗臣貢獻22分7助攻，完場前1分25秒命中關鍵四分打，打破102平手，並帶領球隊打出9比0攻勢鎖定勝局。夏特10分11籃板10助攻拿下三雙，沙美特後備攻入17分。"
+  },
+  "tags": {
+   "en": [
+    "New York Knicks",
+    "Karl-Anthony Towns",
+    "Jalen Brunson"
+   ],
+   "zh_hans": [
+    "纽约人",
+    "唐斯",
+    "布朗臣"
+   ],
+   "zh_hant": [
+    "紐約人",
+    "唐斯",
+    "布朗臣"
+   ]
+  },
+  "title": {
+   "en": "Towns' 30-point double-double leads Knicks past Pacers 113-106 as Brunson's four-point play seals it",
+   "zh_hans": "唐斯30分大两双领军 纽约人113：106挫溜马 布朗臣关键四分打锁定胜局",
+   "zh_hant": "唐斯30分大兩雙領軍 紐約人113：106挫溜馬 布朗臣關鍵四分打鎖定勝局"
+  },
+  "image_r2_key": "design/202611/20261123-knicks-pacers-113-106-brunson-towns-matchup.jpg",
+  "image_caption": "設計圖片：球隊標誌屬各球會所有。"
+ },
+ {
   "id": "20261123-nuggets-bulls-151-145-murray-45-ot",
   "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a Denver Nuggets guard in a navy and gold uniform pulling up for a three-point shot in the centre of the frame, basketball arcing towards the hoop on the right, roaring crowd and bright arena lights behind him, vivid saturated colours, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"金塊加時151：145險勝公牛\", second line in bright yellow reads \"梅利45分約基治大三元\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
   "image_url": "https://images.hksports.hk/design/202611/20261123-nuggets-bulls-151-145-murray-45-ot-v2.jpg",
@@ -628,41 +666,5 @@
    "zh_hant": "巴黎FC 4：0大勝昂熱升上第二 僅落後聖日耳門3分"
   },
   "image_r2_key": "design/202611/20261122-paris-fc-angers-4-0-second-place-v2.jpg"
- },
- {
-  "id": "20261123-knicks-pacers-113-106-brunson-towns",
-  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a New York Knicks forward in a blue and orange uniform rising high for a powerful two-handed dunk on the left side of the frame, a teammate in the same blue and orange uniform celebrating behind him on the right, roaring crowd and bright arena lights in the stands, vivid saturated colours, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"唐斯30分大兩雙領軍\", second line in bright yellow reads \"紐約人113：106挫溜馬 布朗臣關鍵四分打鎖定勝局\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
-  "image_url": null,
-  "published_at": "2026-11-23T12:50:00+08:00",
-  "source": "NBC Sports",
-  "source_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-22/jalen-brunson-records-22-points-seven-assists",
-  "sport": "basketball",
-  "summary": {
-   "en": "Karl-Anthony Towns returned in style with 30 points and a big double-double, his 16th straight double-double, as the New York Knicks beat the Indiana Pacers 113-106. Jalen Brunson scored 22 points with seven assists, including a four-point play with 1 minute 25 seconds left to break a 102-102 tie and spark a 9-0 run that sealed the win. Josh Hart added a triple-double with 10 points, 11 rebounds and 10 assists, while Landry Shamet scored 17 off the bench.",
-   "zh_hans": "唐斯复出轰下30分大两双，连续16场两双，带领纽约人主场113比106力克溜马。布朗臣贡献22分7助攻，完场前1分25秒命中关键四分打，打破102平手，并带领球队打出9比0攻势锁定胜局。夏特10分11篮板10助攻拿下三双，沙美特后备攻入17分。",
-   "zh_hant": "唐斯復出轟下30分大兩雙，連續16場兩雙，帶領紐約人主場113比106力克溜馬。布朗臣貢獻22分7助攻，完場前1分25秒命中關鍵四分打，打破102平手，並帶領球隊打出9比0攻勢鎖定勝局。夏特10分11籃板10助攻拿下三雙，沙美特後備攻入17分。"
-  },
-  "tags": {
-   "en": [
-    "New York Knicks",
-    "Karl-Anthony Towns",
-    "Jalen Brunson"
-   ],
-   "zh_hans": [
-    "纽约人",
-    "唐斯",
-    "布朗臣"
-   ],
-   "zh_hant": [
-    "紐約人",
-    "唐斯",
-    "布朗臣"
-   ]
-  },
-  "title": {
-   "en": "Towns' 30-point double-double leads Knicks past Pacers 113-106 as Brunson's four-point play seals it",
-   "zh_hans": "唐斯30分大两双领军 纽约人113：106挫溜马 布朗臣关键四分打锁定胜局",
-   "zh_hant": "唐斯30分大兩雙領軍 紐約人113：106挫溜馬 布朗臣關鍵四分打鎖定勝局"
-  }
  }
 ]
