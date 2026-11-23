@@ -1,5 +1,43 @@
 [
  {
+  "id": "20261123-verstappen-wins-las-vegas-gp",
+  "image_prompt": "A bright, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring Formula 1 race cars speeding side by side down a bright floodlit Las Vegas street circuit at night, the glowing Strip skyline and neon lights in the background, motion blur on the track, vivid saturated colours, clean and energetic, never dark, moody, or dull. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in bright yellow with a deep red outline reads \"維斯塔潘險勝諾里斯奪拉斯維加斯站冠軍\", second line in white reads \"本季第4冠 50圈領先更迭35次\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
+  "image_url": "https://images.hksports.hk/design/202611/20261123-verstappen-wins-las-vegas-gp.jpg",
+  "published_at": "2026-11-23T15:27:00+08:00",
+  "source": "自由時報",
+  "source_url": "https://sports.ltn.com.tw/news/breakingnews/5650616",
+  "sport": "motorsport",
+  "summary": {
+   "en": "Red Bull driver Max Verstappen won the Formula 1 Las Vegas Grand Prix from pole position, holding off repeated challenges to cross the line in 1 hour 27 minutes 39.624 seconds, just 0.639 seconds ahead of McLaren's Lando Norris, to claim his fourth win of the season. Oscar Piastri charged from 17th on the grid to finish third. Slipstreaming and energy management made for a chaotic race, with the lead changing hands 35 times over 50 laps; Mercedes driver George Russell crashed into the wall on lap 48 after a failed attack and finished ninth. Kimi Antonelli, who had already sealed the world championship, finished fourth. Verstappen moved up to second in the drivers' standings on 304 points, with two rounds remaining in Qatar and Abu Dhabi.",
+   "zh_hans": "红牛车手维斯塔潘在F1拉斯维加斯大奖赛中，由杆位出发顶住对手轮番挑战，以1小时27分39秒624率先冲线，仅以0.639秒之差险胜迈凯轮车手诺里斯，夺下本赛季个人第4座分站冠军，皮亚斯特里由第17位起步追至第3名。受到尾流效应与能量管理策略影响，50圈内领先位置更迭35次，战况拉锯至最后；平治车手罗素在第48圈突袭失败撞上围墙，跌至第9名。已提早夺得世界冠军的安东尼利以第4名完赛。赛后维斯塔潘以304分升上车手积分榜第2位，本季尚余卡塔尔及阿布扎比两站。",
+   "zh_hant": "紅牛車手維斯塔潘在F1拉斯維加斯大獎賽中，由桿位出發頂住對手輪番挑戰，以1小時27分39秒624率先衝線，僅以0.639秒之差險勝麥拉倫車手諾里斯，奪下本賽季個人第4座分站冠軍，皮亞斯特里由第17位起步追至第3名。受到尾流效應與能量管理策略影響，50圈內領先位置更迭35次，戰況拉鋸至最後一刻；平治車手羅素在第48圈突襲失敗撞上圍牆，跌至第9名。已提早奪得世界冠軍的安東尼利以第4名完賽。賽後維斯塔潘以304分升上車手積分榜第2位，本季尚餘卡塔爾及阿布扎比兩站。"
+  },
+  "tags": {
+   "en": [
+    "Formula 1",
+    "Max Verstappen",
+    "Las Vegas Grand Prix"
+   ],
+   "zh_hans": [
+    "F1",
+    "维斯塔潘",
+    "拉斯维加斯大奖赛"
+   ],
+   "zh_hant": [
+    "F1",
+    "維斯塔潘",
+    "拉斯維加斯大獎賽"
+   ]
+  },
+  "title": {
+   "en": "Verstappen edges Norris by 0.639 seconds to win chaotic Las Vegas Grand Prix for fourth win of the season",
+   "zh_hans": "维斯塔潘险胜诺里斯夺拉斯维加斯站冠军 本季第4冠 50圈领先更迭35次",
+   "zh_hant": "維斯塔潘險勝諾里斯奪拉斯維加斯站冠軍 本季第4冠 50圈領先更迭35次"
+  },
+  "image_r2_key": "design/202611/20261123-verstappen-wins-las-vegas-gp.jpg",
+  "image_caption": "紅牛車手維斯塔潘奪得拉斯維加斯大獎賽冠軍。（Formula 1）"
+ },
+ {
   "id": "20261123-timberwolves-grizzlies-104-95-mcdaniels",
   "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a Minnesota Timberwolves forward in a green and blue uniform rising for a jump shot on the right side of the frame, a Memphis Grizzlies defender in a dark blue uniform contesting with an outstretched arm on the left, a basketball in mid-air, roaring crowd and bright arena lights in the stands, vivid saturated colours, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"麥丹尼爾斯25分領軍 木狼104:95挫灰熊\", second line in bright yellow reads \"灰熊五連勝告終 木狼全隊命中率58%\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
   "image_url": "https://images.hksports.hk/design/202611/20261123-timberwolves-grizzlies-104-95-mcdaniels-matchup.jpg",
@@ -927,41 +965,5 @@
    "zh_hant": "巴黎FC 4：0大勝昂熱升上第二 僅落後聖日耳門3分"
   },
   "image_r2_key": "design/202611/20261122-paris-fc-angers-4-0-second-place-v2.jpg"
- },
- {
-  "id": "20261123-verstappen-wins-las-vegas-gp",
-  "image_prompt": "A bright, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring Formula 1 race cars speeding side by side down a bright floodlit Las Vegas street circuit at night, the glowing Strip skyline and neon lights in the background, motion blur on the track, vivid saturated colours, clean and energetic, never dark, moody, or dull. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in bright yellow with a deep red outline reads \"維斯塔潘險勝諾里斯奪拉斯維加斯站冠軍\", second line in white reads \"本季第4冠 50圈領先更迭35次\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
-  "image_url": null,
-  "published_at": "2026-11-23T15:27:00+08:00",
-  "source": "自由時報",
-  "source_url": "https://sports.ltn.com.tw/news/breakingnews/5650616",
-  "sport": "motorsport",
-  "summary": {
-   "en": "Red Bull driver Max Verstappen won the Formula 1 Las Vegas Grand Prix from pole position, holding off repeated challenges to cross the line in 1 hour 27 minutes 39.624 seconds, just 0.639 seconds ahead of McLaren's Lando Norris, to claim his fourth win of the season. Oscar Piastri charged from 17th on the grid to finish third. Slipstreaming and energy management made for a chaotic race, with the lead changing hands 35 times over 50 laps; Mercedes driver George Russell crashed into the wall on lap 48 after a failed attack and finished ninth. Kimi Antonelli, who had already sealed the world championship, finished fourth. Verstappen moved up to second in the drivers' standings on 304 points, with two rounds remaining in Qatar and Abu Dhabi.",
-   "zh_hans": "红牛车手维斯塔潘在F1拉斯维加斯大奖赛中，由杆位出发顶住对手轮番挑战，以1小时27分39秒624率先冲线，仅以0.639秒之差险胜迈凯轮车手诺里斯，夺下本赛季个人第4座分站冠军，皮亚斯特里由第17位起步追至第3名。受到尾流效应与能量管理策略影响，50圈内领先位置更迭35次，战况拉锯至最后；平治车手罗素在第48圈突袭失败撞上围墙，跌至第9名。已提早夺得世界冠军的安东尼利以第4名完赛。赛后维斯塔潘以304分升上车手积分榜第2位，本季尚余卡塔尔及阿布扎比两站。",
-   "zh_hant": "紅牛車手維斯塔潘在F1拉斯維加斯大獎賽中，由桿位出發頂住對手輪番挑戰，以1小時27分39秒624率先衝線，僅以0.639秒之差險勝麥拉倫車手諾里斯，奪下本賽季個人第4座分站冠軍，皮亞斯特里由第17位起步追至第3名。受到尾流效應與能量管理策略影響，50圈內領先位置更迭35次，戰況拉鋸至最後一刻；平治車手羅素在第48圈突襲失敗撞上圍牆，跌至第9名。已提早奪得世界冠軍的安東尼利以第4名完賽。賽後維斯塔潘以304分升上車手積分榜第2位，本季尚餘卡塔爾及阿布扎比兩站。"
-  },
-  "tags": {
-   "en": [
-    "Formula 1",
-    "Max Verstappen",
-    "Las Vegas Grand Prix"
-   ],
-   "zh_hans": [
-    "F1",
-    "维斯塔潘",
-    "拉斯维加斯大奖赛"
-   ],
-   "zh_hant": [
-    "F1",
-    "維斯塔潘",
-    "拉斯維加斯大獎賽"
-   ]
-  },
-  "title": {
-   "en": "Verstappen edges Norris by 0.639 seconds to win chaotic Las Vegas Grand Prix for fourth win of the season",
-   "zh_hans": "维斯塔潘险胜诺里斯夺拉斯维加斯站冠军 本季第4冠 50圈领先更迭35次",
-   "zh_hant": "維斯塔潘險勝諾里斯奪拉斯維加斯站冠軍 本季第4冠 50圈領先更迭35次"
-  }
  }
 ]
