@@ -74,6 +74,80 @@
   "image_r2_key": "design/202611/20261122-barcelona-comeback-beat-villarreal-3-2-v2.jpg"
  },
  {
+  "id": "20261122-bologna-udinese-1-1-zortea-zaniolo",
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a wide sunlit stadium panorama, two players contesting a high header in the centre of the pitch, one in red and blue stripes and one in black and white stripes, roaring crowd and colourful flags in the stands behind them, vivid saturated colours, clear blue sky, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"索迪亞入球又送禮\", second line in bright yellow reads \"博洛尼亞1：1遭烏甸尼斯逼和五場不敗\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
+  "image_url": "https://images.hksports.hk/design/202611/20261122-bologna-udinese-1-1-zortea-zaniolo-v2.jpg",
+  "published_at": "2026-11-22T22:52:00+08:00",
+  "source": "Koora",
+  "source_url": "https://www.koora.to/en/matches/ita.1/401875047",
+  "sport": "football",
+  "summary": {
+   "en": "Bologna were held to a 1-1 draw by Udinese at home in Serie A Matchday 12. Nadir Zortea opened the scoring in the 43rd minute from Jens Odgaard's pass, but a poor touch from the same player in the second half let Nicolo Zaniolo race through to equalise in the 67th minute. Bologna extend their unbeaten run to five matches on 18 points, while Udinese end a run of two defeats but remain second from bottom on six points.",
+   "zh_hans": "意甲第12轮，博洛尼亚主场1：1赛和乌甸尼斯。索迪亚43分钟接应奥加特传送先开纪录；下半场他一次停球失误被辛尼奥路抢断，后者67分钟单刀扳平。博洛尼亚五场不败得18分；乌甸尼斯终止两连败，但仍排尾二仅得6分。",
+   "zh_hant": "意甲第12輪，博洛尼亞主場1：1賽和烏甸尼斯。索迪亞43分鐘接應奧加特傳送先開紀錄；下半場他一次停球失誤被辛尼奧路搶斷，後者67分鐘單刀扳平。博洛尼亞五場不敗得18分；烏甸尼斯終止兩連敗，但仍排尾二僅得6分。"
+  },
+  "tags": {
+   "en": [
+    "Serie A",
+    "Bologna",
+    "Udinese"
+   ],
+   "zh_hans": [
+    "意甲",
+    "博洛尼亚",
+    "乌甸尼斯"
+   ],
+   "zh_hant": [
+    "意甲",
+    "博洛尼亞",
+    "烏甸尼斯"
+   ]
+  },
+  "title": {
+   "en": "Zortea Scores Then Gifts Equaliser as Bologna Draw 1-1 with Udinese",
+   "zh_hans": "索迪亚入球又送礼 博洛尼亚1：1遭乌甸尼斯逼和五场不败",
+   "zh_hant": "索迪亞入球又送禮 博洛尼亞1：1遭烏甸尼斯逼和五場不敗"
+  },
+  "image_r2_key": "design/202611/20261122-bologna-udinese-1-1-zortea-zaniolo-v2.jpg"
+ },
+ {
+  "id": "20261122-genoa-sassuolo-0-2-osmajic-brace",
+  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a striker in a red and blue halved shirt sliding on his knees in celebration on a sunlit pitch, arms spread wide, teammates running in to join him from the right, roaring crowd and colourful flags behind them, vivid saturated colours, clear blue sky, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"奧斯馬治梅開二度\", second line in bright yellow reads \"熱那亞2：0作客挫薩斯索羅\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
+  "image_url": "https://images.hksports.hk/design/202611/20261122-genoa-sassuolo-0-2-osmajic-brace-v2.jpg",
+  "published_at": "2026-11-22T22:52:00+08:00",
+  "source": "Al-Ahram",
+  "source_url": "https://english.ahram.org.eg/NewsContent/6/55/582969/Sports/World/Italy-Serie-A-results-amp;-fixtures-Matchday-.aspx",
+  "sport": "football",
+  "summary": {
+   "en": "Milutin Osmajic scored twice as Genoa beat Sassuolo 2-0 away in Serie A Matchday 12. The striker netted in the 26th and 38th minutes to take his tally to six goals in 11 appearances this season, joining a select group of foreign players to reach that mark so quickly for Genoa. The win lifts Genoa to 10th on 16 points as they bounce back from defeat to Milan.",
+   "zh_hans": "意甲第12轮，热那亚作客2：0击败萨斯索罗。奥斯马治26分钟及38分钟连入两球，今季11场已攻入6球，跻身队史外援最快达标三甲。热那亚反弹升上第10位得16分，一扫上场不敌AC米兰的失意。",
+   "zh_hant": "意甲第12輪，熱那亞作客2：0擊敗薩斯索羅。奧斯馬治26分鐘及38分鐘連入兩球，今季11場已攻入6球，躋身隊史外援最快達標三甲。熱那亞反彈升上第10位得16分，一掃上場不敵AC米蘭的失意。"
+  },
+  "tags": {
+   "en": [
+    "Serie A",
+    "Genoa",
+    "Sassuolo"
+   ],
+   "zh_hans": [
+    "意甲",
+    "热那亚",
+    "萨斯索罗"
+   ],
+   "zh_hant": [
+    "意甲",
+    "熱那亞",
+    "薩斯索羅"
+   ]
+  },
+  "title": {
+   "en": "Osmajic Brace Fires Genoa to 2-0 Win at Sassuolo",
+   "zh_hans": "奥斯马治梅开二度 热那亚2：0作客挫萨斯索罗",
+   "zh_hant": "奧斯馬治梅開二度 熱那亞2：0作客挫薩斯索羅"
+  },
+  "image_r2_key": "design/202611/20261122-genoa-sassuolo-0-2-osmajic-brace-v2.jpg"
+ },
+ {
   "id": "20261122-hk-bulls-beat-guangzhou-91-74-quarterfinals",
   "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring basketball players in red Hong Kong Bulls jerseys celebrating a win on a sunlit indoor court, one player holding a basketball high, confetti in the air, scoreboard in the background. Horizontal 16:9 format. Bright daylight, sunny arena, vivid saturated colors, clean and energetic, never dark or night-time. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with deep blue outline reads '香港金牛91-74再挫廣州', second line in bright yellow with deep blue outline reads '歷史性首闖球會杯八強', two lines echo each other, text complete and clear, never split, repeated or covered by any object. Small text 'AI設計圖片' in the bottom right corner, appearing only once. No other text, numbers or labels anywhere on the image. Top left corner clean, no logo or text.",
   "image_url": "https://images.hksports.hk/design/202611/20261122-hk-bulls-beat-guangzhou-91-74-quarterfinals-v2.jpg",
@@ -885,77 +959,5 @@
    "zh_hant": "多蒙特1：0小勝慕遜加柏登榜首 尼美查80分鐘遠射 十場不敗"
   },
   "image_r2_key": "design/202611/20261122-dortmund-gladbach-1-0-nmecha-top-v2.jpg"
- },
- {
-  "id": "20261122-bologna-udinese-1-1-zortea-zaniolo",
-  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a wide sunlit stadium panorama, two players contesting a high header in the centre of the pitch, one in red and blue stripes and one in black and white stripes, roaring crowd and colourful flags in the stands behind them, vivid saturated colours, clear blue sky, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"索迪亞入球又送禮\", second line in bright yellow reads \"博洛尼亞1：1遭烏甸尼斯逼和五場不敗\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
-  "image_url": null,
-  "published_at": "2026-11-22T22:52:00+08:00",
-  "source": "Koora",
-  "source_url": "https://www.koora.to/en/matches/ita.1/401875047",
-  "sport": "football",
-  "summary": {
-   "en": "Bologna were held to a 1-1 draw by Udinese at home in Serie A Matchday 12. Nadir Zortea opened the scoring in the 43rd minute from Jens Odgaard's pass, but a poor touch from the same player in the second half let Nicolo Zaniolo race through to equalise in the 67th minute. Bologna extend their unbeaten run to five matches on 18 points, while Udinese end a run of two defeats but remain second from bottom on six points.",
-   "zh_hans": "意甲第12轮，博洛尼亚主场1：1赛和乌甸尼斯。索迪亚43分钟接应奥加特传送先开纪录；下半场他一次停球失误被辛尼奥路抢断，后者67分钟单刀扳平。博洛尼亚五场不败得18分；乌甸尼斯终止两连败，但仍排尾二仅得6分。",
-   "zh_hant": "意甲第12輪，博洛尼亞主場1：1賽和烏甸尼斯。索迪亞43分鐘接應奧加特傳送先開紀錄；下半場他一次停球失誤被辛尼奧路搶斷，後者67分鐘單刀扳平。博洛尼亞五場不敗得18分；烏甸尼斯終止兩連敗，但仍排尾二僅得6分。"
-  },
-  "tags": {
-   "en": [
-    "Serie A",
-    "Bologna",
-    "Udinese"
-   ],
-   "zh_hans": [
-    "意甲",
-    "博洛尼亚",
-    "乌甸尼斯"
-   ],
-   "zh_hant": [
-    "意甲",
-    "博洛尼亞",
-    "烏甸尼斯"
-   ]
-  },
-  "title": {
-   "en": "Zortea Scores Then Gifts Equaliser as Bologna Draw 1-1 with Udinese",
-   "zh_hans": "索迪亚入球又送礼 博洛尼亚1：1遭乌甸尼斯逼和五场不败",
-   "zh_hant": "索迪亞入球又送禮 博洛尼亞1：1遭烏甸尼斯逼和五場不敗"
-  }
- },
- {
-  "id": "20261122-genoa-sassuolo-0-2-osmajic-brace",
-  "image_prompt": "A bright, sunny, vibrant, energetic sports social media poster with a clean modern sports-broadcast aesthetic, featuring a striker in a red and blue halved shirt sliding on his knees in celebration on a sunlit pitch, arms spread wide, teammates running in to join him from the right, roaring crowd and colourful flags behind them, vivid saturated colours, clear blue sky, clean and energetic, never dark, moody, or night-time. Horizontal 16:9 format. Bold 3D typography in the lower third, massive and bold: first line in vivid coral red with a deep blue outline reads \"奧斯馬治梅開二度\", second line in bright yellow reads \"熱那亞2：0作客挫薩斯索羅\", two lines echoing each other, text whole and complete, never split, repeated or covered by any object. In the bottom right, tiny fine-print text reads \"AI設計圖片\" once only, stuck to the corner. No other text, numbers or labels anywhere on the image.",
-  "image_url": null,
-  "published_at": "2026-11-22T22:52:00+08:00",
-  "source": "Al-Ahram",
-  "source_url": "https://english.ahram.org.eg/NewsContent/6/55/582969/Sports/World/Italy-Serie-A-results-amp;-fixtures-Matchday-.aspx",
-  "sport": "football",
-  "summary": {
-   "en": "Milutin Osmajic scored twice as Genoa beat Sassuolo 2-0 away in Serie A Matchday 12. The striker netted in the 26th and 38th minutes to take his tally to six goals in 11 appearances this season, joining a select group of foreign players to reach that mark so quickly for Genoa. The win lifts Genoa to 10th on 16 points as they bounce back from defeat to Milan.",
-   "zh_hans": "意甲第12轮，热那亚作客2：0击败萨斯索罗。奥斯马治26分钟及38分钟连入两球，今季11场已攻入6球，跻身队史外援最快达标三甲。热那亚反弹升上第10位得16分，一扫上场不敌AC米兰的失意。",
-   "zh_hant": "意甲第12輪，熱那亞作客2：0擊敗薩斯索羅。奧斯馬治26分鐘及38分鐘連入兩球，今季11場已攻入6球，躋身隊史外援最快達標三甲。熱那亞反彈升上第10位得16分，一掃上場不敵AC米蘭的失意。"
-  },
-  "tags": {
-   "en": [
-    "Serie A",
-    "Genoa",
-    "Sassuolo"
-   ],
-   "zh_hans": [
-    "意甲",
-    "热那亚",
-    "萨斯索罗"
-   ],
-   "zh_hant": [
-    "意甲",
-    "熱那亞",
-    "薩斯索羅"
-   ]
-  },
-  "title": {
-   "en": "Osmajic Brace Fires Genoa to 2-0 Win at Sassuolo",
-   "zh_hans": "奥斯马治梅开二度 热那亚2：0作客挫萨斯索罗",
-   "zh_hant": "奧斯馬治梅開二度 熱那亞2：0作客挫薩斯索羅"
-  }
  }
 ]
